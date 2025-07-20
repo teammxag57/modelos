@@ -1,17 +1,17 @@
 [
   {
-    "Modelos": "Fantic XE 125",
-    "Desde": 2023,
-    "Até": 2025
+    "models": "Fantic XE 125",
+    "from": 2023,
+    "to": 2025
   },
   {
-    "Modelos": "Fantic XX 125",
-    "Desde": 2022,
-    "Até": 2025
+    "models": "Fantic XX 125",
+    "from": 2022,
+    "to": 2025
   },
   {
-    "Modelos": "Yamaha YZ 125",
-    "Desde": 2022,
-    "Até": 2025
+    "models": "Yamaha YZ 125",
+    "from": 2022,
+    "to": 2025
   }
 ]
