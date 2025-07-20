@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Yamaha WR 125",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "Yamaha WR 250",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "Yamaha WRF 250",
+    "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha WRF 450",
+    "from": 2003,
+    "to": 2025
+  }
+]
