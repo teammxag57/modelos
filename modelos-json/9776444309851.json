@@ -1,0 +1,57 @@
+[
+  {
+    "model": "Husqvarna FC 250",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "model": "Husqvarna FC 350",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "model": "Husqvarna FC 450",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "model": "Husqvarna FE 250",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "model": "Husqvarna FE 350",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "model": "Husqvarna FE 450",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "model": "Husqvarna FE 501",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "model": "Husqvarna TC 125",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "model": "Husqvarna TC 250",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "model": "Husqvarna TE 250",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "model": "Husqvarna TE 300",
+    "from": 2017,
+    "to": 2019
+  }
+]
