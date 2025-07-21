@@ -1,0 +1,347 @@
+[
+  {
+    "models": "BETA RR 125",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "BETA RR 250",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "BETA RR 300",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "BETA RR 350",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "BETA RR 350 FACTORY",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "BETA RR 450",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "FANTIC XE 125",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "FANTIC XX 125",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "FANTIC XX 250",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "GASGAS EC 250",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS EC 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS EC 300",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS EC 350F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS MC 125",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS MC 250",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS MC 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS MC 450F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "HONDA CR 125",
+    "from": 1993,
+    "to": 2007
+  },
+  {
+    "models": "HONDA CR 250",
+    "from": 1993,
+    "to": 1996
+  },
+  {
+    "models": "HONDA CR 500",
+    "from": 1993,
+    "to": 1996
+  },
+  {
+    "models": "HUSQVARNA FC 250",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "HUSQVARNA FC 350",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "HUSQVARNA FC 450",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "HUSQVARNA FE 250",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA FE 350",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA FE 450",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA FE 501",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA TC 125",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "HUSQVARNA TC 250",
+    "from": 2012,
+    "to": 2022
+  },
+  {
+    "models": "HUSQVARNA TC 450",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA TE 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "HUSQVARNA TE 250",
+    "from": 2012,
+    "to": 2019
+  },
+  {
+    "models": "HUSQVARNA TE 300",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "HUSQVARNA TE 310",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA TE 450",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA TE I 150",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA TE I 250",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA TE I 300",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "KAWASAKI KX 125",
+    "from": 1990,
+    "to": 2008
+  },
+  {
+    "models": "KAWASAKI KX 250",
+    "from": 1990,
+    "to": 2008
+  },
+  {
+    "models": "KAWASAKI KX 500",
+    "from": 1990,
+    "to": 2004
+  },
+  {
+    "models": "KAWASAKI KX 80",
+    "from": 1990,
+    "to": 2001
+  },
+  {
+    "models": "KAWASAKI KX 85",
+    "from": 2002,
+    "to": 2008
+  },
+  {
+    "models": "KAWASAKI KXF 250",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KAWASAKI KXF 450",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "KTM SXF 250",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM SXF 350",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM SXF 450",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "SHERCO SE 125",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "SHERCO SE 250",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "SHERCO SE 300",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "SHERCO SEF 250",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "SHERCO SEF 300",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "SHERCO SEF 450",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "SUZUKI RM 125",
+    "from": 1990,
+    "to": 1990
+  },
+  {
+    "models": "SUZUKI RM 250",
+    "from": 1990,
+    "to": 2003
+  },
+  {
+    "models": "YAMAHA WRF 250",
+    "from": 2001,
+    "to": 2014
+  },
+  {
+    "models": "YAMAHA WRF 400",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "YAMAHA WRF 426",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "YAMAHA WRF 450",
+    "from": 2003,
+    "to": 2014
+  },
+  {
+    "models": "YAMAHA YZ 125",
+    "from": 1993,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA YZ 250",
+    "from": 1993,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA YZF 250",
+    "from": 2001,
+    "to": 2013
+  },
+  {
+    "models": "YAMAHA YZF 400",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "YAMAHA YZF 426",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "YAMAHA YZF 450",
+    "from": 2003,
+    "to": 2009
+  }
+]
