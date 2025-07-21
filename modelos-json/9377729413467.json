@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1998,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1998,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZF 250",
+    "from": 2001,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YZF 400",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha YZF 426",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZF 450",
+    "from": 2003,
+    "to": 2013
+  }
+]
