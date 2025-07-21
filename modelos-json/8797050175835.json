@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Gasgas MC 125",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE I 150",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Ktm SX 125",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Ktm TP I 150",
+    "from": 2024,
+    "to": 2025
+  }
+]
