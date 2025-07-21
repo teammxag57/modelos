@@ -1,0 +1,62 @@
+[
+  {
+    "models": "BETA RR 125",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "BETA RR 250",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "BETA RR 300",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "BETA RR 350",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "BETA RR 400",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "BETA RR 450",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KAWASAKI KXF 250",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "SUZUKI RMZ 250",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA YZ 125",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA YZ 250",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA YZF 250",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA YZF 450",
+    "from": 2014,
+    "to": 2024
+  }
+]
