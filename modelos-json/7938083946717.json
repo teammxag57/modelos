@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Gasgas MC 250F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 350F",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FC 250",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 350",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM SXF 250",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM SXF 350",
+    "from": 2023,
+    "to": 2025
+  }
+]
