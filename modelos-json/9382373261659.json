@@ -1,0 +1,132 @@
+[
+  {
+    "models": "GASGAS EC 250",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "GASGAS EC 250F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "GASGAS EC 300",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "GASGAS EC 350F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA FE 250",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA FE 350",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA FE 450",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA FE 501",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA TE 125",
+    "from": 2016,
+    "to": 2016
+  },
+  {
+    "models": "HUSQVARNA TE 250",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "HUSQVARNA TE 300",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "HUSQVARNA TE I 150",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA TE I 250",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA TE I 300",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2016,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXCF 250",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXCF 350",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXCF 450",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXCF 500",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "KTM TP I 150",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "KTM TP I 250",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "KTM TP I 300",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "STARK FUTURE STARK VARG",
+    "from": 2024,
+    "to": 2024
+  }
+]
