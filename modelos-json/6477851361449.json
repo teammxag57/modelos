@@ -1,0 +1,52 @@
+[
+  {
+    "models": "Honda CR125R",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "Kawasaki KX125",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2000,
+    "to": 2015
+  },
+  {
+    "models": "KTM 125 SXS",
+    "from": 2000,
+    "to": 2008
+  },
+  {
+    "models": "KTM 144 SX",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2009,
+    "to": 2015
+  },
+  {
+    "models": "KTM 150 XC",
+    "from": 2010,
+    "to": 2014
+  }
+]
