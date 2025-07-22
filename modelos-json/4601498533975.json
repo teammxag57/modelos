@@ -1,0 +1,147 @@
+[
+  {
+    "models": "Husqvarna FC 250",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FC 350",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FC 450",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FE 250",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FE 350",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FE 501",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2001,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2001,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2001,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2001,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 400",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXC 525",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXCF 250",
+    "from": 2001,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXCF 350",
+    "from": 2012,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXCF 450",
+    "from": 2001,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2000,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2007,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2000,
+    "to": 2022
+  },
+  {
+    "models": "KTM SXF 250",
+    "from": 2005,
+    "to": 2022
+  },
+  {
+    "models": "KTM SXF 350",
+    "from": 2011,
+    "to": 2022
+  },
+  {
+    "models": "KTM SXF 450",
+    "from": 2001,
+    "to": 2022
+  },
+  {
+    "models": "KTM SXF 505",
+    "from": 2005,
+    "to": 2011
+  }
+]
