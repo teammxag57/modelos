@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Honda CR 125",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 250",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 500",
+    "from": 2002,
+    "to": 2005
+  },
+  {
+    "models": "Honda CRF 250",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 450",
+    "from": 2002,
+    "to": 2025
+  }
+]
