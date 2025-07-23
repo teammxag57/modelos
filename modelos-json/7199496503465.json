@@ -1,0 +1,72 @@
+[
+  {
+    "models": "KTM 125 EXC",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM 200 XC-W",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM 250 XC-W",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM 300 XC-W",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM 380",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM 520 LC-4",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 525 LC-4",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM 85 SX",
+    "from": 2004,
+    "to": ""
+  }
+]
