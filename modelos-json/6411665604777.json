@@ -1,0 +1,172 @@
+[
+  {
+    "models": "KTM 125 EXC",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM 144 SX",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM 150 XC",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 200 XC",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 200 XC-W",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM 250 XC-F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM 250 XCF-W",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM 250 XC-W",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM 300 XC-W",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM 450 EXC",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM 450 SMR",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 450 SX ATV",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM 450 XC ATV",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 450 XC-F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM 450 XC-W",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM 505 SX ATV",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM 505 SX-F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM 505 XC-F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM 525 XC",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 525 XC ATV",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 530 EXC",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM 530 XC-W",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM 560 SMR",
+    "from": 2008,
+    "to": 2009
+  }
+]
