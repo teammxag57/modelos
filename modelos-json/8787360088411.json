@@ -1,0 +1,62 @@
+[
+  {
+    "models": "Fantic XE 125",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Fantic XX 125",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Fantic XX 250",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Honda CR 125 R",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 250 R",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 85 R",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 1979,
+    "to": 2011
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 1982,
+    "to": 2012
+  },
+  {
+    "models": "Suzuki RMZ 250",
+    "from": 2004,
+    "to": 2022
+  },
+  {
+    "models": "Suzuki RMZ 450",
+    "from": 2005,
+    "to": 2017
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1997,
+    "to": 2023
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1997,
+    "to": 2022
+  }
+]
