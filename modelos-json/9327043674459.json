@@ -1,0 +1,42 @@
+[
+  {
+    "models": "Sherco 125 SE-R",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Sherco 125 SE-R 6 Days",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "Sherco 250 SE-R",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Sherco 250 SE-R / Factory",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Sherco 250 SE-R 6 Days",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "Sherco 300 SE-R",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Sherco 300 SE-R / Factory",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Sherco 300 SE-R 6 Days",
+    "from": 2015,
+    "to": 2023
+  }
+]
