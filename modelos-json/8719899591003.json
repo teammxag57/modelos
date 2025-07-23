@@ -1,0 +1,37 @@
+[
+  {
+    "models": "Beta 250 RR 2T",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta 300 RR 2T",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta 350 RR 4T",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta 400 RR 4T",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Beta 450 RR 4T",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Beta 498 RR 4T",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Beta 390 RR 4T",
+    "from": 2015,
+    "to": 2024
+  }
+]
