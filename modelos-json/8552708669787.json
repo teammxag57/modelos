@@ -1,0 +1,257 @@
+[
+  {
+    "models": "GasGas EC 250",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "GasGas EC 250F",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "GasGas EC 300",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "GasGas EC 350F",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "GasGas EX 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 300",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 350F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 450F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas MC 125",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "GasGas MC 250",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "GasGas MC 250F",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "GasGas MC 450F",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FC 250",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FC 350",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FC 450",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FE 250",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FE 350",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FE 501",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FX 250",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FX 350",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FX 450",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 300i",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TX 300i",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM 150 XC",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM 300 XC",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM 500 EXC-F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM 525 EXC-F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM 530 EXC-F",
+    "from": 2017,
+    "to": 2023
+  }
+]
