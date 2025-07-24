@@ -1,0 +1,1132 @@
+[
+  {
+    "models": "GASGAS EC 125",
+    "from": 1997,
+    "to": 1999
+  },
+  {
+    "models": "GASGAS EC 200",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "GASGAS EC 250",
+    "from": 1997,
+    "to": 1999
+  },
+  {
+    "models": "GASGAS EC 250",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS EC 300",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS EC 300",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "GASGAS EC F 250",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS EC F 350",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS EC Ranger Enduro 200",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "GASGAS EC Ranger Enduro 300",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "GASGAS MC 125",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "GASGAS MC 250",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "GASGAS MC 250",
+    "from": 1997,
+    "to": 1999
+  },
+  {
+    "models": "GASGAS MC 85",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "GASGAS MC F 250",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "GASGAS MC F 350",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "GASGAS MC F 450",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "GASGAS Wild HP 200",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "GASGAS Wild HP 200",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "GASGAS Wild HP 240",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "GASGAS Wild HP 240",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "GASGAS Wild HP 250",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "GASGAS Wild HP 250",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "GASGAS Wild HP 300",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "GASGAS Wild HP 300",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "GASGAS Wild HP 450",
+    "from": 2003,
+    "to": 2009
+  },
+  {
+    "models": "GASGAS Wild HP 450",
+    "from": 2003,
+    "to": 2009
+  },
+  {
+    "models": "GASGAS Wild HP 50",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "GASGAS Wild HP 50",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "GASGAS Wild HP 515",
+    "from": 2009,
+    "to": 2009
+  },
+  {
+    "models": "GASGAS Wild HP 515",
+    "from": 2009,
+    "to": 2009
+  },
+  {
+    "models": "HUSABERG FC 400",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "HUSABERG FC 450",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "HUSABERG FC 470",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "HUSABERG FC 501",
+    "from": 1999,
+    "to": 2001
+  },
+  {
+    "models": "HUSABERG FC 550",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "HUSABERG FC 600",
+    "from": 1999,
+    "to": 2001
+  },
+  {
+    "models": "HUSABERG FE , s, e 600",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "HUSABERG FE ,S,E 400",
+    "from": 1999,
+    "to": 2003
+  },
+  {
+    "models": "HUSABERG FE ,S,E 501",
+    "from": 1999,
+    "to": 2004
+  },
+  {
+    "models": "HUSABERG FE 250",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "HUSABERG FE 350",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "HUSABERG FE 390",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "HUSABERG FE 450",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "HUSABERG FE 501",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "HUSABERG FE 570",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "HUSABERG FE e 450",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "HUSABERG FE e 550",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "HUSABERG FE e 650",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "HUSABERG FX e 450",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "HUSABERG FX e 470",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "HUSABERG FX e 650",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "HUSABERG TE 125",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "HUSABERG TE 250",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "HUSABERG TE 300",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA CR 125",
+    "from": 1996,
+    "to": 2004
+  },
+  {
+    "models": "HUSQVARNA CR 125",
+    "from": 2005,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA CR 250",
+    "from": 1996,
+    "to": 2004
+  },
+  {
+    "models": "HUSQVARNA CR 250",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "HUSQVARNA FC 250",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA FC 350",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA FC 450",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA FE 250",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA FE 350",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA FE 450",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA FE 501",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA FE Pro 350",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA FX 450",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "HUSQVARNA TC 125",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA TC 250",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "HUSQVARNA TC 250",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA TC 300",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "HUSQVARNA TC 449",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA TC 450",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "HUSQVARNA TC 450",
+    "from": 2004,
+    "to": 2010
+  },
+  {
+    "models": "HUSQVARNA TC 510",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "HUSQVARNA TC 510",
+    "from": 2004,
+    "to": 2010
+  },
+  {
+    "models": "HUSQVARNA TC 570",
+    "from": 2001,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA TC 610",
+    "from": 1996,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA TC 85",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA TE 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "HUSQVARNA TE 250",
+    "from": 2002,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA TE 250",
+    "from": 2014,
+    "to": 2018
+  },
+  {
+    "models": "HUSQVARNA TE 300",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "HUSQVARNA TE 350",
+    "from": 1996,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA TE 400",
+    "from": 2001,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA TE 410",
+    "from": 1996,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA TE 449",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA TE 450",
+    "from": 2002,
+    "to": 2010
+  },
+  {
+    "models": "HUSQVARNA TE 450",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "HUSQVARNA TE 4T 250",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA TE 4T 310",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA TE 510",
+    "from": 2002,
+    "to": 2010
+  },
+  {
+    "models": "HUSQVARNA TE 511",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "HUSQVARNA TE 570",
+    "from": 2001,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA TE 630",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA TE 630",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "HUSQVARNA TE Centennial 510",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "HUSQVARNA TE I 150",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA TE I 250",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA TE i 300",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA TE Pro 300",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA TE Rally 610",
+    "from": 1996,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "HUSQVARNA WR 125",
+    "from": 1996,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA WR 250",
+    "from": 1996,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA WR 300",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA WR 360",
+    "from": 1998,
+    "to": 2013
+  },
+  {
+    "models": "HUSQVARNA WRE 125",
+    "from": 1996,
+    "to": 2013
+  },
+  {
+    "models": "KAWASAKI KX 450",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "KAWASAKI KX X 450",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 1999,
+    "to": 2000
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1993,
+    "to": 1996
+  },
+  {
+    "models": "KTM EXC Enduro 125",
+    "from": 1999,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC Enduro 125",
+    "from": 2004,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC Enduro 200",
+    "from": 1999,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC Enduro 200",
+    "from": 2004,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC Enduro 250",
+    "from": 1999,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC Enduro 250",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC Enduro 300",
+    "from": 1999,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC Enduro 300",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC Enduro 380",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "KTM EXC Enduro 4T 250",
+    "from": 1999,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC Enduro 4T 250",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXC Racing 400",
+    "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC Racing 400",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC Racing 520",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC Racing 525",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC Racing 525",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXC Racing 530",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC TPI 150",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC TPI 250",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC TPI 300",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC-F 250",
+    "from": 2007,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC-F 350",
+    "from": 2011,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC-F 450",
+    "from": 2004,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC-F 500",
+    "from": 2012,
+    "to": 2024
+  },
+  {
+    "models": "KTM GS 125",
+    "from": 1992,
+    "to": 1997
+  },
+  {
+    "models": "KTM LC4 400",
+    "from": 1993,
+    "to": 2002
+  },
+  {
+    "models": "KTM LC4 Competition 620",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "KTM LC4 RXC 620",
+    "from": 1995,
+    "to": 1995
+  },
+  {
+    "models": "KTM LC4 Six Days 600",
+    "from": 1992,
+    "to": 1992
+  },
+  {
+    "models": "KTM LC4-E Enduro 400",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "KTM MX 125",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM MX 250",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM MX 300",
+    "from": 1992,
+    "to": 1992
+  },
+  {
+    "models": "KTM MX 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM MX 380",
+    "from": 1998,
+    "to": 1998
+  },
+  {
+    "models": "KTM MX 500",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM SC 400",
+    "from": 1999,
+    "to": 2000
+  },
+  {
+    "models": "KTM SC 620",
+    "from": 1999,
+    "to": 2000
+  },
+  {
+    "models": "KTM SX (17/14) 85",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX (19/16) 85",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 1996,
+    "to": 2003
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX 144",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2009,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 1996,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM SX 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 400",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 505",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM SX 620",
+    "from": 1995,
+    "to": 1999
+  },
+  {
+    "models": "KTM SXC 540",
+    "from": 1998,
+    "to": 1998
+  },
+  {
+    "models": "KTM SXC Tiainen Replica 400",
+    "from": 1999,
+    "to": 2000
+  },
+  {
+    "models": "KTM SXC Tiainen Replica 540",
+    "from": 1999,
+    "to": 2000
+  },
+  {
+    "models": "KTM SX-F 250",
+    "from": 2006,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX-F 350",
+    "from": 2011,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX-F 450",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX-F 505",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX-F 520",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX-F 525",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "KTM SX-F 525",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM SXS 125",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM SXS 540",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM XC 125",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC 150",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 200",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2006,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2006,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM XC 380",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM XC TPI 150",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC TPI 250",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC TPI 300",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC-F 250",
+    "from": 2010,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC-F 350",
+    "from": 2012,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC-F 450",
+    "from": 2006,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC-F 505",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-F 525",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "KTM XCF-W 350",
+    "from": 2013,
+    "to": 2017
+  },
+  {
+    "models": "KTM XCF-W 450",
+    "from": 2007,
+    "to": 2015
+  },
+  {
+    "models": "KTM XCF-W 500",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "KTM XCF-W 525",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "KTM XCF-W 530",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM XC-W 150",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC-W 200",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 250",
+    "from": 2008,
+    "to": 2017
+  },
+  {
+    "models": "KTM XC-W 300",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM XC-W 400",
+    "from": 2007,
+    "to": 2010
+  },
+  {
+    "models": "RIEJU MRX Marathon 250",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "RIEJU MRX Marathon 450",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "SHERCO SCF-R 300",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "SHERCO SE , R 250",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "SHERCO SE , R 300",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "SHERCO SE 2.5i Enduro 250",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "SHERCO SE 3.0i-F 300",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "SHERCO SE 4.5i Enduro 450",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "SHERCO SE 4.5i Enduro 450",
+    "from": 2005,
+    "to": 2011
+  },
+  {
+    "models": "SHERCO SE 5.1i Enduro 510",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "SHERCO SE F, F-R 250",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "SHERCO SE F, F-R 300",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "SHERCO SE F, F-R 450",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "SHERCO SE i/iR 250",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "SHERCO SE i/iR 300",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "SHERCO SE i-F 250",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "SHERCO SE i-F 300",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "SHERCO SE iR 450",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "SHERCO SE iR 510",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "SHERCO SE-R 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "SHERCO SX 2.5i-F 250",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "STARK Varg",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "TRIUMPH TF X 250",
+    "from": 2024,
+    "to": 2024
+  }
+]
