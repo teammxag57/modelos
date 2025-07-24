@@ -1,0 +1,392 @@
+[
+  {
+    "models": "BETA Crosstrainer 300",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "BETA RR 125",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR 250",
+    "from": 2005,
+    "to": 2009
+  },
+  {
+    "models": "BETA RR 300",
+    "from": 2013,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR 390",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR 430",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR 480",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR Cross Country 450",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "BETA RR Efi 350",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "BETA RR Efi Racing 350",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "BETA RR Enduro 350",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "BETA RR Enduro 400",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "BETA RR Enduro 450",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "BETA RR Enduro 498",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "BETA RR Enduro 525",
+    "from": 2005,
+    "to": 2013
+  },
+  {
+    "models": "BETA RR Racing 430",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR Racing 480",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "BETA RX 450",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "FANTIC Rally 450",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "FANTIC XE 125",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "FANTIC XE 300",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "FANTIC XEF 250",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "FANTIC XEF 450",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "FANTIC XX 125",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "FANTIC XX 250",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "FANTIC XXF 250",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "FANTIC XXF 450",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "GASGAS EC 200",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "GASGAS EC 250",
+    "from": 2012,
+    "to": 2020
+  },
+  {
+    "models": "GASGAS EC 300",
+    "from": 2012,
+    "to": 2020
+  },
+  {
+    "models": "GASGAS EC Enduro GP 18 250",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "GASGAS EC Enduro GP 18 300",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "GASGAS XC 200",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "GASGAS XC 250",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "GASGAS XC 300",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "KAWASAKI KLX R 450",
+    "from": 2007,
+    "to": 2024
+  },
+  {
+    "models": "KAWASAKI KX 250",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "KAWASAKI KX 450",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "KAWASAKI KX F 250",
+    "from": 2004,
+    "to": 2018
+  },
+  {
+    "models": "KAWASAKI KX F 450",
+    "from": 2006,
+    "to": 2018
+  },
+  {
+    "models": "KAWASAKI KX X 250",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "KAWASAKI KX X 450",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "SHERCO SE 2.5i Enduro 250",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "SHERCO SE 3.0i-F 300",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "SHERCO SE 4.5i Enduro 450",
+    "from": 2005,
+    "to": 2011
+  },
+  {
+    "models": "SHERCO SE 5.1i Enduro 510",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "SHERCO SM 4.5i Supermotard 450",
+    "from": 2006,
+    "to": 2006
+  },
+  {
+    "models": "SHERCO SX 2.5i-F 250",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "SUZUKI RMX Z 450",
+    "from": 2010,
+    "to": 2018
+  },
+  {
+    "models": "SUZUKI RM-Z 250",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "SUZUKI RM-Z 450",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "TM EN Enduro 125",
+    "from": 2005,
+    "to": 2022
+  },
+  {
+    "models": "TM EN Enduro 250",
+    "from": 2005,
+    "to": 2022
+  },
+  {
+    "models": "TM EN Enduro 300",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "TM EN F Enduro 250",
+    "from": 2005,
+    "to": 2022
+  },
+  {
+    "models": "TM EN F Enduro 450",
+    "from": 2005,
+    "to": 2022
+  },
+  {
+    "models": "TM EN F Enduro 530",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "TM FT 300",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "TM FT Fi 450",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "TM FT Fi 530",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "TM MX 125",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "TM MX 144",
+    "from": 2008,
+    "to": 2024
+  },
+  {
+    "models": "TM MX 250",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "TM MX 300",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "TM MX F 250",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "TM MX F 450",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "TM MX F 530",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA WR F 250",
+    "from": 2003,
+    "to": 2013
+  },
+  {
+    "models": "YAMAHA WR F 450",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA WR F Efi 250",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA WR F Enduro GP 250",
+    "from": 2018,
+    "to": 2018
+  },
+  {
+    "models": "YAMAHA YZ 125",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA YZ 250",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA YZ F 250",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA YZ F 450",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA YZ FX 250",
+    "from": 2015,
+    "to": 2021
+  },
+  {
+    "models": "YAMAHA YZ FX 450",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "YAMAHA YZ X 250",
+    "from": 2016,
+    "to": 2022
+  }
+]
