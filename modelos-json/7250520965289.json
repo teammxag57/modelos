@@ -1,0 +1,37 @@
+[
+  {
+    "models": "TM Racing 125 EN",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing 125 MX",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing 250 EN",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "TM Racing 250 MX",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing 300 EN",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "TM Racing 300 MX",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "TM Racing 85 MX Senior",
+    "from": 2015,
+    "to": 2019
+  }
+]
