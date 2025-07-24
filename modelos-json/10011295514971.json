@@ -1,0 +1,92 @@
+[
+  {
+    "models": "Gasgas TXT 125",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Gasgas TXT 250",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Gasgas TXT 280",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "Gasgas TXT 300",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Ktm E-SM Freeride",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "Ktm E-SX Freeride",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "Ktm E-XC Freeride",
+    "from": 2015,
+    "to": 2023
+  },
+  {
+    "models": "Ktm Freeride 350",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "Ktm Freeride Electric",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Ktm Freeride R 250",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "Ktm SX (17/14) 85",
+    "from": 2012,
+    "to": 2020
+  },
+  {
+    "models": "Ktm SX (19/16) 85",
+    "from": 2013,
+    "to": 2020
+  },
+  {
+    "models": "Sherco S 305",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Sherco ST 125",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Sherco ST 250",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Sherco ST 290",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Sherco ST 80",
+    "from": 2013,
+    "to": 2014
+  }
+]
