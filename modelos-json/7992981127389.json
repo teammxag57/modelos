@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Suzuki RM 125",
+    "from": 2004,
+    "to": 2010
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 2003,
+    "to": 2010
+  },
+  {
+    "models": "Suzuki RMZ 250",
+    "from": 2007,
+    "to": 2018
+  },
+  {
+    "models": "Suzuki RMZ 450",
+    "from": 2005,
+    "to": 2017
+  }
+]
