@@ -1,0 +1,277 @@
+[
+  {
+    "models": "GasGas 125 MC",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas 250 EC",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas 250 EC-F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas 250 EX",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas 250 EX-F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas 250 MC",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas 250 MC-F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas 300 EC",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas 300 EX",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas 350 EC-F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas 350 EX-F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas 350 MC-F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas 450 EX-F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas 450 MC-F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 250",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 250 Rockstar Edition",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 350",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 450",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 450 Rockstar Edition",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 250",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 350",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 501",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FS 450",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FX 350",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FX 450",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 150",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 150 EXC",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 SX-F Factory Edition",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 XC-F",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 XC",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 XC-F",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 SMR",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 SX-F Factory Edition",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 XC-F",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 XCF-W",
+    "from": 2024,
+    "to": 2025
+  }
+]
