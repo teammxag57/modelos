@@ -1,0 +1,52 @@
+[
+  {
+    "models": "Gasgas MC 65",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna CR 65",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TC 65",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Ktm SX 105",
+    "from": 2004,
+    "to": 2011
+  },
+  {
+    "models": "Ktm SX 65",
+    "from": 2002,
+    "to": 2022
+  },
+  {
+    "models": "Ktm SX 85",
+    "from": 2003,
+    "to": 2011
+  },
+  {
+    "models": "Ktm SXS 65",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "Ktm XC 105",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Ktm XC 65",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Ktm XC 85",
+    "from": 2008,
+    "to": 2009
+  }
+]
