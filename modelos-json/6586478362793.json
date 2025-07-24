@@ -1,0 +1,597 @@
+[
+  {
+    "models": "AJP PR5 Enduro 250",
+    "from": 2009,
+    "to": 2009
+  },
+  {
+    "models": "AJP PR5 Supermotard 250",
+    "from": 2009,
+    "to": 2009
+  },
+  {
+    "models": "BETA Crosstrainer 300",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "BETA RR 125",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR 250",
+    "from": 2005,
+    "to": 2009
+  },
+  {
+    "models": "BETA RR 300",
+    "from": 2013,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR 390",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR 430",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR 480",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR Cross Country 450",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "BETA RR Efi 350",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "BETA RR Efi Racing 350",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "BETA RR Enduro 350",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "BETA RR Enduro 400",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "BETA RR Enduro 450",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "BETA RR Enduro 498",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "BETA RR Enduro 525",
+    "from": 2005,
+    "to": 2013
+  },
+  {
+    "models": "BETA RR Racing 430",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR Racing 480",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "BETA RX 450",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "GASGAS EC 125",
+    "from": 2000,
+    "to": 2006
+  },
+  {
+    "models": "GASGAS EC 200",
+    "from": 2000,
+    "to": 2009
+  },
+  {
+    "models": "GASGAS EC 200",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "GASGAS EC 250",
+    "from": 2000,
+    "to": 2011
+  },
+  {
+    "models": "GASGAS EC 250",
+    "from": 2012,
+    "to": 2020
+  },
+  {
+    "models": "GASGAS EC 300",
+    "from": 2012,
+    "to": 2020
+  },
+  {
+    "models": "GASGAS EC 300",
+    "from": 2000,
+    "to": 2011
+  },
+  {
+    "models": "GASGAS EC Enduro GP 18 250",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "GASGAS EC Enduro GP 18 300",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "GASGAS EC fse 250",
+    "from": 2002,
+    "to": 2011
+  },
+  {
+    "models": "GASGAS EC fse 400",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "GASGAS EC fse 450",
+    "from": 2003,
+    "to": 2015
+  },
+  {
+    "models": "GASGAS EC FSR 450",
+    "from": 2007,
+    "to": 2016
+  },
+  {
+    "models": "GASGAS EC fsr 515",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "GASGAS EC Hobby 200",
+    "from": 2007,
+    "to": 2016
+  },
+  {
+    "models": "GASGAS Enducross 125",
+    "from": 1993,
+    "to": 1993
+  },
+  {
+    "models": "GASGAS MC 125",
+    "from": 2003,
+    "to": 2013
+  },
+  {
+    "models": "GASGAS MC 250",
+    "from": 2000,
+    "to": 2013
+  },
+  {
+    "models": "GASGAS XC 200",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "GASGAS XC 250",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "GASGAS XC 300",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "HONDA CR R 125",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "HONDA CR R 125",
+    "from": 1995,
+    "to": 2001
+  },
+  {
+    "models": "HONDA CR R 250",
+    "from": 1995,
+    "to": 2001
+  },
+  {
+    "models": "HONDA CR R 250",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "HONDA CR R 500",
+    "from": 1995,
+    "to": 2001
+  },
+  {
+    "models": "HONDA CRE 125",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "HONDA CRE 250",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "HONDA CRE F 250",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "HONDA CRE F 450",
+    "from": 2002,
+    "to": 2006
+  },
+  {
+    "models": "HONDA CRF 230",
+    "from": 2004,
+    "to": 2009
+  },
+  {
+    "models": "HONDA CRF F 125",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "HONDA CRF F 150",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "HONDA CRF F 250",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "HONDA CRF L 230",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "HONDA CRF L 450",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "HONDA CRF M 230",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "HONDA CRF R 250",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "HONDA CRF R 450",
+    "from": 2002,
+    "to": 2024
+  },
+  {
+    "models": "HONDA CRF R-S 450",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "HONDA CRF Rx 250",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "HONDA CRF RX 450",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "HONDA CRF X 250",
+    "from": 2004,
+    "to": 2019
+  },
+  {
+    "models": "HONDA CRF X 450",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "HONDA XR R 400",
+    "from": 1996,
+    "to": 2004
+  },
+  {
+    "models": "HONDA XR R 440",
+    "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "HONDA XR R 600",
+    "from": 1993,
+    "to": 2000
+  },
+  {
+    "models": "HONDA XR R 650",
+    "from": 2000,
+    "to": 2011
+  },
+  {
+    "models": "KAWASAKI KDX 200",
+    "from": 1994,
+    "to": 1999
+  },
+  {
+    "models": "KAWASAKI KDX R 220",
+    "from": 1997,
+    "to": 2005
+  },
+  {
+    "models": "KAWASAKI KLX 250",
+    "from": 1993,
+    "to": 1996
+  },
+  {
+    "models": "KAWASAKI KLX 250",
+    "from": 1998,
+    "to": 2007
+  },
+  {
+    "models": "KAWASAKI KLX 300",
+    "from": 1996,
+    "to": 2007
+  },
+  {
+    "models": "KAWASAKI KLX 650",
+    "from": 1993,
+    "to": 1996
+  },
+  {
+    "models": "KAWASAKI KLX R 300",
+    "from": 1997,
+    "to": 2007
+  },
+  {
+    "models": "KAWASAKI KLX R 400",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KAWASAKI KLX R 450",
+    "from": 2007,
+    "to": 2024
+  },
+  {
+    "models": "KAWASAKI KLX R 650",
+    "from": 1993,
+    "to": 1995
+  },
+  {
+    "models": "KAWASAKI KLX R D1 650",
+    "from": 1996,
+    "to": 1996
+  },
+  {
+    "models": "KAWASAKI KX 125",
+    "from": 1995,
+    "to": 2008
+  },
+  {
+    "models": "KAWASAKI KX 125",
+    "from": 1994,
+    "to": 1994
+  },
+  {
+    "models": "KAWASAKI KX 250",
+    "from": 1994,
+    "to": 1994
+  },
+  {
+    "models": "KAWASAKI KX 250",
+    "from": 1995,
+    "to": 2008
+  },
+  {
+    "models": "KAWASAKI KX 250",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "KAWASAKI KX 450",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "KAWASAKI KX 500",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KAWASAKI KX 500",
+    "from": 1996,
+    "to": 2004
+  },
+  {
+    "models": "KAWASAKI KX F 250",
+    "from": 2004,
+    "to": 2018
+  },
+  {
+    "models": "KAWASAKI KX F 450",
+    "from": 2006,
+    "to": 2018
+  },
+  {
+    "models": "KAWASAKI KX X 250",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "KAWASAKI KX X 450",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "SUZUKI DR V, W, X 350",
+    "from": 1997,
+    "to": 1999
+  },
+  {
+    "models": "SUZUKI DR-Z 250",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "SUZUKI RM 125",
+    "from": 1996,
+    "to": 2009
+  },
+  {
+    "models": "SUZUKI RM 250",
+    "from": 1996,
+    "to": 2009
+  },
+  {
+    "models": "SUZUKI RMX 250",
+    "from": 1996,
+    "to": 1998
+  },
+  {
+    "models": "SUZUKI RMX X-K1 250",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "SUZUKI RMX Z 450",
+    "from": 2010,
+    "to": 2018
+  },
+  {
+    "models": "SUZUKI RM-Z 250",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "SUZUKI RM-Z 450",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA WR 125",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "YAMAHA WR 250",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "YAMAHA WR F 250",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "YAMAHA WR F 250",
+    "from": 2003,
+    "to": 2013
+  },
+  {
+    "models": "YAMAHA WR F 400",
+    "from": 1998,
+    "to": 1998
+  },
+  {
+    "models": "YAMAHA WR F 400",
+    "from": 1999,
+    "to": 2000
+  },
+  {
+    "models": "YAMAHA WR F 426",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "YAMAHA WR F 450",
+    "from": 2003,
+    "to": 2015
+  },
+  {
+    "models": "YAMAHA WR F Efi 250",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "YAMAHA YZ 125",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "YAMAHA YZ 125",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "YAMAHA YZ 250",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "YAMAHA YZ 250",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "YAMAHA YZ F 250",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "YAMAHA YZ F 250",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "YAMAHA YZ F 400",
+    "from": 1998,
+    "to": 1998
+  },
+  {
+    "models": "YAMAHA YZ F 400",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "YAMAHA YZ F 426",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "YAMAHA YZ F 450",
+    "from": 2003,
+    "to": 2007
+  }
+]
