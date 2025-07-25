@@ -1,0 +1,17 @@
+[
+  {
+    "models": "Suzuki RM 125",
+    "from": 1991,
+    "to": 1996
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 1996,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RMX 250",
+    "from": 1989,
+    "to": 1999
+  }
+]
