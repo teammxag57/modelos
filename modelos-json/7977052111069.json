@@ -1,0 +1,322 @@
+[
+  {
+    "models": "GasGas EC 250",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas EC 250F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas EC 350F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas EC 450F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas EC 500F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas EX 250",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas EX 250F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas EX 350",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas EX 350F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas EX 450F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas MC 125",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas MC 250",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas MC 250F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas MC 350F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GasGas MC 450F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 250",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 350",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 450",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 250",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 350",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 501",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FX 350",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FX 450",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TC 127",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 252",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 250",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 250",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 350",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 350",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 450",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 450",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 500",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 500",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX-F 250",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX-F 250",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX-F 350",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX-F 350",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX-F 450",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX-F 450",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC 125",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC 125",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC-F 250",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC-F 250",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC-F 350",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC-F 350",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC-F 450",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC-F 450",
+    "from": 2023,
+    "to": 2024
+  }
+]
