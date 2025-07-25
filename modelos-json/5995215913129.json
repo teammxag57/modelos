@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Honda CR-F 250R",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Honda CR-F 250RX",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Honda CR-F 450R",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Honda CR-F 450RX",
+    "from": 2019,
+    "to": 2024
+  }
+]
