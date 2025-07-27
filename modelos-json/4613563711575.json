@@ -1,0 +1,37 @@
+[
+  {
+    "models": "Yamaha WR 250",
+    "from": 1997,
+    "to": 1998
+  },
+  {
+    "models": "Yamaha WR 400 F",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1996,
+    "to": 2000
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1996,
+    "to": 2000
+  },
+  {
+    "models": "Yamaha YZ 400 F",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha YZ 426 F",
+    "from": 2000,
+    "to": 2000
+  },
+  {
+    "models": "Yamaha YZ 80",
+    "from": 1997,
+    "to": 2000
+  }
+]
