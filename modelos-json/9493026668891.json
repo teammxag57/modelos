@@ -1,0 +1,117 @@
+[
+  {
+    "models": "Kawasaki KLX 230",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Kawasaki KLX 300",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 250XC",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2006,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki KX 450SR",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki KX 450XC",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Suzuki RMX 450",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "Suzuki RMX 450",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki RM-Z 250",
+    "from": 2004,
+    "to": 2022
+  },
+  {
+    "models": "Suzuki RM-Z 450",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha WR 250 F",
+    "from": 2001,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha WR 250 R",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha WR 250 X",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Yamaha WR 400 F",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Yamaha WR 426 F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha WR 450 F",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 250 F",
+    "from": 2001,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 250 FX",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 400 F",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha YZ 426 F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ 450 F",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 450 FX",
+    "from": 2016,
+    "to": 2024
+  }
+]
