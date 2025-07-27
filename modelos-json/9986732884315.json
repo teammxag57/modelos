@@ -1,0 +1,42 @@
+[
+  {
+    "models": "Yamaha WR 250 F",
+    "from": 2002,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha WR 450 F",
+    "from": 2003,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1998,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1998,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha YZ 250 F",
+    "from": 2001,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha YZ 400 F",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha YZ 426 F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ 450 F",
+    "from": 2003,
+    "to": 2015
+  }
+]
