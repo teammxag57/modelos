@@ -1,0 +1,17 @@
+[
+  {
+    "models": "Suzuki DR-Z 400",
+    "from": 2000,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 1996,
+    "to": 2006
+  }
+]
