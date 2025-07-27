@@ -1,0 +1,197 @@
+[
+  {
+    "models": "Honda CR 125R",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 250R",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 85R",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Honda CRF 150R",
+    "from": 2007,
+    "to": 2015
+  },
+  {
+    "models": "Honda CRF 250R",
+    "from": 2004,
+    "to": 2015
+  },
+  {
+    "models": "Honda CRF 250X",
+    "from": 2004,
+    "to": 2015
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 2002,
+    "to": 2015
+  },
+  {
+    "models": "Honda CRF 450X",
+    "from": 2005,
+    "to": 2015
+  },
+  {
+    "models": "KTM 105 SX",
+    "from": 2004,
+    "to": 2011
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 2000,
+    "to": 2016
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2000,
+    "to": 2025
+  },
+  {
+    "models": "KTM 144 SX",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2009,
+    "to": 2025
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 2000,
+    "to": 2015
+  },
+  {
+    "models": "KTM 200 SX",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2000,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2001,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2000,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2000,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2012,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2011,
+    "to": 2025
+  },
+  {
+    "models": "KTM 380 EXC",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 380 SX",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 400 EXC-F",
+    "from": 2000,
+    "to": 2011
+  },
+  {
+    "models": "KTM 400 SX-F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "KTM 50 SX",
+    "from": 2006,
+    "to": 2023
+  },
+  {
+    "models": "KTM 500 EXC-F",
+    "from": 2012,
+    "to": 2025
+  },
+  {
+    "models": "KTM 505 SX-F",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 520 EXC-F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 520 SX-F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 525 EXC-F",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 SX-F",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM 530 EXC-F",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 65 SX",
+    "from": 2002,
+    "to": 2008
+  },
+  {
+    "models": "KTM 65 SX",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "KTM 85 SX",
+    "from": 2004,
+    "to": 2025
+  }
+]
