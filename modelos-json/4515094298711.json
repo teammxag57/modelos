@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Kawasaki KX 125",
+    "from": 1992,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 1992,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1997,
+    "to": 2018
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1997,
+    "to": 2018
+  }
+]
