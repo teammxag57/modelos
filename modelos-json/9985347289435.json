@@ -1,0 +1,57 @@
+[
+  {
+    "models": "Front",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2002,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 2002,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2002,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2002,
+    "to": 2025
+  },
+  {
+    "models": "Rear",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 65",
+    "from": 2018,
+    "to": 2025
+  }
+]
