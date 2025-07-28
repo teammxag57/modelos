@@ -1,0 +1,52 @@
+[
+  {
+    "models": "Honda CR 250",
+    "from": 1997,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR-F 250R",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "Honda CR-F 450R",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX-F 250",
+    "from": 2006,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX-F 450",
+    "from": 2006,
+    "to": 2025
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 2002,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 2002,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RM-Z 250",
+    "from": 2007,
+    "to": 2025
+  },
+  {
+    "models": "Suzuki RM-Z 450",
+    "from": 2007,
+    "to": 2025
+  },
+  {
+    "models": "Triumph TF 250X",
+    "from": 2025,
+    "to": ""
+  }
+]
