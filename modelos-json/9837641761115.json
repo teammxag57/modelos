@@ -1,0 +1,92 @@
+[
+  {
+    "models": "Fantic XE 125",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XEF 250",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XEF 450",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Fantic XX 125",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XX 250",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XXF 250",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XXF 450",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "Yamaha WR 250F",
+    "from": 2001,
+    "to": 2023
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2003,
+    "to": 2023
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1999,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1999,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2001,
+    "to": 2023
+  },
+  {
+    "models": "Yamaha YZ 250FX",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "Yamaha YZ 426F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2003,
+    "to": 2023
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2016,
+    "to": 2017
+  },
+  {
+    "models": "Yamaha YZ 65",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 85",
+    "from": 2002,
+    "to": 2025
+  }
+]
