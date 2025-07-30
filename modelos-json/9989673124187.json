@@ -1,0 +1,212 @@
+[
+  {
+    "models": "Honda CR 125R",
+    "from": 1990,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR 250R",
+    "from": 1990,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR 500R",
+    "from": 1990,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR 80R",
+    "from": 1992,
+    "to": 2002
+  },
+  {
+    "models": "Honda CR 80RB",
+    "from": 1996,
+    "to": 2002
+  },
+  {
+    "models": "Honda CR 85R",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 85RB",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Honda XR 650",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "Kawasaki KLX 250",
+    "from": 2006,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX 300",
+    "from": 1997,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KLX 450",
+    "from": 2008,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki KLX 650",
+    "from": 1996,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 1995,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 1995,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 250XC",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2006,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 450SR",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki KX 450XC",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 500",
+    "from": 1996,
+    "to": 2004
+  },
+  {
+    "models": "Suzuki DR 650",
+    "from": 1996,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki DR-Z 250",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "Suzuki DR-Z 400",
+    "from": 2000,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 1992,
+    "to": 2006
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 1989,
+    "to": 2006
+  },
+  {
+    "models": "Suzuki RMX 250",
+    "from": 1989,
+    "to": 1998
+  },
+  {
+    "models": "Suzuki RM-Z 250",
+    "from": 2004,
+    "to": 2009
+  },
+  {
+    "models": "Suzuki RM-Z 450",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "Yamaha WR 250 F",
+    "from": 2001,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha WR 250 R",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "Yamaha WR 250 X",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Yamaha WR 400 F",
+    "from": 1999,
+    "to": 2000
+  },
+  {
+    "models": "Yamaha WR 426 F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha WR 450 F",
+    "from": 2003,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha YFM 660 Grizzly",
+    "from": 2002,
+    "to": 2008
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1998,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1998,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha YZ 250 F",
+    "from": 2001,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha YZ 250 FX",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha YZ 400 F",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha YZ 426 F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ 450 F",
+    "from": 2003,
+    "to": 2015
+  }
+]
