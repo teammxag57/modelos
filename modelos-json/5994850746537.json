@@ -1,0 +1,92 @@
+[
+  {
+    "models": "Husaberg TE 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 300",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna TE 250I",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TE 300I",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 1998,
+    "to": 2018
+  },
+  {
+    "models": "KTM 250 EXC TPI",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 1998,
+    "to": 2022
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2003,
+    "to": 2018
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 400 EXC-F",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "KTM 525 E",
+    "from": "",
+    "to": 2007
+  },
+  {
+    "models": "KTM 530 EXC",
+    "from": 2008,
+    "to": 2011
+  }
+]
