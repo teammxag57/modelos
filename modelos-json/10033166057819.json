@@ -5,14 +5,9 @@
     "to": 2007
   },
   {
-    "models": "Honda CRF 250 R ",
-    "from": 2024,
-    "to": ""
-  },
-  {
     "models": "Honda CRF 250 R  ",
     "from": 2009,
-    "to": 2023
+    "to": 2024
   },
   {
     "models": "Honda CRF 250 RX  ",
@@ -40,14 +35,9 @@
     "to": ""
   },
   {
-    "models": "Kawasaki KX 250  ",
-    "from": 2019,
-    "to": ""
-  },
-  {
     "models": "Kawasaki KX 250 F  ",
     "from": 2009,
-    "to": 2018
+    "to": 2019
   },
   {
     "models": "Kawasaki KX 450 ",
@@ -55,14 +45,9 @@
     "to": ""
   },
   {
-    "models": "Kawasaki KX 450  ",
-    "from": 2019,
-    "to": ""
-  },
-  {
     "models": "Kawasaki KX 450 F  ",
     "from": 2016,
-    "to": 2018
+    "to": 2019
   },
   {
     "models": "Suzuki RM-Z 450 ",
