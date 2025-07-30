@@ -1,0 +1,357 @@
+[
+  {
+    "models": "Honda CR 125R",
+    "from": 1987,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 250R",
+    "from": 1987,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 500R",
+    "from": 1987,
+    "to": 2001
+  },
+  {
+    "models": "Honda CRF 150F",
+    "from": 2003,
+    "to": 2009
+  },
+  {
+    "models": "Honda CRF 150F",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "Honda CRF 230F",
+    "from": 2003,
+    "to": 2009
+  },
+  {
+    "models": "Honda CRF 230F",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "Honda CRF 230F",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "Honda CRF 230L",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Honda CRF 230M",
+    "from": 2009,
+    "to": 2009
+  },
+  {
+    "models": "Honda CRF 250F",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 250R",
+    "from": 2004,
+    "to": 2018
+  },
+  {
+    "models": "Honda CRF 250X",
+    "from": 2004,
+    "to": 2009
+  },
+  {
+    "models": "Honda CRF 250X",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Honda CRF 250X",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "Honda CRF 450L",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 2002,
+    "to": 2018
+  },
+  {
+    "models": "Honda CRF 450RL",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 450RX",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Honda CRF 450X",
+    "from": 2005,
+    "to": 2018
+  },
+  {
+    "models": "Honda TRX 250",
+    "from": 1986,
+    "to": 1989
+  },
+  {
+    "models": "Honda XR 250",
+    "from": 1988,
+    "to": 2004
+  },
+  {
+    "models": "Honda XR 250",
+    "from": 1991,
+    "to": 1996
+  },
+  {
+    "models": "Honda XR 400",
+    "from": 1996,
+    "to": 2004
+  },
+  {
+    "models": "Honda XR 600",
+    "from": 1988,
+    "to": 2000
+  },
+  {
+    "models": "Honda XR 650",
+    "from": 1993,
+    "to": 2009
+  },
+  {
+    "models": "Honda XR 650",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "Honda XR 650",
+    "from": 2012,
+    "to": 2021
+  },
+  {
+    "models": "Suzuki DR 350",
+    "from": 1997,
+    "to": 1999
+  },
+  {
+    "models": "Suzuki DR 350",
+    "from": 1997,
+    "to": 1999
+  },
+  {
+    "models": "Suzuki DR 650",
+    "from": 1996,
+    "to": 2009
+  },
+  {
+    "models": "Suzuki DR 650",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Suzuki DR 650",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki DR-Z 250",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "Suzuki DR-Z 400",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "Suzuki DR-Z 400",
+    "from": 2000,
+    "to": 2015
+  },
+  {
+    "models": "Suzuki DR-Z 400",
+    "from": 2005,
+    "to": 2009
+  },
+  {
+    "models": "Suzuki DR-Z 400",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Suzuki DR-Z 400",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki DR-Z 400",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 1996,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 1996,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RMX 250",
+    "from": 1989,
+    "to": 1998
+  },
+  {
+    "models": "Suzuki RMX 450",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Suzuki RMX 450",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Suzuki RMX 450",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki RM-Z 250",
+    "from": 2007,
+    "to": 2018
+  },
+  {
+    "models": "Suzuki RM-Z 250",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki RM-Z 450",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha WR 250 F",
+    "from": 2001,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha WR 400 F",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Yamaha WR 426 F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha WR 450 F",
+    "from": 2003,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha YFM 250 Raptor",
+    "from": 2008,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YFM 700 Raptor",
+    "from": 2013,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha YFZ 450",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "Yamaha YFZ 450",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YFZ 450",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Yamaha YFZ 450R",
+    "from": 2009,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha YFZ 450R",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha YFZ 450X",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1998,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha YZ 125X",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1998,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha YZ 250 F",
+    "from": 2001,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha YZ 250 FX",
+    "from": 2015,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha YZ 250 X",
+    "from": 2016,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha YZ 400 F",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha YZ 426 F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ 450 F",
+    "from": 2003,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha YZ 450 FX",
+    "from": 2016,
+    "to": 2021
+  }
+]
