@@ -1,0 +1,62 @@
+[
+  {
+    "models": "Beta RR 2T 250",
+    "from": 2013,
+    "to": 2017
+  },
+  {
+    "models": "Beta RR 2T 300",
+    "from": 2013,
+    "to": 2017
+  },
+  {
+    "models": "Beta RR 4T 350",
+    "from": 2011,
+    "to": 2017
+  },
+  {
+    "models": "Beta RR 4T 390",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "Beta RR 4T 400",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 4T 430",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "Beta RR 4T 450",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 4T 480",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "Beta RR 4T 498",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 4T 500",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Beta RR 4T 520",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Beta X-Trainer 300",
+    "from": 2015,
+    "to": 2017
+  }
+]
