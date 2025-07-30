@@ -1,0 +1,47 @@
+[
+  {
+    "models": "Gasgas EC 250",
+    "from": 1997,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2000,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EX 300",
+    "from": 2000,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 1997,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas XC 250",
+    "from": 1997,
+    "to": 2019
+  },
+  {
+    "models": "Honda CR 250",
+    "from": 1984,
+    "to": 2001
+  },
+  {
+    "models": "Rieju MR 300 Pro",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Rieju MR 300 Racing",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Rieju MR 300 Ranger",
+    "from": 2021,
+    "to": 2023
+  }
+]
