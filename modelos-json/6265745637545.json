@@ -1,0 +1,47 @@
+[
+  {
+    "models": "Fantic XEF250",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Fantic XEF450",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Fantic XXF250",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Fantic XXF450",
+    "from": "",
+    "to": 2023
+  },
+  {
+    "models": "Yamaha WR250F",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha WR450F",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Yamaha YZ250F",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Yamaha YZ250FX",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ450F",
+    "from": 2018,
+    "to": 2022
+  }
+]
