@@ -1,0 +1,132 @@
+[
+  {
+    "models": "KTM 125 EXC",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2003,
+    "to": 2012
+  },
+  {
+    "models": "KTM 125 XC-W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 144 SX",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 150 EXC",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM 150 XC-W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "KTM 200 SX",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2003,
+    "to": 2020
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2006,
+    "to": 2020
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2003,
+    "to": 2012
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2006,
+    "to": 2012
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2003,
+    "to": 2020
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2012,
+    "to": 2020
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM 400 EXC-F",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2003,
+    "to": 2020
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2003,
+    "to": 2012
+  },
+  {
+    "models": "KTM 500 EXC-F",
+    "from": 2012,
+    "to": 2020
+  },
+  {
+    "models": "KTM 500 XCF-W",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "KTM 530 EXC-F",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 85 SX",
+    "from": 2003,
+    "to": 2020
+  },
+  {
+    "models": "KTM Freeride 250 F",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "KTM Freeride 250 R",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "KTM Freeride 350",
+    "from": 2012,
+    "to": 2017
+  }
+]
