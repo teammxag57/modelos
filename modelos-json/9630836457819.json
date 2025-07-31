@@ -1,0 +1,82 @@
+[
+  {
+    "models": "Beta RR 250",
+    "from": 2013,
+    "to": 2018
+  },
+  {
+    "models": "Beta RR 300",
+    "from": 2013,
+    "to": 2018
+  },
+  {
+    "models": "Beta RR 350 4T",
+    "from": 2011,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 350 4T Racing",
+    "from": 2012,
+    "to": 2018
+  },
+  {
+    "models": "Beta RR 390 4T",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 390 4T Racing",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "Beta RR 400 4T",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 430 4T",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 430 4T Racing",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "Beta RR 450 4T",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 450 4T Racing",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 480 4T",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 480 4T Racing",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "Beta RR 498 4T",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 498 4T Racing",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 520 4T",
+    "from": 2010,
+    "to": 2011
+  }
+]
