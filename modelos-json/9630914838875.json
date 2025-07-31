@@ -1,0 +1,77 @@
+[
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TC 250 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 250 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 300 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2005,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 EXC E-STARTER",
+    "from": 2010,
+    "to": 2010
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2005,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2005,
+    "to": 2010
+  },
+  {
+    "models": "KTM 250 SXS",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "KTM 250 SXS-F",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2005,
+    "to": 2016
+  },
+  {
+    "models": "KTM 300 EXC-E",
+    "from": 2007,
+    "to": 2008
+  }
+]
