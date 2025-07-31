@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Yamaha WR 250 F",
+    "from": 2003,
+    "to": 2010
+  },
+  {
+    "models": "Yamaha WR 450 F",
+    "from": 2003,
+    "to": 2009
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2002,
+    "to": 2010
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 2005,
+    "to": 2010
+  },
+  {
+    "models": "Yamaha YZ 250 F",
+    "from": 2002,
+    "to": 2009
+  },
+  {
+    "models": "Yamaha YZ 450 F",
+    "from": 2003,
+    "to": 2009
+  }
+]
