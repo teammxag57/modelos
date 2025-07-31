@@ -1,0 +1,52 @@
+[
+  {
+    "models": "Beta RR 250 2T Enduro",
+    "from": 2013,
+    "to": 2018
+  },
+  {
+    "models": "Beta RR 300 2T Enduro",
+    "from": 2013,
+    "to": 2018
+  },
+  {
+    "models": "Beta RR 350 4T Enduro",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 390 4T Enduro",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "Beta RR 400 4T Enduro",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 430 4T Enduro",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "Beta RR 450 4T Enduro",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 480 4T Enduro",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "Beta RR 498 4T Enduro",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 520 4T Enduro",
+    "from": 2010,
+    "to": 2011
+  }
+]
