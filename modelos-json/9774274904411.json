@@ -1,0 +1,132 @@
+[
+  {
+    "models": "Husaberg TE 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 300",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna TE 250 2T",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 250 I",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna TE 300 I",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TE 300 SPECIAL EDITION",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Ktm 250 EXC",
+    "from": 1998,
+    "to": 2017
+  },
+  {
+    "models": "Ktm 250 EXC E-STARTER",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "Ktm 250 EXC TPI",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "Ktm 250 EXC-F",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "Ktm 250 SX",
+    "from": 2002,
+    "to": 2020
+  },
+  {
+    "models": "Ktm 250 SX-F",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "Ktm 300 EXC",
+    "from": 2004,
+    "to": 2017
+  },
+  {
+    "models": "Ktm 300 EXC TPI",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Ktm 300 XC",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "Ktm 350 EXC-F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "Ktm 350 XC-F",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "Ktm 400 EXC",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "Ktm 450 EXC",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "Ktm 500 EXC",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "Ktm 525 EXC RACING",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "Ktm 530 EXC",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "Ktm 530 EXC RACING",
+    "from": 2008,
+    "to": ""
+  }
+]
