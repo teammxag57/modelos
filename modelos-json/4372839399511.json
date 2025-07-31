@@ -1,0 +1,127 @@
+[
+  {
+    "models": "Husaberg FE 390 Enduro",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg FE 450 Enduro",
+    "from": 2009,
+    "to": 2014
+  },
+  {
+    "models": "HusabergFE 250",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "HusabergFE 501",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "HusabergFE 570 Enduro",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "HusabergFS 570 Supermoto",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "HusabergFX 450 Cross Country",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "HusqvarnaFC 450",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "HusqvarnaFE 501",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "HusqvarnaFE 501 S",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM250 EXC-F",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM250 EXC-F Six Days",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM250 SX-F",
+    "from": 2005,
+    "to": 2012
+  },
+  {
+    "models": "KTM250 XC-F / XCF-W",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM450 EXC",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM450 EXC Six Days",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM450 SMR",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "KTM450 SX-F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM450 XC-F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM450 XC-W",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM500 EXC",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM500 EXC Six Days",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM500 XC-W",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM690 Rally Factory Replica2nd Filter",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM690 Supermoto R1st Filter",
+    "from": 2007,
+    "to": ""
+  }
+]
