@@ -1,0 +1,137 @@
+[
+  {
+    "models": "Husqvarna FC 250",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna FC 350",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna FC 450",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna FE 250",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FE 350",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FE 501",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FS 450",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM 450 EXC",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 450 SMR",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM 500 EXC",
+    "from": 2012,
+    "to": 2016
+  }
+]
