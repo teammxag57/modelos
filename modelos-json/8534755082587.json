@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Husaberg TE 125",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2007,
+    "to": 2016
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2007,
+    "to": 2015
+  },
+  {
+    "models": "KTM SXS 125",
+    "from": 2007,
+    "to": 2008
+  }
+]
