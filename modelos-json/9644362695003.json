@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Beta RR 300 2T",
+    "from": 2018,
+    "to": 2021
+  },
+  {
+    "models": "Beta RR 300 2T Racing",
+    "from": 2018,
+    "to": 2021
+  },
+  {
+    "models": "Beta RX 300 2T Cross",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Beta RX 300 2T Enduro",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Beta Xtrainer 300 2T",
+    "from": 2019,
+    "to": 2021
+  }
+]
