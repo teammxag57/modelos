@@ -1,0 +1,32 @@
+[
+  {
+    "models": "GasGas MC 125",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2016,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2016,
+    "to": 2025
+  },
+  {
+    "models": "KTM 125 XC",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "KTM 125 XC-W",
+    "from": 2017,
+    "to": 2019
+  }
+]
