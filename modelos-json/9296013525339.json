@@ -1,0 +1,237 @@
+[
+  {
+    "models": "KAWASAKI KLX 125",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "KAWASAKI KX 125 G1/H1-H2/J1-J2",
+    "from": 1989,
+    "to": 1993
+  },
+  {
+    "models": "KAWASAKI KLX 140 F 17/R 14\" Wheels",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "KAWASAKI KLX 140 G/RF = F 21/R 18\" Wheels",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "KAWASAKI KLX 140 L = F 19 / 16\" Wheels",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "KAWASAKI KLX 140 R = F 17/R 14\"Wheels",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "KAWASAKI KLX 140 RL = F 19/R 16\"Wheels",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "KAWASAKI KLX 150 D Tracker = F 21/R 18\" Wheels",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "KAWASAKI KLX 150 L = F 21/R 18\" Wheels",
+    "from": 2014,
+    "to": 2018
+  },
+  {
+    "models": "KAWASAKI KDX 200 E5-E6",
+    "from": 1993,
+    "to": 1994
+  },
+  {
+    "models": "KAWASAKI KLX 230 ABS Model",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KAWASAKI KLX 230 Non ABS",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "KAWASAKI KLX 230 R",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "KAWASAKI KLX 230 R - S/Low Seat Version",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "KAWASAKI KLX 230 S - Low Seat Non ABS/ABS Models",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "KAWASAKI KLX 230 /SE",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "KAWASAKI KLX 230 SM",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "KAWASAKI KDX 250 D1",
+    "from": 1991,
+    "to": 1994
+  },
+  {
+    "models": "KAWASAKI KLX 250 S (USA model)",
+    "from": 2009,
+    "to": 2014
+  },
+  {
+    "models": "KAWASAKI KLX 250 S",
+    "from": 2009,
+    "to": 2020
+  },
+  {
+    "models": "KAWASAKI KX 250 G1/H1-H2/J1-2",
+    "from": 1989,
+    "to": 1993
+  },
+  {
+    "models": "KAWASAKI KLX 300",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "KAWASAKI KLX 300 R",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "KAWASAKI KLX 300 SM",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "KAWASAKI KX 500 E1-5",
+    "from": 1989,
+    "to": 1993
+  },
+  {
+    "models": "KAWASAKI KLX 650 R A1",
+    "from": 1993,
+    "to": ""
+  },
+  {
+    "models": "SUZUKI RM 125 H",
+    "from": 1987,
+    "to": ""
+  },
+  {
+    "models": "SUZUKI RM 125 J",
+    "from": 1988,
+    "to": ""
+  },
+  {
+    "models": "SUZUKI RM 125",
+    "from": 1989,
+    "to": 1995
+  },
+  {
+    "models": "SUZUKI RMX 125 N",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "SUZUKI DR 250 SL/SM/SN/SEP",
+    "from": 1990,
+    "to": 1995
+  },
+  {
+    "models": "SUZUKI RM 250 H/J",
+    "from": 1987,
+    "to": 1988
+  },
+  {
+    "models": "SUZUKI RM 250",
+    "from": 1989,
+    "to": 1995
+  },
+  {
+    "models": "SUZUKI DR 350 L-T",
+    "from": 1990,
+    "to": 1996
+  },
+  {
+    "models": "SUZUKI DR 350 S/SH/RSE/SE",
+    "from": 1990,
+    "to": 1998
+  },
+  {
+    "models": "YAMAHA WR 125",
+    "from": 1990,
+    "to": 1997
+  },
+  {
+    "models": "YAMAHA YZ 125 LC/WR",
+    "from": 1989,
+    "to": ""
+  },
+  {
+    "models": "YAMAHA YZ 125",
+    "from": 1990,
+    "to": 1997
+  },
+  {
+    "models": "YAMAHA WR 200",
+    "from": 1990,
+    "to": 1994
+  },
+  {
+    "models": "YAMAHA TT-R 230",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA TT-R 250 L/M",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "YAMAHA TT-S 250",
+    "from": 1999,
+    "to": ""
+  },
+  {
+    "models": "YAMAHA WR 250",
+    "from": 1990,
+    "to": 1997
+  },
+  {
+    "models": "YAMAHA YZ 250 LC/WR",
+    "from": 1989,
+    "to": ""
+  },
+  {
+    "models": "YAMAHA YZ 250",
+    "from": 1990,
+    "to": 1997
+  },
+  {
+    "models": "YAMAHA YZ 360",
+    "from": 1990,
+    "to": 1991
+  },
+  {
+    "models": "YAMAHA WR 500",
+    "from": 1990,
+    "to": 1992
+  }
+]
