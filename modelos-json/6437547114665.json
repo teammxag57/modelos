@@ -1,0 +1,67 @@
+[
+  {
+    "models": "Husqvarna FE 4T 250",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 2T 250",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna TE Jarvis Edition (2020) 300",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "KTM Duke 4T 125",
+    "from": 2010,
+    "to": 2020
+  },
+  {
+    "models": "KTM Duke 4T 390",
+    "from": 2013,
+    "to": 2020
+  },
+  {
+    "models": "KTM EXC 2T TPI 300",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "KTM EXC 4T 525",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC R 4T 530",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC-F 500",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "KTM GS / EGS 2T 300",
+    "from": 1992,
+    "to": 1999
+  },
+  {
+    "models": "KTM MX 2T 125",
+    "from": 1990,
+    "to": 1995
+  },
+  {
+    "models": "KTM SX 2T 125",
+    "from": 1995,
+    "to": 2019
+  },
+  {
+    "models": "Sherco SEF Factory 250",
+    "from": 2019,
+    "to": 2020
+  }
+]
