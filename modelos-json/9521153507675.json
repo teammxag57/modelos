@@ -1,0 +1,42 @@
+[
+  {
+    "models": "Honda CR 125",
+    "from": 2002,
+    "to": 2009
+  },
+  {
+    "models": "Honda CR 250",
+    "from": 2002,
+    "to": 2009
+  },
+  {
+    "models": "Honda CRF-R 150",
+    "from": 2007,
+    "to": 2023
+  },
+  {
+    "models": "Honda CRF-R 250",
+    "from": 2004,
+    "to": 2023
+  },
+  {
+    "models": "Honda CRF-R 450",
+    "from": 2002,
+    "to": 2023
+  },
+  {
+    "models": "Honda CRF-RWE 450",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "TM Racing SM 85",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing MX 85",
+    "from": 2013,
+    "to": 2022
+  }
+]
