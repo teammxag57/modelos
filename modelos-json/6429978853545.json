@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Fantic XE 2T 125",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Fantic XX 2T 125",
+    "from": 2021,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 1987,
+    "to": 1988
+  },
+  {
+    "models": "Yamaha YFZ-BANSHEE 350",
+    "from": 1987,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1999,
+    "to": 2021
+  }
+]
