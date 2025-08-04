@@ -1,0 +1,322 @@
+[
+  {
+    "models": "Beta 450 RR",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Beta 450 RR 4T",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Beta 498 RR 4T",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Beta 520 RR",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Gas Gas 125 2T SUPERMOTARD",
+    "from": 2002,
+    "to": 2005
+  },
+  {
+    "models": "Gas Gas 125 EC",
+    "from": 1997,
+    "to": 1998
+  },
+  {
+    "models": "Gas Gas 125 EC 2T",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "Gas Gas 125 MX",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "Gas Gas 125 Pampera",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "Gas Gas 125 TT",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "Gas Gas 200 EC",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "Gas Gas 250 2T SUPERMOTARD",
+    "from": 2002,
+    "to": 2006
+  },
+  {
+    "models": "Gas Gas 250 EC",
+    "from": 2000,
+    "to": 2000
+  },
+  {
+    "models": "Gas Gas 250 EC",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Gas Gas 250 Pampera",
+    "from": 1998,
+    "to": 2005
+  },
+  {
+    "models": "Gas Gas 250 TT",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "Gas Gas 300 EC, Six Days, Nambotin Replica, Racing",
+    "from": 2001,
+    "to": 2012
+  },
+  {
+    "models": "Gas Gas 400 4T SUPERMOTARD",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "Gas Gas 400 EC FSE",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "Gas Gas 450 FSE, FSR",
+    "from": 2004,
+    "to": 2010
+  },
+  {
+    "models": "Gas Gas 450 Supermotard SM",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Gas Gas 500 FSE",
+    "from": 2006,
+    "to": 2006
+  },
+  {
+    "models": "Gas Gas EC 515 FSR",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "Honda CR 125 R",
+    "from": 1983,
+    "to": 1984
+  },
+  {
+    "models": "Honda CR 125 R",
+    "from": 1997,
+    "to": 1997
+  },
+  {
+    "models": "Honda CRF 150 F",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "Honda XR 600",
+    "from": 1988,
+    "to": 1990
+  },
+  {
+    "models": "Honda XR 600",
+    "from": 1991,
+    "to": 2001
+  },
+  {
+    "models": "Husqvarna 300 WR",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna 300 WR",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TR650 Terra/Strada dual-sport",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Kawasaki KDX 200",
+    "from": 1984,
+    "to": 1985
+  },
+  {
+    "models": "Kawasaki KDX 250",
+    "from": 1991,
+    "to": 1994
+  },
+  {
+    "models": "Kawasaki KLX 400 R",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "Kawasaki KLX 400 SR",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "Kawasaki KLX 650 C1-C4",
+    "from": 1993,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki KX 125 K3-K4",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "Kawasaki KX 125 K5",
+    "from": 1998,
+    "to": 1998
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 1985,
+    "to": 1985
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 1994,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki KX 250 F",
+    "from": 2006,
+    "to": 2010
+  },
+  {
+    "models": "KTM 125 Enduro",
+    "from": 1988,
+    "to": 1988
+  },
+  {
+    "models": "KTM 125 Enduro",
+    "from": 1990,
+    "to": 1990
+  },
+  {
+    "models": "KTM 125 XC-W",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "KTM 125 XC-W TPI",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "KTM 200 SX",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "Sherco SE 2.5 2T",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Sherco SE 2.5 R 2T",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Sherco SE 2.5I F Enduro",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Sherco SE 2.5I F Enduro",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Sherco SE 3.0 2T",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Sherco SE 3.0 R 2T",
+    "from": 2013,
+    "to": 2017
+  },
+  {
+    "models": "Sherco SE 4.5I R 2T",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Sherco SX 2.5I F Cross",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Suzuki RMZ 250",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1997,
+    "to": 1998
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1999,
+    "to": 2001
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 250 F",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "Yamaha YZ 250 F",
+    "from": 2005,
+    "to": 2009
+  },
+  {
+    "models": "Yamaha YZ 250 F",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YZ 250 F",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 490",
+    "from": 1986,
+    "to": 1990
+  }
+]
