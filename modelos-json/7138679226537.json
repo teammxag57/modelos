@@ -1,0 +1,42 @@
+[
+  {
+    "models": "Honda XR R 100",
+    "from": 1985,
+    "to": 2003
+  },
+  {
+    "models": "Kawasaki KX 80",
+    "from": 1991,
+    "to": 1997
+  },
+  {
+    "models": "Kawasaki KE 125",
+    "from": 1976,
+    "to": 1987
+  },
+  {
+    "models": "Suzuki RM 80 - SW",
+    "from": 1989,
+    "to": 2001
+  },
+  {
+    "models": "Suzuki RM 85 - SW",
+    "from": 2002,
+    "to": 2012
+  },
+  {
+    "models": "Yamaha YZ 80",
+    "from": 1993,
+    "to": 2001
+  },
+  {
+    "models": "Yamaha YZ 85 17/14",
+    "from": 2002,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha YZ 85 19/16",
+    "from": 2002,
+    "to": 2019
+  }
+]
