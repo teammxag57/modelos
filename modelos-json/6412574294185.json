@@ -1,0 +1,152 @@
+[
+  {
+    "models": "Honda CRF 250",
+    "from": 2004,
+    "to": 2014
+  },
+  {
+    "models": "Honda CRF 450 R",
+    "from": 2004,
+    "to": 2014
+  },
+  {
+    "models": "Kawasaki KX F 250",
+    "from": 2001,
+    "to": 2010
+  },
+  {
+    "models": "Kawasaki KX F 450",
+    "from": 2009,
+    "to": 2009
+  },
+  {
+    "models": "KTM 250 EXC RACING",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM 250 EXC RACING SIX DAYS",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 EXC-F SIX DAYS",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM 250 XC-F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM 250 XCF-W",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 350 EXC-F SIX DAYS",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM 350 XC-F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM 350 XCF-W",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 350 XCF-W SIX DAYS",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM 400 EXC RACING",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 400 EXC RACING SIX-DAYS",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM 400 SX RACING",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM 450 EXC",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 450 EXC RACING",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "KTM 450 EXC SIX DAYS",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 450 SX RACING",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM 450 XC- F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM 450 XC-W",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM FREERIDE 350",
+    "from": 2013,
+    "to": 2017
+  },
+  {
+    "models": "Suzuki RMZ 250",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "Suzuki RMZ 450",
+    "from": 2004,
+    "to": 2013
+  }
+]
