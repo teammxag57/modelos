@@ -1,0 +1,52 @@
+[
+  {
+    "models": "Husqvarna All models 92-94 ALL",
+    "from": 1992,
+    "to": 1994
+  },
+  {
+    "models": "Kawasaki KD 80",
+    "from": 1988,
+    "to": 1989
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 1988,
+    "to": ""
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 1987,
+    "to": 1988
+  },
+  {
+    "models": "Yamaha YZ 125 LC/WR",
+    "from": 1989,
+    "to": ""
+  },
+  {
+    "models": "Yamaha YZ 250 Rally",
+    "from": 1990,
+    "to": ""
+  },
+  {
+    "models": "Yamaha YZ 360 Rally",
+    "from": 1990,
+    "to": 1991
+  },
+  {
+    "models": "Yamaha YZ 65",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 80",
+    "from": 1993,
+    "to": 2001
+  },
+  {
+    "models": "Yamaha YZ 85 Big &amp; Small Wheel Versions",
+    "from": 2002,
+    "to": 2024
+  }
+]
