@@ -1,0 +1,217 @@
+[
+  {
+    "models": "Gas Gas MC 125",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Gas Gas EC 2T 200",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Gas Gas MC 250",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "Gas Gas FSE EC 400",
+    "from": 2002,
+    "to": 2009
+  },
+  {
+    "models": "Gas Gas FSE EC 450",
+    "from": 2003,
+    "to": 2012
+  },
+  {
+    "models": "Gas Gas FSR EC 450",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Honda CR R 125",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR R 125",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR R 250",
+    "from": 1990,
+    "to": 1991
+  },
+  {
+    "models": "Honda CR R 250",
+    "from": 1996,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR R 250",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "Honda CR R SM 250",
+    "from": 1990,
+    "to": 1991
+  },
+  {
+    "models": "Honda CR R SM 250",
+    "from": 1996,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR R SM 250",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "Honda CRF R 450",
+    "from": 2002,
+    "to": 2016
+  },
+  {
+    "models": "Husaberg FE 390",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg FC 450",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Husaberg FE E 450",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FE E 501",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "Husaberg FE E 550",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Husqvarna WRE 125",
+    "from": 1999,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KLX R 450",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "KTM SXF 4T 250",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM SXF 4T 250",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki RMZ 4T 250",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Suzuki RMZ 4T 450",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "TM EN Enduro 2T 125",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "TM MX Cross 2T 125",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "TM EN Enduro 2T 300",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "TM MX Cross 2T 300",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "TM EN F Enduro 4T 400",
+    "from": 2003,
+    "to": 2019
+  },
+  {
+    "models": "TM MX F Cross 4T 400",
+    "from": 2003,
+    "to": 2019
+  },
+  {
+    "models": "TM SMR F 4T 450",
+    "from": 2007,
+    "to": 2019
+  },
+  {
+    "models": "TM SMX F 4T 450",
+    "from": 2007,
+    "to": 2019
+  },
+  {
+    "models": "TM EN F Enduro 4T 530",
+    "from": 2003,
+    "to": 2019
+  },
+  {
+    "models": "TM MX F Cross 4T 530",
+    "from": 2003,
+    "to": 2019
+  },
+  {
+    "models": "TM SMM F 4T 530",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "TM SMR F 4T 530",
+    "from": 2004,
+    "to": 2019
+  },
+  {
+    "models": "TM SMX F 4T 530",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "TM SMX F 4T 660",
+    "from": 2004,
+    "to": 2019
+  },
+  {
+    "models": "Yamaha WR 200",
+    "from": 1991,
+    "to": 1997
+  },
+  {
+    "models": "Yamaha WR R 2T 250",
+    "from": 1991,
+    "to": 1996
+  }
+]
