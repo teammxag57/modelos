@@ -1,0 +1,42 @@
+[
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Ktm Freeride 250 F",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "Ktm Freeride 250 R",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Ktm Freeride 350",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "Ktm Freeride Electric E-SX",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "Ktm Freeride Electric E-XC",
+    "from": 2012,
+    "to": 2020
+  },
+  {
+    "models": "Ktm SX 85",
+    "from": 2012,
+    "to": 2020
+  },
+  {
+    "models": "Redmoto CRF 150",
+    "from": 2023,
+    "to": 2024
+  }
+]
