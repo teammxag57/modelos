@@ -1,0 +1,207 @@
+[
+  {
+    "models": "KAWASAKI KDX 125 A1/B1/B2",
+    "from": 1990,
+    "to": 1994
+  },
+  {
+    "models": "KAWASAKI KX 125 G1/H1-H2/J1-J2",
+    "from": 1989,
+    "to": 1993
+  },
+  {
+    "models": "KAWASAKI KX 125 K1",
+    "from": 1994,
+    "to": ""
+  },
+  {
+    "models": "KAWASAKI KDX 200 E1-E4",
+    "from": 1989,
+    "to": 1992
+  },
+  {
+    "models": "KAWASAKI KDX 200 E5-E6",
+    "from": 1993,
+    "to": 1994
+  },
+  {
+    "models": "KAWASAKI KDX 200 H1-H11/H6F",
+    "from": 1995,
+    "to": 2006
+  },
+  {
+    "models": "KAWASAKI KDX 220 R",
+    "from": 1997,
+    "to": 2005
+  },
+  {
+    "models": "KAWASAKI KDX 250 D1",
+    "from": 1991,
+    "to": 1994
+  },
+  {
+    "models": "KAWASAKI KLX 250 D2/G1",
+    "from": 1993,
+    "to": 1996
+  },
+  {
+    "models": "KAWASAKI KX 250 G1/H1-H2/J1-2",
+    "from": 1989,
+    "to": 1993
+  },
+  {
+    "models": "KAWASAKI KX 250 K1",
+    "from": 1994,
+    "to": ""
+  },
+  {
+    "models": "KAWASAKI KX 500 E1-5",
+    "from": 1989,
+    "to": 1993
+  },
+  {
+    "models": "KAWASAKI KX 500 E6-E7",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KAWASAKI KLX 650 R A1",
+    "from": 1993,
+    "to": ""
+  },
+  {
+    "models": "KAWASAKI KLX 650 R",
+    "from": 1994,
+    "to": 1997
+  },
+  {
+    "models": "KAWASAKI KLX 650 C1/C2/C4",
+    "from": 1993,
+    "to": 1998
+  },
+  {
+    "models": "SUZUKI RM 125",
+    "from": 1989,
+    "to": 1995
+  },
+  {
+    "models": "SUZUKI RMX 125 N",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "SUZUKI DR 250 SL/SM/SN/SEP",
+    "from": 1990,
+    "to": 1995
+  },
+  {
+    "models": "SUZUKI DR-Z 250 K1-K7",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "SUZUKI RM 250",
+    "from": 1989,
+    "to": 1995
+  },
+  {
+    "models": "SUZUKI RMX 250",
+    "from": 1996,
+    "to": 1998
+  },
+  {
+    "models": "SUZUKI DR 350 L-T",
+    "from": 1990,
+    "to": 1996
+  },
+  {
+    "models": "SUZUKI DR 350 S/SH/RSE/SE",
+    "from": 1990,
+    "to": 1998
+  },
+  {
+    "models": "SUZUKI DR 350",
+    "from": 1999,
+    "to": ""
+  },
+  {
+    "models": "SUZUKI DR 650 /SE",
+    "from": 1996,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA WR 125",
+    "from": 1990,
+    "to": 1997
+  },
+  {
+    "models": "YAMAHA YZ 125",
+    "from": 1990,
+    "to": 1997
+  },
+  {
+    "models": "YAMAHA WR 200",
+    "from": 1990,
+    "to": 1994
+  },
+  {
+    "models": "YAMAHA XT 225 Serow",
+    "from": 1995,
+    "to": 2000
+  },
+  {
+    "models": "YAMAHA TT-R 250 L/M",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "YAMAHA TT-S 250",
+    "from": 1999,
+    "to": ""
+  },
+  {
+    "models": "YAMAHA WR 250",
+    "from": 1990,
+    "to": 1997
+  },
+  {
+    "models": "YAMAHA XT 250",
+    "from": 2008,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA YZ 250 LC/WR",
+    "from": 1989,
+    "to": ""
+  },
+  {
+    "models": "YAMAHA YZ 250",
+    "from": 1990,
+    "to": 1997
+  },
+  {
+    "models": "YAMAHA YZ 360",
+    "from": 1990,
+    "to": 1991
+  },
+  {
+    "models": "YAMAHA WR 400 F",
+    "from": 1998,
+    "to": ""
+  },
+  {
+    "models": "YAMAHA YZ 400 F",
+    "from": 1998,
+    "to": ""
+  },
+  {
+    "models": "YAMAHA WR 500",
+    "from": 1990,
+    "to": 1992
+  },
+  {
+    "models": "YAMAHA TT 600",
+    "from": 1994,
+    "to": 1995
+  }
+]
