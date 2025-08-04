@@ -18,5 +18,10 @@
     "models": "KTM EXC 300",
     "from": 2001,
     "to": 2002
+  },
+  {
+    "models": "KTM EXC-F 250",
+    "from": 2002,
+    "to": ""
   }
 ]
