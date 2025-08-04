@@ -1,195 +1,5 @@
 [
   {
-    "models": "Kawasaki KX 250 4T",
-    "from": 2019,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KX 250 XC (4T)",
-    "from": 2021,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KX 250 F/4T",
-    "from": 2004,
-    "to": 2018
-  },
-  {
-    "models": "Kawasaki KLX 450 R",
-    "from": 2007,
-    "to": 2021
-  },
-  {
-    "models": "Kawasaki KX 450 F/4T",
-    "from": 2006,
-    "to": 2018
-  },
-  {
-    "models": "Kawasaki KX 450 4T",
-    "from": 2019,
-    "to": 2023
-  },
-  {
-    "models": "Kawasaki KX 450 4T - Brembo Front Caliper",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX 450 SR (4T)",
-    "from": 2022,
-    "to": 2023
-  },
-  {
-    "models": "Kawasaki KX 450 XC (4T)",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Kawasaki KX 450 XC - 4T - Brembo Front Caliper",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Suzuki DR 125 SM",
-    "from": 2008,
-    "to": 2011
-  },
-  {
-    "models": "Suzuki RM-Z 250",
-    "from": 2004,
-    "to": 2024
-  },
-  {
-    "models": "Suzuki RM-Z 450",
-    "from": 2005,
-    "to": 2024
-  },
-  {
-    "models": "Suzuki RMX 450 Z",
-    "from": 2010,
-    "to": 2019
-  },
-  {
-    "models": "Yamaha YZ 125",
-    "from": 2003,
-    "to": 2007
-  },
-  {
-    "models": "Yamaha YZ 125",
-    "from": 2008,
-    "to": 2021
-  },
-  {
-    "models": "Yamaha YZ 125 X",
-    "from": 2020,
-    "to": 2022
-  },
-  {
-    "models": "Yamaha YZ 125 X",
-    "from": 2023,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha WR 250 F",
-    "from": 2003,
-    "to": 2017
-  },
-  {
-    "models": "Yamaha WR 250 F",
-    "from": 2018,
-    "to": 2021
-  },
-  {
-    "models": "Yamaha WR 250 F",
-    "from": 2022,
-    "to": 2023
-  },
-  {
-    "models": "Yamaha WR 250 R",
-    "from": 2008,
-    "to": 2020
-  },
-  {
-    "models": "Yamaha WR 250 X",
-    "from": 2008,
-    "to": 2011
-  },
-  {
-    "models": "Yamaha YZ 250",
-    "from": 2003,
-    "to": 2007
-  },
-  {
-    "models": "Yamaha YZ 250",
-    "from": 2008,
-    "to": 2021
-  },
-  {
-    "models": "Yamaha YZ 250 X",
-    "from": 2016,
-    "to": 2022
-  },
-  {
-    "models": "Yamaha YZ 250 X",
-    "from": 2023,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha YZ 250 F",
-    "from": 2003,
-    "to": 2006
-  },
-  {
-    "models": "Yamaha YZ 250 F",
-    "from": 2007,
-    "to": 2020
-  },
-  {
-    "models": "Yamaha YZ 250 FX",
-    "from": 2015,
-    "to": 2021
-  },
-  {
-    "models": "Yamaha YZ 250 FX",
-    "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha WR 450 F",
-    "from": 2003,
-    "to": 2015
-  },
-  {
-    "models": "Yamaha WR 450 F",
-    "from": 2017,
-    "to": 2020
-  },
-  {
-    "models": "Yamaha WR 450 F",
-    "from": 2021,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha YZ 450 F",
-    "from": 2003,
-    "to": 2007
-  },
-  {
-    "models": "Yamaha YZ 450 F",
-    "from": 2008,
-    "to": 2019
-  },
-  {
-    "models": "Yamaha YZ 450 FX",
-    "from": 2016,
-    "to": 2020
-  },
-  {
-    "models": "Yamaha YZ 450 FX",
-    "from": 2021,
-    "to": 2024
-  },
-  {
     "models": "Aprilia RXV 450",
     "from": 2006,
     "to": 2014
@@ -200,24 +10,19 @@
     "to": 2009
   },
   {
-    "models": "Aprilia SXV 450",
-    "from": 2006,
-    "to": 2010
-  },
-  {
     "models": "Aprilia RXV 550",
     "from": 2006,
     "to": 2014
   },
   {
-    "models": "Aprilia SXV 550",
+    "models": "Aprilia SXV 450",
     "from": 2006,
     "to": 2010
   },
   {
-    "models": "Beta RR 80 Standard",
-    "from": 2010,
-    "to": 2011
+    "models": "Aprilia SXV 550",
+    "from": 2006,
+    "to": 2010
   },
   {
     "models": "Beta ALP 125",
@@ -230,22 +35,12 @@
     "to": 2016
   },
   {
-    "models": "Beta RR 125 2T/Enduro",
-    "from": 2018,
-    "to": 2024
-  },
-  {
     "models": "Beta RR 125 2T Enduro Racing",
     "from": 2019,
     "to": 2024
   },
   {
-    "models": "Beta RR-S 125 4T",
-    "from": 2019,
-    "to": ""
-  },
-  {
-    "models": "Beta RR 200 2T/Enduro",
+    "models": "Beta RR 125 2T/Enduro",
     "from": 2018,
     "to": 2024
   },
@@ -255,8 +50,8 @@
     "to": 2024
   },
   {
-    "models": "Beta RR 250 2T/Enduro",
-    "from": 2005,
+    "models": "Beta RR 200 2T/Enduro",
+    "from": 2018,
     "to": 2024
   },
   {
@@ -265,19 +60,14 @@
     "to": 2024
   },
   {
+    "models": "Beta RR 250 2T/Enduro",
+    "from": 2005,
+    "to": 2024
+  },
+  {
     "models": "Beta RR 250 4T",
     "from": 2013,
     "to": 2014
-  },
-  {
-    "models": "Beta Xtrainer 250 2T/Enduro",
-    "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "Beta RR 300 2T/Enduro",
-    "from": 2013,
-    "to": 2024
   },
   {
     "models": "Beta RR 300 2T Enduro Racing",
@@ -285,13 +75,8 @@
     "to": 2024
   },
   {
-    "models": "Beta RX 300 2T/Cross",
-    "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "Beta Xtrainer 300 2T/Enduro",
-    "from": 2015,
+    "models": "Beta RR 300 2T/Enduro",
+    "from": 2013,
     "to": 2024
   },
   {
@@ -305,16 +90,6 @@
     "to": 2023
   },
   {
-    "models": "Beta RS 350 4T",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Beta RR-S 350 4T",
-    "from": 2019,
-    "to": 2023
-  },
-  {
     "models": "Beta RR 390 4T Enduro",
     "from": 2005,
     "to": 2024
@@ -323,16 +98,6 @@
     "models": "Beta RR 390 4T Enduro Racing",
     "from": 2005,
     "to": 2024
-  },
-  {
-    "models": "Beta RS 390 4T",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Beta RR-S 390 4T",
-    "from": 2019,
-    "to": 2023
   },
   {
     "models": "Beta RR 430 4T Enduro",
@@ -345,24 +110,14 @@
     "to": 2024
   },
   {
-    "models": "Beta RS 430 4T",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Beta RR-S 430 4T",
-    "from": 2019,
-    "to": 2023
+    "models": "Beta RR 450 4T",
+    "from": 2005,
+    "to": 2014
   },
   {
     "models": "Beta RR 450 Cross Country",
     "from": 2012,
     "to": ""
-  },
-  {
-    "models": "Beta RR 450 4T",
-    "from": 2005,
-    "to": 2014
   },
   {
     "models": "Beta RR 480 4T Enduro",
@@ -380,9 +135,34 @@
     "to": 2014
   },
   {
-    "models": "Beta RS 500 4T",
-    "from": 2024,
+    "models": "Beta RR 520 Enduro",
+    "from": 2005,
+    "to": 2011
+  },
+  {
+    "models": "Beta RR 80 Standard",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Beta RR-S 125 4T",
+    "from": 2019,
     "to": ""
+  },
+  {
+    "models": "Beta RR-S 350 4T",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Beta RR-S 390 4T",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Beta RR-S 430 4T",
+    "from": 2019,
+    "to": 2023
   },
   {
     "models": "Beta RR-S 500 4T",
@@ -390,9 +170,39 @@
     "to": 2023
   },
   {
-    "models": "Beta RR 520 Enduro",
-    "from": 2005,
-    "to": 2011
+    "models": "Beta RS 350 4T",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Beta RS 390 4T",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Beta RS 430 4T",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Beta RS 500 4T",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Beta RX 300 2T/Cross",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Beta Xtrainer 250 2T/Enduro",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Beta Xtrainer 300 2T/Enduro",
+    "from": 2015,
+    "to": 2024
   },
   {
     "models": "Bimota BBX 300",
@@ -430,14 +240,14 @@
     "to": ""
   },
   {
-    "models": "Gas GAS EC 200 Ranger",
-    "from": 2019,
-    "to": 2020
-  },
-  {
     "models": "Gas GAS EC 200 Racing",
     "from": 2010,
     "to": 2015
+  },
+  {
+    "models": "Gas GAS EC 200 Ranger",
+    "from": 2019,
+    "to": 2020
   },
   {
     "models": "Gas GAS EC 250 /Racing /E",
@@ -460,23 +270,13 @@
     "to": ""
   },
   {
-    "models": "Gas GAS ENDURO GP 250",
-    "from": 2018,
-    "to": 2019
-  },
-  {
-    "models": "Gas GAS EC 300 Ranger",
-    "from": 2019,
-    "to": 2020
+    "models": "Gas GAS EC 300 /Racing /E",
+    "from": 2012,
+    "to": 2015
   },
   {
     "models": "Gas GAS EC 300 E",
     "from": 2010,
-    "to": 2015
-  },
-  {
-    "models": "Gas GAS EC 300 /Racing /E",
-    "from": 2012,
     "to": 2015
   },
   {
@@ -490,9 +290,9 @@
     "to": ""
   },
   {
-    "models": "Gas GAS ENDURO GP 300",
-    "from": 2018,
-    "to": 2019
+    "models": "Gas GAS EC 300 Ranger",
+    "from": 2019,
+    "to": 2020
   },
   {
     "models": "Gas GAS EC 450 F Racing",
@@ -503,6 +303,66 @@
     "models": "Gas GAS EC Raid 450",
     "from": 2015,
     "to": ""
+  },
+  {
+    "models": "Gas GAS ENDURO GP 250",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Gas GAS ENDURO GP 300",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki KLX 450 R",
+    "from": 2007,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KX 250 4T",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 250 F/4T",
+    "from": 2004,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KX 250 XC (4T)",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 450 4T",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki KX 450 4T - Brembo Front Caliper",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KX 450 F/4T",
+    "from": 2006,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KX 450 SR (4T)",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki KX 450 XC - 4T - Brembo Front Caliper",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KX 450 XC (4T)",
+    "from": 2021,
+    "to": 2023
   },
   {
     "models": "Reiju MR 200 Pro - Nissin Calipers",
@@ -525,38 +385,23 @@
     "to": 2024
   },
   {
-    "models": "Tm EN 125 2T - All Versions",
-    "from": 2005,
-    "to": 2024
-  },
-  {
-    "models": "Tm EN 125 2T/Cross Country 21/18\"",
-    "from": 2019,
-    "to": 2021
-  },
-  {
-    "models": "Tm MX 125 2T - All Versions",
-    "from": 2005,
-    "to": 2024
-  },
-  {
-    "models": "Tm SMR 125 Fi/2T - Spoke Wheels",
-    "from": 2019,
-    "to": 2024
-  },
-  {
-    "models": "Tm EN 144 2T - All Versions",
+    "models": "Suzuki DR 125 SM",
     "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Suzuki RMX 450 Z",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki RM-Z 250",
+    "from": 2004,
     "to": 2024
   },
   {
-    "models": "Tm EN 144 2T/Cross Country 21/18\"",
-    "from": 2019,
-    "to": 2021
-  },
-  {
-    "models": "Tm MX 144 2T - All Versions",
-    "from": 2008,
+    "models": "Suzuki RM-Z 450",
+    "from": 2005,
     "to": 2024
   },
   {
@@ -568,6 +413,36 @@
     "models": "Tm CC 250 Fi ES 4T/Cross Country",
     "from": 2019,
     "to": 2020
+  },
+  {
+    "models": "Tm CC 300 Fi ES 2T/Cross Country",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Tm DKR 450 Fi ES",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "Tm EN 125 2T - All Versions",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Tm EN 125 2T/Cross Country 21/18\"",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "Tm EN 144 2T - All Versions",
+    "from": 2008,
+    "to": 2024
+  },
+  {
+    "models": "Tm EN 144 2T/Cross Country 21/18\"",
+    "from": 2019,
+    "to": 2021
   },
   {
     "models": "Tm EN 250 2T - All Versions",
@@ -585,26 +460,6 @@
     "to": 2024
   },
   {
-    "models": "Tm MX 250 2T/Inc ES",
-    "from": 2005,
-    "to": 2024
-  },
-  {
-    "models": "Tm MX 250 Fi (4T) - Inc ES",
-    "from": 2005,
-    "to": 2024
-  },
-  {
-    "models": "Tm SMR 250 2T/Spoke Wheels",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "Tm CC 300 Fi ES 2T/Cross Country",
-    "from": 2019,
-    "to": 2020
-  },
-  {
     "models": "Tm EN 300 2T/ES",
     "from": 2007,
     "to": 2024
@@ -620,9 +475,49 @@
     "to": 2024
   },
   {
+    "models": "Tm EN 450 Fi (4T)",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Tm EN 530 Fi (4T)",
+    "from": 2005,
+    "to": 2024
+  },
+  {
     "models": "Tm FT 300 2T/ES - Flat Track",
     "from": 2019,
     "to": 2023
+  },
+  {
+    "models": "Tm FT 450 Fi KS/ES - Flat Track",
+    "from": 2016,
+    "to": 2023
+  },
+  {
+    "models": "Tm FT 530 Fi KS/ES",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "Tm MX 125 2T - All Versions",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Tm MX 144 2T - All Versions",
+    "from": 2008,
+    "to": 2024
+  },
+  {
+    "models": "Tm MX 250 2T/Inc ES",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Tm MX 250 Fi (4T) - Inc ES",
+    "from": 2005,
+    "to": 2024
   },
   {
     "models": "Tm MX 300 2T/ES",
@@ -635,6 +530,31 @@
     "to": 2024
   },
   {
+    "models": "Tm MX 450 Fi (4T) - Inc ES",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Tm MX 530 Fi (4T)",
+    "from": 2005,
+    "to": 2022
+  },
+  {
+    "models": "Tm SMK 450",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Tm SMR 125 Fi/2T - Spoke Wheels",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Tm SMR 250 2T/Spoke Wheels",
+    "from": 2019,
+    "to": 2020
+  },
+  {
     "models": "Tm SMR 300 2T",
     "from": 2014,
     "to": ""
@@ -645,58 +565,138 @@
     "to": 2024
   },
   {
-    "models": "Tm SMX 300 2T",
-    "from": 2019,
-    "to": 2024
-  },
-  {
-    "models": "Tm DKR 450 Fi ES",
-    "from": 2015,
-    "to": ""
-  },
-  {
-    "models": "Tm EN 450 Fi (4T)",
-    "from": 2005,
-    "to": 2024
-  },
-  {
-    "models": "Tm FT 450 Fi KS/ES - Flat Track",
-    "from": 2016,
-    "to": 2023
-  },
-  {
-    "models": "Tm MX 450 Fi (4T) - Inc ES",
-    "from": 2005,
-    "to": 2024
-  },
-  {
-    "models": "Tm SMK 450",
-    "from": 2022,
-    "to": 2024
-  },
-  {
     "models": "Tm SMR 450 /Spoke Wheels/100mm Caliper Ctr",
     "from": 2019,
     "to": 2024
   },
   {
-    "models": "Tm EN 530 Fi (4T)",
-    "from": 2005,
+    "models": "Tm SMR 530 /Spoke Wheels/100mm Caliper Ctr",
+    "from": 2019,
     "to": 2024
   },
   {
-    "models": "Tm FT 530 Fi KS/ES",
+    "models": "Tm SMX 300 2T",
     "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha WR 250 F",
+    "from": 2003,
+    "to": 2017
+  },
+  {
+    "models": "Yamaha WR 250 F",
+    "from": 2018,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha WR 250 F",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Yamaha WR 250 R",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha WR 250 X",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Yamaha WR 450 F",
+    "from": 2003,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha WR 450 F",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha WR 450 F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2008,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha YZ 125 X",
+    "from": 2020,
     "to": 2022
   },
   {
-    "models": "Tm MX 530 Fi (4T)",
-    "from": 2005,
+    "models": "Yamaha YZ 125 X",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 2008,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha YZ 250 F",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha YZ 250 F",
+    "from": 2007,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha YZ 250 FX",
+    "from": 2015,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha YZ 250 FX",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 250 X",
+    "from": 2016,
     "to": 2022
   },
   {
-    "models": "Tm SMR 530 /Spoke Wheels/100mm Caliper Ctr",
-    "from": 2019,
+    "models": "Yamaha YZ 250 X",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 450 F",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Yamaha YZ 450 F",
+    "from": 2008,
+    "to": 2019
+  },
+  {
+    "models": "Yamaha YZ 450 FX",
+    "from": 2016,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha YZ 450 FX",
+    "from": 2021,
     "to": 2024
   }
 ]
