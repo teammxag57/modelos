@@ -1,0 +1,82 @@
+[
+  {
+    "models": "Gas Gas MC 50",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Gas Gas MC-E 5 Electric",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna CR 50",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna EE 5 Electric",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna SM 50",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna TC 50",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM Senior Adventure 50",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM Supermotard 50",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX 50",
+    "from": 2010,
+    "to": 2023
+  },
+  {
+    "models": "KTM SX 65",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX Junior 50",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM SX Mini 50",
+    "from": 2007,
+    "to": 2023
+  },
+  {
+    "models": "KTM SX Pro Jr 50",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "KTM SX Pro Sr 50",
+    "from": 2002,
+    "to": 2009
+  },
+  {
+    "models": "KTM SX-E 5 Electric",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC 65",
+    "from": 2008,
+    "to": 2008
+  }
+]
