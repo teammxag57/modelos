@@ -1,0 +1,157 @@
+[
+  {
+    "models": "Honda CRF 250R",
+    "from": 2016,
+    "to": 2021
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 2016,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FC 250",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna FC 350",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna FC 450",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna FE 250",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna FE 350",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna FE 501",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna FS 450",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna FX 350",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna FX 450",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2009,
+    "to": 2018
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 EXC-F SIX DAYS",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM 250 SX-F FACTORY EDITION",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "KTM 250 XC-F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 350 EXC-F SIX DAYS",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM 350 XC-F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 450 EXC-F SIX DAYS",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM 450 SX-F FACTORY EDITION",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "KTM 450 XC- F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM 500 EXC-F",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 500 EXC-F SIX DAYS",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki RM 250Z",
+    "from": 2013,
+    "to": 2022
+  }
+]
