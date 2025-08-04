@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Kawasaki KX 80 (428 upgrade)",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Kawasaki KX 80 428 conversion",
+    "from": 1986,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 85 (428 upgrade)",
+    "from": 2001,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki RM 80 G/H/J",
+    "from": 1986,
+    "to": 1988
+  },
+  {
+    "models": "Yamaha YZ 85 Big Wheel",
+    "from": 2002,
+    "to": 2024
+  }
+]
