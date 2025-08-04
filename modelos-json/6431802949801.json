@@ -1,0 +1,57 @@
+[
+  {
+    "models": "Honda CR R 125",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR R 125",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "Honda CR R 250",
+    "from": 1990,
+    "to": 1991
+  },
+  {
+    "models": "Honda CR R 250",
+    "from": 1996,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR R SM 250",
+    "from": 1990,
+    "to": 1991
+  },
+  {
+    "models": "Honda CR R SM 250",
+    "from": 1996,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR R SM 250",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "Husqvarna WRE 125",
+    "from": 1999,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "KTM SXF 4T 250",
+    "from": 2006,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki RMZ 4T 450",
+    "from": 2005,
+    "to": 2007
+  }
+]
