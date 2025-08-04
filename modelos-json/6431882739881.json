@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX 150L",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Kawasaki KX 100 (428 upgrade)",
+    "from": 2001,
+    "to": 2024
+  },
+  {
+    "models": "KTM 85 SX",
+    "from": 2018,
+    "to": 2024
+  }
+]
