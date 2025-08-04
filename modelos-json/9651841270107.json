@@ -1,0 +1,52 @@
+[
+  {
+    "models": "Fantic XE 2T 125",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XX 2T 125",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 125",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC RACING 125",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Honda CR R 125",
+    "from": 1989,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna CR 125",
+    "from": 1998,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna WR 125",
+    "from": 1998,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna WRE SM - SM S 125",
+    "from": 1998,
+    "to": 2009
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2001,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ X 125",
+    "from": 2020,
+    "to": 2025
+  }
+]
