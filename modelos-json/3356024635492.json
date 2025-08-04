@@ -1,0 +1,857 @@
+[
+  {
+    "models": "Aprilia MXV 450",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Aprilia RXV 450",
+    "from": 2006,
+    "to": 2014
+  },
+  {
+    "models": "Aprilia RXV 450 Rally",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "Aprilia RXV 550",
+    "from": 2006,
+    "to": 2014
+  },
+  {
+    "models": "Beta ALP 4.0 350 4T",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta ALP X 350 X/4T",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 125 2T Enduro Racing",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 125 2T/Enduro",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 200 2T Enduro Racing",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 200 2T/Enduro",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 250 2T Enduro Racing",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 250 2T/Enduro",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 250 4T",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 300 2T Enduro Racing",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 300 2T/Enduro",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 350 4T Enduro",
+    "from": 2011,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 350 Enduro Racing",
+    "from": 2015,
+    "to": 2023
+  },
+  {
+    "models": "Beta RR 390 4T Enduro",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 390 4T Enduro Racing",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 430 4T Enduro",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 430 Enduro Racing",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 450 4T",
+    "from": 2005,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 450 Cross Country",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "Beta RR 480 4T Enduro",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 480 Enduro Racing",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 498 4T",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 520 Enduro",
+    "from": 2005,
+    "to": 2011
+  },
+  {
+    "models": "Beta RR-S 125 4T",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR-S 350 4T",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Beta RR-S 390 4T",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Beta RR-S 430 4T",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Beta RR-S 500 4T",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Beta RS 350 4T",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "Beta RS 390 4T",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "Beta RS 430 4T",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "Beta RS 500 4T",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "Beta RX 300 2T/Cross",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Beta Xtrainer 250 2T/Enduro",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Beta Xtrainer 300 2T/Enduro",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Cannondale C 440 R",
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "Cannondale E 440 A",
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "Cannondale X 440 S",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "Gas Gas EC 125",
+    "from": 2000,
+    "to": 2015
+  },
+  {
+    "models": "Gas Gas EC 200",
+    "from": 2000,
+    "to": 2019
+  },
+  {
+    "models": "Gas Gas EC 250",
+    "from": 2000,
+    "to": 2015
+  },
+  {
+    "models": "Gas Gas EC 250 F Racing",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "Gas Gas EC 250 Racing",
+    "from": 2012,
+    "to": 2019
+  },
+  {
+    "models": "Gas Gas EC 300",
+    "from": 2000,
+    "to": 2009
+  },
+  {
+    "models": "Gas Gas EC 300 /Racing /E",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "Gas Gas EC 300 E",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "Gas Gas EC 300 F Racing",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Gas Gas EC 300 Racing /Six Days",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "Gas Gas EC 400",
+    "from": 2000,
+    "to": 2009
+  },
+  {
+    "models": "Gas Gas EC 450",
+    "from": 2000,
+    "to": 2009
+  },
+  {
+    "models": "Gas Gas EC 450 F Racing",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Gas Gas EC Raid 450",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "Gas Gas ENDURO GP 250",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Gas Gas ENDURO GP 300",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Gas Gas FSE 450",
+    "from": 2004,
+    "to": 2009
+  },
+  {
+    "models": "Gas Gas MC 125",
+    "from": 2002,
+    "to": 2005
+  },
+  {
+    "models": "Gas Gas MC 250",
+    "from": 2002,
+    "to": 2008
+  },
+  {
+    "models": "Honda CR 125 R",
+    "from": 1996,
+    "to": 2008
+  },
+  {
+    "models": "Honda CR 250 R",
+    "from": 1996,
+    "to": 2008
+  },
+  {
+    "models": "Honda CR 500 R",
+    "from": 1996,
+    "to": 2001
+  },
+  {
+    "models": "Honda CRE 125",
+    "from": 1996,
+    "to": 2008
+  },
+  {
+    "models": "Honda CRE 250",
+    "from": 1996,
+    "to": 2008
+  },
+  {
+    "models": "Honda CRE 500",
+    "from": 1996,
+    "to": 2001
+  },
+  {
+    "models": "Honda CRF 150 F",
+    "from": 2003,
+    "to": 2017
+  },
+  {
+    "models": "Honda CRF 230 F",
+    "from": 2003,
+    "to": 2019
+  },
+  {
+    "models": "Honda CRF 230 L",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Honda CRF 230 M",
+    "from": 2009,
+    "to": 2009
+  },
+  {
+    "models": "Honda CRF 250 F",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF 250 R",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF 250 RE",
+    "from": 2016,
+    "to": 2016
+  },
+  {
+    "models": "Honda CRF 250 RX",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF 250 X",
+    "from": 2004,
+    "to": 2019
+  },
+  {
+    "models": "Honda CRF 250 XRL",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Honda CRF 450",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF 450 L",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Honda CRF 450 R",
+    "from": 2002,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF 450 Rally",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Honda CRF 450 RE",
+    "from": 2016,
+    "to": 2016
+  },
+  {
+    "models": "Honda CRF 450 RL",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF 450 R-S",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF 450 RX",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF 450 X",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF 450 XRL",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Honda CRM 250",
+    "from": 1994,
+    "to": 1998
+  },
+  {
+    "models": "Honda TRX 450 R Sportrax",
+    "from": 2004,
+    "to": 2014
+  },
+  {
+    "models": "Honda TRX 700 XX",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Honda XL 600 V Transalp",
+    "from": 1997,
+    "to": 1999
+  },
+  {
+    "models": "Honda XL 700 V Transalp",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Honda XLR 125",
+    "from": 1998,
+    "to": 2001
+  },
+  {
+    "models": "Honda XLV 650 Transalp",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "Honda XR 125 L",
+    "from": 2003,
+    "to": 2009
+  },
+  {
+    "models": "Honda XR 250 L",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "Honda XR 250 R",
+    "from": 1996,
+    "to": 2004
+  },
+  {
+    "models": "Honda XR 400 R",
+    "from": 1996,
+    "to": 2004
+  },
+  {
+    "models": "Honda XR 600 R",
+    "from": 1996,
+    "to": 2000
+  },
+  {
+    "models": "Honda XR 650 L",
+    "from": 1993,
+    "to": 2024
+  },
+  {
+    "models": "Honda XR 650 R",
+    "from": 2001,
+    "to": 2009
+  },
+  {
+    "models": "Honda XR 650 SM",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "Honda XRV 750 Africa Twin",
+    "from": 1994,
+    "to": 2003
+  },
+  {
+    "models": "Kawasaki KDX 200",
+    "from": 1995,
+    "to": 2006
+  },
+  {
+    "models": "Kawasaki KDX 220 R",
+    "from": 1997,
+    "to": 2005
+  },
+  {
+    "models": "Kawasaki KLX 250",
+    "from": 1993,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki KLX 250 S",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KLX 300 R",
+    "from": 1997,
+    "to": 2007
+  },
+  {
+    "models": "Kawasaki KLX 400 R",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki KLX 450 R",
+    "from": 2007,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KLX 650",
+    "from": 1993,
+    "to": 1998
+  },
+  {
+    "models": "Kawasaki KLX 650 R",
+    "from": 1994,
+    "to": 1997
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 1995,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 125 K1",
+    "from": 1994,
+    "to": 1994
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 1994,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250 4T",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 250 F/4T",
+    "from": 2004,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KX 250 XC (4T)",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 450 F/4T",
+    "from": 2006,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki KX 450 SR (4T)",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki KX 450 XC (4T)",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki KX 500",
+    "from": 1994,
+    "to": 2004
+  },
+  {
+    "models": "Kove MX 250 Enduro",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Kove MX 250 Motocross",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Kove MX 450 Motocross",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Kove Rally 450 EX Edition",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Kove Rally 450 Factory Edition",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Kove Rally 450 Standard Edition",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Redmoto CRF 250 CRF250 R",
+    "from": 2014,
+    "to": 2018
+  },
+  {
+    "models": "Redmoto CRF 250 CRF250 R",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto CRF 250 CRF250 R - M/X",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Redmoto CRF 250 CRF250 R Special",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Redmoto CRF 250 CRF250 RX",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Redmoto CRF 250 CRF250 X",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto CRF 300 CRF300 R",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto CRF 300 CRF300 RX",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Redmoto CRF 300 CRF300 X",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto CRF 400 CRF400 RX",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Redmoto CRF 450 CRF450 R",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Redmoto CRF 450 CRF450 RX",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Redmoto CRF 450 CRF450 XR",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Redmoto CRF 500 CRF500 R",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Reiju MR 200 Pro",
+    "from": 2022,
+    "to": 2022
+  },
+  {
+    "models": "Reiju MR 200 Racing",
+    "from": 2022,
+    "to": 2022
+  },
+  {
+    "models": "Reiju MR 250 Pro/Racing",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Reiju MR 300 Pro/Racing",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Reiju MR 300 Six Days France/Italy",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki DR 125 SM",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Suzuki DR 350",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "Suzuki DR 650 /SE",
+    "from": 1996,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki DR-Z 250",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "Suzuki DR-Z 400",
+    "from": 2000,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 1996,
+    "to": 2012
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 1996,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RMX 250",
+    "from": 1996,
+    "to": 1998
+  },
+  {
+    "models": "Suzuki RMX 450 Z",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki RM-Z 250",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki RM-Z 450",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha WR 125",
+    "from": 1998,
+    "to": 1998
+  },
+  {
+    "models": "Yamaha WR 250",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha WR 250 F",
+    "from": 2001,
+    "to": 2017
+  },
+  {
+    "models": "Yamaha WR 250 R",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha WR 400 F",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Yamaha WR 426 F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha WR 450 F",
+    "from": 2003,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1998,
+    "to": 2007
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1998,
+    "to": 2007
+  },
+  {
+    "models": "Yamaha YZ 250 F",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha YZ 400 F",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha YZ 426 F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ 450 F",
+    "from": 2003,
+    "to": 2007
+  }
+]
