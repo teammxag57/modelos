@@ -1,0 +1,37 @@
+[
+  {
+    "models": "Beta RR 2T 250",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 2T 300",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 4T 350",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Beta RR 4T 390",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Beta RR 4T 430",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Beta RR 4T 480",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Beta RR 4T 500",
+    "from": 2020,
+    "to": 2022
+  }
+]
