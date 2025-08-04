@@ -1,0 +1,67 @@
+[
+  {
+    "models": "Cagiva Mito 125",
+    "from": 1190,
+    "to": 1992
+  },
+  {
+    "models": "Cagiva Mito 125",
+    "from": 2005,
+    "to": 2009
+  },
+  {
+    "models": "Cagiva N1 125",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "Cagiva Raptor 125",
+    "from": 2003,
+    "to": 2009
+  },
+  {
+    "models": "HM CR Supermotard 125",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Honda CR R 500",
+    "from": 1988,
+    "to": 1991
+  },
+  {
+    "models": "Honda CR R SM 250",
+    "from": 1990,
+    "to": 1991
+  },
+  {
+    "models": "Honda CR R SM 250",
+    "from": 1996,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR R SM 250",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "Honda CRE R 500",
+    "from": 1989,
+    "to": 1991
+  },
+  {
+    "models": "Honda CRF R 450",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna TE 449",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha WR R 2T 250",
+    "from": 1991,
+    "to": 1996
+  }
+]
