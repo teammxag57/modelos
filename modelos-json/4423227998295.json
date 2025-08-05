@@ -1,0 +1,432 @@
+[
+  {
+    "models": "Beta 125 RR Enduro",
+    "from": 2018,
+    "to": 2018
+  },
+  {
+    "models": "Beta 250 RR Enduro/Racing",
+    "from": 2008,
+    "to": 2018
+  },
+  {
+    "models": "Beta 250 RR Racing",
+    "from": 2013,
+    "to": 2018
+  },
+  {
+    "models": "Beta 300 RR 2T",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Beta 350 RR 4T RC",
+    "from": 2018,
+    "to": 2018
+  },
+  {
+    "models": "Beta 350 RR USA",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "Beta 350/390 RR 4T Enduro/Racing",
+    "from": 2018,
+    "to": 2021
+  },
+  {
+    "models": "Beta 400 RR USA",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Beta 430/480 RR 4T Enduro/Racing",
+    "from": 2018,
+    "to": 2021
+  },
+  {
+    "models": "Beta 450 RR USA",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Beta 498 RR & USA",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "Beta 520 RR",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "GASGAS 125 MC125",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "GASGAS 250 EXF250 CrossCountry",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "GASGAS 250 MC250F",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "GASGAS 300 EXF300 Cross Country",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "GASGAS 450 EXF450 Cross Country",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "GASGAS 450 MC450F",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "GASGAS EX250",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS MC350F",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Husaberg 125 TE",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Husaberg 250 TE & USA",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg 300 TE & USA",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg 350 FE",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "Husaberg 390 FE Enduro & USA",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg 450 FE & USA",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "Husaberg 450 FE Enduro",
+    "from": 2009,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg 450 FX Cross Country & USA",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg 570 FE & USA",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna 125 TC",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna 125 TX",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna 125 TX 2T Enduro",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna 250 FC 4T & USA",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna 250 FE & USA",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna 250 TC",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna 250 TE - USA",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna 300 TX",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna 450 FC",
+    "from": 2016,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna 450 FX",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna 450 TX",
+    "from": 2016,
+    "to": 2017
+  },
+  {
+    "models": "KTM 125 EXC Enduro",
+    "from": 1995,
+    "to": 2010
+  },
+  {
+    "models": "KTM 125 GS",
+    "from": 1985,
+    "to": 1994
+  },
+  {
+    "models": "KTM 125 LC 2 Enduro",
+    "from": 1997,
+    "to": 1999
+  },
+  {
+    "models": "KTM 125 MX",
+    "from": 1985,
+    "to": 1995
+  },
+  {
+    "models": "KTM 125 SX Motocross",
+    "from": 1995,
+    "to": 2021
+  },
+  {
+    "models": "KTM 125 XC-F 125",
+    "from": 2025,
+    "to": 0
+  },
+  {
+    "models": "KTM 150 EXC TPI",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2009,
+    "to": 2021
+  },
+  {
+    "models": "KTM 150 XC & USA",
+    "from": 2010,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 ECX Racing USA",
+    "from": 2006,
+    "to": 2006
+  },
+  {
+    "models": "KTM 250 EXC Enduro",
+    "from": 1996,
+    "to": 2009
+  },
+  {
+    "models": "KTM 250 EXC Enduro Europe",
+    "from": 2005,
+    "to": 2011
+  },
+  {
+    "models": "KTM 250 EXC Enduro USA",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "KTM 250 EXC Racing",
+    "from": 2002,
+    "to": 2010
+  },
+  {
+    "models": "KTM 250 EXC Six Days",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM 250 GS",
+    "from": 1984,
+    "to": 1991
+  },
+  {
+    "models": "KTM 250 MX",
+    "from": 1985,
+    "to": 1989
+  },
+  {
+    "models": "KTM 250 SX F Racing",
+    "from": 2006,
+    "to": 2017
+  },
+  {
+    "models": "KTM 250 SX Motocross",
+    "from": 1995,
+    "to": 1998
+  },
+  {
+    "models": "KTM 250 SX Motocross & USA",
+    "from": 2004,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 SX-F Racing & USA",
+    "from": 2013,
+    "to": 2017
+  },
+  {
+    "models": "KTM 250 XC Enduro USA",
+    "from": 2006,
+    "to": 2014
+  },
+  {
+    "models": "KTM 250 XC-F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM 250 XC-F Enduro",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM 250 XC-F Enduro & USA",
+    "from": 2012,
+    "to": 2018
+  },
+  {
+    "models": "KTM 250 XCF-W Enduro",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM 250 XCF-W Six Days & USA",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "KTM 250 XCW-E",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 250 XCW-F",
+    "from": 2007,
+    "to": 2010
+  },
+  {
+    "models": "KTM 300 EXC Enduro",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "KTM 300 EXC Enduro USA",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "KTM 300 EXC Six Days",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM 300 GS",
+    "from": 1994,
+    "to": 1994
+  },
+  {
+    "models": "KTM 300 GS / EXC",
+    "from": 1995,
+    "to": 1998
+  },
+  {
+    "models": "KTM 300 MXC Motocross USA",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 300 SX",
+    "from": 1995,
+    "to": 2010
+  },
+  {
+    "models": "KTM 300 XC Enduro USA",
+    "from": 2006,
+    "to": 2014
+  },
+  {
+    "models": "KTM 300 XC-W Enduro & USA",
+    "from": 2006,
+    "to": 2014
+  },
+  {
+    "models": "KTM 350 EXC-F & USA",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "KTM 450 SMR450",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "KTM 450 SX-F & USA",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "KTM 450 XC-F",
+    "from": 2016,
+    "to": 2017
+  },
+  {
+    "models": "KTM 450 XC-W & USA",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "KTM 530 XC-W - ZA",
+    "from": 2010,
+    "to": 2010
+  },
+  {
+    "models": "Stark Varg EX",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Stark Varg MX",
+    "from": 2022,
+    "to": 0
+  }
+]
