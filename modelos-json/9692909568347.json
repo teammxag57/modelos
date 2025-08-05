@@ -1,0 +1,77 @@
+[
+  {
+    "models": "Husqvarna FC 450",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FE 501",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FE 501S",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FR 450 Rally",
+    "from": 2016,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FS 450",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "KTM 450 EXC",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 450 Rally Factory Replica",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM 450 SX-F Factory Edition",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "KTM 450 XC-F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM 450 XCF-W",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "KTM 450 XC-W",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 500 EXC",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 500 XC-W",
+    "from": 2012,
+    "to": 2016
+  }
+]
