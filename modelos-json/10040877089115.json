@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Rieju MR PRO 250",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR PRO 300",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR PRO 300i",
+    "from": 2026,
+    "to": 2026
+  },
+  {
+    "models": "Rieju MR RACING 250",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR RACING 300",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR RACING 300i",
+    "from": 2026,
+    "to": 2026
+  }
+]
