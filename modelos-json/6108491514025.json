@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Husqvarna CR 125",
+    "from": 2000,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna SMS 125",
+    "from": 2000,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna WR 125",
+    "from": 2000,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna WRE 125",
+    "from": 2000,
+    "to": 2011
+  }
+]
