@@ -1,0 +1,147 @@
+[
+  {
+    "models": "Beta 125 RR Enduro / Motard",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Beta 125 RR Enduro / Motard LC 4T",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "Beta 125 RR Enduro R",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Beta 125 RR Enduro R LC 4T",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "Fantic 125 Caballero R Enduro LC",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "Fantic 125 Caballero R Competition LC",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "Fantic 125 Caballero R Competition Racing LC",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "Fantic 125 Caballero Motard LC",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "Fantic 125 Caballero Flat trac",
+    "from": 20,
+    "to": ""
+  },
+  {
+    "models": "Fantic 125 Caballero Scramble",
+    "from": 20,
+    "to": ""
+  },
+  {
+    "models": "Fantic 200 Caballero",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "Fantic 250 Caballero TF ES",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC250 F 4T",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Rieju 125 Marathon Pro Enduro / Motard",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "Rieju 125 RS3 LC",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "Rieju 250 Marathon",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "Rieju 450 Marathon",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "TM Racing 250 4T",
+    "from": 2008,
+    "to": 2024
+  },
+  {
+    "models": "TM Racing 300 4T",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "TM Racing 450 4T",
+    "from": 2011,
+    "to": 2024
+  },
+  {
+    "models": "TM Racing 530 4T",
+    "from": 2007,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YFZ 450",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha WR 125",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "Yamaha WR 125 X",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "Yamaha WR 250 F",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "Yamaha XT 250",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "Yamaha YZ 250 F",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "Yamaha WR 450 F",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "Yamaha YZ450 F",
+    "from": 2003,
+    "to": 2008
+  }
+]
