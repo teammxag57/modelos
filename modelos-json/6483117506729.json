@@ -1,0 +1,37 @@
+[
+  {
+    "models": "Kawasaki 100 KX",
+    "from": 1987,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki 60 KX",
+    "from": 1983,
+    "to": 2003
+  },
+  {
+    "models": "Kawasaki 80 KDX",
+    "from": 1984,
+    "to": 1988
+  },
+  {
+    "models": "Kawasaki 80 KX",
+    "from": 1983,
+    "to": 2000
+  },
+  {
+    "models": "Kawasaki 85 KX",
+    "from": 2001,
+    "to": 2021
+  },
+  {
+    "models": "Suzuki 100 RM",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "Suzuki 60 RM",
+    "from": 2003,
+    "to": 2003
+  }
+]
