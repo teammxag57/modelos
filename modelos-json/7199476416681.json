@@ -1,0 +1,542 @@
+[
+  {
+    "models": "Aprilia RXV 450",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "Aprilia RXV 550",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "Beta RR 50 Enduro",
+    "from": 2008,
+    "to": 2017
+  },
+  {
+    "models": "Beta RR 50 Enduro Farbe Rot",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 50 Enduro Farbe Wei�",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 50 Enduro Factory",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "Beta RR 50 Enduro Racing",
+    "from": 2008,
+    "to": 2017
+  },
+  {
+    "models": "Beta RR 50 Enduro Sport",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "Beta RR 50 Enduro Standard",
+    "from": 2007,
+    "to": 2015
+  },
+  {
+    "models": "Beta RR 125 LC 4T Enduro",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "Beta RR 125 AC 4T Enduro",
+    "from": 2008,
+    "to": 2017
+  },
+  {
+    "models": "Beta RR 125 LC 4T Enduro CBS",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Beta RR 250 4T Enduro",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "Beta RR 250 2T Enduro",
+    "from": 2013,
+    "to": 2017
+  },
+  {
+    "models": "Beta RR 300 2T Enduro",
+    "from": 2013,
+    "to": 2017
+  },
+  {
+    "models": "Beta RR 350 4T Enduro",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 350 EFI Enduro",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "Beta RR 450 Enduro",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 498 Enduro",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Honda CR 125 R",
+    "from": 1995,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 250 R",
+    "from": 1995,
+    "to": 2007
+  },
+  {
+    "models": "Honda CRF 250 R Red Moto",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF 250 RX Red Moto",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF 250 RX Red Moto Special",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "Honda CRF 250 R",
+    "from": 2004,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF 250 L",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Honda CRF 250 M",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Honda CRF 250 RE",
+    "from": 2016,
+    "to": 2017
+  },
+  {
+    "models": "Honda CRF 250 LA ABS",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Honda CRF 250 RLA Rally ABS",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Honda CRF 250 RX",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF 250 RLA Rally ABS Euro4",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "Honda CRF 450 RE",
+    "from": 2016,
+    "to": 2016
+  },
+  {
+    "models": "Honda CRF 450 RX Red Moto",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF 450 RX Red Moto Special",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "Honda CRF 450 RX Red Moto Supermoto",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "Honda CRF 450 R",
+    "from": 2002,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF 450 RX",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF 450 L",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "Honda CRF 450 R Red Moto",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna CR 125",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TC 250 4T ie",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna TC 250 4T R ie",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE 250 4T ie",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR 125",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna WR 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna WRE 125",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 125 Sixdays",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 150 TPI",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2003,
+    "to": 2012
+  },
+  {
+    "models": "KTM EXC 200 E",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2003,
+    "to": 2010
+  },
+  {
+    "models": "KTM EXC 250 E",
+    "from": 2011,
+    "to": 2017
+  },
+  {
+    "models": "KTM EXC 250 TPI",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 250 4T Racing",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXC 250 Sixdays",
+    "from": 2009,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 250 E Sixdays",
+    "from": 2010,
+    "to": 2017
+  },
+  {
+    "models": "KTM EXC 250 TPI Sixdays",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 300 E",
+    "from": 2007,
+    "to": 2017
+  },
+  {
+    "models": "KTM EXC 300 TPI",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 300 TPI Erzberg Edition",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 300 E Sixdays",
+    "from": 2009,
+    "to": 2017
+  },
+  {
+    "models": "KTM EXC 300 TPI Sixdays",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 400 R",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 400 Racing",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 450 R",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 450 ie",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 450 Racing",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 450 R Sixdays",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 450 ie Sixdays",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 500 ie",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 500 ie Sixdays",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 525 Racing",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 530",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 530 Sixdays",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC-F 250",
+    "from": 2007,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC-F 250 ie",
+    "from": 2012,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC-F 250 Sixdays",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC-F 250 ie Sixdays",
+    "from": 2012,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC-F 350 ie",
+    "from": 2012,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC-F 350 ie Factory Edition",
+    "from": 2022,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC-F 350 ie Sixdays",
+    "from": 2012,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC-F 350 ie Wess",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "KTM EXC-F 450 ie",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC-F 450 ie Sixdays",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC-F 500 ie",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC-F 500 ie Sixdays",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC-R 530",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2003,
+    "to": 2021
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2009,
+    "to": 2021
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2003,
+    "to": 2021
+  },
+  {
+    "models": "KTM SX 450 Racing",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX 525 Racing",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX-F 250",
+    "from": 2006,
+    "to": 2010
+  },
+  {
+    "models": "KTM SX-F 250 ie",
+    "from": 2011,
+    "to": 2021
+  },
+  {
+    "models": "KTM SX-F 250 ie Factory Edition",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "KTM SX-F 250 ie Prado",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "KTM SX-F 250 ie Troy Lee",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "KTM SX-F 350 ie",
+    "from": 2011,
+    "to": 2021
+  },
+  {
+    "models": "KTM SX-F 450",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX-F 450 ie",
+    "from": 2013,
+    "to": 2021
+  },
+  {
+    "models": "KTM SX-F 450 ie Cairoli",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "KTM SX-F 450 ie Factory Edition",
+    "from": 2016,
+    "to": 2021
+  },
+  {
+    "models": "KTM SX-F 450 ie Herlings Replica",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "KTM SX-F 505",
+    "from": 2007,
+    "to": 2008
+  }
+]
