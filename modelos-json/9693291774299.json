@@ -1,0 +1,17 @@
+[
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2005,
+    "to": 2012
+  },
+  {
+    "models": "KTM 250 XC-F",
+    "from": 2008,
+    "to": 2012
+  }
+]
