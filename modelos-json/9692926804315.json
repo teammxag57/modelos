@@ -1,0 +1,82 @@
+[
+  {
+    "models": "Gasgas EX 450F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC 450F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC 450F Troy Lee Designs Edition",
+    "from": 2022,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FC 450",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 501",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 501s",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FR 450 Rally",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FS 450",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FX 450",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM 450 SX-F Factory Edition",
+    "from": 2015,
+    "to": 2021
+  },
+  {
+    "models": "KTM 450 XC-F",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM 450 XCF-W",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "KTM 500 EXC-F",
+    "from": 2017,
+    "to": 2023
+  }
+]
