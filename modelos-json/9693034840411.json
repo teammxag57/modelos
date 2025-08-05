@@ -1,0 +1,127 @@
+[
+  {
+    "models": "Gasgas EC 250",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EX 300",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2018,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 250i",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2018,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 300i",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TX 300i",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM 250 EXC TPI",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 XC TPI",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM 250 XC-W",
+    "from": 2018,
+    "to": 2018
+  },
+  {
+    "models": "KTM 250 XC-W TPI",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "KTM 300 EXC TPI",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM 300 XC",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "KTM 300 XC TPI",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM 300 XC-W TPI",
+    "from": 2019,
+    "to": 2022
+  }
+]
