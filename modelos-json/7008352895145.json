@@ -1,0 +1,352 @@
+[
+  {
+    "models": "KTM 105 SX",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM 125 EXC SIX-DAYS",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM 125 SX TYLA RATTRAY",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM 125 SXS",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM 200 SX",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 250 EXC FACTORY",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC RACING",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM 250 EXC RACING SIX DAYS",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC SIX-DAYS",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 SXS",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 300 EXC SIX-DAYS",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 400 EXC FACTORY",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM 400 EXC FACTORY RACING",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM 400 EXC RACING",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM 400 EXC RACING SIX-DAYS",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 EXC FACTORY",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 EXC FACTORY RACING",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 EXC RACING",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 450 EXC RACING SIX-DAYS",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM 450 RALLYE FACTORY REPL.",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 SMR",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM 450 SMS",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 SX",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 SX RACING",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 450 SX STEVE RAMON",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 450 SXS",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 SXS RACING",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 450 SXS-F",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 XC",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 XC CROSS COUNTRY",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM 505 SX-F",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM 505 SX-F PRESERIES",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM 525 EXC FACTORY",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM 525 EXC FACTORY RACING",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM 525 EXC RACING",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 EXC RACING SIX.DAYS",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 525 EXC RACING SIX-DAYS",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 MXC DESERT RACING",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 525 SMR",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM 525 SX",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM 525 SX RACING",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 525 SX SUPERMOTO",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM 525 XC DESERT RACING",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 540 SXS",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM 540 SXS RACING",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 560 SMR",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 625 SMC",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM 625 SXC",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 640 DUKE II BLACK",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM 640 DUKE II ORANGE",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM 640 LC4 ADVENTURE",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM 65 SX",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "KTM 65 XC",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM 660 RALLY FACTORY REPLICA",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM 660 RALLYE FACTORY REPL.",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM 660 SMC",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM 660 SMS",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM 660 SUPERMOTO FACTORY REPL.",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM 85 SX",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 85 SX 17/14",
+    "from": 2005,
+    "to": 2012
+  },
+  {
+    "models": "KTM 85 SX 19/16",
+    "from": 2005,
+    "to": 2012
+  },
+  {
+    "models": "KTM FREERIDE E 660W",
+    "from": 2025,
+    "to": ""
+  }
+]
