@@ -1,0 +1,102 @@
+[
+  {
+    "models": "KTM 125 SX",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 125 XC",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC-F / EXC-F Six Days",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 SX-F Factory Edition",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 XC-F",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 SX",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 XC",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 EXC-F / EXC-F Six Days",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 XC-F",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 EXC-F / EXC-F Six Days",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 SX-F Factory Edition",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "KTM 450 XC-F",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 XCF-W",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 500 EXC-F / EXC-F Six Days",
+    "from": 2024,
+    "to": 2025
+  }
+]
