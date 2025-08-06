@@ -1,0 +1,22 @@
+[
+  {
+    "models": "KTM 250 EXC",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 XC-W TPI",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "KTM 300 XC-W / XC-W",
+    "from": 2019,
+    "to": ""
+  }
+]
