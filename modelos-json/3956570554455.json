@@ -1,0 +1,42 @@
+[
+  {
+    "models": "Yamaha D T125 R Everts",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha DT 125 RE",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha DT 125 X",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha DT 200",
+    "from": 1988,
+    "to": ""
+  },
+  {
+    "models": "Yamaha DTR 125",
+    "from": 1988,
+    "to": 2003
+  },
+  {
+    "models": "Yamaha TDR 125",
+    "from": 1989,
+    "to": 1992
+  },
+  {
+    "models": "Yamaha WR 125",
+    "from": 2009,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha WR 125 09-15",
+    "from": 2009,
+    "to": 2015
+  }
+]
