@@ -1,0 +1,42 @@
+[
+  {
+    "models": "Kawasaki KX250",
+    "from": 2013,
+    "to": 2022
+  },
+  {
+    "models": "Kawasaki KX250F",
+    "from": 2012,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KX250X",
+    "from": 2022,
+    "to": 2022
+  },
+  {
+    "models": "Kawasaki KX250XC",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KX450",
+    "from": 2013,
+    "to": 2022
+  },
+  {
+    "models": "Kawasaki KX450C",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KX450F",
+    "from": 2012,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KX450X",
+    "from": 2022,
+    "to": 2022
+  }
+]
