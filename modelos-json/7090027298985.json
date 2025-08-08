@@ -1,0 +1,52 @@
+[
+  {
+    "models": "KTM 250 EXC",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 EXC SIX-DAYS",
+    "from": 2001,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 SXS",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM 300 EXC SIX-DAYS",
+    "from": 2001,
+    "to": 2016
+  },
+  {
+    "models": "KTM 300 EXC-E",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 300 XC",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "KTM 380 SX",
+    "from": 1998,
+    "to": 2002
+  }
+]
