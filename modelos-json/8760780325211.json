@@ -1,0 +1,102 @@
+[
+  {
+    "models": "Gasgas EC 250F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 350F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC 350F",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FC 250",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 250 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FC 350",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 350 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FE 250",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 250 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FE 350",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 350 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FE 350 PRO",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FX 350",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2012,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2012,
+    "to": 2025
+  },
+  {
+    "models": "KTM Freeride",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "KTM FREERIDE 350",
+    "from": 2012,
+    "to": 2017
+  }
+]
