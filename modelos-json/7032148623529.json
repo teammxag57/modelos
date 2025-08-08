@@ -1,0 +1,77 @@
+[
+  {
+    "models": "KTM 125 EXC",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 125 EXC SIX-DAYS",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 250 EXC SIX-DAYS",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 250 EXC-F SIX DAYS",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 300 EXC SIX-DAYS",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 300 EXC-E",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM 85 SX 17/14",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM 85 SX 19/16",
+    "from": 2007,
+    "to": 2012
+  }
+]
