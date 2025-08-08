@@ -1,0 +1,127 @@
+[
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 125 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2011,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna TE 250 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2011,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna TE 300 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 125 SXS",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 125 XC-W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "KTM 200 SX",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2003,
+    "to": 2017
+  },
+  {
+    "models": "KTM 250 EXC RACING",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM 250 SXS",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2003,
+    "to": 2017
+  },
+  {
+    "models": "KTM 300 EXC-E",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "KTM 400 EXC RACING",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM 450 EXC RACING",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 450 XC",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 EXC RACING",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM FREERIDE 250R",
+    "from": 2014,
+    "to": 2017
+  }
+]
