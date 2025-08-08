@@ -1,0 +1,77 @@
+[
+  {
+    "models": "Husqvarna FE 390",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna FE 570",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 250 EXC E-STARTER",
+    "from": 2010,
+    "to": 2010
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 400 EXC",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM 450 EXC",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 505 XC-F",
+    "from": 2009,
+    "to": 2009
+  },
+  {
+    "models": "KTM 530 EXC",
+    "from": 2010,
+    "to": 2011
+  }
+]
