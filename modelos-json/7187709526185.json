@@ -1,0 +1,92 @@
+[
+  {
+    "models": "KTM 125 EGS 6KW",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 1998,
+    "to": 2007
+  },
+  {
+    "models": "KTM 125 EXC SIX-DAYS",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 1998,
+    "to": 2006
+  },
+  {
+    "models": "KTM 125 SXS",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "KTM 200 EGS 8KW",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 1998,
+    "to": 2007
+  },
+  {
+    "models": "KTM 200 SX",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 250 EGS 11KW",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 1998,
+    "to": 2007
+  },
+  {
+    "models": "KTM 250 EXC SIX-DAYS",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 1998,
+    "to": 2006
+  },
+  {
+    "models": "KTM 300 EGS 10KW",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 1998,
+    "to": 2007
+  },
+  {
+    "models": "KTM 300 EXC SIX-DAYS",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "KTM 380 EGS 8KW",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM 380 EXC",
+    "from": 1998,
+    "to": 2001
+  },
+  {
+    "models": "KTM 380 SX",
+    "from": 1998,
+    "to": 2002
+  }
+]
