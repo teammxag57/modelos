@@ -1,0 +1,52 @@
+[
+  {
+    "models": "KTM 250 EXC-F EUROPE",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "KTM 250 EXC-F SIX DAYS EUROPE",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "KTM 250 SX-F EUROPE",
+    "from": 2013,
+    "to": 2020
+  },
+  {
+    "models": "KTM 350 EXC-F EUROPE",
+    "from": 2012,
+    "to": 2020
+  },
+  {
+    "models": "KTM 350 EXC-F SIX DAYS EUROPE",
+    "from": 2012,
+    "to": 2020
+  },
+  {
+    "models": "KTM 350 SX-F EUROPE",
+    "from": 2011,
+    "to": 2020
+  },
+  {
+    "models": "KTM 400 EXC EUROPE",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 450 EXC EUROPE",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 450 EXC-F EUROPE",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "KTM 450 SX-F EUROPE",
+    "from": 2009,
+    "to": 2020
+  }
+]
