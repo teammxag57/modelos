@@ -1,0 +1,62 @@
+[
+  {
+    "models": "KTM 125 EXC",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "KTM 200 EXC - GS 8kW",
+    "from": 2000,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM 250 EXC M/�",
+    "from": 1997,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC SIX-DAYS",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM 250 SX M/�",
+    "from": 1994,
+    "to": 1997
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM 300 EXC M/�",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM 380 SX",
+    "from": 1998,
+    "to": 2002
+  }
+]
