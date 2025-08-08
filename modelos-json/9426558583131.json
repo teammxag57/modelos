@@ -1,0 +1,107 @@
+[
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2008,
+    "to": 2013
+  },
+  {
+    "models": "KTM 250 EXC-F FACTORY EDIT.",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 250 EXC-F SIX DAYS",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM 350 EXC-F SIX DAYS",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM 400 EXC",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 400 EXC FACTORY EDIT.",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 450 EXC",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "KTM 450 EXC FACTORY EDIT.",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 450 EXC SIX DAYS",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "KTM 450 EXC-R",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "KTM 450 EXC-R SIX DAYS",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "KTM 500 EXC",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM 500 EXC SIX DAYS",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM 530 EXC",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 530 EXC FACTORY EDIT.",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 530 EXC SIX DAYS",
+    "from": 2009,
+    "to": 2009
+  },
+  {
+    "models": "KTM 530 EXC SIX.DAYS",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM 530 EXC-R",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "KTM 530 EXC-R SIX-DAYS",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "KTM FREERIDE 350",
+    "from": 2012,
+    "to": 2013
+  }
+]
