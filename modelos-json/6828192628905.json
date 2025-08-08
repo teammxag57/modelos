@@ -1,0 +1,322 @@
+[
+  {
+    "models": "Gasgas EC 125",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 250",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 250F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 250F IKD",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 300 GP",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 350F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 450F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 500F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas ES 350",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas ES 500",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 250",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 250 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FE 350",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 350 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FE 350 PRO",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 390",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2009,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 450 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FE 501",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 501 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FE 570",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna FS 570",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2012,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 125 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 150i",
+    "from": 2022,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2011,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 250 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 250i",
+    "from": 2022,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2011,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 300 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 300 PRO",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 300i",
+    "from": 2022,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM 150 EXC",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 150 EXC TPI",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM 200 EXC - GS",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM 200 EXC - GS 8kW",
+    "from": 2000,
+    "to": 2000
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 1998,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 EXC E-STARTER",
+    "from": 2010,
+    "to": 2010
+  },
+  {
+    "models": "KTM 250 EXC RACING",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "KTM 250 EXC TPI",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2006,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 1998,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 EXC HARDENDURO",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 EXC TPI",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM 300 EXC-E",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2012,
+    "to": 2025
+  },
+  {
+    "models": "KTM 380 EXC",
+    "from": 1998,
+    "to": 2001
+  },
+  {
+    "models": "KTM 400 EXC",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 400 EXC RACING",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "KTM 450 EXC",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "KTM 450 EXC RACING",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 EXC-R",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "KTM 500 EXC",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 500 EXC-F",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "KTM 520 EXC RACING",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 525 EXC RACING",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 530 EXC",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 530 EXC-R",
+    "from": 2008,
+    "to": 2008
+  }
+]
