@@ -1,0 +1,47 @@
+[
+  {
+    "models": "KTM 125 EXC",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM 125 EXC SIX-DAYS",
+    "from": 2001,
+    "to": 2016
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 1998,
+    "to": 2019
+  },
+  {
+    "models": "KTM 125 SXS",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "KTM 125 XC-W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2011,
+    "to": 2020
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM 200 EXC - GS",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM 200 SX",
+    "from": 2003,
+    "to": ""
+  }
+]
