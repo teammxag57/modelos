@@ -1,0 +1,57 @@
+[
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2015,
+    "to": 2020
+  },
+  {
+    "models": "KTM 250 EXC-F SIX DAYS",
+    "from": 2015,
+    "to": 2020
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2015,
+    "to": 2020
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2015,
+    "to": 2020
+  },
+  {
+    "models": "KTM 350 EXC-F SIX DAYS",
+    "from": 2015,
+    "to": 2020
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2015,
+    "to": 2020
+  },
+  {
+    "models": "KTM 450 EXC",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 450 EXC SIX DAYS",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "KTM 450 EXC-F SIX DAYS",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2013,
+    "to": 2020
+  }
+]
