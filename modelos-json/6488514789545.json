@@ -1,0 +1,297 @@
+[
+  {
+    "models": "Husqvarna FE 250",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna FE 250 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FE 350",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna FE 350 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FE 390",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2009,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna FE 450 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FE 450 s",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna FE 450e/6",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husqvarna FE 501",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna FE 501 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FE 550 s",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "Husqvarna FE 550e/6",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husqvarna FE 570",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna FE 650e/6",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husqvarna FS 450 s",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "Husqvarna FS 450c/6",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "Husqvarna FS 450e/6",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husqvarna FS 550e/6",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna FS 570",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna FS 650c/6",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "Husqvarna FS 650e/6",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna TE 125 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna TE 250 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna TE 300 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 2001,
+    "to": 2015
+  },
+  {
+    "models": "KTM 125 EXE 80",
+    "from": 2001,
+    "to": 2001
+  },
+  {
+    "models": "KTM 125 SUPERMOTO 80",
+    "from": 2001,
+    "to": 2001
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 2002,
+    "to": 2015
+  },
+  {
+    "models": "KTM 200 EXC - GS",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2002,
+    "to": 2015
+  },
+  {
+    "models": "KTM 250 EXC E-STARTER",
+    "from": 2010,
+    "to": 2010
+  },
+  {
+    "models": "KTM 250 EXC RACING",
+    "from": 2002,
+    "to": 2006
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2006,
+    "to": 2015
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2002,
+    "to": 2015
+  },
+  {
+    "models": "KTM 300 EXC-E",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "KTM 380 EXC",
+    "from": 2001,
+    "to": 2001
+  },
+  {
+    "models": "KTM 400 EXC",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 400 EXC RACING",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "KTM 450 EXC",
+    "from": 2009,
+    "to": 2015
+  },
+  {
+    "models": "KTM 450 EXC RACING",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 450 EXC-R",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "KTM 500 EXC",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "KTM 520 EXC RACING",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "KTM 525 EXC RACING",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 MXC DESERT RACING",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 525 XC DESERT RACING",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 530 EXC",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 530 EXC-R",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "KTM 625 SC",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "KTM 625 SC SUPER-MOTO",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "KTM 660 RALLYE",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "KTM 660 SMC",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM FREERIDE",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "KTM FREERIDE 350",
+    "from": 2012,
+    "to": 2014
+  }
+]
