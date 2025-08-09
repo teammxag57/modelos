@@ -1,0 +1,252 @@
+[
+  {
+    "models": "GasGas EC 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas MC 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EC 350F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 350F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas MC 350F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 450F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas MC 450F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Husaberg FE 250",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Husaberg FE 350",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FC 250",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 250",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FC 350",
+    "from": 2015,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 350",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 350 S",
+    "from": 2016,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FX 350",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FC 450",
+    "from": 2016,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FS 450",
+    "from": 2016,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FX 450",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 501",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 501 S",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2013,
+    "to": 2023
+  },
+  {
+    "models": "KTM 250 EXC-F Six Days",
+    "from": 2013,
+    "to": 2023
+  },
+  {
+    "models": "KTM 250 Freeride F",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2013,
+    "to": 2023
+  },
+  {
+    "models": "KTM 250 XC-F / XCF-W",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM 250 XC-F",
+    "from": 2016,
+    "to": 2023
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2012,
+    "to": 2023
+  },
+  {
+    "models": "KTM 350 EXC-F Six Days",
+    "from": 2012,
+    "to": 2023
+  },
+  {
+    "models": "KTM 350 Freeride",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2011,
+    "to": 2023
+  },
+  {
+    "models": "KTM 350 XC-F",
+    "from": 2012,
+    "to": 2023
+  },
+  {
+    "models": "KTM 350 XCF-W",
+    "from": 2012,
+    "to": 2022
+  },
+  {
+    "models": "KTM 400 EXC",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 400 XC-W",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM 450 EXC-R",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM 450 EXC-F Six Days",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2016,
+    "to": 2023
+  },
+  {
+    "models": "KTM 450 XC-F / XC-WR",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM 450 XC-F",
+    "from": 2016,
+    "to": 2023
+  },
+  {
+    "models": "KTM 450 XC-W",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM 500 EXC-F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM 500 EXC-F Six Days",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM 500 XCF-W",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM 505 SX-F",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 505 XC-F",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 530 EXC-R",
+    "from": 2008,
+    "to": 2011
+  }
+]
