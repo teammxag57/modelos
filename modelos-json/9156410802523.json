@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Honda CRM 125",
+    "from": 1986,
+    "to": 1996
+  },
+  {
+    "models": "Honda MTX 125",
+    "from": 1983,
+    "to": 1990
+  },
+  {
+    "models": "Honda NSR 125",
+    "from": 1983,
+    "to": 2001
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM XC-W 200",
+    "from": 2006,
+    "to": 2016
+  }
+]
