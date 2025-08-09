@@ -1,0 +1,117 @@
+[
+  {
+    "models": "Honda CR250R",
+    "from": 1984,
+    "to": 2004
+  },
+  {
+    "models": "Husqvarna 250",
+    "from": 1983,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna CR 250",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "Husqvarna WR 250",
+    "from": 2002,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR 300",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "Kawasaki KDX200",
+    "from": 1983,
+    "to": 2006
+  },
+  {
+    "models": "Kawasaki KDX220",
+    "from": 1997,
+    "to": 2005
+  },
+  {
+    "models": "Kawasaki KX250",
+    "from": 1987,
+    "to": 2008
+  },
+  {
+    "models": "Ktm 200 EXC",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "Ktm 200 SX",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "Ktm 200 XC",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "Ktm 200 XC-W",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "Ktm 250 EXC",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "Ktm 250 SX",
+    "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "Ktm 250 SXS",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "Ktm 300 EXC",
+    "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "Ktm 380 EXC",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Ktm 380 SX",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Suzuki RM250",
+    "from": 1989,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RM250Z",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "Suzuki RMX250",
+    "from": 1989,
+    "to": 1997
+  },
+  {
+    "models": "Yamaha YZ250",
+    "from": 1989,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ250X",
+    "from": 2016,
+    "to": 2024
+  }
+]
