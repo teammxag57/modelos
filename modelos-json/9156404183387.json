@@ -1,0 +1,32 @@
+[
+  {
+    "models": "KTM EXC 200",
+    "from": 1998,
+    "to": 2014
+  },
+  {
+    "models": "KTM MXC 200",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM XC 200",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "YAMAHA DT 125 LC",
+    "from": 1982,
+    "to": 1986
+  },
+  {
+    "models": "YAMAHA RD 125 LC",
+    "from": 1985,
+    "to": 1990
+  }
+]
