@@ -1,0 +1,222 @@
+[
+  {
+    "models": "Beta 125 RR",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Beta 125 RR RACE EDITION",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "Beta 125 RR X-PRO",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta 200 RR",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Beta 200 RR RACE EDITION",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Beta 200 RR X-PRO",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Gasgas EC 250",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EX 250",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EX 300",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC 125",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 150i",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 250i",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 300i",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TX 300i",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 125 SX",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 125 XC",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 125 XC-W",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Ktm 150 EXC TPI",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Ktm 150 SX",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 150 XC-W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Ktm 150 XC-W TPI",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "Ktm 150 XC-W TPI",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Ktm 250 EXC TPI",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "Ktm 250 SX",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 250 XC",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Ktm 250 XC TPI",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 250 XC-W",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Ktm 250 XC-W TPI",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "Ktm 300 EXC",
+    "from": 2021,
+    "to": ""
+  },
+  {
+    "models": "Ktm 300 EXC TPI",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "Ktm 300 XC",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Ktm 300 XC TPI",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 300 XC-W",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Ktm 300 XC-W TPI",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Ktm 300 XC-W TPI ERZBERG",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "Ktm 300 XC-W TPI SIX DAYS",
+    "from": 2019,
+    "to": 2020
+  }
+]
