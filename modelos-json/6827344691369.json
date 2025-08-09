@@ -50,11 +50,6 @@
     "to": 2025
   },
   {
-    "models": "Gasgas MC 125 BT",
-    "from": 2023,
-    "to": 2023
-  },
-  {
     "models": "Gasgas MC 150",
     "from": 2025,
     "to": 2025
@@ -65,19 +60,9 @@
     "to": 2025
   },
   {
-    "models": "Gasgas MC 250 BT",
-    "from": 2023,
-    "to": 2023
-  },
-  {
     "models": "Gasgas MC 250F",
     "from": 2021,
     "to": 2025
-  },
-  {
-    "models": "Gasgas MC 250F BT",
-    "from": 2023,
-    "to": 2023
   },
   {
     "models": "Gasgas MC 300",
@@ -90,19 +75,9 @@
     "to": 2025
   },
   {
-    "models": "Gasgas MC 350F BT",
-    "from": 2023,
-    "to": 2023
-  },
-  {
     "models": "Gasgas MC 450F",
     "from": 2021,
     "to": 2025
-  },
-  {
-    "models": "Gasgas MC 450F BT",
-    "from": 2023,
-    "to": 2023
   },
   {
     "models": "Gasgas MC 50",
@@ -240,19 +215,9 @@
     "to": 2025
   },
   {
-    "models": "Husqvarna FX 350 BT",
-    "from": 2023,
-    "to": 2023
-  },
-  {
     "models": "Husqvarna FX 450",
     "from": 2022,
     "to": 2025
-  },
-  {
-    "models": "Husqvarna FX 450 BT",
-    "from": 2023,
-    "to": 2023
   },
   {
     "models": "Husqvarna HUSQVARNA NORDEN 901",
@@ -393,11 +358,6 @@
     "models": "Husqvarna TX 300",
     "from": 2023,
     "to": 2025
-  },
-  {
-    "models": "Husqvarna TX 300 BT",
-    "from": 2023,
-    "to": 2023
   },
   {
     "models": "Husqvarna TX 300i",
