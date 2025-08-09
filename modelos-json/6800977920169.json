@@ -1,0 +1,397 @@
+[
+  {
+    "models": "Gasgas EC 250",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EC 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EC 250F IKD",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EC 350F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EX 250",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EX 250 BT",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EX 300",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EX 300 BT",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 450 s",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna FE 450e/6",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husqvarna FE 550 s",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "Husqvarna FE 550e/6",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husqvarna FE 650e/6",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husqvarna FS 450c/6",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "Husqvarna FS 450e/6",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husqvarna FS 550e/6",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna FS 650c/6",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husqvarna FS 650e/6",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna TC 125 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna TC 250 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TC 50",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TC 50 MINI",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TC 65",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TC 85 17/14",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TC 85 17/14 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TC 85 19/16",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TC 85 19/16 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 125 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2011,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna TE 250 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 250i",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2011,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna TE 300 HQV",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 300i",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 105 SX",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 2000,
+    "to": 2016
+  },
+  {
+    "models": "KTM 125 EXE 100",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM 125 EXE 80",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM 125 SUPERMOTO 100",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM 125 SUPERMOTO 80",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2000,
+    "to": 2018
+  },
+  {
+    "models": "KTM 125 SXS",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "KTM 125 XC-W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2011,
+    "to": 2018
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 2000,
+    "to": 2016
+  },
+  {
+    "models": "KTM 200 EXC - GS",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM 200 EXC - GS 8kW",
+    "from": 2000,
+    "to": 2000
+  },
+  {
+    "models": "KTM 200 SX",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2000,
+    "to": 2017
+  },
+  {
+    "models": "KTM 250 EXC E-STARTER",
+    "from": 2010,
+    "to": 2010
+  },
+  {
+    "models": "KTM 250 EXC TPI",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2000,
+    "to": 2018
+  },
+  {
+    "models": "KTM 250 SXS",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2000,
+    "to": 2017
+  },
+  {
+    "models": "KTM 300 EXC TPI",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "KTM 300 EXC-E",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 380 EXC",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM 380 SX",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 50 JUNIOR ADVENTURE",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "KTM 50 MINI ADVENTURE",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "KTM 50 MINI ADVENTURE GS",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "KTM 50 SENIOR ADVENTURE",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 50 SUPERMOTO",
+    "from": 2006,
+    "to": 2006
+  },
+  {
+    "models": "KTM 50 SX",
+    "from": 2006,
+    "to": 2023
+  },
+  {
+    "models": "KTM 50 SX JUNIOR",
+    "from": 2006,
+    "to": 2006
+  },
+  {
+    "models": "KTM 50 SX MINI",
+    "from": 2009,
+    "to": 2022
+  },
+  {
+    "models": "KTM 50 SX PRO JUNIOR LC",
+    "from": 2002,
+    "to": 2005
+  },
+  {
+    "models": "KTM 50 SX PRO SENIOR LC",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "KTM 60 SX",
+    "from": 2000,
+    "to": 2000
+  },
+  {
+    "models": "KTM 65 SX",
+    "from": 2000,
+    "to": 2023
+  },
+  {
+    "models": "KTM 65 XC",
+    "from": 2009,
+    "to": 2009
+  },
+  {
+    "models": "KTM 85 SX",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 85 SX 17/14",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "KTM 85 SX 19/16",
+    "from": 2005,
+    "to": 2024
+  }
+]
