@@ -1,0 +1,22 @@
+[
+  {
+    "models": "KTM SX 50",
+    "from": 2009,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX 65",
+    "from": 2000,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TC 50",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TC 65",
+    "from": 2017,
+    "to": 2024
+  }
+]
