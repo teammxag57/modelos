@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Beta 50 RK6 ENDURO",
+    "from": 1997,
+    "to": 2002
+  },
+  {
+    "models": "Beta 50 ST",
+    "from": 1997,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 60",
+    "from": 1997,
+    "to": 1999
+  },
+  {
+    "models": "KTM SX 65",
+    "from": 2000,
+    "to": 2008
+  },
+  {
+    "models": "KTM XC 65",
+    "from": 2008,
+    "to": ""
+  }
+]
