@@ -1,0 +1,112 @@
+[
+  {
+    "models": "Beta 250 RR",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Beta 250 RR RACE EDITION",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "Beta 250 RR X-PRO",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta 300 RR",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Beta 300 RR RACE EDITION",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "Beta 300 RR X-PRO",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta 300 RX",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "Beta EVO FACTORY 300",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "Beta XTRAINER",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2004,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 SXS",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 2006,
+    "to": 2014
+  },
+  {
+    "models": "KTM 250 XC-W",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM 300 EXC-E",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM 300 MXC",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM 300 XC",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM 300 XC-W",
+    "from": 2006,
+    "to": 2016
+  }
+]
