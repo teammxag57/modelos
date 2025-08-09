@@ -1,0 +1,237 @@
+[
+  {
+    "models": "KTM 125 EXC",
+    "from": 2004,
+    "to": 2016
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "KTM 125 SXS",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM 150 EXC",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 150 EXC TPI",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2011,
+    "to": 2025
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 2004,
+    "to": 2016
+  },
+  {
+    "models": "KTM 200 SX",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 EXC E-STARTER",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC RACING",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM 250 EXC TPI",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2006,
+    "to": 2026
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2006,
+    "to": 2026
+  },
+  {
+    "models": "KTM 250 SXS",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 250 SXS-F",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 EXC HARDENDURO",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 EXC TPI",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM 300 EXC-E",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 300 SX",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2012,
+    "to": 2026
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2011,
+    "to": 2026
+  },
+  {
+    "models": "KTM 400 EXC",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 400 EXC RACING",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM 450 EXC",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "KTM 450 EXC RACING",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "KTM 450 EXC-R",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 SX",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 SX RACING",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2007,
+    "to": 2026
+  },
+  {
+    "models": "KTM 450 SXS",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 SXS RACING",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 450 SXS-F",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 500 EXC",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 500 EXC-F",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "KTM 505 SX-F",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM 525 EXC RACING",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 SX",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM 525 SX RACING",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM 525 SX SUPERMOTO",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM 530 EXC",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 530 EXC-R",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM 540 SXS",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM 540 SXS RACING",
+    "from": 2003,
+    "to": 2005
+  }
+]
