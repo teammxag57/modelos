@@ -1,0 +1,1352 @@
+[
+  {
+    "models": "GASGAS EC 125 (Braktec caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "GASGAS EC 250",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS EC 250 F",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS EC 300",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS EC 300 GP",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "GASGAS EC 350 F",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS EC 450 F",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS EC 500 F",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS ES 350",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS ES 500",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS EW 500 F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "GASGAS EX 250 (Braktec caliper)",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS EX 250 (Brembo caliper)",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "GASGAS EX 250 F (Braktec caliper)",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS EX 250 F (Brembo caliper)",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS EX 300 (Braktec caliper)",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS EX 300 (Brembo caliper)",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS EX 350 F (Braktec caliper)",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS EX 350 F (Brembo caliper)",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS EX 450 F (Braktec caliper)",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS EX 450 F (Brembo caliper)",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS MC 125 (Braktec caliper)",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS MC 125 (Brembo caliper)",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS MC 250 (Braktec caliper)",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS MC 250 (Brembo caliper)",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS MC 250 F (Braktec caliper)",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS MC 250 F (Brembo caliper)",
+    "from": 2022,
+    "to": 2022
+  },
+  {
+    "models": "GASGAS MC 250 F Factory edition (Brembo caliper)",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "GASGAS MC 300",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "GASGAS MC 350 F (Braktec caliper)",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS MC 350 F (Brembo caliper)",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS MC 450 F (Braktec caliper)",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS MC 450 F (Brembo caliper)",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS MC 450 F Factory edition (Brembo caliper)",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS MC 450 F Prado edition (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "GASGAS MC 85 17/14",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "GASGAS MC 85 19/16",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "HUSABERG FE 250",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "HUSABERG FE 350",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "HUSABERG FE 390",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "HUSABERG FE 450",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "HUSABERG FE 501",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "HUSABERG FE 570",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "HUSABERG FS 570",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "HUSABERG FX 450",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "HUSABERG TE 125",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "HUSABERG TE 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "HUSABERG TE 300",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "HUSQVARNA FC 250 (Brembo caliper)",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "HUSQVARNA FC 250 (Magura caliper)",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FC 250 Factory Edition (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FC 350 (Brembo caliper)",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "HUSQVARNA FC 350 (Magura caliper)",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FC 350 Heritage (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FC 450 (Brembo caliper)",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "HUSQVARNA FC 450 (Magura caliper)",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FC 450 Factory Edition (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FE 250 (Braktec caliper)",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA FE 250 (Brembo caliper)",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "HUSQVARNA FE 250 (Magura caliper)",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "HUSQVARNA FE 250 Heritage",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FE 350 (Braktec caliper)",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA FE 350 (Brembo caliper)",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "HUSQVARNA FE 350 (Magura caliper)",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "HUSQVARNA FE 350 Heritage (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FE 350 Pro (Brembo caliper)",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "HUSQVARNA FE 350 s (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FE 350 s Heritage (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FE 350 w (Braktec caliper)",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FE 450 (Braktec caliper)",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA FE 450 (Brembo caliper)",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "HUSQVARNA FE 450 (Magura caliper)",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "HUSQVARNA FE 450 Heritage (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FE 501 (Braktec caliper)",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA FE 501 (Brembo caliper)",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "HUSQVARNA FE 501 (Magura caliper)",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "HUSQVARNA FE 501 Heritage (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FE 501 s (Braktec caliper)",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA FE 501 s (Brembo caliper)",
+    "from": 2016,
+    "to": 2016
+  },
+  {
+    "models": "HUSQVARNA FE 501 s (Magura caliper)",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "HUSQVARNA FE 501 s Heritage (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FE 501 w (Braktec caliper)",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FS 450",
+    "from": 2016,
+    "to": 2025
+  },
+  {
+    "models": "HUSQVARNA FX 350 (Braktec caliper)",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FX 350 (Brembo caliper)",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "HUSQVARNA FX 350 (Magura caliper)",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "HUSQVARNA FX 350 Heritage (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FX 450 (Braktec caliper)",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA FX 450 (Brembo caliper)",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "HUSQVARNA FX 450 (Magura caliper)",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "HUSQVARNA TC 125 (Brembo caliper)",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "HUSQVARNA TC 125 (Magura caliper)",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TC 125 Heritage",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TC 150",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TC 150 Heritage",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TC 250 (Brembo caliper)",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "HUSQVARNA TC 250 (Magura caliper)",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TC 250 Heritage (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TC 300 (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TC 300 Heritage (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TC 85 (17/14)",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA TC 85 (19/16)",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA TE 125",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "HUSQVARNA TE 150 (Braktec caliper)",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TE 150 (Brembo caliper)",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TE 150 (Magura caliper)",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "HUSQVARNA TE 150 i (Braktec caliper)",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TE 150 i (Magura caliper)",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "HUSQVARNA TE 250 (Braktec caliper)",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TE 250 (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TE 250 2T (Brembo caliper)",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "HUSQVARNA TE 250 2T (Magura caliper)",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TE 250 Heritage (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TE 250 i (Braktec caliper)",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TE 250 i (Magura caliper)",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "HUSQVARNA TE 300 (Braktec caliper)",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TE 300 (Brembo caliper)",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "HUSQVARNA TE 300 (Magura caliper)",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TE 300 Heritage (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TE 300 i (Braktec caliper)",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TE 300 i (Magura caliper)",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "HUSQVARNA TE 300 Pro (Brembo caliper)",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TX 125 (Brembo caliper)",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TX 125 (Magura caliper)",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "HUSQVARNA TX 300 (Braktec caliper)",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TX 300 (Brembo caliper)",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "HUSQVARNA TX 300 (Magura caliper)",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "HUSQVARNA TX 300 Heritage (Brembo caliper)",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TX 300 i (Brembo caliper)",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "HUSQVARNA TX 300 i (Magura caliper)",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 2000,
+    "to": 2017
+  },
+  {
+    "models": "KTM 125 EXC Six Days",
+    "from": 2002,
+    "to": 2016
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 1992,
+    "to": 2025
+  },
+  {
+    "models": "KTM 125 XC",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "KTM 125 XC-W",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "KTM 150 EXC",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 150 EXC TPI",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2008,
+    "to": 2025
+  },
+  {
+    "models": "KTM 150 XC",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM 150 XC-W",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "KTM 150 XC-W TPI",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 1999,
+    "to": 2016
+  },
+  {
+    "models": "KTM 200 SX",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM 200 XC",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 200 XC-W",
+    "from": 1999,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2000,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 EXC Champion Edition",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC Six Days",
+    "from": 2002,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 EXC TPI",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "KTM 250 EXC TPI Six Days",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2000,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 EXC-F Champion Edition",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC-F Six Days",
+    "from": 2008,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 1991,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 SX-F Adamo Edition",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 SX-F Factory Edition",
+    "from": 2016,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 1991,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 XC TPI",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "KTM 250 XC-F",
+    "from": 2008,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 XCF-W",
+    "from": 2007,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 XC-W",
+    "from": 2000,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 XC-W TPI",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 1995,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 EXC Champion Edition",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM 300 EXC HARDENDURO",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 EXC Six Days",
+    "from": 2002,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 EXC TPI",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "KTM 300 EXC TPI Erzberg rodeo",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "KTM 300 EXC TPI Six Days",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "KTM 300 SX",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 XC",
+    "from": 2008,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 XC TPI",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "KTM 300 XC-W",
+    "from": 1995,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 XC-W Champion Edition",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM 300 XC-W Factory Edition",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM 300 XC-W HARDENDURO",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 XC-W Six Days",
+    "from": 2002,
+    "to": 2018
+  },
+  {
+    "models": "KTM 300 XC-W TPI",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM 350",
+    "from": 1993,
+    "to": 1995
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 EXC-F Champion Edition",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM 350 EXC-F Six Days",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2012,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 XC-F",
+    "from": 2012,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 XC-F Factory Edition",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 XCF-W",
+    "from": 2011,
+    "to": 2022
+  },
+  {
+    "models": "KTM 350 XCF-W Six Days",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "KTM 350 XW-F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM 360 MX",
+    "from": 1997,
+    "to": 1997
+  },
+  {
+    "models": "KTM 360 SX",
+    "from": 1996,
+    "to": 1996
+  },
+  {
+    "models": "KTM 380 SX",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "KTM 400 EXC",
+    "from": 2001,
+    "to": 2011
+  },
+  {
+    "models": "KTM 400 EXC Six Days",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "KTM 400 LC4",
+    "from": 1995,
+    "to": 1999
+  },
+  {
+    "models": "KTM 400 LC4 EGS",
+    "from": 1997,
+    "to": 2002
+  },
+  {
+    "models": "KTM 400 SX",
+    "from": 2001,
+    "to": 2010
+  },
+  {
+    "models": "KTM 400 XCF-W",
+    "from": 2001,
+    "to": 2009
+  },
+  {
+    "models": "KTM 400 XCF-W Six Days",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "KTM 440",
+    "from": 1995,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 EXC",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "KTM 450 EXC Six Days",
+    "from": 2004,
+    "to": 2016
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 EXC-F Champion Edition",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 EXC-F Six Days",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 EXC-R",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 SMR",
+    "from": 2006,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 SX-F Factory Edition",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 XC-F",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 XCF-W",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 XC-W",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "KTM 450 XC-W Six Days",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 500",
+    "from": 1993,
+    "to": 1995
+  },
+  {
+    "models": "KTM 500 EXC",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 500 EXC Six Days",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 500 EXC-F",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "KTM 500 EXC-F Six Days",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "KTM 500 XCF-W",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "KTM 500 XC-W",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 500 XW-F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM 505 SX",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "KTM 505 XC-F",
+    "from": 2010,
+    "to": 2010
+  },
+  {
+    "models": "KTM 520 EXC",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM 520 SX-F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM 525 EXC",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 EXC Six Days",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 SC",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 SMR",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 SX-F",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 XC",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 XCF-W",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 XCF-W Six Days",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM 530 EXC",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "KTM 530 EXC Champion Edition",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM 530 EXC Factory Edition",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "KTM 530 EXC Six Days",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM 530 EXC-R",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM 530 XCF-W",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM 530 XCF-W Champion Edition",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM 530 XCF-W Factory Edition",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "KTM 530 XCF-W Six Days",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM 540 LC4",
+    "from": 2000,
+    "to": ""
+  },
+  {
+    "models": "KTM 560 SMR",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM 600 LC4",
+    "from": 1993,
+    "to": 1993
+  },
+  {
+    "models": "KTM 620 Duke",
+    "from": 1995,
+    "to": 1998
+  },
+  {
+    "models": "KTM 620 LC4 Adventure",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "KTM 620 LC4 EGS",
+    "from": 1997,
+    "to": 2002
+  },
+  {
+    "models": "KTM 625 LC4 SC",
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "KTM 625 LC4 SMC",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "KTM 625 LC4 SXC",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM 640 Duke II",
+    "from": 2000,
+    "to": 2008
+  },
+  {
+    "models": "KTM 640 LC4",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "KTM 640 LC4 Adventure",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM 640 LC4 Adventure R",
+    "from": 1999,
+    "to": 2004
+  },
+  {
+    "models": "KTM 640 LC4 Enduro",
+    "from": 2000,
+    "to": 2006
+  },
+  {
+    "models": "KTM 640 LC4 Supermoto",
+    "from": 2000,
+    "to": 2006
+  },
+  {
+    "models": "KTM 640 LC4-E Supermoto",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 660 LC4 Rally",
+    "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "KTM 660 LC4 SMC",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM 85 SX (17/14)",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "KTM 85 SX (19/16)",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "KTM Freeride E-XC E-Bike",
+    "from": 2022,
+    "to": 2022
+  },
+  {
+    "models": "KTM MX 300",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM MX 380",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "KTM RC4R 250",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "STARK Varg E-Bike EX",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "STARK Varg E-Bike MX",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "TRIUMPH TF 250 X",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "TRIUMPH TF 450 RC",
+    "from": 2026,
+    "to": ""
+  }
+]
