@@ -1,0 +1,22 @@
+[
+  {
+    "models": "KTM EXC 125",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2009,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2009,
+    "to": 2015
+  }
+]
