@@ -1,0 +1,62 @@
+[
+  {
+    "models": "Husaberg TE 125",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2016,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 105",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2008,
+    "to": 2019
+  },
+  {
+    "models": "KTM SX 144",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2009,
+    "to": 2019
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2009,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 105",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM XC-W 150",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Yamaha YZ 65",
+    "from": 2018,
+    "to": 2022
+  }
+]
