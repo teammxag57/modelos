@@ -2,12 +2,17 @@
   {
     "models": "Beta 125 RR 2T",
     "from": 2018,
-    "to": 2022
+    "to": 2023
   },
   {
-    "models": "Gas Gas MC 125",
-    "from": 2020,
-    "to": 2022
+    "models": "Gasgas EC 125",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 125",
+    "from": 2021,
+    "to": 2025
   },
   {
     "models": "Husaberg TE 125",
@@ -22,7 +27,7 @@
   {
     "models": "Husqvarna TC 250",
     "from": 2014,
-    "to": 2022
+    "to": 2025
   },
   {
     "models": "Husqvarna TE 125",
@@ -67,7 +72,7 @@
   {
     "models": "KTM SX 125",
     "from": 1994,
-    "to": 2022
+    "to": 2025
   },
   {
     "models": "KTM SX 144",
