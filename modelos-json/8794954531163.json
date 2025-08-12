@@ -1,0 +1,72 @@
+[
+  {
+    "models": "BETA RR 250 2T",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "BETA RR 250 2T RAC.",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "BETA RR 300 2T",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "BETA RR 300 2T RAC.",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "GASGAS EC 250",
+    "from": 1998,
+    "to": 2024
+  },
+  {
+    "models": "GASGAS EC 300",
+    "from": 1998,
+    "to": 2024
+  },
+  {
+    "models": "GASGAS MC 250",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "HUSABERG TE 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "HUSABERG TE 300",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "HUSQVARNA TE 250",
+    "from": 2015,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA TE 300",
+    "from": 2015,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2004,
+    "to": 2024
+  }
+]
