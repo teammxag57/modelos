@@ -1,0 +1,77 @@
+[
+  {
+    "models": "GAS GAS EC 250",
+    "from": 2008,
+    "to": 2024
+  },
+  {
+    "models": "GAS GAS EC 300",
+    "from": 1998,
+    "to": 2024
+  },
+  {
+    "models": "GAS GAS MC 250",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "RIEJU MR 200 PRO&nbsp;",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "RIEJU MR 200 RACING",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "RIEJU MR 200 RANGER",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "RIEJU MR 250 PRO",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "RIEJU MR 250 RACING",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "RIEJU MR 300 PRO",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "RIEJU MR 300 RACING",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "RIEJU MR 300 RANGER",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "SHERCO SE 250 R 2T FAC.",
+    "from": 2013,
+    "to": 2023
+  },
+  {
+    "models": "SHERCO SE 250 R 2T RAC.",
+    "from": 2013,
+    "to": 2023
+  },
+  {
+    "models": "SHERCO SE 300 R 2T FAC.",
+    "from": 2013,
+    "to": 2023
+  },
+  {
+    "models": "SHERCO SE 300 R 2T RAC.",
+    "from": 2013,
+    "to": 2023
+  }
+]
