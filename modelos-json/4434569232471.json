@@ -1,0 +1,42 @@
+[
+  {
+    "models": "Husaberg TE 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2007,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 SXS",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 2007,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 XC-W",
+    "from": 2007,
+    "to": 2016
+  }
+]
