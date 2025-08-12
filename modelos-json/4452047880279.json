@@ -1,0 +1,52 @@
+[
+  {
+    "models": "Fantic XE 125",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Fantic XX 125",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Honda CR 125R",
+    "from": 1992,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna CR 125",
+    "from": 1997,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna SM 125",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna SM 125S",
+    "from": 1998,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna WR 125",
+    "from": 1997,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WRE 125",
+    "from": 1998,
+    "to": 2010
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2001,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 125X",
+    "from": 2020,
+    "to": 2023
+  }
+]
