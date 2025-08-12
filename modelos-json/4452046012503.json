@@ -1,0 +1,137 @@
+[
+  {
+    "models": "Beta RR 2T 250",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Beta RR 2T 250",
+    "from": 2018,
+    "to": 2021
+  },
+  {
+    "models": "GasGas EC 250",
+    "from": 1997,
+    "to": 2013
+  },
+  {
+    "models": "GasGas EC 250",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "GasGas EC 300",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "GasGas EX 250",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "GasGas EX 300",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "GasGas MC 250",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Husaberg TE 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "KTM 250 EGS",
+    "from": 1990,
+    "to": 1995
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 1990,
+    "to": 2021
+  },
+  {
+    "models": "KTM 250 GS",
+    "from": 1990,
+    "to": 1994
+  },
+  {
+    "models": "KTM 250 MX",
+    "from": 1990,
+    "to": 1994
+  },
+  {
+    "models": "KTM 250 MXC",
+    "from": 2000,
+    "to": 2005
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 1990,
+    "to": 2020
+  },
+  {
+    "models": "KTM 250 SXS",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 2006,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 XC-W",
+    "from": 2006,
+    "to": 2021
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2004,
+    "to": 2021
+  },
+  {
+    "models": "KTM 300 MXC",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM 300 XC",
+    "from": 2008,
+    "to": 2021
+  },
+  {
+    "models": "KTM 300 XC-W",
+    "from": 2008,
+    "to": 2021
+  },
+  {
+    "models": "KTM Freeride 250 R",
+    "from": 2014,
+    "to": 2017
+  }
+]
