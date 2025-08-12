@@ -1,0 +1,107 @@
+[
+  {
+    "models": "KTM 125 SX",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM 125 XC-W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM 150 XC-W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "KTM 250 XC-F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM 250 XC-W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 300 XC",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "KTM 300 XC-W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM 350 XC-F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM 450 XC-F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM 500 EXC-F",
+    "from": 2017,
+    "to": 2019
+  }
+]
