@@ -1,0 +1,142 @@
+[
+  {
+    "models": "KTM 125 EXC",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM 150 XC",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 200 XC-W",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 XC-F",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM 250 XC-W",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 XCF-W",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 300 XC",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "KTM 300 XC-W",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM 350 XC-F",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM 350 XCF-W",
+    "from": 2012,
+    "to": 2019
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 450 SMR",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM 450 XC-F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM 450 XCF-W",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 500 EXC-F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM 500 XCF-W",
+    "from": 2012,
+    "to": 2019
+  }
+]
