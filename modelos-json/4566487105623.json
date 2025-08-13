@@ -1,0 +1,137 @@
+[
+  {
+    "models": "Gas Gas MC 125",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gas Gas MC 250 F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gas Gas MC 450 F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FC 250",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FC 350",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FC 450",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FS 450",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna FX 350",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FX 450",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TC 300",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 125 SX",
+    "from": 2013,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 150 SX",
+    "from": 2013,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 250 SX",
+    "from": 2013,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 250 SX-F",
+    "from": 2013,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 250 SX-F Factory Edition",
+    "from": 2016,
+    "to": 2021
+  },
+  {
+    "models": "Ktm 250 XC",
+    "from": 2013,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 250 XC-F",
+    "from": 2013,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 300 XC",
+    "from": 2013,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 350 SX-F",
+    "from": 2013,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 350 XC-F",
+    "from": 2013,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 450 SMR",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Ktm 450 SX-F",
+    "from": 2013,
+    "to": 2022
+  },
+  {
+    "models": "Ktm 450 SX-F Factory Edition",
+    "from": 2016,
+    "to": 2021
+  },
+  {
+    "models": "Ktm 450 XC-F",
+    "from": 2013,
+    "to": 2022
+  }
+]
