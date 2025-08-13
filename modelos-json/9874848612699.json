@@ -1,0 +1,52 @@
+[
+  {
+    "models": "Gasgas MC 65",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 85 17/14",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 85 19/16",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 65",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TC 85 17/14",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TC 85 19/16",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "KTM 105 SX",
+    "from": 2004,
+    "to": 2011
+  },
+  {
+    "models": "KTM 65 SX",
+    "from": 2002,
+    "to": 2025
+  },
+  {
+    "models": "KTM 85 SX 17/14",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "KTM 85 SX 19/16",
+    "from": 2004,
+    "to": 2024
+  }
+]
