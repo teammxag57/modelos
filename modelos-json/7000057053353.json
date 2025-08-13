@@ -1,0 +1,127 @@
+[
+  {
+    "models": "Husqvarna FC 4T 250",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna FC 4T 350",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna FC 4T 450",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FE 4T 350",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna FE 4T 450",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna FE 4T 501",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna FS 4T 450",
+    "from": 2015,
+    "to": 2020
+  },
+  {
+    "models": "KTM EXC 2T 300",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 2T TPI",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 2T TPI Six Days",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 4T 500",
+    "from": 2012,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC F 4T 250",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC F 4T 350",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "KTM EXC-F 450",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM Freeride 350",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "KTM SX 2T 250",
+    "from": 2013,
+    "to": 2018
+  },
+  {
+    "models": "KTM SXF 4T 250",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM SXF 4T 350",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM SXF 4T 450",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM XCF 4T (USA) 250",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM XCF 4T (USA) 350",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM XCF-W 4T (USA) 350",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC-W 2T (USA) 250",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 4T (USA) 450",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC-W 4T (USA) 500",
+    "from": 2012,
+    "to": 2013
+  }
+]
