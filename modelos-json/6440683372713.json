@@ -1,0 +1,57 @@
+[
+  {
+    "models": "Kawasaki KLX 400",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki KLX 450",
+    "from": 2008,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 1993,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 1993,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2004,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2006,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KX 500",
+    "from": 1994,
+    "to": 2004
+  },
+  {
+    "models": "Suzuki DR-Z 400",
+    "from": 2000,
+    "to": 2016
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 1996,
+    "to": 2000
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 1996,
+    "to": 2000
+  },
+  {
+    "models": "Suzuki RM-Z 250",
+    "from": 2004,
+    "to": 2006
+  }
+]
