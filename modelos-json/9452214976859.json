@@ -1,0 +1,52 @@
+[
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 250 EXC FACTORY EDITION",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "KTM 250 EXC SIX-DAYS",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 300 EXC FACTORY EDITION",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "KTM 300 EXC SIX-DAYS",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM FREERIDE 250R",
+    "from": 2014,
+    "to": 2017
+  }
+]
