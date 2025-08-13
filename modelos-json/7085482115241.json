@@ -1,0 +1,97 @@
+[
+  {
+    "models": "Gasgas Endurocross 200",
+    "from": 2006,
+    "to": 2012
+  },
+  {
+    "models": "Gasgas Endurocross 250",
+    "from": 2006,
+    "to": 2012
+  },
+  {
+    "models": "Gasgas Endurocross 300",
+    "from": 2006,
+    "to": 2012
+  },
+  {
+    "models": "Honda CR 250",
+    "from": 1986,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 200",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Kawasaki KDX 200",
+    "from": 1990,
+    "to": 2006
+  },
+  {
+    "models": "Kawasaki KDX 220",
+    "from": 1990,
+    "to": 2006
+  },
+  {
+    "models": "Kawasaki KDX 250",
+    "from": 1997,
+    "to": 2012
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 1993,
+    "to": 2005
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2008,
+    "to": 2013
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2006,
+    "to": 2013
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "TM EN 250",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "TM MX 250",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1997,
+    "to": 2007
+  }
+]
