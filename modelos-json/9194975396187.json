@@ -1,0 +1,72 @@
+[
+  {
+    "models": "Beta RR 125 2T",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 250 2T",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 250 2T Racing",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 300 2T",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 300 2T Racing",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 350 4T",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 350 4T Racing",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 390 4T",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 430 4T",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 430 4T Racing",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 480 4T",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 480 4T Racing",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna Nuda 900",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna Nuda 900 R",
+    "from": 2012,
+    "to": 2013
+  }
+]
