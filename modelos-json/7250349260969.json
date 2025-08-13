@@ -1,0 +1,77 @@
+[
+  {
+    "models": "Suzuki DR-Z  400",
+    "from": 1900,
+    "to": 2012
+  },
+  {
+    "models": "Suzuki DR-Z 400",
+    "from": 1900,
+    "to": 2003
+  },
+  {
+    "models": "Suzuki DR-Z 400",
+    "from": 1900,
+    "to": 2004
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 1996,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RMX 250",
+    "from": 1989,
+    "to": 1995
+  },
+  {
+    "models": "Yamaha W- F 450",
+    "from": 2003,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha WR 2T 125",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "Yamaha WR-F 250",
+    "from": 2001,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha WR-F 400",
+    "from": 2001,
+    "to": 2001
+  },
+  {
+    "models": "Yamaha WR-F 426",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2001,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 2001,
+    "to": 2017
+  },
+  {
+    "models": "Yamaha YZ-F 250",
+    "from": 2001,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha YZ-F 426",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ-F 450",
+    "from": 2003,
+    "to": 2015
+  }
+]
