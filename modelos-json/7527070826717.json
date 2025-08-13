@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Husaberg FE E 550",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FS 650",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FS E 650",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM SXF 4T 450",
+    "from": 2007,
+    "to": 2011
+  },
+  {
+    "models": "KTM SXF ATV 450",
+    "from": 2009,
+    "to": 2011
+  }
+]
