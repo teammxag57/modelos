@@ -1,0 +1,97 @@
+[
+  {
+    "models": "Aprilia RXV 450",
+    "from": 2006,
+    "to": 2012
+  },
+  {
+    "models": "Aprilia RXV 550",
+    "from": 2006,
+    "to": 2012
+  },
+  {
+    "models": "Aprilia SXV 450",
+    "from": 2006,
+    "to": 2012
+  },
+  {
+    "models": "Aprilia SXV 550",
+    "from": 2006,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2014,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KLX 450R",
+    "from": 2008,
+    "to": 2017
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2004,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2006,
+    "to": 2018
+  },
+  {
+    "models": "KTM 85 SX",
+    "from": 2012,
+    "to": 2018
+  },
+  {
+    "models": "KTM Freeride 250 R",
+    "from": 2014,
+    "to": 2018
+  },
+  {
+    "models": "KTM Freeride 350",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "KTM Freeride E-SM",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "KTM Freeride E-SX",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "KTM Freeride E-XC",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "Suzuki RM-Z 250",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha YZ 250 F",
+    "from": 2009,
+    "to": 2018
+  },
+  {
+    "models": "Yamaha YZ 450 F",
+    "from": 2009,
+    "to": 2018
+  }
+]
