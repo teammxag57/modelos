@@ -25,14 +25,14 @@
     "to": 1995
   },
   {
-    "models": "Yamaha W- F 450",
-    "from": 2003,
-    "to": 2015
-  },
-  {
     "models": "Yamaha WR 2T 125",
     "from": 2001,
     "to": 2007
+  },
+  {
+    "models": "Yamaha WR- F 450",
+    "from": 2003,
+    "to": 2015
   },
   {
     "models": "Yamaha WR-F 250",
