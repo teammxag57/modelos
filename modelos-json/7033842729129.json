@@ -1,0 +1,82 @@
+[
+  {
+    "models": "Betamotor RR EN 250",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "Betamotor RR EN 450",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Betamotor RR EN 525",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husqvarna FC 4T 350",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 4T 450",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM EXC 4T 525",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM EXC Racing 4T 250",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM LC4 EXC Racing 4T 400",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "KTM SMR 4T 450",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "KTM SMR 4T 560",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM SMS 450",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "KTM SX 4T 525",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM SXF 4T 350",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM SXF 4T 450",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM XC 4T (USA) 525",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC Sport ATV 450",
+    "from": 2008,
+    "to": 2009
+  }
+]
