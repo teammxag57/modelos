@@ -1,0 +1,92 @@
+[
+  {
+    "models": "Husqvarna CR 125",
+    "from": 1999,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna CR 150",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna SM S 125",
+    "from": 1900,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TC 4T 250",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE 2T 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 4T 310",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TX 2T 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TXC Cross Country 250",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TXC Cross Country 310",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WRE 125",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM EXC 2T 125",
+    "from": 1998,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 2T 200",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXE 2T 125",
+    "from": 1900,
+    "to": 2001
+  },
+  {
+    "models": "KTM SX 2T 125",
+    "from": 1998,
+    "to": 2018
+  },
+  {
+    "models": "KTM SX 2T 150",
+    "from": 2009,
+    "to": 2017
+  },
+  {
+    "models": "KTM SX 2T 200",
+    "from": 1900,
+    "to": 2004
+  },
+  {
+    "models": "KTM XC 2T (USA) 150",
+    "from": 2011,
+    "to": 2013
+  }
+]
