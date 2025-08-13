@@ -1,0 +1,117 @@
+[
+  {
+    "models": "Front Wheel",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "GasGas MC 85",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM 85 SX",
+    "from": 2012,
+    "to": 2025
+  },
+  {
+    "models": "KTM 85 SXS",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM Freeride 250 F",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "KTM Freeride 250 R",
+    "from": 2014,
+    "to": 2018
+  },
+  {
+    "models": "KTM Freeride 350",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "KTM Freeride E 660W",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "KTM Freeride E-SM",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "KTM Freeride E-SX",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "KTM Freeride E-XC",
+    "from": 2015,
+    "to": 2023
+  },
+  {
+    "models": "Rear Wheel",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX 450",
+    "from": 2008,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2004,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki KX 250XC",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2006,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki KX 450XC",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Suzuki RM-Z 250",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha YZ 250 F",
+    "from": 2009,
+    "to": 2023
+  },
+  {
+    "models": "Yamaha YZ 450 F",
+    "from": 2009,
+    "to": 2023
+  }
+]
