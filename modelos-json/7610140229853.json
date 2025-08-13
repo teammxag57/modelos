@@ -1,0 +1,137 @@
+[
+  {
+    "models": "KTM EXE 2T 125",
+    "from": 1900,
+    "to": 2001
+  },
+  {
+    "models": "KTM SX (17/14) 85",
+    "from": 2003,
+    "to": 2017
+  },
+  {
+    "models": "KTM SX (19/16)  85",
+    "from": 2003,
+    "to": 2017
+  },
+  {
+    "models": "Yamaha DT LC 125",
+    "from": 1985,
+    "to": 1987
+  },
+  {
+    "models": "Yamaha DT M 50",
+    "from": 1980,
+    "to": 1995
+  },
+  {
+    "models": "Yamaha DT MX 2T AC Carb 50",
+    "from": 1982,
+    "to": 1991
+  },
+  {
+    "models": "Yamaha DT R 125",
+    "from": 1993,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha DT R 200",
+    "from": 1989,
+    "to": 1993
+  },
+  {
+    "models": "Yamaha DT RE (DE061) 125",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha DT X SM 125",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha FZR 400",
+    "from": 1988,
+    "to": 1989
+  },
+  {
+    "models": "Yamaha FZR Genesis 600",
+    "from": 1989,
+    "to": 1993
+  },
+  {
+    "models": "Yamaha FZR RR 400",
+    "from": 1991,
+    "to": 1994
+  },
+  {
+    "models": "Yamaha RD LC 125",
+    "from": 1982,
+    "to": 1983
+  },
+  {
+    "models": "Yamaha RD LC1 80",
+    "from": 1982,
+    "to": 1986
+  },
+  {
+    "models": "Yamaha RD M 50",
+    "from": 2079,
+    "to": 1982
+  },
+  {
+    "models": "Yamaha TDR 125",
+    "from": 1990,
+    "to": 1993
+  },
+  {
+    "models": "Yamaha TT R 125",
+    "from": 1900,
+    "to": 2004
+  },
+  {
+    "models": "Yamaha TT R LW Big Wheels 125",
+    "from": 1900,
+    "to": 2016
+  },
+  {
+    "models": "Yamaha TY M 50",
+    "from": 1980,
+    "to": 1980
+  },
+  {
+    "models": "Yamaha TZR 125",
+    "from": 1987,
+    "to": 1992
+  },
+  {
+    "models": "Yamaha TZR R 125",
+    "from": 1992,
+    "to": 1996
+  },
+  {
+    "models": "Yamaha XT R Enduro Euro3 125",
+    "from": 2005,
+    "to": 2012
+  },
+  {
+    "models": "Yamaha XT X SM Euro3 125",
+    "from": 2005,
+    "to": 2012
+  },
+  {
+    "models": "Yamaha YBR Euro3 125",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "Yamaha YFS Blaster 2WD 200",
+    "from": 1988,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha YZ 80",
+    "from": 1981,
+    "to": 2001
+  }
+]
