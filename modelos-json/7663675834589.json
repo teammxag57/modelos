@@ -1,0 +1,322 @@
+[
+  {
+    "models": "Husaberg TE 2T 125",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 2T 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 2T 300",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE 4T 350",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FS E 400",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "Husaberg FE 501",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE E 501",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "Husaberg FE 70� 570",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg FS 70� 570",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TE 2T 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TX 2T 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna FC 4T 250",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FE 4T 250",
+    "from": 2016,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TC 2T 250",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna TE 2T 250",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna TE 2T 300",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE Jarvis Edition (2020) 300",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna FC 4T 350",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FE 4T 350",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FC 4T 450",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FE 4T 450",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FE 4T 501",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "KTM EXC 2T 125",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM MX 2T 125",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM SX 2T 125",
+    "from": 1996,
+    "to": 2021
+  },
+  {
+    "models": "KTM SX 2T (2009-2019) 150",
+    "from": 2009,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 2T (USA) 150",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "KTM EXC 2T 200",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM SX 2T 200",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM XC-W 2T (USA) 200",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 2T 250",
+    "from": 2003,
+    "to": 2017
+  },
+  {
+    "models": "KTM EXC F 4T (2007-2015) 250",
+    "from": 2007,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC F 4T Euro4 250",
+    "from": 2016,
+    "to": 2020
+  },
+  {
+    "models": "KTM EXC F 4T Sixdays Euro4 250",
+    "from": 2016,
+    "to": 2020
+  },
+  {
+    "models": "KTM EXC Racing 4T 250",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM GS / EGS 2T 250",
+    "from": 1993,
+    "to": 1997
+  },
+  {
+    "models": "KTM SX 2T 250",
+    "from": 1996,
+    "to": 2021
+  },
+  {
+    "models": "KTM SXF 4T 250",
+    "from": 2006,
+    "to": 2015
+  },
+  {
+    "models": "KTM SXF 4T (2016-2020) 250",
+    "from": 2016,
+    "to": 2020
+  },
+  {
+    "models": "KTM SXF 4T (2021-2025) 250",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC 2T (USA) 250",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 2T (USA) 250",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XCF-W 4T (USA) 250",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 2T 300",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM GS / EGS 2T 300",
+    "from": 1993,
+    "to": 1997
+  },
+  {
+    "models": "KTM EXC F 4T (2011-2020) 350",
+    "from": 2011,
+    "to": 2020
+  },
+  {
+    "models": "KTM GS 4T 350",
+    "from": 1993,
+    "to": 1997
+  },
+  {
+    "models": "KTM SXF 4T (2016-2020) 350",
+    "from": 2016,
+    "to": 2020
+  },
+  {
+    "models": "KTM SXF 4T (2021-2025) 350",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "KTM XCF-W 4T (USA) 350",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC R 4T (2016-2020) 450",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "KTM EXC R 4T (2021-2023) 450",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC-F (2016-2020) 450",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "KTM EXC-F (2021-2024) 450",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "KTM SMR 4T 450",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "KTM EXC 4T 500",
+    "from": 2012,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC-F 500",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "KTM Duke 620",
+    "from": 1994,
+    "to": 1998
+  },
+  {
+    "models": "KTM LC4 EGS E Adventure 4T 620",
+    "from": 1997,
+    "to": 1998
+  },
+  {
+    "models": "KTM LC4 SXC 625",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM Duke / Duke 2 640",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "KTM LC4 E Enduro 640",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM LC4 SMC Supermoto 660",
+    "from": 2003,
+    "to": 2006
+  }
+]
