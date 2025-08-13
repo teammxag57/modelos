@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Kawasaki KMX 125",
+    "from": 1999,
+    "to": 2001
+  },
+  {
+    "models": "Kawasaki KL 250",
+    "from": 2000,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki KLX S 250",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "Kawasaki KLS S 650",
+    "from": 1993,
+    "to": 1995
+  }
+]
