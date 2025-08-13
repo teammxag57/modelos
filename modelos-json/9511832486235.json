@@ -1,0 +1,112 @@
+[
+  {
+    "models": "Kawasaki KDX125",
+    "from": 1990,
+    "to": 1993
+  },
+  {
+    "models": "Kawasaki KDX200",
+    "from": 1989,
+    "to": 2003
+  },
+  {
+    "models": "Kawasaki KDX250",
+    "from": 1991,
+    "to": 1992
+  },
+  {
+    "models": "Kawasaki KLX125",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Kawasaki KLX230",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX250",
+    "from": 1993,
+    "to": 2017
+  },
+  {
+    "models": "Kawasaki KLX250R",
+    "from": 1995,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki KLX300R",
+    "from": 1997,
+    "to": 2003
+  },
+  {
+    "models": "Kawasaki KLX450",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "Kawasaki KLX450R",
+    "from": 2008,
+    "to": 2022
+  },
+  {
+    "models": "Kawasaki KLX650",
+    "from": 1993,
+    "to": 1995
+  },
+  {
+    "models": "Kawasaki KLX650R",
+    "from": 1995,
+    "to": 2001
+  },
+  {
+    "models": "Kawasaki KX100",
+    "from": 1989,
+    "to": 1994
+  },
+  {
+    "models": "Kawasaki KX125",
+    "from": 1987,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX250",
+    "from": 1987,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX250F",
+    "from": 2004,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KX450",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "Kawasaki KX450F",
+    "from": 2006,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KX500",
+    "from": 1987,
+    "to": 2003
+  },
+  {
+    "models": "Kawasaki KX65",
+    "from": 2000,
+    "to": 2022
+  },
+  {
+    "models": "Kawasaki KX80",
+    "from": 1988,
+    "to": 2000
+  },
+  {
+    "models": "Kawasaki KX85",
+    "from": 2001,
+    "to": 2022
+  }
+]
