@@ -1,0 +1,42 @@
+[
+  {
+    "models": "Gas Gas EC 2T 125",
+    "from": 1999,
+    "to": 2009
+  },
+  {
+    "models": "Gas Gas MC 125",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "Gas Gas SM 125",
+    "from": 2002,
+    "to": 2009
+  },
+  {
+    "models": "HM CRE R 2T (Honda) 125",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "Honda CR R (JE01A) 125",
+    "from": 1900,
+    "to": 2007
+  },
+  {
+    "models": "Honda CRE R 125",
+    "from": 1900,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC F 4T 250",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "Sherco SE-R 125",
+    "from": 2018,
+    "to": 2019
+  }
+]
