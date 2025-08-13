@@ -1,0 +1,67 @@
+[
+  {
+    "models": "Honda CR 500 R",
+    "from": 2097,
+    "to": 2001
+  },
+  {
+    "models": "Honda CRF 250 X",
+    "from": 2004,
+    "to": 2017
+  },
+  {
+    "models": "Honda CRF 250R",
+    "from": 2004,
+    "to": 2009
+  },
+  {
+    "models": "Honda CRF 450 R",
+    "from": 2002,
+    "to": 2008
+  },
+  {
+    "models": "Honda CRF 450X",
+    "from": 2004,
+    "to": 2017
+  },
+  {
+    "models": "Kawasaki KF 450 F",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2004,
+    "to": 2012
+  },
+  {
+    "models": "Sur-Ron STORM BEE",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Suzuki DR - Z400SM",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RM - Z 250",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "Suzuki RM - Z 450",
+    "from": 2004,
+    "to": 2012
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 2004,
+    "to": 2008
+  }
+]
