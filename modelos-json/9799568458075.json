@@ -1,0 +1,42 @@
+[
+  {
+    "models": "Fantic XX 125",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XX 250",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XXF 250",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XXF 450",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2008,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 2008,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2008,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2008,
+    "to": 2022
+  }
+]
