@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "Yamaha YFZ 450",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 2002,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha YZ 426F",
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2003,
+    "to": 2004
+  }
+]
