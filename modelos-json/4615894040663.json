@@ -1,0 +1,57 @@
+[
+  {
+    "models": "Beta RR 2T 250",
+    "from": 2013,
+    "to": 2018
+  },
+  {
+    "models": "GasGas EC 250",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas MC 250",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Husaberg TE 250",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2007,
+    "to": 2020
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2005,
+    "to": 2023
+  },
+  {
+    "models": "KTM Freeride 250 R",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2015,
+    "to": 2020
+  },
+  {
+    "models": "KTM XC-W 250",
+    "from": 2015,
+    "to": 2020
+  }
+]
