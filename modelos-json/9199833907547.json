@@ -1,0 +1,17 @@
+[
+  {
+    "models": "Beta RR 300",
+    "from": 2018,
+    "to": 2021
+  },
+  {
+    "models": "Beta RX 300",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Beta Xtrainer 300",
+    "from": 2018,
+    "to": 2021
+  }
+]
