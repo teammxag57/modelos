@@ -1,7 +1,92 @@
 [
   {
-    "models": "Yamaha YZ 65",
+    "models": "Beta RR 125",
     "from": 2018,
     "to": 2025
+  },
+  {
+    "models": "Gasgas EC 125",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 125",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC 150",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husaberg TE 125",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2016,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2016,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC 125",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
   }
 ]
