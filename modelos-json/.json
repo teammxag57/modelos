@@ -1,57 +1,32 @@
 [
   {
-    "models": "FANTIC XE 125",
-    "from": 2023,
-    "to": ""
+    "models": "Yamaha WR 2T 125",
+    "from": 2002,
+    "to": 2007
   },
   {
-    "models": "FANTIC XX 125",
-    "from": 2022,
-    "to": 2023
+    "models": "Yamaha WR F 250",
+    "from": 2003,
+    "to": 2020
   },
   {
-    "models": "FANTIC XX 250",
-    "from": 2022,
-    "to": 2023
+    "models": "Yamaha WR F 450",
+    "from": 2003,
+    "to": 2003
   },
   {
-    "models": "FANTIC XXF 250",
-    "from": 2022,
-    "to": 2023
+    "models": "Yamaha YZ 125",
+    "from": 2002,
+    "to": 2020
   },
   {
-    "models": "FANTIC XXF 450",
-    "from": 2022,
-    "to": 2023
+    "models": "Yamaha YZ F 250",
+    "from": 2016,
+    "to": 2020
   },
   {
-    "models": "YAMAHA YZ 125",
-    "from": 2022,
-    "to": 2023
-  },
-  {
-    "models": "YAMAHA YZ 250",
-    "from": 2022,
-    "to": 2023
-  },
-  {
-    "models": "YAMAHA YZ 250 F",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "YAMAHA YZ 250 FX",
-    "from": 2022,
-    "to": 2023
-  },
-  {
-    "models": "YAMAHA YZ 450 F",
-    "from": 2020,
-    "to": 2023
-  },
-  {
-    "models": "YAMAHA YZ 450 FX",
-    "from": 2021,
-    "to": 2023
+    "models": "Yamaha YZ F 450",
+    "from": 2003,
+    "to": 2017
   }
 ]
