@@ -1,0 +1,87 @@
+[
+  {
+    "models": "Beta RR 300",
+    "from": 2013,
+    "to": 2021
+  },
+  {
+    "models": "Beta X-Trainer 300",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2000,
+    "to": 2022
+  },
+  {
+    "models": "Gasgas XC 300",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Honda CR 250R",
+    "from": 1978,
+    "to": 1980
+  },
+  {
+    "models": "Husaberg TE 300",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna WR 300",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "Kawasaki KDX 250",
+    "from": 1980,
+    "to": 1982
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1990,
+    "to": 2022
+  },
+  {
+    "models": "Sherco SC-R 300",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE 300",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 2003,
+    "to": 2012
+  },
+  {
+    "models": "TM Racing EN 300",
+    "from": 2002,
+    "to": 2022
+  },
+  {
+    "models": "TM Racing MX 300",
+    "from": 2002,
+    "to": 2019
+  }
+]
