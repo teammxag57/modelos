@@ -1,0 +1,57 @@
+[
+  {
+    "models": "Gasgas 200 EC",
+    "from": 2000,
+    "to": 2014
+  },
+  {
+    "models": "Gasgas 200 EC R",
+    "from": 2003,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas 250 EC",
+    "from": 2000,
+    "to": 2010
+  },
+  {
+    "models": "Gasgas 250 EC 2T",
+    "from": 2011,
+    "to": 2018
+  },
+  {
+    "models": "Gasgas 250 EC E",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Gasgas 250 EC E R",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas 250 EC R",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas 300 EC",
+    "from": 2000,
+    "to": 2014
+  },
+  {
+    "models": "Gasgas 400 EC FSE",
+    "from": 2000,
+    "to": 2000
+  },
+  {
+    "models": "Gasgas 450 EC FSE",
+    "from": 2003,
+    "to": 2011
+  },
+  {
+    "models": "Gasgas 515 EC",
+    "from": 2009,
+    "to": 2009
+  }
+]
