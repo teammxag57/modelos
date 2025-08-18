@@ -1,0 +1,152 @@
+[
+  {
+    "models": "Kawasaki KX 250",
+    "from": 1999,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KLX 300 R",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1999,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 400 F",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha YZ 426 F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ 450 F",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 450 FX",
+    "from": 2016,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 250 X",
+    "from": 2016,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha WR 400 F",
+    "from": 1998,
+    "to": 2001
+  },
+  {
+    "models": "Yamaha WR 426 F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha WR 450 F",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YFZ 450",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YFM 660 Raptor",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "Kawasaki ER 6 N (ER 6 F )",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "Kawasaki EX650 Ninja 650R",
+    "from": 2006,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki 650 R NINJA",
+    "from": 2008,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki ER-6N (ER650)",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "Kawasaki EN650 Vulcan-S (ABS)",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki ER-6 N",
+    "from": 2012,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLE650 Versys",
+    "from": 2007,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki Z650 (ER650 GHF) ABS",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLE650 FKF, FKFA Versys ABS",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki W800 Special Edition",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "Kawasaki W800 BKF Street (EJ800)",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki W800 DLF (EJ800)",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki SV 650 A-L6 ABS",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki SV 650 XA (ABS)",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha MT-03 (MTN320-A)",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZF-R3 Taiwan",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZF-R3",
+    "from": 2015,
+    "to": 2024
+  }
+]
