@@ -1,0 +1,62 @@
+[
+  {
+    "models": "Kawasaki KX 100",
+    "from": 2001,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 60",
+    "from": 1985,
+    "to": 2003
+  },
+  {
+    "models": "Kawasaki KX 65",
+    "from": 2000,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 80",
+    "from": 1991,
+    "to": 2000
+  },
+  {
+    "models": "Kawasaki KX 85",
+    "from": 2001,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki RM 100",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "Suzuki RM 60",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "Suzuki RM 65",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "Yamaha PW 80",
+    "from": 1991,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha TT-R 110 E",
+    "from": 2008,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha TT-R 50 E",
+    "from": 2006,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha TT-R 90",
+    "from": 2001,
+    "to": 2007
+  }
+]
