@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Gasgas MC 85",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "KTM 105 SX",
+    "from": 2007,
+    "to": 2011
+  },
+  {
+    "models": "KTM 105 XC",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 85 SX",
+    "from": 2004,
+    "to": 2023
+  },
+  {
+    "models": "KTM 85 XC",
+    "from": 2008,
+    "to": 2009
+  }
+]
