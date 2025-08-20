@@ -1,0 +1,27 @@
+[
+  {
+    "models": "HM CR Supermotard 125",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "HM CRE F 4T 250",
+    "from": 2004,
+    "to": 2010
+  },
+  {
+    "models": "HM CRE X IE 290",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "Honda CRF 250R",
+    "from": 2004,
+    "to": 2015
+  },
+  {
+    "models": "Honda CRF X 250",
+    "from": 2004,
+    "to": 2017
+  }
+]
