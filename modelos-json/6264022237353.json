@@ -1,0 +1,457 @@
+[
+  {
+    "models": "Beta 250cc RR",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Beta 350 RR 4T",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "Beta 400 M4 Motard",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "Beta 400 RR",
+    "from": 2005,
+    "to": 2012
+  },
+  {
+    "models": "Beta 450 RR",
+    "from": 2005,
+    "to": 2012
+  },
+  {
+    "models": "Beta 520 RR",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Beta 525 RR",
+    "from": 2005,
+    "to": 2011
+  },
+  {
+    "models": "Gasgas 125",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "Gasgas 125 2T SM",
+    "from": 2002,
+    "to": 2005
+  },
+  {
+    "models": "Gasgas 125 EC",
+    "from": 1997,
+    "to": 1998
+  },
+  {
+    "models": "Gasgas 125 EC 2T",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "Gasgas 125 TT",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "Gasgas 200 EC",
+    "from": 1999,
+    "to": 2010
+  },
+  {
+    "models": "Gasgas 250 2T SM",
+    "from": 2002,
+    "to": 2006
+  },
+  {
+    "models": "Gasgas 250 EC",
+    "from": 2000,
+    "to": 2000
+  },
+  {
+    "models": "Gasgas 250 EC",
+    "from": 2001,
+    "to": 2013
+  },
+  {
+    "models": "Gasgas 250 TT",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "Gasgas 300 EC",
+    "from": 2001,
+    "to": 2012
+  },
+  {
+    "models": "Gasgas 400 4T SM",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "Gasgas 400 EC FSE",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "Gasgas 450 FSE, FSR",
+    "from": 2004,
+    "to": 2010
+  },
+  {
+    "models": "Gasgas 450 SM SM",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Gasgas 500 FSE",
+    "from": 2006,
+    "to": 2006
+  },
+  {
+    "models": "Gasgas EC 515 FSR",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna 125 CR",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna 125 SM S",
+    "from": 2001,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna 125 WR",
+    "from": 1990,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna 150 WR",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna 240 WR",
+    "from": 1990,
+    "to": 1991
+  },
+  {
+    "models": "Husqvarna 250 CR",
+    "from": 1990,
+    "to": 2005
+  },
+  {
+    "models": "Husqvarna 250 TC",
+    "from": 2006,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna 250 TCi",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna 250 TE",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "Husqvarna 250 TE",
+    "from": 2004,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna 250 TE",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna 250 TXC",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna 250 TXC GNCC",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna 250 TXCi",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna 250 WR",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna 300 WR",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna 300 WR",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna 310 TE",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna 310 TE",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna 350 TE",
+    "from": 1990,
+    "to": 1995
+  },
+  {
+    "models": "Husqvarna 360 CR",
+    "from": 1992,
+    "to": 1994
+  },
+  {
+    "models": "Husqvarna 360 WR",
+    "from": 1992,
+    "to": 2002
+  },
+  {
+    "models": "Husqvarna 400 TE 400 SMR 410 TE",
+    "from": 1995,
+    "to": 2002
+  },
+  {
+    "models": "Husqvarna 449 TC",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna 449 TC",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna 449 TE",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna 449 TXC",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna 450 SM R",
+    "from": 2004,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna 450 SM RR",
+    "from": 2004,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna 450 TC",
+    "from": 2002,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna 450 TE",
+    "from": 2004,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna 510 SM R",
+    "from": 2006,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna 510 TC",
+    "from": 2004,
+    "to": 2009
+  },
+  {
+    "models": "Husqvarna 510 TE",
+    "from": 1990,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna 511 TE, TXC",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna 530 SM RR",
+    "from": 2010,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna 570 TC",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Husqvarna 570 TE, 570 SM R",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "Husqvarna 610 SM R",
+    "from": 2000,
+    "to": 2008
+  },
+  {
+    "models": "Husqvarna 610 TC",
+    "from": 1991,
+    "to": 2001
+  },
+  {
+    "models": "Husqvarna 610 TE",
+    "from": 1991,
+    "to": 2002
+  },
+  {
+    "models": "Husqvarna 610 TE",
+    "from": 2004,
+    "to": 2009
+  },
+  {
+    "models": "Husqvarna 630 SM",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna 630 SM R",
+    "from": 2004,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna 630 TE",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna CR 125",
+    "from": 1990,
+    "to": 2009
+  },
+  {
+    "models": "Sherco SE 2.5 2T",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Sherco SE 2.5 R 2T",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Sherco SE 2.5I F",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Sherco SE 2.5I F",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Sherco SE 3.0 2T",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Sherco SE 3.0 R 2T",
+    "from": 2013,
+    "to": 2017
+  },
+  {
+    "models": "Sherco SE 3.0I F",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Sherco SE 3.0I F",
+    "from": 2013,
+    "to": 2017
+  },
+  {
+    "models": "Sherco SE 4.5I F",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Sherco SE 4.5I R 2T",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Sherco SE 5.1I F",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Sherco SX 2.5I F Cross",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Suzuki DR 250 SE",
+    "from": 1993,
+    "to": 1995
+  },
+  {
+    "models": "Suzuki DR 650 SE",
+    "from": 1996,
+    "to": 2014
+  },
+  {
+    "models": "Suzuki DR250 S",
+    "from": 1990,
+    "to": 1993
+  },
+  {
+    "models": "Suzuki DR250 SE-P ROAD",
+    "from": 1993,
+    "to": 1995
+  },
+  {
+    "models": "Suzuki DR350 S",
+    "from": 1990,
+    "to": 1993
+  },
+  {
+    "models": "Suzuki DR350 SE-R",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "Suzuki DR650 SE",
+    "from": 1996,
+    "to": 2018
+  },
+  {
+    "models": "Suzuki DR650 SE-M0",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki XF 650 FREEWIND",
+    "from": 1997,
+    "to": 2002
+  }
+]
