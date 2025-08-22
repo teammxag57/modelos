@@ -1,0 +1,42 @@
+[
+  {
+    "models": "Gasgas MC 85",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Honda CR 80",
+    "from": 1986,
+    "to": 2002
+  },
+  {
+    "models": "Honda CR 85",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 105",
+    "from": 2004,
+    "to": 2011
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 80",
+    "from": 1993,
+    "to": 2001
+  },
+  {
+    "models": "Yamaha YZ 85",
+    "from": 2002,
+    "to": 2025
+  }
+]
