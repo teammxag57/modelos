@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Yamaha WR 250F",
+    "from": 2001,
+    "to": 2014
+  },
+  {
+    "models": "Yamaha WR 400F",
+    "from": 2000,
+    "to": ""
+  },
+  {
+    "models": "Yamaha WR 426F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ 426F",
+    "from": 2000,
+    "to": 2002
+  }
+]
