@@ -5,14 +5,14 @@
     "to": 2024
   },
   {
+    "models": "Fantic XEF 310",
+    "from": 2024,
+    "to": ""
+  },
+  {
     "models": "Fantic XXF 250",
     "from": 2022,
     "to": 2025
-  },
-  {
-    "models": "Fantic XXF 310",
-    "from": 2024,
-    "to": ""
   },
   {
     "models": "Kawasaki KX 250F",
