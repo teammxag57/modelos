@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Beta RR 450",
+    "from": 2005,
+    "to": 2009
+  },
+  {
+    "models": "Beta RR 525",
+    "from": 2005,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 250 Racing",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXC 450 Racing",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC/SX 520",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC/SX 525",
+    "from": 2003,
+    "to": 2007
+  }
+]
