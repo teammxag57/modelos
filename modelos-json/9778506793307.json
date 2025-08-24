@@ -418,5 +418,10 @@
     "models": "Ktm SX 350F",
     "from": 2011,
     "to": 2025
+  },
+  {
+    "models": "Ktm SX 450F",
+    "from": 2003,
+    "to": 2025
   }
 ]
