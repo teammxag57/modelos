@@ -1,0 +1,97 @@
+[
+  {
+    "models": "Beta RR 200",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 200R",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Beta RR 250",
+    "from": 2015,
+    "to": 2021
+  },
+  {
+    "models": "Beta RR 250R",
+    "from": 2015,
+    "to": 2021
+  },
+  {
+    "models": "Beta RR 300",
+    "from": 2015,
+    "to": 2023
+  },
+  {
+    "models": "Beta RR 300R",
+    "from": 2015,
+    "to": 2023
+  },
+  {
+    "models": "Beta RX 300",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Beta XTrainer 250",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "Beta XTrainer 300",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EC 250",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas EC 250F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas EC 350F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas EC 500F",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas MC 125",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas MC 250F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas MC 350F",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas MC 450F",
+    "from": 2021,
+    "to": 2024
+  }
+]
