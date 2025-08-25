@@ -1,0 +1,47 @@
+[
+  {
+    "models": "Husaberg TE 250",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg TE 300",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 1991,
+    "to": 2012
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1991,
+    "to": 2012
+  },
+  {
+    "models": "KTM EXC 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM EXC 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 1991,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM SX 380",
+    "from": 1998,
+    "to": 2002
+  }
+]
