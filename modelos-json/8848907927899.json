@@ -1,17 +1,22 @@
 [
   {
-    "models": "KTM 400 LC4",
-    "from": 2009,
-    "to": 2011
+    "models": "Husqvarna FE 350",
+    "from": 2014,
+    "to": 2016
   },
   {
-    "models": "KTM EXC-R 450",
-    "from": 2008,
-    "to": 2011
+    "models": "KTM EXC-F 250",
+    "from": 2014,
+    "to": 2016
   },
   {
-    "models": "KTM EXC-R 530",
-    "from": 2008,
-    "to": 2011
+    "models": "KTM EXC-F 350",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM SX-F 350",
+    "from": 2011,
+    "to": 2012
   }
 ]
