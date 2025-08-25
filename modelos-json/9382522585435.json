@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Honda CR 250R",
+    "from": 1990,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 500R",
+    "from": 1990,
+    "to": 2001
+  },
+  {
+    "models": "Husqvarna CR 250",
+    "from": 2000,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR 250",
+    "from": 2000,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR 300",
+    "from": 2009,
+    "to": 2013
+  }
+]
