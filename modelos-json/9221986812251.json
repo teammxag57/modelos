@@ -1,0 +1,97 @@
+[
+  {
+    "models": "Husaberg FE 450",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FE 550",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FE 650",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FS 650",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2002,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM EXC 250 Racing",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM EXC 450 Racing",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 105",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 144",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM SX 450 Racing",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 65",
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM SX/EXC 520",
+    "from": 2000,
+    "to": 2002
+  }
+]
