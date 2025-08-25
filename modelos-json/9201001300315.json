@@ -1,0 +1,57 @@
+[
+  {
+    "models": "Gasgas EC 250",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Gasgas EX 250",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "Gasgas EX 300",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TC 250/i",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 300/i",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TX 300/i",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 250/TPI",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 300/i",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2017,
+    "to": 2022
+  }
+]
