@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Fantic XE 125",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Fantix XX 125",
+    "from": 2021,
+    "to": ""
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2005,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1993,
+    "to": 1997
+  },
+  {
+    "models": "Yamaha YZ 125X",
+    "from": 2020,
+    "to": 2022
+  }
+]
