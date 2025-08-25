@@ -1,0 +1,87 @@
+[
+  {
+    "models": "Gasgas EC 250",
+    "from": 2012,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Gasgas EX 300",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2012,
+    "to": 2019
+  },
+  {
+    "models": "Husaberg FE 390",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg FE 450",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg FE 570",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg FX 450",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2009,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2009,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX-F 450",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "Riejiu MR 300",
+    "from": 2021,
+    "to": 2024
+  }
+]
