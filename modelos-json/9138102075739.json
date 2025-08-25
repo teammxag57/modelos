@@ -78,5 +78,95 @@
     "models": "Beta Xtrainer 250",
     "from": 2018,
     "to": 2023
+  },
+  {
+    "models": "Husqvarna CR 125",
+    "from": 1998,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna CR 250",
+    "from": 1998,
+    "to": 2004
+  },
+  {
+    "models": "Husqvarna SMR 400",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna SMR 450",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna SMR 510",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "Husqvarna TC 450",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "Husqvarna TC 510",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TC 570",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Husqvarna TC 610",
+    "from": 1998,
+    "to": 2001
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna TE 450",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna TE 510",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna TE 570",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "Husqvarna TE 610",
+    "from": 1998,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna WR 125",
+    "from": 1998,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR 250",
+    "from": 1998,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR 300",
+    "from": 2008,
+    "to": 2013
   }
 ]
