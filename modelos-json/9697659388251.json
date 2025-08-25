@@ -1,0 +1,57 @@
+[
+  {
+    "models": "Husaberg FE 390",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg FE 450",
+    "from": 2009,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FX 450",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna FC 450",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FS 450",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FX 450",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC 400",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "KTM SMR 450F",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2013,
+    "to": 2015
+  }
+]
