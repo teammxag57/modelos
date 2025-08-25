@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Fantic XEF 450",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Fantic XXF 450",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "Gasgas EC 450F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2004,
+    "to": 2023
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2004,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2016,
+    "to": 2023
+  }
+]
