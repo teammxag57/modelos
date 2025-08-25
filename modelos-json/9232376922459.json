@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Husqvarna TC 250/i",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TE 250/i",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 250/TPI",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2017,
+    "to": 2019
+  }
+]
