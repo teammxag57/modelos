@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2016,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna TE 150i",
+    "from": 2017,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2016,
+    "to": 2017
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2016,
+    "to": 2017
+  },
+  {
+    "models": "KTM XC-W 150",
+    "from": 2017,
+    "to": ""
+  }
+]
