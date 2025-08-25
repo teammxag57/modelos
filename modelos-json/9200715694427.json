@@ -1,0 +1,17 @@
+[
+  {
+    "models": "Husaberg TE 300",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2008,
+    "to": 2016
+  }
+]
