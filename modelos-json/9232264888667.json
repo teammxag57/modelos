@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Gasgas EC 300",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Gasgas EX 300",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 300 i",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TX 300 i",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 300 TPI",
+    "from": 2020,
+    "to": 2022
+  }
+]
