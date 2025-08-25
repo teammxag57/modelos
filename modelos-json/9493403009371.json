@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Kawasaki KX 125",
+    "from": 1980,
+    "to": 1987
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 1982,
+    "to": 1993
+  },
+  {
+    "models": "TM Racing MX 125",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Yamaha TT 600",
+    "from": 1984,
+    "to": 2004
+  },
+  {
+    "models": "Yamaha XT 600",
+    "from": 1984,
+    "to": 2004
+  }
+]
