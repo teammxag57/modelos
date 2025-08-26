@@ -2,52 +2,57 @@
   {
     "models": "Beta RR 250 Enduro 2T",
     "from": 2013,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "Beta RR 300 Enduro 2T",
     "from": 2013,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "Beta RX 300",
     "from": 2021,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "Beta XTRAINER 250",
     "from": 2018,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "Beta XTRAINER 300",
     "from": 2015,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "GasGas EC 250",
     "from": 2021,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "GasGas EC 300",
     "from": 2021,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "GasGas EX 250",
     "from": 2022,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "GasGas EX 300",
     "from": 2021,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "GasGas MC 250",
     "from": 2022,
-    "to": 2023
+    "to": 2025
+  },
+  {
+    "models": "GasGas MC 300",
+    "from": 2025,
+    "to": ""
   },
   {
     "models": "Husaberg TE 250",
@@ -62,22 +67,27 @@
   {
     "models": "Husqvarna TC 250",
     "from": 2014,
-    "to": 2023
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 300",
+    "from": 2025,
+    "to": ""
   },
   {
     "models": "Husqvarna TE 250",
     "from": 2014,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "Husqvarna TE 300",
     "from": 2014,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "Husqvarna TX 300",
     "from": 2017,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "KTM EXC 250",
@@ -87,7 +97,7 @@
   {
     "models": "KTM EXC 250 TPI",
     "from": 2018,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "KTM EXC 300",
@@ -97,7 +107,7 @@
   {
     "models": "KTM EXC 300 TPI",
     "from": 2018,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "KTM Freeride 250R",
@@ -107,12 +117,12 @@
   {
     "models": "KTM SX 250",
     "from": 1990,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "KTM SX 300",
     "from": 2023,
-    "to": ""
+    "to": 2025
   },
   {
     "models": "KTM SX/EXC 360",
