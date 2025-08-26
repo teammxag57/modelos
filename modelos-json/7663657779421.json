@@ -1,0 +1,42 @@
+[
+  {
+    "models": "Beta RR 125 Enduro",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "Husaberg TE 125",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 1998,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 144",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2009,
+    "to": 2015
+  }
+]
