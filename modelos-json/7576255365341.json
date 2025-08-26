@@ -1,0 +1,137 @@
+[
+  {
+    "models": "Fantic XXF 250",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XXF 450",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas MC 85",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KLX 450R",
+    "from": 2008,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 250FX",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2006,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450FX",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "KTM Freeride 250F",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "KTM Freeride 250R",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "KTM Freeride 350F",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "KTM Freeride E-SX",
+    "from": 2015,
+    "to": 2023
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 1990,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2012,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX/EXC 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM SX/EXC 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "Suzuki RM-Z 250",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha WR 250F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2009,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250FX",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2009,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2024,
+    "to": 2025
+  }
+]
