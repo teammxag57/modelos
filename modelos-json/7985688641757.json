@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Honda CR 125",
+    "from": 1989,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna CR 150",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna CR/WR 125",
+    "from": 1997,
+    "to": 2013
+  },
+  {
+    "models": "Sherco SC-R 125",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE-R 125",
+    "from": 2018,
+    "to": 2023
+  }
+]
