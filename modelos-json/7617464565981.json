@@ -1,0 +1,127 @@
+[
+  {
+    "models": "Beta RR 250 Enduro 2T",
+    "from": 2013,
+    "to": 2023
+  },
+  {
+    "models": "Beta RR 300 Enduro 2T",
+    "from": 2013,
+    "to": 2023
+  },
+  {
+    "models": "Beta RX 300",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Beta XTRAINER 250",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "Beta XTRAINER 300",
+    "from": 2015,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EC 250",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EC 300",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 250",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 300",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas MC 250",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Husaberg TE 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 300",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 1990,
+    "to": 2017
+  },
+  {
+    "models": "KTM EXC 250 TPI",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1990,
+    "to": 2017
+  },
+  {
+    "models": "KTM EXC 300 TPI",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "KTM Freeride 250R",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 1990,
+    "to": 2023
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "KTM SX/EXC 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM SX/EXC 380",
+    "from": 1998,
+    "to": 2002
+  }
+]
