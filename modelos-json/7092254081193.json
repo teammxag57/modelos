@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Gasgas EC-F 250",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC-F 300",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Kawasaki KX-F 250",
+    "from": 2004,
+    "to": 2016
+  },
+  {
+    "models": "Suzuki RM-Z 250",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha WR-F 250",
+    "from": 2001,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YZ-F 250",
+    "from": 2001,
+    "to": 2013
+  }
+]
