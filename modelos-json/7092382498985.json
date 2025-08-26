@@ -1,0 +1,22 @@
+[
+  {
+    "models": "KTM SM-R 450",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX-F 450",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX-F 505",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-F 505",
+    "from": 2009,
+    "to": ""
+  }
+]
