@@ -1,0 +1,102 @@
+[
+  {
+    "models": "Husaberg FE 250",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Husaberg TE 250",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 400",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 450 Racing",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC-F 250",
+    "from": 2007,
+    "to": 2010
+  },
+  {
+    "models": "KTM EXC-R 450",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC-R 530",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 144",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 450 Racing",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 525",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX-F 250",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX-F 450",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX-F 505",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-F 505",
+    "from": 2009,
+    "to": ""
+  }
+]
