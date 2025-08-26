@@ -2,12 +2,17 @@
   {
     "models": "Fantic XEF 250",
     "from": 2021,
-    "to": 2023
+    "to": 2024
+  },
+  {
+    "models": "Fantic XEF 310",
+    "from": 2024,
+    "to": ""
   },
   {
     "models": "Fantic XXF 250",
     "from": 2022,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "Yamaha WR 250F",
