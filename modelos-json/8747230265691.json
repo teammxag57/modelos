@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2019,
+    "to": 2020
+  }
+]
