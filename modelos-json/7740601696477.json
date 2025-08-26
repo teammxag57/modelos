@@ -1,0 +1,52 @@
+[
+  {
+    "models": "Fantic XE 450F",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Fantic XX 450F",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "GasGas EC 450F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2003,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YFZ 450",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YFZ 450",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2003,
+    "to": 2009
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2021,
+    "to": 2025
+  }
+]
