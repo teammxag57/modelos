@@ -1,0 +1,57 @@
+[
+  {
+    "models": "Fantic XEF 450",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Fantic XXF 450",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas EC 450F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha WR 400F",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Yamaha WR 426F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YFZ 450",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YZ 400F",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha YZ 426F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2016,
+    "to": 2025
+  }
+]
