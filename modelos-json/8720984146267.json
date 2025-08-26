@@ -1,0 +1,57 @@
+[
+  {
+    "models": "Gasgas MC 125",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 150",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2016,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 150",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 150 TPI",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2016,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2016,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC-W 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC-W 150",
+    "from": 2017,
+    "to": 2019
+  }
+]
