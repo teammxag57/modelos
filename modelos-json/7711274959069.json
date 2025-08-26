@@ -1,16 +1,16 @@
 [
   {
-    "models": "GasGas MC 250F",
+    "models": "GasGas EC 250F",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "GasGas EC 250F",
+    "models": "GasGas EX 250F",
     "from": 2021,
-    "to": 2024
+    "to": 2023
   },
   {
-    "models": "GasGas EX 250F",
+    "models": "GasGas MC 250F",
     "from": 2021,
     "to": 2023
   },
@@ -30,13 +30,13 @@
     "to": 2024
   },
   {
+    "models": "KTM EXC-F 250",
+    "from": 2014,
+    "to": 2023
+  },
+  {
     "models": "KTM SX-F 250",
     "from": 2013,
     "to": 2022
-  },
-  {
-    "models": "KTM EXC-F 250",
-    "from": 2014,
-    "to": 2024
   }
 ]
