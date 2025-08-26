@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2009,
+    "to": 2018
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2016,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Yamaha YZ 450X",
+    "from": 2016,
+    "to": 2020
+  }
+]
