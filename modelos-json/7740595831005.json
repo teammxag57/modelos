@@ -1,32 +1,82 @@
 [
   {
-    "models": "Fantic XEF 250",
+    "models": "GasGas EC 250F",
     "from": 2021,
-    "to": 2024
-  },
-  {
-    "models": "Fantic XEF 310",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Fantic XXF 250",
-    "from": 2022,
-    "to": 2025
-  },
-  {
-    "models": "Yamaha WR 250F",
-    "from": 2015,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha YZ 250F",
-    "from": 2014,
     "to": 2023
   },
   {
-    "models": "Yamaha YZ 250FX",
-    "from": 2015,
-    "to": 2024
+    "models": "GasGas EC 350F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 350F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas MC 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas MC 350F",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FC 250",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FC 350",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FE 250",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 350",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FX 350",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC-F 250",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC-F 350",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM Freeride 250F",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "KTM SX-F 250",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX-F 350",
+    "from": 2016,
+    "to": 2022
   }
 ]
