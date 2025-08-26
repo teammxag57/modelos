@@ -1,5 +1,10 @@
 [
   {
+    "models": "Fantic XE 125",
+    "from": 2023,
+    "to": 2024
+  },
+  {
     "models": "Fantic XX 125",
     "from": 2022,
     "to": 2025
