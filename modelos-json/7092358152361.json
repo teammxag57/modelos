@@ -1,0 +1,102 @@
+[
+  {
+    "models": "Gasgas EC 250",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EX 250",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EX 300",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husaberg TE 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 300",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2004,
+    "to": 2017
+  },
+  {
+    "models": "KTM EXC 250 TPI",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2004,
+    "to": 2017
+  },
+  {
+    "models": "KTM EXC 300 TPI",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "KTM Freeride 250R",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2025
+  }
+]
