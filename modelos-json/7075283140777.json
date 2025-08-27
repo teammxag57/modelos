@@ -1,7 +1,57 @@
 [
   {
-    "models": "Yamaha YZ 125",
-    "from": 2001,
-    "to": 2004
+    "models": "Honda CR 125",
+    "from": 1996,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 250",
+    "from": 1997,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 500",
+    "from": 1996,
+    "to": 2001
+  },
+  {
+    "models": "Honda CRF 250R",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 250RX",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 250X",
+    "from": 2004,
+    "to": 2017
+  },
+  {
+    "models": "Honda CRF 450 L/RL",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 450L",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 2002,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 450RX",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 450X",
+    "from": 2005,
+    "to": 2025
   }
 ]
