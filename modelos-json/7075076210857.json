@@ -1,0 +1,132 @@
+[
+  {
+    "models": "Beta RR 250 Enduro",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "Beta RR 400 Enduro",
+    "from": 2005,
+    "to": 2009
+  },
+  {
+    "models": "Beta RR 450 Enduro",
+    "from": 2005,
+    "to": 2009
+  },
+  {
+    "models": "Beta RR 525 Enduro",
+    "from": 2005,
+    "to": 2009
+  },
+  {
+    "models": "Husaberg FE 250",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "Husaberg FE 550",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FE 650",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FS 650",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC-F 250",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXC-F 450",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM SMR 450",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM SMR 525",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM SMR 560",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX/EXC 520",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX/EXC 525",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX-F 450",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "Sherco SC-R 125",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC-R 250",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC-R 300",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE 4.5i",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "Sherco SE 5.1i",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "Sherco SE/SE-R 250",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE/SE-R 300",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE-F 250",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "Sherco SE-F 300",
+    "from": 2010,
+    "to": 2016
+  },
+  {
+    "models": "Sherco SE-R 125",
+    "from": 2018,
+    "to": 2025
+  }
+]
