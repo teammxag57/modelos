@@ -1,0 +1,127 @@
+[
+  {
+    "models": "Gasgas MC 85 17/14",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 85 19/16",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 85 BW",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KLX 450R",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Kawasaki KLX 450R (AU)",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 250X",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2006,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 450SR",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki KX 450X",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "KTM FREERIDE 250 F",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "KTM FREERIDE 250 R",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "KTM Freeride 350",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "KTM Freeride E-XC",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2012,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 85 BW",
+    "from": 2012,
+    "to": 2025
+  },
+  {
+    "models": "KTM SXS 85",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Suzuki RM Z250",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2009,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2009,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2024,
+    "to": ""
+  }
+]
