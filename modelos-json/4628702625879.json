@@ -1,0 +1,32 @@
+[
+  {
+    "models": "KTM 525 XC ATV",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 250R",
+    "from": 2002,
+    "to": 2005
+  },
+  {
+    "models": "KTM EXC 450R",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM SM-R 450",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX/EXC 520",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX/EXC 525",
+    "from": 2003,
+    "to": 2007
+  }
+]
