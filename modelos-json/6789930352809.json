@@ -1,0 +1,37 @@
+[
+  {
+    "models": "Suzuki RM 80",
+    "from": 1990,
+    "to": 2001
+  },
+  {
+    "models": "Suzuki RM 85",
+    "from": 2002,
+    "to": 2023
+  },
+  {
+    "models": "Suzuki RM 85L",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "Yamaha YZ 65",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 80",
+    "from": 1993,
+    "to": 2001
+  },
+  {
+    "models": "Yamaha YZ 85",
+    "from": 2002,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 85LW",
+    "from": 2022,
+    "to": 2024
+  }
+]
