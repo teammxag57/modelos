@@ -1,0 +1,42 @@
+[
+  {
+    "models": "Fantic XE 125",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Fantic XX 125",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "TM Racing EN 125",
+    "from": 1992,
+    "to": 2025
+  },
+  {
+    "models": "TM Racing EN 144",
+    "from": 2008,
+    "to": 2025
+  },
+  {
+    "models": "TM Racing MX 125",
+    "from": 1992,
+    "to": 2025
+  },
+  {
+    "models": "TM Racing MX 144",
+    "from": 2008,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2001,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 125X",
+    "from": 2020,
+    "to": 2025
+  }
+]
