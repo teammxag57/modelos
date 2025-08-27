@@ -1,0 +1,152 @@
+[
+  {
+    "models": "Sherco SC F-R 250",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC F-R 300",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC F-R 450",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Sherco SC-R 250",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC-R 300",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE 2.5",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE 2.5i-F Racing",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE 250",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Sherco SE 3.0",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE 3.0i-F Racing",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE 300",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Sherco SE F 250 Factory",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE F 300 Factory",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE F-R 250",
+    "from": 2014,
+    "to": 2018
+  },
+  {
+    "models": "Sherco SE F-R 250 Factory",
+    "from": 2016,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SE F-R 250 Six Days",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE F-R 300",
+    "from": 2014,
+    "to": 2018
+  },
+  {
+    "models": "Sherco SE F-R 300 Factory",
+    "from": 2016,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SE F-R 300 Six Days",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE F-R 450",
+    "from": 2015,
+    "to": 2020
+  },
+  {
+    "models": "Sherco SE F-R 450 Factory",
+    "from": 2016,
+    "to": 2020
+  },
+  {
+    "models": "Sherco SE F-R 450 Six Days",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE-R 125",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE-R 250",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Sherco SE-R 250 Factory",
+    "from": 2016,
+    "to": 2020
+  },
+  {
+    "models": "Sherco SE-R 250 Six Days",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE-R 300",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Sherco SE-R 300 Factory",
+    "from": 2016,
+    "to": 2020
+  },
+  {
+    "models": "Sherco SE-R 300 Six Days",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "Sherco SM 500 Factory",
+    "from": 2021,
+    "to": ""
+  }
+]
