@@ -1,0 +1,37 @@
+[
+  {
+    "models": "KTM EXC 250F",
+    "from": 2002,
+    "to": 2005
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 525",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM SMR 450F",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX 525",
+    "from": 2003,
+    "to": 2006
+  }
+]
