@@ -1,0 +1,262 @@
+[
+  {
+    "models": "Gasgas EC Ranger 300",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "Gasgas EC200",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EC250",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EC250 Six Days",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Gasgas EC300",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EC300 Six Days",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Gasgas Enduro GP 250",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "Gasgas Enduro GP 300",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "Gasgas XC200",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas XC250",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas XC300",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Rieju MR Pro 200",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Pro 250",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Pro 300",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Racing 200",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Rieju MR Racing 250",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Rieju MR Racing 300",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Ranger 300",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Sherco SC F-R 250",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC F-R 300",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC F-R 450",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Sherco SC-R 125",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC-R 250",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC-R 300",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE 125 Factory",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE 250 Factory",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE 300 Factory",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE F 250 Factory",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE F 300 Factory",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE F 450 Factory",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE F 500 Factory",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE F-R 250 Factory",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SE F-R 300 Factory",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SE F-R 450",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE F-R 450 Factory",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "Sherco SEF 500 Factory",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SE-R 250 Factory",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "Sherco SE-R 300 Factory",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha WR250F",
+    "from": 2001,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha WR400F",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Yamaha WR426F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha WR450F",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ125",
+    "from": 1998,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ125X",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ250",
+    "from": 1998,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ250F",
+    "from": 2001,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ250FX",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ250X",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ400F",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha YZ426F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ450F",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ450FX",
+    "from": 2016,
+    "to": 2024
+  }
+]
