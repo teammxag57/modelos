@@ -1,722 +1,402 @@
 [
   {
-    "models": "Gasgas EC125",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Gasgas EC250",
-    "from": 2021,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EC250F",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EC300",
-    "from": 2021,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EC300 GP",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Gasgas EC350F",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EC450F",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EC500F",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas ES350",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas ES500",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EW500F",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Gasgas EX250",
-    "from": 2022,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EX250F",
-    "from": 2021,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EX300",
-    "from": 2021,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EX350F",
-    "from": 2021,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EX450F",
-    "from": 2021,
-    "to": 2024
-  },
-  {
-    "models": "Gasgas MC125",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas MC150",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Gasgas MC250",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas MC250F",
-    "from": 2021,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas MC300",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Gasgas MC350F",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas MC450F",
-    "from": 2021,
-    "to": 2025
-  },
-  {
-    "models": "Husaberg 390FE",
-    "from": 2010,
-    "to": 2011
-  },
-  {
-    "models": "Husaberg 450FE",
-    "from": 2009,
-    "to": 2011
-  },
-  {
-    "models": "Husaberg 450FX",
-    "from": 2010,
-    "to": 2011
-  },
-  {
-    "models": "Husaberg 570FE",
-    "from": 2009,
-    "to": 2011
-  },
-  {
-    "models": "Husaberg 570FS",
-    "from": 2010,
-    "to": 2011
-  },
-  {
-    "models": "Husaberg FE250",
-    "from": 2013,
-    "to": ""
-  },
-  {
-    "models": "Husaberg FE350",
-    "from": 2013,
-    "to": 2014
-  },
-  {
-    "models": "Husaberg FE450",
-    "from": 2014,
-    "to": ""
-  },
-  {
-    "models": "Husaberg FE501",
-    "from": 2013,
-    "to": 2014
-  },
-  {
-    "models": "Husqvarna FC 250",
-    "from": 2014,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FC 350",
-    "from": 2014,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FC 450",
-    "from": 2014,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FE 250",
-    "from": 2014,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FE 350",
-    "from": 2014,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FE 350 Pro",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FE 350s",
-    "from": 2015,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FE 350w",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna FE 450",
-    "from": 2014,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FE 501",
-    "from": 2014,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FE 501s",
-    "from": 2015,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FE 501w",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna FR 450 Rally",
-    "from": 2020,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FS 450",
-    "from": 2018,
-    "to": 2024
-  },
-  {
-    "models": "Husqvarna FX 350",
-    "from": 2017,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FX 450",
-    "from": 2017,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna TC 125",
-    "from": 2014,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna TC 150",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna TC 250",
-    "from": 2017,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna TC 300",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna TE 125",
-    "from": 2015,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna TE 150",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna TE 250",
-    "from": 2017,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna TE 250i",
-    "from": 2018,
-    "to": 2022
-  },
-  {
-    "models": "Husqvarna TE 300",
-    "from": 2017,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna TE 300 Pro",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna TE 300i",
-    "from": 2019,
-    "to": 2023
-  },
-  {
-    "models": "Husqvarna TX 300",
-    "from": 2017,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna TX 300i",
-    "from": 2020,
-    "to": 2022
-  },
-  {
-    "models": "KTM EXC 150",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM EXC 200",
-    "from": 1998,
-    "to": 2016
-  },
-  {
-    "models": "KTM EXC 250",
-    "from": 2017,
-    "to": 2025
-  },
-  {
-    "models": "KTM EXC 250 TPI",
-    "from": 2020,
-    "to": 2021
-  },
-  {
-    "models": "KTM EXC 300",
-    "from": 2017,
-    "to": 2025
-  },
-  {
-    "models": "KTM EXC 300 HARDENDURO",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM EXC 300 TPI",
-    "from": 2018,
-    "to": 2022
-  },
-  {
-    "models": "KTM EXC 400",
-    "from": 2000,
-    "to": 2011
-  },
-  {
-    "models": "KTM EXC 400 Racing",
-    "from": 2000,
-    "to": 2007
-  },
-  {
-    "models": "KTM EXC 450",
-    "from": 2003,
-    "to": 2011
-  },
-  {
-    "models": "KTM EXC 500",
-    "from": 2012,
-    "to": 2016
-  },
-  {
-    "models": "KTM EXC 520",
-    "from": 2000,
-    "to": 2002
-  },
-  {
-    "models": "KTM EXC 525",
-    "from": 2003,
-    "to": 2007
-  },
-  {
-    "models": "KTM EXC 530",
-    "from": 2009,
-    "to": 2011
-  },
-  {
-    "models": "KTM EXC-F 250",
-    "from": 2006,
-    "to": 2025
-  },
-  {
-    "models": "KTM EXC-F 350",
-    "from": 2012,
-    "to": 2025
-  },
-  {
-    "models": "KTM EXC-F 450",
-    "from": 2020,
-    "to": 2025
-  },
-  {
-    "models": "KTM EXC-F 500",
-    "from": 2017,
-    "to": 2025
-  },
-  {
-    "models": "KTM EXC-G 250 Racing",
-    "from": 2002,
-    "to": 2005
-  },
-  {
-    "models": "KTM EXC-G 400",
-    "from": 2004,
-    "to": 2006
-  },
-  {
-    "models": "KTM EXC-G 450",
-    "from": 2003,
-    "to": 2007
-  },
-  {
-    "models": "KTM EXC-R 450",
-    "from": 2008,
-    "to": ""
-  },
-  {
-    "models": "KTM EXC-R 530",
-    "from": 2008,
-    "to": ""
-  },
-  {
-    "models": "KTM FREERIDE 250 F",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM MXC 200",
-    "from": 1998,
-    "to": 2003
-  },
-  {
-    "models": "KTM MXC 400",
+    "models": "Suzuki RM 125",
     "from": 2001,
-    "to": 2002
-  },
-  {
-    "models": "KTM MXC 520",
-    "from": 2001,
-    "to": 2002
-  },
-  {
-    "models": "KTM MXC-G 450",
-    "from": 2003,
-    "to": 2005
-  },
-  {
-    "models": "KTM MXC-G 525",
-    "from": 2003,
-    "to": 2005
-  },
-  {
-    "models": "KTM Rally Replica 450",
-    "from": 2019,
-    "to": 2025
-  },
-  {
-    "models": "KTM SMR 450",
-    "from": 2005,
-    "to": 2024
-  },
-  {
-    "models": "KTM SMR 525",
-    "from": 2005,
-    "to": ""
-  },
-  {
-    "models": "KTM SMS 450",
-    "from": 2004,
-    "to": ""
-  },
-  {
-    "models": "KTM SX 125",
-    "from": 1998,
-    "to": 2025
-  },
-  {
-    "models": "KTM SX 144",
-    "from": 2007,
     "to": 2008
   },
   {
-    "models": "KTM SX 150",
-    "from": 2009,
-    "to": 2025
-  },
-  {
-    "models": "KTM SX 200",
-    "from": 2000,
-    "to": 2004
-  },
-  {
-    "models": "KTM SX 250",
-    "from": 2017,
-    "to": 2025
-  },
-  {
-    "models": "KTM SX 300",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM SX 400",
-    "from": 2000,
-    "to": 2002
-  },
-  {
-    "models": "KTM SX 450",
-    "from": 2003,
-    "to": 2006
-  },
-  {
-    "models": "KTM SX 520",
-    "from": 2000,
-    "to": 2002
-  },
-  {
-    "models": "KTM SX 525",
-    "from": 2003,
-    "to": 2006
-  },
-  {
-    "models": "KTM SX-F 250",
-    "from": 2005,
-    "to": 2025
-  },
-  {
-    "models": "KTM SX-F 350",
-    "from": 2011,
-    "to": 2025
-  },
-  {
-    "models": "KTM SX-F 450",
-    "from": 2013,
-    "to": 2025
-  },
-  {
-    "models": "KTM SXS 125",
-    "from": 2004,
-    "to": ""
-  },
-  {
-    "models": "KTM SXS 450",
-    "from": 2003,
-    "to": 2004
-  },
-  {
-    "models": "KTM SXS 540",
+    "models": "Suzuki RM 250",
     "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "",
+    "from": "",
     "to": ""
   },
   {
-    "models": "KTM XC 125",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC 150",
-    "from": 2010,
-    "to": 2014
-  },
-  {
-    "models": "KTM XC 200",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM XC 250",
-    "from": 2017,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC 250 TPI",
-    "from": 2020,
-    "to": 2022
-  },
-  {
-    "models": "KTM XC 300",
-    "from": 2017,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC 300 TPI",
-    "from": 2020,
-    "to": 2022
-  },
-  {
-    "models": "KTM XC 450",
-    "from": 2004,
-    "to": 2007
-  },
-  {
-    "models": "KTM XC 525",
-    "from": 2006,
-    "to": 2007
-  },
-  {
-    "models": "KTM XC-F 250",
-    "from": 2007,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC-F 350",
-    "from": 2011,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC-F 450",
-    "from": 2013,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC-FW 250",
-    "from": 2006,
-    "to": 2016
-  },
-  {
-    "models": "KTM XC-FW 350",
-    "from": 2012,
-    "to": 2022
-  },
-  {
-    "models": "KTM XCF-W 450",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM XCF-W 500",
-    "from": 2022,
+    "models": "",
+    "from": "",
     "to": ""
   },
   {
-    "models": "KTM XC-FW 500",
-    "from": 2020,
-    "to": 2021
-  },
-  {
-    "models": "KTM XCR-W 450",
-    "from": 2008,
+    "models": "",
+    "from": "",
     "to": ""
   },
   {
-    "models": "KTM XCR-W 530",
-    "from": 2008,
+    "models": "",
+    "from": "",
     "to": ""
   },
   {
-    "models": "KTM XC-W 125",
-    "from": 2025,
+    "models": "",
+    "from": "",
     "to": ""
   },
   {
-    "models": "KTM XC-W 150",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC-W 200",
-    "from": 2006,
-    "to": 2016
-  },
-  {
-    "models": "KTM XC-W 250",
-    "from": 2017,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC-W 250 TPI",
-    "from": 2018,
-    "to": 2022
-  },
-  {
-    "models": "KTM XC-W 300",
-    "from": 2017,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC-W 300 HARDENDURO",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC-W 300 TPI",
-    "from": 2019,
-    "to": 2023
-  },
-  {
-    "models": "KTM XC-W 400",
-    "from": 2007,
-    "to": 2010
-  },
-  {
-    "models": "KTM XC-W 450",
-    "from": 2007,
-    "to": 2016
-  },
-  {
-    "models": "KTM XC-W 500",
-    "from": 2012,
-    "to": 2016
-  },
-  {
-    "models": "KTM XC-W 525",
-    "from": 2007,
+    "models": "",
+    "from": "",
     "to": ""
   },
   {
-    "models": "KTM XC-W 530",
-    "from": 2009,
+    "models": "",
+    "from": "",
     "to": ""
   },
   {
-    "models": "KTM XW-F 350",
-    "from": 2024,
+    "models": "",
+    "from": "",
     "to": ""
   },
   {
-    "models": "KTM XW-F 500",
-    "from": 2024,
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "",
+    "from": "",
     "to": ""
   }
 ]
