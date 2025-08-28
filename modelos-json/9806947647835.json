@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Honda CRF 450 R",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "Kawasaki KX 450 F",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "Yamaha WR 450 F",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha YZ 450 F",
+    "from": 2010,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha YZ 450 FX",
+    "from": 2016,
+    "to": 2020
+  }
+]
