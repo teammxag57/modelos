@@ -1,0 +1,167 @@
+[
+  {
+    "models": "Beta RR 2T 125 Race",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 2T 200 Race",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna CR125",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna SM450",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna SM510",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TC450",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE310",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE450",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE510",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE511",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TXC250",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TXC310",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TXC450",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TXC510",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TXC511",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR125",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR250",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR300",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Kawasaki KLX450R",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Kawasaki KLX450R (AU)",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki KX450F",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "Yamaha WR250F",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha WR450F",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ125",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ125X",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ250",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ250F",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ250FX",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ250X",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ450F",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ450FX",
+    "from": 2022,
+    "to": 2024
+  }
+]
