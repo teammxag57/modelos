@@ -1,0 +1,107 @@
+[
+  {
+    "models": "Honda CR 125R",
+    "from": 1995,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 250R",
+    "from": 1995,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 500R",
+    "from": 1995,
+    "to": 2001
+  },
+  {
+    "models": "Honda CRF 250R",
+    "from": 2004,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF 250RX",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF 450L",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 2002,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF 450RL",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF 450RWE",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF 450RX",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF 450X",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM Enduro 640 LC4",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 380",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 400",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 520",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM SXC 625",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM SXS 250",
+    "from": 2001,
+    "to": ""
+  },
+  {
+    "models": "KTM SXS 540",
+    "from": 2001,
+    "to": 2002
+  }
+]
