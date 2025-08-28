@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Yamaha TTR 125L",
+    "from": 2000,
+    "to": 2008
+  },
+  {
+    "models": "Yamaha TTR 125LE",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ80",
+    "from": 1986,
+    "to": 2001
+  },
+  {
+    "models": "Yamaha YZ85",
+    "from": 2002,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ85LW",
+    "from": 2022,
+    "to": 2024
+  }
+]
