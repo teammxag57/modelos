@@ -1,402 +1,227 @@
 [
   {
-    "models": "Suzuki RM 125",
-    "from": 2001,
+    "models": "Husaberg 450FC",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "Husaberg 450FE",
+    "from": 2004,
     "to": 2008
   },
   {
-    "models": "Suzuki RM 250",
-    "from": 2001,
+    "models": "Husaberg 450FS-C",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Husaberg 450FS-E",
+    "from": 2004,
     "to": 2008
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "Husaberg 550FE",
+    "from": 2007,
+    "to": 2008
   },
   {
-    "models": "",
-    "from": "",
+    "models": "Husaberg 550FS",
+    "from": 2007,
     "to": ""
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "Husaberg 650FC",
+    "from": 2004,
+    "to": 2005
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "Husaberg 650FE",
+    "from": 2004,
+    "to": 2008
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "Husaberg 650FS-C",
+    "from": 2004,
+    "to": 2008
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "Husaberg 650FS-E",
+    "from": 2004,
+    "to": 2008
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM EXC 125",
+    "from": 2004,
+    "to": 2008
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM EXC 200",
+    "from": 2004,
+    "to": 2005
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM EXC 250",
+    "from": 2004,
+    "to": 2005
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM EXC 300",
+    "from": 2004,
+    "to": 2005
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM EXC 400",
+    "from": 2000,
+    "to": 2003
   },
   {
-    "models": "",
-    "from": "",
+    "models": "KTM EXC 450",
+    "from": 2003,
     "to": ""
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM EXC 520",
+    "from": 2000,
+    "to": 2002
   },
   {
-    "models": "",
-    "from": "",
+    "models": "KTM EXC 525",
+    "from": 2003,
     "to": ""
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM EXC-G 250 Racing",
+    "from": 2002,
+    "to": 2003
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM MXC 300",
+    "from": 2004,
+    "to": 2005
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM MXC 400",
+    "from": 2001,
+    "to": 2002
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM MXC 520",
+    "from": 2001,
+    "to": 2002
   },
   {
-    "models": "",
-    "from": "",
+    "models": "KTM MXC-G 450",
+    "from": 2003,
     "to": ""
   },
   {
-    "models": "",
-    "from": "",
+    "models": "KTM MXC-G 525",
+    "from": 2003,
     "to": ""
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM Rallye 660",
+    "from": 2001,
+    "to": 2005
   },
   {
-    "models": "",
-    "from": "",
+    "models": "KTM SMR 450",
+    "from": 2008,
     "to": ""
   },
   {
-    "models": "",
-    "from": "",
+    "models": "KTM SX 105",
+    "from": 2004,
     "to": ""
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM SX 125",
+    "from": 2004,
+    "to": 2008
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM SX 144",
+    "from": 2007,
+    "to": 2008
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM SX 200",
+    "from": 2003,
+    "to": 2004
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM SX 250",
+    "from": 2004,
+    "to": 2005
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM SX 400",
+    "from": 2000,
+    "to": 2002
   },
   {
-    "models": "",
-    "from": "",
+    "models": "KTM SX 450",
+    "from": 2003,
     "to": ""
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM SX 520",
+    "from": 2000,
+    "to": 2002
   },
   {
-    "models": "",
-    "from": "",
+    "models": "KTM SX 525",
+    "from": 2003,
     "to": ""
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM SX 65",
+    "from": 2002,
+    "to": 2004
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM SX 85",
+    "from": 2003,
+    "to": 2004
   },
   {
-    "models": "",
-    "from": "",
+    "models": "KTM SXS 125",
+    "from": 2004,
     "to": ""
   },
   {
-    "models": "",
-    "from": "",
+    "models": "KTM SXS 250",
+    "from": 2004,
     "to": ""
   },
   {
-    "models": "",
-    "from": "",
+    "models": "KTM SXS 450",
+    "from": 2003,
     "to": ""
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM SXS 540",
+    "from": 2001,
+    "to": 2003
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM XC 200",
+    "from": 2006,
+    "to": 2008
   },
   {
-    "models": "",
-    "from": "",
+    "models": "KTM XC 450 ATV",
+    "from": 2008,
     "to": ""
   },
   {
-    "models": "",
-    "from": "",
+    "models": "KTM XC 525 ATV",
+    "from": 2008,
     "to": ""
   },
   {
-    "models": "",
-    "from": "",
-    "to": ""
+    "models": "KTM XC-W 200",
+    "from": 2006,
+    "to": 2008
   }
 ]
