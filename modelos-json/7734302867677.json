@@ -1,0 +1,87 @@
+[
+  {
+    "models": "Husaberg FE 250",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Husaberg TE 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 300",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM FREERIDE 250 R",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "KTM MXC 300",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "KTM SXS 250",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 250",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 300",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 300 Six Days",
+    "from": 2015,
+    "to": 2016
+  }
+]
