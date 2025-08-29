@@ -1,31 +1,31 @@
 [
   {
-    "models": "Yamaha WR250F",
+    "models": "Yamaha WR 250F",
     "from": 2015,
     "to": 2024
   },
   {
-    "models": "Yamaha WR450F",
+    "models": "Yamaha WR 450F",
     "from": 2016,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ250F",
+    "models": "Yamaha YZ 250F",
     "from": 2009,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ250FX",
+    "models": "Yamaha YZ 250FX",
     "from": 2015,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ450F",
+    "models": "Yamaha YZ 450F",
     "from": 2009,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ450FX",
+    "models": "Yamaha YZ 450FX",
     "from": 2016,
     "to": 2024
   }
