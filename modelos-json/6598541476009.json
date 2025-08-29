@@ -1,0 +1,212 @@
+[
+  {
+    "models": "UPPER ROLLER",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KDX80",
+    "from": 1984,
+    "to": 1988
+  },
+  {
+    "models": "Kawasaki KX100",
+    "from": 1995,
+    "to": 2000
+  },
+  {
+    "models": "Kawasaki KX60",
+    "from": 1983,
+    "to": 2003
+  },
+  {
+    "models": "Kawasaki KX80",
+    "from": 1983,
+    "to": 2000
+  },
+  {
+    "models": "Kawasaki KX80 Big Wheel",
+    "from": 1992,
+    "to": 1994
+  },
+  {
+    "models": "Suzuki RM60",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "Yamaha IT200",
+    "from": 1984,
+    "to": 1986
+  },
+  {
+    "models": "Yamaha WR200",
+    "from": 1992,
+    "to": ""
+  },
+  {
+    "models": "Yamaha WR250R DUAL SPORT",
+    "from": 2012,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha YFM350 Raptor",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YFM350 Warrior",
+    "from": 1987,
+    "to": 2004
+  },
+  {
+    "models": "Yamaha YFS200 Blaster",
+    "from": 1988,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha YZ125",
+    "from": 1983,
+    "to": 1985
+  },
+  {
+    "models": "Yamaha YZ250",
+    "from": 1978,
+    "to": 1986
+  },
+  {
+    "models": "LOWER ROLLER",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KDX80",
+    "from": 1984,
+    "to": 1988
+  },
+  {
+    "models": "Kawasaki KX100",
+    "from": 1995,
+    "to": 2000
+  },
+  {
+    "models": "Kawasaki KX60",
+    "from": 1983,
+    "to": 2003
+  },
+  {
+    "models": "Kawasaki KX65",
+    "from": 2000,
+    "to": 2022
+  },
+  {
+    "models": "Kawasaki KX80",
+    "from": 1983,
+    "to": 2000
+  },
+  {
+    "models": "Kawasaki KX80 Big Wheel",
+    "from": 1992,
+    "to": 1994
+  },
+  {
+    "models": "Suzuki RM60",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "Suzuki RM65",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "Yamaha TT125",
+    "from": 2000,
+    "to": ""
+  },
+  {
+    "models": "Yamaha TT350",
+    "from": 1986,
+    "to": 1987
+  },
+  {
+    "models": "Yamaha TTR125 Drum Brake",
+    "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "Yamaha TTR125E Drum Brake",
+    "from": 2003,
+    "to": 2009
+  },
+  {
+    "models": "Yamaha TTR125L Disc Brake",
+    "from": 2000,
+    "to": 2008
+  },
+  {
+    "models": "Yamaha TTR125LE Disc Brake",
+    "from": 2003,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha TTR230",
+    "from": 2005,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha WR200",
+    "from": 1992,
+    "to": ""
+  },
+  {
+    "models": "Yamaha WR250R DUAL SPORT",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha WR250X Supermoto",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Yamaha YFM350 Raptor",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YFM350 Warrior",
+    "from": 1987,
+    "to": 2004
+  },
+  {
+    "models": "Yamaha YFS200 Blaster",
+    "from": 1988,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha YTZ250 Tri Moto",
+    "from": 1985,
+    "to": 1986
+  },
+  {
+    "models": "Yamaha YZ250",
+    "from": 1978,
+    "to": 1986
+  },
+  {
+    "models": "Yamaha YZ80",
+    "from": 1983,
+    "to": 2001
+  },
+  {
+    "models": "Yamaha YZ85",
+    "from": 2002,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha YZ85LW",
+    "from": 2022,
+    "to": ""
+  }
+]
