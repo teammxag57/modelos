@@ -1,0 +1,62 @@
+[
+  {
+    "models": "Yamaha WR250F",
+    "from": 2002,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha WR426F",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "Yamaha WR450F",
+    "from": 2003,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha YZ125",
+    "from": 2002,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha YZ125X",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha YZ250",
+    "from": 2002,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha YZ250F",
+    "from": 2002,
+    "to": 2008
+  },
+  {
+    "models": "Yamaha YZ250FX",
+    "from": 2015,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha YZ250X",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha YZ426F",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "Yamaha YZ450F",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "Yamaha YZ450FX",
+    "from": 2016,
+    "to": 2022
+  }
+]
