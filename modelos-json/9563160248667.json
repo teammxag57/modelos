@@ -1,0 +1,47 @@
+[
+  {
+    "models": "Yamaha DT 125",
+    "from": 1999,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha DT X 125",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha WR 200",
+    "from": 1992,
+    "to": ""
+  },
+  {
+    "models": "Yamaha WR 250",
+    "from": 1991,
+    "to": 1997
+  },
+  {
+    "models": "Yamaha WR 400F",
+    "from": 1998,
+    "to": ""
+  },
+  {
+    "models": "Yamaha WR 500",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1986,
+    "to": 1998
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1982,
+    "to": 1998
+  },
+  {
+    "models": "Yamaha YZ 400F",
+    "from": 1998,
+    "to": ""
+  }
+]
