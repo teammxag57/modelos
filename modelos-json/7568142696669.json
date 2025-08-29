@@ -1,0 +1,207 @@
+[
+  {
+    "models": "Honda CRF 250R",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "Honda CRF 250X",
+    "from": 2008,
+    "to": 2017
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "Honda CRF 450X",
+    "from": 2007,
+    "to": 2017
+  },
+  {
+    "models": "KTM EXC 450",
+    "from": 2007,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 525",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 530",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC-G 400",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-G 450",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC-R 450",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-R 530",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM SMR 450",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX 450",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 450 ATV",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "KTM SX 505 ATV",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "KTM SX 525",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM SX-F 250",
+    "from": 2005,
+    "to": 2010
+  },
+  {
+    "models": "KTM SX-F 450",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX-F 505",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM SXS 540",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 450",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 450 ATV",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 525",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 525 ATV",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-F 250",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-F 450",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-F 505",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-FW 250",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "KTM XCR-W 450",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM XCR-W 530",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-W 400",
+    "from": 2007,
+    "to": 2010
+  },
+  {
+    "models": "KTM XC-W 450",
+    "from": 2007,
+    "to": 2011
+  },
+  {
+    "models": "KTM XC-W 525",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-W 530",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "Suzuki RMZ 250",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "Suzuki RMZ 450",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "Yamaha WR 250F",
+    "from": 2003,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2003,
+    "to": 2011
+  },
+  {
+    "models": "Yamaha YFZ 450",
+    "from": 2004,
+    "to": 2009
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2003,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2003,
+    "to": 2009
+  }
+]
