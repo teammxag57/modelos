@@ -1,0 +1,232 @@
+[
+  {
+    "models": "Husqvarna 701 Enduro",
+    "from": 2016,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna 701 Supermoto",
+    "from": 2016,
+    "to": 2021
+  },
+  {
+    "models": "KTM EGS 125",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM EGS 200",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM EGS 250 94-99",
+    "from": 1994,
+    "to": 1999
+  },
+  {
+    "models": "KTM EGS 300",
+    "from": 1994,
+    "to": 1999
+  },
+  {
+    "models": "KTM EGS 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM EGS 380",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM Enduro R 690",
+    "from": 2011,
+    "to": 2021
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 1994,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1994,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM EXC 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 400",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 450",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 520",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 525 03",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-G 250 Racing",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXE 125",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM MXC 200",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM MXC 250",
+    "from": 2008,
+    "to": 2001
+  },
+  {
+    "models": "KTM MXC 300",
+    "from": 1994,
+    "to": 2003
+  },
+  {
+    "models": "KTM MXC 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM MXC 380",
+    "from": 1998,
+    "to": 2001
+  },
+  {
+    "models": "KTM MXC 400",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM MXC 520",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM MXC-G 450",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM MXC-G 525 03",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM SC 400",
+    "from": 2000,
+    "to": ""
+  },
+  {
+    "models": "KTM SMS 450",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 1994,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 300 94",
+    "from": 1994,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM SX 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 400",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 450",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 520",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 525",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM SXC 400",
+    "from": 2000,
+    "to": ""
+  },
+  {
+    "models": "KTM SXS 250 01-03",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM SXS 450",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM SXS 540",
+    "from": 2001,
+    "to": 2003
+  }
+]
