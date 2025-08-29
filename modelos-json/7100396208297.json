@@ -1,0 +1,182 @@
+[
+  {
+    "models": "Honda CR125R",
+    "from": 1993,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR250R",
+    "from": 1992,
+    "to": 2007
+  },
+  {
+    "models": "Honda CRF250R",
+    "from": 2004,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF250RX",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF250X",
+    "from": 2004,
+    "to": 2017
+  },
+  {
+    "models": "Honda CRF450L",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Honda CRF450R",
+    "from": 2002,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF450RL",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF450RWE",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF450RX",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF450X",
+    "from": 2005,
+    "to": 2022
+  },
+  {
+    "models": "TM EN 125",
+    "from": 2002,
+    "to": 2011
+  },
+  {
+    "models": "TM EN 144",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "TM EN 250",
+    "from": 2002,
+    "to": 2011
+  },
+  {
+    "models": "TM EN 250F",
+    "from": 2002,
+    "to": 2011
+  },
+  {
+    "models": "TM EN 300",
+    "from": 2002,
+    "to": 2011
+  },
+  {
+    "models": "TM EN 400F",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "TM EN 450F",
+    "from": 2004,
+    "to": 2011
+  },
+  {
+    "models": "TM EN 530F",
+    "from": 2002,
+    "to": 2011
+  },
+  {
+    "models": "TM MX 125",
+    "from": 2002,
+    "to": 2011
+  },
+  {
+    "models": "TM MX 144",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "TM MX 250",
+    "from": 2002,
+    "to": 2011
+  },
+  {
+    "models": "TM MX 250F",
+    "from": 2002,
+    "to": 2011
+  },
+  {
+    "models": "TM MX 300",
+    "from": 2002,
+    "to": 2011
+  },
+  {
+    "models": "TM MX 400F",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "TM MX 450F",
+    "from": 2004,
+    "to": 2011
+  },
+  {
+    "models": "TM MX 530F",
+    "from": 2002,
+    "to": 2011
+  },
+  {
+    "models": "TM SM 450F",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "TM SMR 125",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "TM SMR 450F",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "TM SMR 530F",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "TM SMX 125",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "TM SMX 450F",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "TM SMX 660",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "TM SMX 660F",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "TM SMX 660S",
+    "from": 2005,
+    "to": ""
+  }
+]
