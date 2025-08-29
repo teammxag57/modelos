@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Yamaha WR250F",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha WR450F",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ250F",
+    "from": 2009,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ250FX",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ450F",
+    "from": 2009,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ450FX",
+    "from": 2016,
+    "to": 2024
+  }
+]
