@@ -1,0 +1,52 @@
+[
+  {
+    "models": "UPPER ROLLER",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KX 100",
+    "from": 2001,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KX 65",
+    "from": 2001,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KX 85",
+    "from": 2001,
+    "to": 2018
+  },
+  {
+    "models": "Suzuki RM 100",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "LOWER ROLLER",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "Roleto superior",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KX 100",
+    "from": 2001,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KX 85",
+    "from": 2001,
+    "to": 2018
+  },
+  {
+    "models": "Suzuki RM 100",
+    "from": 2003,
+    "to": ""
+  }
+]
