@@ -1,0 +1,222 @@
+[
+  {
+    "models": "LOWER BEARING",
+    "from": 1989,
+    "to": 2006
+  },
+  {
+    "models": "Kawasaki KDX200",
+    "from": 1989,
+    "to": 2006
+  },
+  {
+    "models": "Kawasaki KDX220",
+    "from": 1997,
+    "to": 2005
+  },
+  {
+    "models": "Kawasaki KDX250",
+    "from": 1991,
+    "to": 1994
+  },
+  {
+    "models": "Kawasaki KLX250R",
+    "from": 1994,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki KLX250S",
+    "from": 2006,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX250SF",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "Kawasaki KLX300",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX300 SM",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX300(R)",
+    "from": 1997,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX650 C",
+    "from": 1993,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki KLX650D1",
+    "from": 1996,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX650R",
+    "from": 1993,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki KX100",
+    "from": 1995,
+    "to": 1997
+  },
+  {
+    "models": "Kawasaki KX125",
+    "from": 1989,
+    "to": 1997
+  },
+  {
+    "models": "Kawasaki KX250",
+    "from": 1989,
+    "to": 1997
+  },
+  {
+    "models": "Kawasaki KX500",
+    "from": 1989,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki KX80",
+    "from": 1991,
+    "to": 1997
+  },
+  {
+    "models": "Kawasaki KX80 Big Wheel",
+    "from": 1992,
+    "to": 1994
+  },
+  {
+    "models": "UPPER BEARING",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX140",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX140G",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX140L",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX140R",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX140R F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX140R L",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX150L",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki KLX450R (AU)",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki KLX450R",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Kawasaki KX100",
+    "from": 1998,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KX112",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX125",
+    "from": 1989,
+    "to": 2005
+  },
+  {
+    "models": "Kawasaki KX250",
+    "from": 1989,
+    "to": 2007
+  },
+  {
+    "models": "Kawasaki KX250F",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX250X",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX450F",
+    "from": 2006,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX450SR",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki KX450X",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX500",
+    "from": 1989,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki KX80",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Kawasaki KX85",
+    "from": 2001,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX85 Big Wheel",
+    "from": 2001,
+    "to": 2018
+  },
+  {
+    "models": "Suzuki RM100",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "Suzuki RMZ250",
+    "from": 2004,
+    "to": 2006
+  }
+]
