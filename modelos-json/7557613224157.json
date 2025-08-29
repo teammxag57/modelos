@@ -1,10 +1,5 @@
 [
   {
-    "models": "KTM EXC 150",
-    "from": 2023,
-    "to": ""
-  },
-  {
     "models": "Husqvarna FE 350",
     "from": 2017,
     "to": ""
@@ -33,6 +28,11 @@
     "models": "Husqvarna TE 300i Rockstar Edition",
     "from": 2021,
     "to": 2022
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2023,
+    "to": ""
   },
   {
     "models": "KTM EXC 150 TPI",
