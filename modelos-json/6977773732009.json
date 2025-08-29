@@ -1,0 +1,147 @@
+[
+  {
+    "models": "Gasgas EC125",
+    "from": 2009,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC200",
+    "from": 2009,
+    "to": 2017
+  },
+  {
+    "models": "Gasgas EC250",
+    "from": 2009,
+    "to": 2017
+  },
+  {
+    "models": "Gasgas EC250 4T",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC250 Replica",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Gasgas EC300",
+    "from": 2009,
+    "to": 2017
+  },
+  {
+    "models": "Gasgas EC300 4T",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC300 Replica",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Gasgas EC450 4T",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC450FSR",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC125",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC250",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "Honda CRF150R",
+    "from": 2007,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF150RB",
+    "from": 2007,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki RMX450",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki RMZ250",
+    "from": 2007,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki RMZ450",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha WR250F",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha WR250R DUAL SPORT",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha WR250X Supermoto",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Yamaha WR450F",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ125",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ125X",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ250",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ250F",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ250FX",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ250X",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ450F",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ450FX",
+    "from": 2016,
+    "to": 2024
+  }
+]
