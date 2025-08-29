@@ -1,0 +1,552 @@
+[
+  {
+    "models": "Gasgas EX250",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "Gasgas EX250F",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Gasgas EX300",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Gasgas EX350F",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Gasgas EX450F",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Gasgas MC125",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Gasgas MC250F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC450F",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Husaberg FE350",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Husaberg FE450",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Husaberg FE501",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FC 250",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 250 (EURO)",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FC 350",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 450",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 450 (EURO)",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FE 250",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna FE 350",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna FE 350 Pro",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 350s",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 501",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 501s",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FX 350",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FX 450",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2017,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 300 Pro",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TX 300i",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 150 TPI",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 250 TPI",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 300 TPI",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 450",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC 500",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC-F 250",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC-F 350",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC-F 450",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC-F 500",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "KTM SMR 450",
+    "from": 2012,
+    "to": 2021
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX-F 250",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX-F 350",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX-F 450",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC 125",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC 150",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC 250 TPI",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC 300 TPI",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC-F 250",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC-F 350",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC-F 450",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC-FW 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-FW 350",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "KTM XCF-W 450",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM XCF-W 500",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-FW 500",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "KTM XC-W 125",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-W 150",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC-W 150 TPI",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC-W 200",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 250",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC-W 250 TPI",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC-W 300",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC-W 300 TPI",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC-W 450",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 500",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM XW-F 350",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "KTM XW-F 500",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC F-R 250",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC F-R 300",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC F-R 450",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Sherco SC-R 125",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC-R 250",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC-R 300",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE 125 Factory",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE 250 Factory",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE 300 Factory",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE F 250 Factory",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE F 300 Factory",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE F 450 Factory",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE F 500 Factory",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE F-R 250",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "Sherco SE F-R 250 Factory",
+    "from": 2016,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SE F-R 300",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "Sherco SE F-R 300 Factory",
+    "from": 2016,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SE F-R 450",
+    "from": 2015,
+    "to": 2021
+  },
+  {
+    "models": "Sherco SE F-R 450 Factory",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Sherco SEF 500 Factory",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SE-R 125",
+    "from": 2018,
+    "to": 2021
+  },
+  {
+    "models": "Sherco SE-R 250",
+    "from": 2015,
+    "to": 2022
+  },
+  {
+    "models": "Sherco SE-R 250 Factory",
+    "from": 2016,
+    "to": 2021
+  },
+  {
+    "models": "Sherco SE-R 300",
+    "from": 2015,
+    "to": 2022
+  },
+  {
+    "models": "Sherco SE-R 300 Factory",
+    "from": 2016,
+    "to": 2020
+  },
+  {
+    "models": "Sherco SM 125 Factory",
+    "from": 2021,
+    "to": ""
+  },
+  {
+    "models": "Stark VARG 60 HP",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Stark VARG 80 HP",
+    "from": 2024,
+    "to": ""
+  }
+]
