@@ -1,7 +1,12 @@
 [
   {
-    "models": "Honda CRF 250R",
-    "from": 2014,
-    "to": 2017
+    "models": "Yamaha YZ 85",
+    "from": 2002,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 85LW",
+    "from": 2022,
+    "to": 2024
   }
 ]
