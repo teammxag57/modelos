@@ -1,0 +1,242 @@
+[
+  {
+    "models": "Husaberg FE 250",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE 350",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE 501",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "Husaberg TE 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 300",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FC 250",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna FC 350",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna FE 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FE 350",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FE 350s",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2004,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC-F 350",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM MXC 300",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM SMR 450",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2004,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 144",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2009,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "KTM SX-F 250",
+    "from": 2005,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX-F 350",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX-F 450",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX-F 505",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM SXS 125",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM SXS 250",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM XC 150",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 200",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 450 ATV",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 525 ATV",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-F 250",
+    "from": 2007,
+    "to": 2015
+  },
+  {
+    "models": "KTM XC-F 350",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM XC-F 450",
+    "from": 2008,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC-F 505",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-FW 250",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-FW 350",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 200",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 250",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 300",
+    "from": 2006,
+    "to": 2016
+  }
+]
