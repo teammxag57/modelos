@@ -1,0 +1,792 @@
+[
+  {
+    "models": "Gasgas EC200",
+    "from": 2000,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EC250",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EC250 Six Days",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Gasgas EC300",
+    "from": 2000,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EC300 Six Days",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Gasgas Enduro GP 250",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "Gasgas Enduro GP 300",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC250",
+    "from": 2000,
+    "to": ""
+  },
+  {
+    "models": "Gasgas XC200",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas XC250",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas XC300",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Honda CR125R",
+    "from": 1987,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR250R",
+    "from": 1987,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR500R",
+    "from": 1987,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR80R",
+    "from": 1992,
+    "to": 2002
+  },
+  {
+    "models": "Honda CR80RB",
+    "from": 1996,
+    "to": 2002
+  },
+  {
+    "models": "Honda CR85R",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR85RB",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Honda CRF250L",
+    "from": 2013,
+    "to": 2020
+  },
+  {
+    "models": "Honda CRF250L ABS",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Honda CRF250RL RALLY",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Honda CRF250RLA RALLY ABS",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Honda CRF300L",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF300L ABS",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF300LR",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF300LR ABS",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF300LS",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Honda GROM 125",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Honda GROM 125 ABS",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Honda TRX250X",
+    "from": 1991,
+    "to": 1992
+  },
+  {
+    "models": "Honda TRX300 EX",
+    "from": 1993,
+    "to": 2008
+  },
+  {
+    "models": "Honda TRX300 X",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "Honda TRX450ER",
+    "from": 2006,
+    "to": 2014
+  },
+  {
+    "models": "Honda TRX450R",
+    "from": 2004,
+    "to": 2009
+  },
+  {
+    "models": "Honda TRX700XX",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Honda XR250R",
+    "from": 1990,
+    "to": 1995
+  },
+  {
+    "models": "Honda XR400R",
+    "from": 1996,
+    "to": 2004
+  },
+  {
+    "models": "Honda XR600R",
+    "from": 1991,
+    "to": 2000
+  },
+  {
+    "models": "Honda XR650L",
+    "from": 1993,
+    "to": 2024
+  },
+  {
+    "models": "Honda XR650R",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "Honda Z125M",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "Honda Z125M ABS",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki EL450 Eliminator",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki EL450 Eliminator ABS",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki EL450 Eliminator SE ABS",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki EX 650R",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki EX 650R ABS",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KDX200",
+    "from": 1989,
+    "to": 2006
+  },
+  {
+    "models": "Kawasaki KDX220",
+    "from": 1997,
+    "to": 2005
+  },
+  {
+    "models": "Kawasaki KEF300 Lakota",
+    "from": 1995,
+    "to": 2003
+  },
+  {
+    "models": "Kawasaki KFX450R",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "Kawasaki KL650 A (KLR)",
+    "from": 1987,
+    "to": 2007
+  },
+  {
+    "models": "Kawasaki KL650 B (KLR) TENGAI",
+    "from": 1990,
+    "to": 1991
+  },
+  {
+    "models": "Kawasaki KLX140",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX140G",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX140L",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX140R",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX140R F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX140R L",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX150L",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki KLX230",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX230 ABS",
+    "from": 2021,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX230 SM",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX230R",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX230R S",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX230S",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX230S ABS",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX250S",
+    "from": 2006,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX250SF",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "Kawasaki KLX300",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX300 SM",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX300(R)",
+    "from": 1997,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX400R",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX400R NON CA MODELS PUMPER CARB",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX400SR",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki KLX450R",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Kawasaki KLX450R (AU)",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki KLX650 C",
+    "from": 1993,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki KLX650D1",
+    "from": 1996,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX650R",
+    "from": 1996,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KX100",
+    "from": 1995,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KX112",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX125",
+    "from": 1988,
+    "to": 2005
+  },
+  {
+    "models": "Kawasaki KX250",
+    "from": 1988,
+    "to": 2007
+  },
+  {
+    "models": "Kawasaki KX250F",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX250X",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX450F",
+    "from": 2006,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX450SR",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki KX450X",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX500",
+    "from": 1986,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki KX65",
+    "from": 2000,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX80",
+    "from": 1991,
+    "to": 2000
+  },
+  {
+    "models": "Kawasaki KX80 Big Wheel",
+    "from": 1992,
+    "to": 1994
+  },
+  {
+    "models": "Kawasaki KX85",
+    "from": 2001,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX85 Big Wheel",
+    "from": 2001,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki Z1000",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "Kawasaki Z650 (ER650)",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki Z650 (ER650) ABS",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki Z650RS",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki Z650RS ABS",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki Z900",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Kawasaki Z900 ABS",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki Z900 SE",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki ZX900 Ninja ZX9R",
+    "from": 1994,
+    "to": 2003
+  },
+  {
+    "models": "Rieju MR Racing 250",
+    "from": 2021,
+    "to": ""
+  },
+  {
+    "models": "Suzuki DR250",
+    "from": 1990,
+    "to": 1993
+  },
+  {
+    "models": "Suzuki DR250S",
+    "from": 1990,
+    "to": 1995
+  },
+  {
+    "models": "Suzuki DR350",
+    "from": 1990,
+    "to": 1999
+  },
+  {
+    "models": "Suzuki DR350SE",
+    "from": 1990,
+    "to": 1999
+  },
+  {
+    "models": "Suzuki DR650SE",
+    "from": 1996,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki DRZ400E",
+    "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "Suzuki DRZ400E CA MODEL CV CARB",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Suzuki DRZ400E NON CA MODELS PUMPER CARB",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Suzuki DRZ400K",
+    "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "Suzuki DRZ400S",
+    "from": 2000,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki DRZ400SM",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki LT-230E",
+    "from": 1987,
+    "to": 1993
+  },
+  {
+    "models": "Suzuki LT-230S",
+    "from": 1985,
+    "to": 1990
+  },
+  {
+    "models": "Suzuki LT-250R",
+    "from": 1985,
+    "to": 1992
+  },
+  {
+    "models": "Suzuki LT-250S",
+    "from": 1989,
+    "to": 1990
+  },
+  {
+    "models": "Suzuki LT-500R",
+    "from": 1990,
+    "to": ""
+  },
+  {
+    "models": "Suzuki LT-A500F Vinson",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "Suzuki LT-F500F Vinson",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Suzuki RM100",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "Suzuki RM125",
+    "from": 1988,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RM250",
+    "from": 1993,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RM65",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "Suzuki RM80",
+    "from": 1990,
+    "to": 2001
+  },
+  {
+    "models": "Suzuki RM85",
+    "from": 2002,
+    "to": 2023
+  },
+  {
+    "models": "Suzuki RM85L",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "Suzuki RMX250",
+    "from": 1999,
+    "to": ""
+  },
+  {
+    "models": "Suzuki RMZ250",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha TTR250",
+    "from": 1999,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha WR250",
+    "from": 1991,
+    "to": 1997
+  },
+  {
+    "models": "Yamaha WR250F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha WR400F",
+    "from": 2000,
+    "to": ""
+  },
+  {
+    "models": "Yamaha WR426F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha WR500",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "Yamaha XT250",
+    "from": 2008,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha XT600",
+    "from": 1990,
+    "to": 1995
+  },
+  {
+    "models": "Yamaha XT600 (SA)",
+    "from": 1996,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YFM 250 Raptor",
+    "from": 2008,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YFM350 Raptor",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YFM350 Warrior",
+    "from": 1987,
+    "to": 1989
+  },
+  {
+    "models": "Yamaha YFM660R Raptor",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "Yamaha YFM700R Raptor",
+    "from": 2006,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YFZ350 Banshee",
+    "from": 1987,
+    "to": 2009
+  },
+  {
+    "models": "Yamaha YFZ450",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YFZ450R",
+    "from": 2009,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YFZ450X",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Yamaha YZ125",
+    "from": 1988,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ250",
+    "from": 1988,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ250F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ426F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ65",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ80",
+    "from": 1993,
+    "to": 2001
+  },
+  {
+    "models": "Yamaha YZ85",
+    "from": 2002,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ85LW",
+    "from": 2022,
+    "to": 2024
+  }
+]
