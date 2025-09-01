@@ -1,7 +1,107 @@
 [
   {
-    "models": "Yamaha YZ 85",
+    "models": "Gasgas EC Ranger 300",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "Honda CR125R",
+    "from": 1997,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR250R",
+    "from": 1996,
+    "to": ""
+  },
+  {
+    "models": "Honda CR500R",
+    "from": 1996,
+    "to": 2001
+  },
+  {
+    "models": "Kawasaki KX125",
+    "from": 1996,
+    "to": 2001
+  },
+  {
+    "models": "Kawasaki KX250",
+    "from": 1996,
+    "to": 2001
+  },
+  {
+    "models": "Kawasaki KX500",
+    "from": 1997,
+    "to": 2004
+  },
+  {
+    "models": "Rieju MR Ranger 300",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki RM250",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "Yamaha WR250F",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "Yamaha WR250R DUAL SPORT",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha WR250X Supermoto",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Yamaha WR400F",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Yamaha WR426F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha WR450F",
     "from": 2003,
-    "to": 2018
+    "to": 2004
+  },
+  {
+    "models": "Yamaha YZ125",
+    "from": 1996,
+    "to": 2003
+  },
+  {
+    "models": "Yamaha YZ250",
+    "from": 1996,
+    "to": 2003
+  },
+  {
+    "models": "Yamaha YZ250F",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "Yamaha YZ400F",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha YZ426F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ450F",
+    "from": 2003,
+    "to": ""
   }
 ]
