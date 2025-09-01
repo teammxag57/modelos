@@ -1,0 +1,92 @@
+[
+  {
+    "models": "KTM EGS 200",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM EGS 250",
+    "from": 1994,
+    "to": 1999
+  },
+  {
+    "models": "KTM EGS 300",
+    "from": 1994,
+    "to": 1999
+  },
+  {
+    "models": "KTM EGS 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM EGS 380",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 1994,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1994,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM EXC 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM MXC 250",
+    "from": 1998,
+    "to": 2001
+  },
+  {
+    "models": "KTM MXC 300",
+    "from": 1994,
+    "to": 2003
+  },
+  {
+    "models": "KTM MXC 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM MXC 380",
+    "from": 1998,
+    "to": 2001
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 1994,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 1994,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM SX 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM SXS 250",
+    "from": 2001,
+    "to": ""
+  }
+]
