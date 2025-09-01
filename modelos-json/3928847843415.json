@@ -1,0 +1,67 @@
+[
+  {
+    "models": "Honda CR125R",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR250R",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "Honda CRF250F",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF250R",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF250RX",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF250X",
+    "from": 2004,
+    "to": 2017
+  },
+  {
+    "models": "Honda CRF450L",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Honda CRF450R",
+    "from": 2002,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF450RL",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF450R-S",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF450RWE",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF450RX",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF450X",
+    "from": 2005,
+    "to": 2024
+  }
+]
