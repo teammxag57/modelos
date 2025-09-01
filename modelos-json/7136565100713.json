@@ -1,0 +1,407 @@
+[
+  {
+    "models": "Gasgas MC85 17/14",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC85 19/16",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 85 BW",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM Adventure 640",
+    "from": 1998,
+    "to": 2007
+  },
+  {
+    "models": "KTM COMP Limited 620",
+    "from": 1997,
+    "to": ""
+  },
+  {
+    "models": "KTM Comp. 400",
+    "from": 1995,
+    "to": 1999
+  },
+  {
+    "models": "KTM Comp. 620",
+    "from": 1994,
+    "to": 1999
+  },
+  {
+    "models": "KTM Duke 400",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM Duke 620",
+    "from": 1994,
+    "to": 1997
+  },
+  {
+    "models": "KTM Duke 640",
+    "from": 2000,
+    "to": 2004
+  },
+  {
+    "models": "KTM EGS 125",
+    "from": 1993,
+    "to": 1997
+  },
+  {
+    "models": "KTM EGS 250",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM EGS 300",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM EGS 400",
+    "from": 1994,
+    "to": 1997
+  },
+  {
+    "models": "KTM EGS 620",
+    "from": 1994,
+    "to": 1997
+  },
+  {
+    "models": "KTM EGS-E 400",
+    "from": 1997,
+    "to": ""
+  },
+  {
+    "models": "KTM EGS-E 620",
+    "from": 1997,
+    "to": ""
+  },
+  {
+    "models": "KTM Enduro 640 LC4",
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 1993,
+    "to": 1997
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 1994,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM EXC 400",
+    "from": 1994,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 400 Racing",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 440",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM EXC 450",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 520",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 525",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 620",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM EXC-G 250 Racing",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "KTM FREERIDE 250 F",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "KTM FREERIDE 250 R",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "KTM Freeride 350",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "KTM FREERIDE 350 (EURO)",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "KTM Freeride E-XC",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM LC4 350",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM LC4 400",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM LC4 620",
+    "from": 1997,
+    "to": 1998
+  },
+  {
+    "models": "KTM LC4 640",
+    "from": 1998,
+    "to": 2005
+  },
+  {
+    "models": "KTM LC4-E 400",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM LS-E 400",
+    "from": 1997,
+    "to": 2005
+  },
+  {
+    "models": "KTM LSE 620",
+    "from": 1997,
+    "to": ""
+  },
+  {
+    "models": "KTM MXC 300",
+    "from": 1994,
+    "to": ""
+  },
+  {
+    "models": "KTM MXC 400",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM MXC 440",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM MXC 520",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM MXC 550",
+    "from": 1994,
+    "to": 1996
+  },
+  {
+    "models": "KTM MXC-G 450",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM MXC-G 525",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM Rallye 660",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "KTM Rallye 660 Factory Replica",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM RXC 400",
+    "from": 1995,
+    "to": 1998
+  },
+  {
+    "models": "KTM RXC 620",
+    "from": 1995,
+    "to": 1997
+  },
+  {
+    "models": "KTM SC 400",
+    "from": 2000,
+    "to": ""
+  },
+  {
+    "models": "KTM SMC 625",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM SMC 660",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM SMS 450",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM Super Moto 620",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM Supermoto 640 LC4",
+    "from": 1999,
+    "to": 2005
+  },
+  {
+    "models": "KTM SX 105",
+    "from": 2004,
+    "to": 2011
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 1993,
+    "to": 1997
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 1994,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 400",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 440",
+    "from": 1994,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 450",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 520",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 525",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 620",
+    "from": 1997,
+    "to": 1999
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 85 BW",
+    "from": 2011,
+    "to": 2025
+  },
+  {
+    "models": "KTM SXC 400",
+    "from": 1997,
+    "to": 2000
+  },
+  {
+    "models": "KTM SXC 620",
+    "from": 1997,
+    "to": ""
+  },
+  {
+    "models": "KTM SXC 625",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM SXS 450",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM SXS 540",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM SXS 85",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "KTM TXC 400",
+    "from": 1998,
+    "to": ""
+  },
+  {
+    "models": "KTM TXC 620",
+    "from": 1998,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 105",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 85",
+    "from": 2008,
+    "to": 2009
+  }
+]
