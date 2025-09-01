@@ -1,0 +1,112 @@
+[
+  {
+    "models": "Honda CR250R",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "Honda CRF250X",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "Honda CRF450R",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "Kawasaki KLX400R",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki KLX400SR",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki KX250F",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX250X",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX450F",
+    "from": 2009,
+    "to": 2014
+  },
+  {
+    "models": "Kawasaki KX450SR",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "Stark VARG 60 HP",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Stark VARG 80 HP",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Suzuki DRZ400E",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "Suzuki DRZ400K",
+    "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "Suzuki DRZ400S",
+    "from": 2000,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki DRZ400SM",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki RM125",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "Suzuki RM250",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Yamaha WR250F",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Yamaha YZ250F",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ250FX",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ450F",
+    "from": 2010,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ450FX",
+    "from": 2016,
+    "to": 2024
+  }
+]
