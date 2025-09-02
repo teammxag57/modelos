@@ -1,0 +1,92 @@
+[
+  {
+    "models": "BETA 350 RR Enduro 4T",
+    "from": 2011,
+    "to": 2022
+  },
+  {
+    "models": "BETA 350 RR Enduro 4T RC",
+    "from": 2015,
+    "to": 2022
+  },
+  {
+    "models": "BETA 390 RR Enduro 4T",
+    "from": 2015,
+    "to": 2022
+  },
+  {
+    "models": "BETA 390 RR Enduro 4T RC",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "BETA 390 RR Enduro Racing 4T",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "BETA 390 RS Dual Sport&nbsp;",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "BETA 400 RR Enduro 4T",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "BETA 430 RR Enduro 4T",
+    "from": 2015,
+    "to": 2022
+  },
+  {
+    "models": "BETA 430 RR Enduro 4T RC",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "BETA 430 RR Enduro Racing 4T",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "BETA 450 RR Cross Country 4T",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "BETA 450 RR Enduro 4T",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "BETA 480 RR Enduro 4T",
+    "from": 2015,
+    "to": 2022
+  },
+  {
+    "models": "BETA 480 RR Enduro 4T RC",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "BETA 480 RR Enduro Racing 4T",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "BETA 498 RR Enduro 4T",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "BETA 500 RS Dual Sport",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "BETA 520 RR Enduro 4T",
+    "from": 2010,
+    "to": 2014
+  }
+]
