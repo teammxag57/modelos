@@ -1,0 +1,102 @@
+[
+  {
+    "models": "Husqvarna CR 125",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TC 449",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TC 450",
+    "from": 2010,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE 310",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE 449",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE 450",
+    "from": 2010,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TE 510",
+    "from": 2010,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TE 511",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR 125",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2004,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha YZ 125X",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 2004,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha YZ 250 F",
+    "from": 2004,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha YZ 250 FX",
+    "from": 2015,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha YZ 250 X",
+    "from": 2016,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha YZ 450 F",
+    "from": 2004,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha YZ 450 FX",
+    "from": 2016,
+    "to": 2020
+  }
+]
