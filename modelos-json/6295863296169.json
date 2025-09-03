@@ -1,0 +1,17 @@
+[
+  {
+    "models": "KTM 60 SX",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "KTM 65 SX",
+    "from": 1998,
+    "to": 2008
+  },
+  {
+    "models": "KTM 65 XC",
+    "from": 2008,
+    "to": 2008
+  }
+]
