@@ -1,0 +1,82 @@
+[
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2014,
+    "to": 2018
+  },
+  {
+    "models": "KTM 400 EXC-F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 400 SX-C",
+    "from": 1997,
+    "to": 2000
+  },
+  {
+    "models": "KTM 400 SX-F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "KTM 450 SXS",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "KTM 520 EXC-F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 520 SX-F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 525 EXC-F",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "KTM 525 SX-F",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "KTM 540 SXS",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM 620 SX",
+    "from": 1997,
+    "to": 1999
+  },
+  {
+    "models": "KTM 620 SXC",
+    "from": 1997,
+    "to": 1997
+  },
+  {
+    "models": "KTM 625 SXC",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 85 SX",
+    "from": 2004,
+    "to": 2018
+  }
+]
