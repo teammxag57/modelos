@@ -1,0 +1,277 @@
+[
+  {
+    "models": "Husaberg FE 250",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE 350",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE 390",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg FE 450",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE 501",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE 570",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg TE 125",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 300",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FC 250",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna FC 350",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna FC 450",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna FE 250",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna FE 350",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna FE 501",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna FX 350",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna FX 450",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 2003,
+    "to": 2017
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "KTM 125 XC-W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 144 SX",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 150 EXC",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2009,
+    "to": 2025
+  },
+  {
+    "models": "KTM 150 XC-W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "KTM 200 SX",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2006,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2006,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 SX",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2012,
+    "to": 2020
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2011,
+    "to": 2025
+  },
+  {
+    "models": "KTM 400 EXC-F",
+    "from": 2003,
+    "to": 2011
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "KTM 500 EXC-F",
+    "from": 2012,
+    "to": 2020
+  },
+  {
+    "models": "KTM 505 SX-F",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 525 SX-F",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "Sherco SE 125R",
+    "from": 2018,
+    "to": 2021
+  },
+  {
+    "models": "Sherco SE 250R",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "Sherco SE 300R",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "Sherco SEF 250R",
+    "from": 2012,
+    "to": 2021
+  },
+  {
+    "models": "Sherco SEF 300R",
+    "from": 2012,
+    "to": 2021
+  },
+  {
+    "models": "Sherco SEF 450R",
+    "from": 2012,
+    "to": 2021
+  }
+]
