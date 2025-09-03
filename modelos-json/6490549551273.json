@@ -1,0 +1,312 @@
+[
+  {
+    "models": "GasGas RX 450F Replica",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husaberg FE 450",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Husaberg FE 550",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "Husaberg FE 650",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "Husaberg FS 450",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Husaberg FS 650",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "Husqvarna FR 450 Rally",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "KTM 125 EXC Six Days",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "KTM 125 SXS",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "KTM 200 MXC",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM 200 SX",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "KTM 250 EXC Six Days",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "KTM 250 EXC-F Six Days",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "KTM 250 EXC-G Racing",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 250 MXC",
+    "from": 2001,
+    "to": 2001
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "KTM 250 SXS",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "KTM 300 EXC Six Days",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM 300 MXC",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "KTM 380 EXC",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM 380 MXC",
+    "from": 2001,
+    "to": 2001
+  },
+  {
+    "models": "KTM 380 SX",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM 400 EXC-F",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "KTM 400 EXC-F Six Days",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM 400 EXC-G Racing",
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "KTM 400 MXC Racing",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM 400 SX-F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 450 EXC-F Six Days",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "KTM 450 EXC-G",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 450 MXC-G Racing",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 450 Rally Factory Replica",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 450 SXS",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 450 XC-F",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM 520 EXC-F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM 520 MXC",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM 520 SX-F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM 525 EXC-F",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 525 EXC-F Six Days",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 525 MXC",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 525 MXC-G",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 525 SMR",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "KTM 525 SX-F",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 540 SXS",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "KTM 625 SC",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "KTM 625 SXC",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 640 Adventure R",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "KTM 640 LC4 Adventure",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "KTM 640 LC4 Enduro",
+    "from": 2002,
+    "to": 2006
+  },
+  {
+    "models": "KTM 640 LC4 Enduro Six Days",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "KTM 640 LC4 Supermoto",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "KTM 65 SX",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM 660 Rally",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "KTM 660 Rally Factory Replica",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 690 Rally Factory Replica",
+    "from": 2007,
+    "to": 2010
+  }
+]
