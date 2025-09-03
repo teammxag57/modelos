@@ -1,0 +1,297 @@
+[
+  {
+    "models": "Beta RR 4T 400",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Beta RR 4T 450",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Beta RR 4T 520",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "GasGas EC 250F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "GasGas EC 350F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "GasGas ES 350",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "GasGas EX 250F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "GasGas EX 350F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "GasGas MC 250F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "GasGas MC 350F",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Husaberg FE 250",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE 350",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE 390",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg FE 450",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg FE 570",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg FS 570",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg FX 450",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna FC 250",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FC 350",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FE 250",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FE 350",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FE 350S",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FE 350W",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FX 350",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna SM 449R",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna SMR 511",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna TC 449",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE 449",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 511",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TXC 449",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna TXC 511",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2006,
+    "to": 2024
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "KTM 250 SXS-F",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM 250 XC-F",
+    "from": 2007,
+    "to": 2024
+  },
+  {
+    "models": "KTM 250 XCF-W",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2012,
+    "to": 2024
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2011,
+    "to": 2024
+  },
+  {
+    "models": "KTM 350 XC-F",
+    "from": 2011,
+    "to": 2024
+  },
+  {
+    "models": "KTM 350 XCF-W",
+    "from": 2012,
+    "to": 2022
+  },
+  {
+    "models": "KTM 350 XW-F",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "KTM 400 EXC-F",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 400 XCF-W",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 450 SMR",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "KTM 450 SX (ATV)",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM 450 SXS",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 450 XC-F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM 450 XCF-W",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 450 XCR-W",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "KTM 505 SX (ATV)",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM 505 SX-F",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 505 XC-F",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 530 EXC-F",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 530 XCF-W",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 530 XCR-W",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "KTM Freeride 250 F",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "KTM Freeride 350",
+    "from": 2012,
+    "to": 2017
+  }
+]
