@@ -1,0 +1,157 @@
+[
+  {
+    "models": "Husaberg TE 125",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 250",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 300",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "KTM 125 EXC Factory Edition",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "KTM 125 EXC Six Days",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "KTM 125 XC-W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "KTM 150 XC-W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 EXC Factory Edition",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "KTM 250 EXC Six Days",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 XC-W",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "KTM 300 EXC Factory Edition",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "KTM 300 EXC Six Days",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "KTM 300 XC",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "KTM 300 XC-W",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "KTM 300 XC-W Six Days",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "KTM Freeride 250 R",
+    "from": 2014,
+    "to": 2017
+  }
+]
