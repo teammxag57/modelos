@@ -1,0 +1,42 @@
+[
+  {
+    "models": "KTM 250 EXC Racing",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM 400 EXC",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 400 EXC Racing",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM 400 SX",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM 450 EXC",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "KTM 450 SX",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM 520 SX",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "KTM 525 SX",
+    "from": 2003,
+    "to": 2007
+  }
+]
