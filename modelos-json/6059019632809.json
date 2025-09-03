@@ -1,0 +1,47 @@
+[
+  {
+    "models": "KTM 125 EXC",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM 200 SX",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM 300 SX",
+    "from": 1994,
+    "to": 1994
+  },
+  {
+    "models": "KTM 380 EXC",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM 380 SX",
+    "from": 1998,
+    "to": 2002
+  }
+]
