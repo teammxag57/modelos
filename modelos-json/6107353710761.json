@@ -1,0 +1,637 @@
+[
+  {
+    "models": "GasGas EC 250",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EC 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EC 300",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EC 350F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 250F",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "GasGas EX 300",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "GasGas EX 350F",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "GasGas EX 450F",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "GasGas TXT GP 250",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "GasGas TXT GP 300",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "GasGas TXT RACING 125",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "GasGas TXT RACING 250",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "GasGas TXT RACING 280",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "GasGas TXT RACING 300",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husaberg FC 450",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "Husaberg FC 550",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "Husaberg FE 250",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE 350",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE 390",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg FE 450",
+    "from": 2004,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE 501",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "Husaberg FE 501",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE 550",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FE 570",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg FE 650",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FS 450",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Husaberg FS 450",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FS 550",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "Husaberg FS 570",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg FS 650",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg TE 125",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 300",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FE 250F",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 350 Rockstar Edition",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FE 350F",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 501F",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 300 Jarvis Edition",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna TE 300 RockStar Edition",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 125 EGS",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM 125 EXC Factory Edition",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 125 EXC Factory Edition",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "KTM 125 EXC Six Days",
+    "from": 2001,
+    "to": 2014
+  },
+  {
+    "models": "KTM 125 EXE",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM 125 Supermoto",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM 200 EGS",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM 250 EGS",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM 250 EXC Factory Edition",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 250 EXC Factory Edition",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "KTM 250 EXC Factory Racing",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "KTM 250 EXC Six Days",
+    "from": 2001,
+    "to": 2014
+  },
+  {
+    "models": "KTM 250 EXC-F Factory Edition",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 250 EXC-F Factory Edition",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "KTM 250 EXC-F Six Days",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "KTM 250 EXC-F Six Days",
+    "from": 2007,
+    "to": 2014
+  },
+  {
+    "models": "KTM 300 EGS",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM 300 EXC Factory Edition",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 300 EXC Factory Edition",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "KTM 300 EXC Six Days",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM 300 EXC Six Days",
+    "from": 2005,
+    "to": 2014
+  },
+  {
+    "models": "KTM 350 EXC-F Factory Edition",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "KTM 350 EXC-F Six Days",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "KTM 380 EGS",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM 380 EXC",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM 380 SX",
+    "from": 2000,
+    "to": 2000
+  },
+  {
+    "models": "KTM 400 EXC-F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 400 EXC-F",
+    "from": 2004,
+    "to": 2011
+  },
+  {
+    "models": "KTM 400 EXC-F Factory Edition",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 400 EXC-F Factory Racing",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "KTM 400 EXC-F Factory Racing",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "KTM 400 EXC-F Six Days",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM 400 Super Competition",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "KTM 400 SX-C",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "KTM 400 SX-F",
+    "from": 2000,
+    "to": 2000
+  },
+  {
+    "models": "KTM 400 TXC",
+    "from": 1998,
+    "to": 1998
+  },
+  {
+    "models": "KTM 450 EXC-F Factory Edition",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "KTM 450 EXC-F Factory Edition",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 450 EXC-F Factory Edition",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "KTM 450 EXC-F Factory Racing",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "KTM 450 EXC-F Six Days",
+    "from": 2004,
+    "to": 2014
+  },
+  {
+    "models": "KTM 450 Rally Factory Replica",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "KTM 450 Rally Factory Replica",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "KTM 500 EXC-F Six Days",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "KTM 520 EXC-F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 520 SX-F",
+    "from": 2000,
+    "to": 2000
+  },
+  {
+    "models": "KTM 525 EXC-F",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 EXC-F Factory Racing",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 EXC-F Six Days",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 MXC",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 525 XC-F",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 530 EXC Champion Edition",
+    "from": 2010,
+    "to": 2010
+  },
+  {
+    "models": "KTM 530 EXC Factory Edition",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 530 EXC-F",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 530 EXC-F Six Days",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 540 SXC",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM 620 SC Supermoto",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM 620 Super Competition",
+    "from": 1998,
+    "to": 2001
+  },
+  {
+    "models": "KTM 620 Supermoto Competition",
+    "from": 1998,
+    "to": 1998
+  },
+  {
+    "models": "KTM 620 TXC",
+    "from": 1998,
+    "to": 1998
+  },
+  {
+    "models": "KTM 625 SC",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "KTM 625 SMC",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM 625 SXC",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 660 LC4 Rally",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "KTM 660 Rally",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 660 Rally Factory Replica",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 660 SMC",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM 690 Rally Factory Replica",
+    "from": 2007,
+    "to": 2010
+  },
+  {
+    "models": "KTM 950 Super Enduro",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "KTM 950 Super Enduro R",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 1998,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 1997,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 1998,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2001,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1998,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM Freeride 250 R",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "KTM Freeride 350",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2000,
+    "to": 2000
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2000,
+    "to": 2000
+  }
+]
