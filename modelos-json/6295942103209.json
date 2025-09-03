@@ -1,0 +1,47 @@
+[
+  {
+    "models": "Husaberg TE 125",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2007,
+    "to": 2011
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 150 XC",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "KTM 200 XC",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM 200 XC-W",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 200 XC-W",
+    "from": 2011,
+    "to": 2013
+  }
+]
