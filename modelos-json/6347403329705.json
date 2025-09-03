@@ -1,0 +1,452 @@
+[
+  {
+    "models": "Beta RR 2T 125",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 2T 200",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 2T 250",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 2T 300",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 4T 250",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "Beta RR 4T 350",
+    "from": 2011,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 4T 390",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 4T 400",
+    "from": 2005,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 4T 430",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 4T 450",
+    "from": 2005,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 4T 480",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 4T 498",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 4T 500",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Beta RR 4T 520",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Beta RR 4T 525",
+    "from": 2005,
+    "to": 2009
+  },
+  {
+    "models": "Beta RR-S 4T 500",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Beta X-Trainer 250",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Beta X-Trainer 300",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "GasGas EC 125",
+    "from": 2001,
+    "to": 2015
+  },
+  {
+    "models": "GasGas EC 200",
+    "from": 2000,
+    "to": 2020
+  },
+  {
+    "models": "GasGas EC 250",
+    "from": 2000,
+    "to": 2020
+  },
+  {
+    "models": "GasGas EC 250F",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "GasGas EC 300",
+    "from": 2000,
+    "to": 2020
+  },
+  {
+    "models": "GasGas EC 300F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "GasGas EC 400F",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "GasGas EC 450F",
+    "from": 2003,
+    "to": 2015
+  },
+  {
+    "models": "GasGas EC 515F",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "GasGas MC 125",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "GasGas MC 250",
+    "from": 2000,
+    "to": 2009
+  },
+  {
+    "models": "GasGas XC 200",
+    "from": 2018,
+    "to": 2018
+  },
+  {
+    "models": "GasGas XC 250",
+    "from": 2018,
+    "to": 2018
+  },
+  {
+    "models": "GasGas XC 300",
+    "from": 2018,
+    "to": 2018
+  },
+  {
+    "models": "Honda CR 125R",
+    "from": 1992,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 250R",
+    "from": 1992,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 500R",
+    "from": 1992,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR 80R",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "Honda CR 80RB",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "Honda CR 85R",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 85RB",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Honda CRF 150F",
+    "from": 2003,
+    "to": 2017
+  },
+  {
+    "models": "Honda CRF 150R",
+    "from": 2007,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 150RB",
+    "from": 2007,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 230F",
+    "from": 2003,
+    "to": 2019
+  },
+  {
+    "models": "Honda CRF 250F",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 250R",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Honda CRF 250X",
+    "from": 2004,
+    "to": 2019
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 2002,
+    "to": 2006
+  },
+  {
+    "models": "Honda CRF 450X",
+    "from": 2005,
+    "to": 2018
+  },
+  {
+    "models": "Honda XR 250",
+    "from": 1996,
+    "to": 2004
+  },
+  {
+    "models": "Honda XR 400",
+    "from": 1996,
+    "to": 2004
+  },
+  {
+    "models": "Honda XR 650",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "Kawasaki KDX 200",
+    "from": 1995,
+    "to": 2006
+  },
+  {
+    "models": "Kawasaki KDX 200R",
+    "from": 1997,
+    "to": 2001
+  },
+  {
+    "models": "Kawasaki KDX 220R",
+    "from": 1997,
+    "to": 2005
+  },
+  {
+    "models": "Kawasaki KLX 250",
+    "from": 1993,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki KLX 300",
+    "from": 1997,
+    "to": 2007
+  },
+  {
+    "models": "Kawasaki KLX 650",
+    "from": 1993,
+    "to": 2001
+  },
+  {
+    "models": "Kawasaki KX 100",
+    "from": 1992,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 1993,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 1993,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki KX 500",
+    "from": 1994,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki KX 80",
+    "from": 1994,
+    "to": 1996
+  },
+  {
+    "models": "Rieju MR 200",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR 250",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR 300",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki DR-Z 400",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 1996,
+    "to": 2006
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 1996,
+    "to": 2006
+  },
+  {
+    "models": "TM Racing EN 125 2T",
+    "from": 2001,
+    "to": 2020
+  },
+  {
+    "models": "TM Racing EN 144 2T",
+    "from": 2009,
+    "to": 2020
+  },
+  {
+    "models": "TM Racing EN 250 2T",
+    "from": 2001,
+    "to": 2020
+  },
+  {
+    "models": "TM Racing EN 250 F 4T",
+    "from": 2002,
+    "to": 2020
+  },
+  {
+    "models": "TM Racing EN 300 2T",
+    "from": 2001,
+    "to": 2020
+  },
+  {
+    "models": "TM Racing EN 300 F 4T",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "TM Racing EN 400 F 4T",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "TM Racing EN 450 F 4T",
+    "from": 2004,
+    "to": 2020
+  },
+  {
+    "models": "TM Racing EN 530 F 4T",
+    "from": 2002,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing EN 80 2T",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "TM Racing MX 100 2T",
+    "from": 2001,
+    "to": 2011
+  },
+  {
+    "models": "TM Racing MX 125 2T",
+    "from": 2001,
+    "to": 2020
+  },
+  {
+    "models": "TM Racing MX 144 2T",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "TM Racing MX 250 2T",
+    "from": 2001,
+    "to": 2020
+  },
+  {
+    "models": "TM Racing MX 250 F 4T",
+    "from": 2002,
+    "to": 2020
+  },
+  {
+    "models": "TM Racing MX 300 2T",
+    "from": 2001,
+    "to": 2020
+  },
+  {
+    "models": "TM Racing MX 300 F 4T",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "TM Racing MX 400 F 4T",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "TM Racing MX 450 F 4T",
+    "from": 2004,
+    "to": 2020
+  },
+  {
+    "models": "TM Racing MX 530 F 4T",
+    "from": 2002,
+    "to": 2020
+  },
+  {
+    "models": "TM Racing MX 80 2T",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "TM Racing MX 85 2T",
+    "from": 2011,
+    "to": 2011
+  }
+]
