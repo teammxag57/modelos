@@ -1,0 +1,742 @@
+[
+  {
+    "models": "Husaberg FC 400",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Husaberg FC 450",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "Husaberg FC 470",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Husaberg FC 501",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Husaberg FC 550",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "Husaberg FC 600",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Husaberg FC 601",
+    "from": 1998,
+    "to": 1998
+  },
+  {
+    "models": "Husaberg FE 400",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "Husaberg FE 450",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FE 501",
+    "from": 1998,
+    "to": 2005
+  },
+  {
+    "models": "Husaberg FE 550",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FE 600",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Husaberg FE 601",
+    "from": 1998,
+    "to": 1998
+  },
+  {
+    "models": "Husaberg FE 650",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FEE 400",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Husaberg FEE 501",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Husaberg FEE 600",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Husaberg FS 400",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "Husaberg FS 450",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FS 550",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "Husaberg FS 650",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FX 400",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Husaberg FX 470",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Husaberg FX 501",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Husaberg FX 600",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Husaberg FX 650",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "Husqvarna SM 400R",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna SMR 250",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna SMR 450",
+    "from": 2003,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna SMR 450R",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Husqvarna SMR 510",
+    "from": 2005,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna SMR 530R",
+    "from": 2009,
+    "to": 2009
+  },
+  {
+    "models": "Husqvarna SMS 630",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2003,
+    "to": 2009
+  },
+  {
+    "models": "Husqvarna TC 450",
+    "from": 2003,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TC 510",
+    "from": 2005,
+    "to": 2009
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2003,
+    "to": 2009
+  },
+  {
+    "models": "Husqvarna TE 310",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TE 450",
+    "from": 2003,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TE 510",
+    "from": 2004,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TE 510R",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "Husqvarna TE 630",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna TXC 250",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Husqvarna TXC 450",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TXC 510",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM 105 SX",
+    "from": 2004,
+    "to": 2011
+  },
+  {
+    "models": "KTM 105 XC",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 125 EGS",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 1998,
+    "to": 2008
+  },
+  {
+    "models": "KTM 125 EXE",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM 125 Supermoto",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 1998,
+    "to": 2008
+  },
+  {
+    "models": "KTM 125 SXS",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "KTM 144 SX",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 200 EGS",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 1997,
+    "to": 2008
+  },
+  {
+    "models": "KTM 200 MXC",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM 200 SX",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 200 XC",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM 200 XC-W",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM 250 EGS",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 1999,
+    "to": 2005
+  },
+  {
+    "models": "KTM 250 EXC Factory Racing",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "KTM 250 EXC-G Racing",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 250 MXC",
+    "from": 1999,
+    "to": 2001
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 1999,
+    "to": 2005
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "KTM 250 SXS",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "KTM 300 EGS",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 1999,
+    "to": 2005
+  },
+  {
+    "models": "KTM 300 MXC",
+    "from": 1999,
+    "to": 2005
+  },
+  {
+    "models": "KTM 380 EGS",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "KTM 380 EXC",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "KTM 380 MXC",
+    "from": 1999,
+    "to": 2001
+  },
+  {
+    "models": "KTM 380 SX",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "KTM 400 EXC-F",
+    "from": 2000,
+    "to": 2008
+  },
+  {
+    "models": "KTM 400 EXC-F Factory Racing",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "KTM 400 EXC-G Racing",
+    "from": 2002,
+    "to": 2006
+  },
+  {
+    "models": "KTM 400 LSE",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM 400 MXC Racing",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM 400 SX-F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 400 XCF-W",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 450 EXC-F Factory Racing",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "KTM 450 EXC-G",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM 450 MXC-G Racing",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 450 SMR",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM 450 SMS",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "KTM 450 SXS",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "KTM 450 XC",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM 450 XC (ATV)",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "KTM 450 XC-F",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM 450 XCF-W",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 450 XC-G",
+    "from": 2006,
+    "to": 2006
+  },
+  {
+    "models": "KTM 505 SX-F",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 505 XC-F",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "KTM 520 EXC-F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 520 MXC",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM 520 SX-F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM 525 EXC-F",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 EXC-F Factory Racing",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 MXC",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 525 MXC-G",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 525 SMR",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM 525 SX-F",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM 525 XC (ATV)",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "KTM 525 XC-F",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 XCF-W",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "KTM 525 XC-G",
+    "from": 2006,
+    "to": 2006
+  },
+  {
+    "models": "KTM 540 SXS",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "KTM 560 SMR",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 625 SMC",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM 625 SXC",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM 640 Adventure",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "KTM 640 Adventure R",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "KTM 640 Duke",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM 640 LC4 Adventure",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM 640 LC4 Enduro",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM 640 LC4 Supermoto",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM 65 SX",
+    "from": 2002,
+    "to": 2013
+  },
+  {
+    "models": "KTM 65 SXS",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM 65 XC",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 660 Rally",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM 660 SMC",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM 660 SMS",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "KTM 690 Duke",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM 690 Duke R",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "KTM 690 Enduro",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM 690 Enduro R",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM 690 SMC",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 690 SMC R",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "KTM 690 Supermoto",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM 85 SX",
+    "from": 2003,
+    "to": 2012
+  },
+  {
+    "models": "KTM 85 SXS",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "KTM 85 XC",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 950 Adventure",
+    "from": 2002,
+    "to": 2006
+  },
+  {
+    "models": "KTM 950 Adventure S",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM 950 Super Enduro R",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM 950 Supermoto",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "KTM 950 Supermoto R",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 990 Adventure",
+    "from": 2006,
+    "to": 2013
+  },
+  {
+    "models": "KTM 990 Adventure R",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM 990 Adventure S",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM 990 Supermoto",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 990 Supermoto R",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "KTM 990 Supermoto T",
+    "from": 2009,
+    "to": 2013
+  }
+]
