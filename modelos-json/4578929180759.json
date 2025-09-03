@@ -1,0 +1,182 @@
+[
+  {
+    "models": "GasGas EC 250",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "GasGas EC 300",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "GasGas EX 250",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "GasGas EX 300",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "GasGas MC 250",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Husaberg FE 350",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 250",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 300",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FE 350",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna FE 350S",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna FE 501S",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "KTM 250 EXC-F",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "KTM 250 XCF-W",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "KTM 250 XC-W",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "KTM 300 EXC Hard Enduro",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "KTM 300 SX",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM 300 XC",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "KTM 300 XC-W",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "KTM 300 XC-W Hard Enduro",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "KTM 350 XCF-W",
+    "from": 2012,
+    "to": 2019
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM 450 XC-F",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "KTM 450 XCF-W",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "KTM 500 EXC-F",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "KTM 500 XCF-W",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "KTM Freeride 350",
+    "from": 2012,
+    "to": 2013
+  }
+]
