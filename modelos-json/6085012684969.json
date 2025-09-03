@@ -1,0 +1,112 @@
+[
+  {
+    "models": "Husaberg TE 250",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg TE 300",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM 250 EGS",
+    "from": 1994,
+    "to": 1999
+  },
+  {
+    "models": "KTM 250 EXC Factory Edition",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 250 EXC Six Days",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 2006,
+    "to": 2012
+  },
+  {
+    "models": "KTM 250 XC-W",
+    "from": 2006,
+    "to": 2012
+  },
+  {
+    "models": "KTM 300 EGS",
+    "from": 1994,
+    "to": 1999
+  },
+  {
+    "models": "KTM 300 EXC Factory Edition",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 300 EXC Six Days",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "KTM 300 SX",
+    "from": 1994,
+    "to": 1994
+  },
+  {
+    "models": "KTM 300 XC",
+    "from": 2006,
+    "to": 2012
+  },
+  {
+    "models": "KTM 300 XC-W",
+    "from": 2006,
+    "to": 2012
+  },
+  {
+    "models": "KTM 360 EGS",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM 360 EXC",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM 360 SX",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM 380 EXC",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM 380 SX",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM 400 RXC-E",
+    "from": 1995,
+    "to": 1995
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 1994,
+    "to": 2012
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1994,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 1994,
+    "to": 2012
+  }
+]
