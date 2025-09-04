@@ -1,0 +1,82 @@
+[
+  {
+    "models": "Husaberg TE 125",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2018,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2018,
+    "to": 2018
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM 125 EXC Factory Edition",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 125 EXC Six Days",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2016,
+    "to": 2016
+  },
+  {
+    "models": "KTM 125 XC-W",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2009,
+    "to": 2017
+  },
+  {
+    "models": "KTM 150 XC",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "KTM 150 XC-W",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "KTM 200 EGS",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 1997,
+    "to": 2016
+  },
+  {
+    "models": "KTM 200 SX",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 200 XC",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM 200 XC-W",
+    "from": 2006,
+    "to": 2016
+  }
+]
