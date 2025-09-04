@@ -1,0 +1,112 @@
+[
+  {
+    "models": "Husaberg FE 390",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg FE 450",
+    "from": 2009,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FX 450",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna FC 450",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FR 450 Rally",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna FS 450",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "KTM 400 EXC-F",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 400 EXC-F Factory Edition",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 400 XCF-W",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "KTM 450 EXC-F Factory Edition",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM 450 EXC-F Six Days",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "KTM 450 Rally Factory Replica",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "KTM 450 SMR",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM 450 SX-F Factory Edition",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "KTM 450 SX-F Factory Replica",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "KTM 450 XC-F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM 450 XCF-W",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "KTM 450 XCF-W Six Days",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM 450 XCR-W",
+    "from": 2008,
+    "to": 2008
+  }
+]
