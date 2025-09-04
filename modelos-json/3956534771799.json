@@ -1,0 +1,37 @@
+[
+  {
+    "models": "KTM 105 SX",
+    "from": 2004,
+    "to": 2011
+  },
+  {
+    "models": "KTM 105 XC",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 65 SX",
+    "from": 2004,
+    "to": 2011
+  },
+  {
+    "models": "KTM 65 XC",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM 85 SX",
+    "from": 2003,
+    "to": 2012
+  },
+  {
+    "models": "KTM 85 SXS",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "KTM 85 XC",
+    "from": 2008,
+    "to": 2009
+  }
+]
