@@ -1,0 +1,77 @@
+[
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM 125 EGS",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM 125 EXC",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 1998,
+    "to": 2015
+  },
+  {
+    "models": "KTM 125 SXS",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "KTM 144 SX",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2009,
+    "to": 2015
+  },
+  {
+    "models": "KTM 150 XC",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "KTM 200 EGS",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM 200 EXC",
+    "from": 1997,
+    "to": 2016
+  },
+  {
+    "models": "KTM 200 MXC",
+    "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "KTM 200 SX",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 200 XC",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM 200 XC-W",
+    "from": 2006,
+    "to": 2016
+  }
+]
