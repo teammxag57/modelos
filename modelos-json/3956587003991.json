@@ -1,0 +1,107 @@
+[
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 125 SX",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "KTM 125 XC-W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 150 SX",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "KTM 150 XC-W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 EXC",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "KTM 250 EXC Six Days",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 250 XC-W",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "KTM 300 EXC",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "KTM 300 EXC Six Days",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "KTM 300 XC",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 300 XC-W",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "KTM 300 XC-W Six Days",
+    "from": 2017,
+    "to": 2019
+  }
+]
