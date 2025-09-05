@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Yamaha YZ 250FX",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "Yamaha YZ 250X",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2016,
+    "to": 2017
+  },
+  {
+    "models": "Yamaha YZ 65",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ-F 250",
+    "from": 2010,
+    "to": 2018
+  }
+]
