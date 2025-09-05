@@ -1,0 +1,117 @@
+[
+  {
+    "models": "KTM EXC 125",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC-F 250",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC-F 450",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX-F 250",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX-F 450",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 200",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC-F 250",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM XCF-W 250",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC-W 200",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC-W 250",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "Sherco SEF-R 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Sherco SEF-R 300",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Sherco SEF-R 450",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "Sherco SE-R 250",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "Sherco SE-R 300",
+    "from": 2012,
+    "to": 2016
+  }
+]
