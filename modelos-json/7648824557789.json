@@ -1,0 +1,22 @@
+[
+  {
+    "models": "KTM Freeride 250R",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "KTM Freeride 350",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "KTM SX 65",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2013,
+    "to": 2025
+  }
+]
