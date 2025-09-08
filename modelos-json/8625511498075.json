@@ -1,0 +1,122 @@
+[
+  {
+    "models": "Beta RR 125 2T",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 200 2T",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 250 2T",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 300 2T",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 350 4T",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 390 4T",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 430 4T",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 480 4T",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR X-Pro 125 2T",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-Pro 200 2T",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-Pro 250 2T",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-Pro 300 2T",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-Pro 350 4T",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-Pro 390 4T",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-Pro 430 4T",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-Pro 480 4T",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Honda CR 125R",
+    "from": 1996,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 250R",
+    "from": 1996,
+    "to": 2007
+  },
+  {
+    "models": "Honda CRF 150F",
+    "from": 2003,
+    "to": 2009
+  },
+  {
+    "models": "Honda CRF 150R",
+    "from": 2008,
+    "to": 2023
+  },
+  {
+    "models": "Honda CRF 230F",
+    "from": 2003,
+    "to": 2019
+  },
+  {
+    "models": "Honda XR 250R",
+    "from": 1996,
+    "to": 2004
+  },
+  {
+    "models": "Honda XR 400R",
+    "from": 1996,
+    "to": 2004
+  },
+  {
+    "models": "Honda XR 650R",
+    "from": 2003,
+    "to": 2007
+  }
+]
