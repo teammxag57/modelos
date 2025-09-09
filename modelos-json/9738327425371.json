@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 250",
+    "from": 2013,
+    "to": 2016
+  }
+]
