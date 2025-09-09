@@ -1,0 +1,22 @@
+[
+  {
+    "models": "KTM EXC-F 450",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC-F 500",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 501",
+    "from": 2017,
+    "to": 2023
+  }
+]
