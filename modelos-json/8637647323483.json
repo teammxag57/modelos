@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Beta RR 250 2T",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 300 2T",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR X Trainer 300",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR X-Pro 200 2T",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-Pro 250 2T",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-Pro 300 2T",
+    "from": 2025,
+    "to": ""
+  }
+]
