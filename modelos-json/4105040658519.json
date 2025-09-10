@@ -5,19 +5,19 @@
     "to": 2022
   },
   {
-    "models": "Fantic XEF 250",
+    "models": "Fantic XX 125",
     "from": 2020,
     "to": 2022
   },
   {
-    "models": "Fantic XX 125",
+    "models": "Fantic XEF 250",
     "from": 2020,
     "to": 2022
   },
   {
     "models": "Fantic XXF 250",
     "from": 2022,
-    "to": ""
+    "to": 2022
   },
   {
     "models": "GasGas EC 250F",
@@ -25,28 +25,28 @@
     "to": 2015
   },
   {
-    "models": "Yamaha WR 250 F",
-    "from": 2001,
-    "to": 2023
-  },
-  {
     "models": "Yamaha YZ 125",
     "from": 2005,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 125X",
     "from": 2020,
-    "to": 2022
+    "to": 2025
+  },
+  {
+    "models": "Yamaha WR 250 F",
+    "from": 2001,
+    "to": 2024
   },
   {
     "models": "Yamaha YZ 250 F",
     "from": 2001,
-    "to": 2022
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250 FX",
     "from": 2015,
-    "to": 2022
+    "to": 2024
   }
 ]
