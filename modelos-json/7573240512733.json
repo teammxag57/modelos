@@ -1,0 +1,37 @@
+[
+  {
+    "models": "GasGas MC 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FC 250",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FC 350",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX-F 250",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX-F 350",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC-F 250",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC-F 350",
+    "from": 2016,
+    "to": 2022
+  }
+]
