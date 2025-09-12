@@ -1,0 +1,37 @@
+[
+  {
+    "models": "KTM SX-F 250",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX-F 350",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM XC-F 250",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM EXC-F 250",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM EXC-F 350",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "KTM XCF-W 250",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "KTM XCF-W 350",
+    "from": 2009,
+    "to": 2012
+  }
+]
