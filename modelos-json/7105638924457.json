@@ -1,0 +1,52 @@
+[
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM Freeride 250 R",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 300",
+    "from": 2013,
+    "to": 2016
+  }
+]
