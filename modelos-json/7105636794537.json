@@ -1,0 +1,32 @@
+[
+  {
+    "models": "KTM EXC 250",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "KTM XC-W 300",
+    "from": 2008,
+    "to": 2012
+  }
+]
