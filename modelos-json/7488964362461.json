@@ -1,0 +1,57 @@
+[
+  {
+    "models": "Kawasaki KX 125",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2008,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2008,
+    "to": 2018
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RMZ 250",
+    "from": 2007,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki RMZ 450",
+    "from": 2006,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2004,
+    "to": 2007
+  }
+]
