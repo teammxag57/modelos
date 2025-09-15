@@ -1,0 +1,32 @@
+[
+  {
+    "models": "GasGas EC 250",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "GasGas EC 300",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "GasGas XC 250",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "GasGas XC 300",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Rieju MR 250",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR 300",
+    "from": 2021,
+    "to": 2024
+  }
+]
