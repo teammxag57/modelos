@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Sherco SEF-R 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Sherco SEF-R 300",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Sherco SEF-R 450",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "Sherco SE-R 250",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "Sherco SE-R 300",
+    "from": 2012,
+    "to": 2016
+  }
+]
