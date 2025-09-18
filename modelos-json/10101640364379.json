@@ -1,0 +1,142 @@
+[
+  {
+    "models": "Gas-Gas MC125",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 125 Heritage Edition",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 150",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TC 150 Heritage Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 150 Heritage Edition",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 150i",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM EGS 125",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM EGS 200",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 1998,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 150 TPI",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXE 125",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM MXC 200",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 1998,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 144",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2009,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2000,
+    "to": 2004
+  },
+  {
+    "models": "KTM SXS 125",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 125",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC 150",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 200",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-W 150",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC-W 150 TPI",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC-W 200",
+    "from": 2006,
+    "to": 2016
+  }
+]
