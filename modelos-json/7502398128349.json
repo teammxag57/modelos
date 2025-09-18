@@ -1,0 +1,87 @@
+[
+  {
+    "models": "Husqvarna FC 250",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna FC 350",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna FC 450",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna FE 250",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna FE 350",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna FE 450",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna FE 501",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna FX 350",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna FX 450",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2017,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2018
+  }
+]
