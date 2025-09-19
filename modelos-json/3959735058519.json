@@ -1,0 +1,42 @@
+[
+  {
+    "models": "GasGas EC 125",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "GasGas EC 200",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "GasGas EC 250",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "GasGas EC 300",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "GasGas EC-E 125",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "GasGas EC-E 200",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "GasGas EC-E 300",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "GasGas EC-E250",
+    "from": 2005,
+    "to": 2006
+  }
+]
