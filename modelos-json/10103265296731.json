@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Husaberg FC 450",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM XCR-W 450",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-W 450",
+    "from": 2010,
+    "to": ""
+  }
+]
