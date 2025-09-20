@@ -1,0 +1,42 @@
+[
+  {
+    "models": "BETA RR 250 2T",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "BETA RR 250 Racing 2T",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 250",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2006,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2006,
+    "to": 2025
+  }
+]
