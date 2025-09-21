@@ -2,26 +2,21 @@
   {
     "models": "Gasgas EC 300",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Husqvarna TE 300i",
+    "models": "Husqvarna TE 300",
     "from": 2018,
-    "to": 2024
-  },
-  {
-    "models": "Husqvarna TX 300i",
-    "from": 2020,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM EXC 300",
     "from": 2018,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM SX 300",
     "from": 2023,
-    "to": 2024
+    "to": 2025
   }
 ]
