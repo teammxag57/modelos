@@ -2,36 +2,41 @@
   {
     "models": "Gasgas EC 250",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Gasgas MC 250",
-    "from": 2021,
-    "to": 2024
-  },
-  {
-    "models": "Husaberg TC 250",
-    "from": 2011,
-    "to": 2014
+    "from": 2022,
+    "to": 2025
   },
   {
     "models": "Husqvarna TC 250",
     "from": 2014,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Husqvarna TE 250",
     "from": 2014,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM EXC 250",
     "from": 2006,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM SX 250",
+    "from": 2066,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC 250",
     "from": 2006,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "KTM XC-W 250",
+    "from": 2006,
+    "to": 2025
   }
 ]
