@@ -1,0 +1,107 @@
+[
+  {
+    "models": "KTM EXC 250",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC-F 250",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC-F 350",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC-F 450",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC-F 500",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX-F 250",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX-F 350",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX-F 450",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC-F 250",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC-F 350",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC-F 450",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM XCF-W 250",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM XCF-W 500",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC-W 150",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC-W 250",
+    "from": 2020,
+    "to": 2023
+  }
+]
