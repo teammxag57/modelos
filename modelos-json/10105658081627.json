@@ -1,0 +1,52 @@
+[
+  {
+    "models": "KTM 300 XC",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM 250 XC",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 300",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 250",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EC 300",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EC 250",
+    "from": 2020,
+    "to": 2023
+  }
+]
