@@ -1,0 +1,57 @@
+[
+  {
+    "models": "KTM SX 125",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "KTM SX-F 250",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX-F 350",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX-F 450",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-F 250",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-F 350",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-F 450",
+    "from": 2012,
+    "to": ""
+  }
+]
