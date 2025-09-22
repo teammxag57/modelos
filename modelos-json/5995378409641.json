@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Honda CRF 250R",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Sherco SC 250",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SC 300",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SCF 450",
+    "from": 2020,
+    "to": 2023
+  }
+]
