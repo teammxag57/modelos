@@ -1,0 +1,42 @@
+[
+  {
+    "models": "KTM EXC 125",
+    "from": 2017,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC-F 250",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC-F 350",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC-F 450",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC-F 500",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC-W 150",
+    "from": 2017,
+    "to": 2019
+  }
+]
