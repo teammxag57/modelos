@@ -1,0 +1,147 @@
+[
+  {
+    "models": "Kawasaki KDX 200",
+    "from": 1986,
+    "to": 2006
+  },
+  {
+    "models": "Kawasaki KDX 220R",
+    "from": 1997,
+    "to": 2005
+  },
+  {
+    "models": "Kawasaki KDX 250",
+    "from": 1991,
+    "to": 1994
+  },
+  {
+    "models": "Kawasaki KLX 250",
+    "from": 1993,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki KLX 250",
+    "from": 2006,
+    "to": 2006
+  },
+  {
+    "models": "Kawasaki KLX 300",
+    "from": 1997,
+    "to": 2006
+  },
+  {
+    "models": "Kawasaki KX 100",
+    "from": 1993,
+    "to": 1997
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 1988,
+    "to": 1990
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 1988,
+    "to": 1990
+  },
+  {
+    "models": "Kawasaki KX 500",
+    "from": 1988,
+    "to": 1990
+  },
+  {
+    "models": "Kawasaki KX 60",
+    "from": 1985,
+    "to": 2003
+  },
+  {
+    "models": "Kawasaki KX 80",
+    "from": 1993,
+    "to": 1997
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 1988,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 1988,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RM 80",
+    "from": 1988,
+    "to": 2001
+  },
+  {
+    "models": "Suzuki RM 85",
+    "from": 2002,
+    "to": 2015
+  },
+  {
+    "models": "Suzuki RMX 250",
+    "from": 1989,
+    "to": 1998
+  },
+  {
+    "models": "Yamaha IT 200",
+    "from": 1984,
+    "to": 1984
+  },
+  {
+    "models": "Yamaha TT-R 125",
+    "from": 2000,
+    "to": 2004
+  },
+  {
+    "models": "Yamaha WR 250",
+    "from": 1991,
+    "to": 1998
+  },
+  {
+    "models": "Yamaha WR 400 F",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha WR 500 Z",
+    "from": 1992,
+    "to": 1992
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1987,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1987,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha YZ 400 F",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha YZ 490",
+    "from": 1985,
+    "to": 1985
+  },
+  {
+    "models": "Yamaha YZ 490",
+    "from": 1987,
+    "to": 1988
+  },
+  {
+    "models": "Yamaha YZ 80",
+    "from": 1988,
+    "to": 2001
+  },
+  {
+    "models": "Yamaha YZ 85",
+    "from": 2002,
+    "to": 2014
+  }
+]
