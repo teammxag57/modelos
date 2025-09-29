@@ -1,5 +1,15 @@
 [
   {
+    "models": "Suzuki RM 80",
+    "from": 1990,
+    "to": 2001
+  },
+  {
+    "models": "Suzuki RM 85",
+    "from": 2002,
+    "to": 2023
+  },
+  {
     "models": "Yamaha YZ 65",
     "from": 2018,
     "to": 2025
