@@ -1,0 +1,82 @@
+[
+  {
+    "models": "Gasgas MC 50",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 50",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 50 MINI",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "KTM 450 RALLY FACTORY REPLICA",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "KTM 450 SMR",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "KTM 450 SX ATV",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM 450 SX-F FACT.REPL.NAGL",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 SXS-F",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 50 SX",
+    "from": 2009,
+    "to": 2025
+  },
+  {
+    "models": "KTM 50 SX FACTORY EDITION",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM 50 SX MINI",
+    "from": 2009,
+    "to": 2023
+  },
+  {
+    "models": "KTM 505 SX ATV",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM 505 SX-F",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM 505 SX-F PRESERIES",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM 505 XC-F",
+    "from": 2009,
+    "to": ""
+  }
+]
