@@ -1,0 +1,42 @@
+[
+  {
+    "models": "Gasgas MC 50",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 50",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 50 MINI",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "KTM 50 SX",
+    "from": 2009,
+    "to": 2025
+  },
+  {
+    "models": "KTM 50 SX FACTORY EDITION",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "KTM 50 SX JUNIOR",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM 50 SX MINI",
+    "from": 2009,
+    "to": 2023
+  },
+  {
+    "models": "KTM 50 SXS",
+    "from": 2011,
+    "to": 2016
+  }
+]
