@@ -1,0 +1,67 @@
+[
+  {
+    "models": "Husaberg FE 450",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FE 550",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FE 650",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FS 650",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 525F",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM SMR 450",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "KTM SMR 525",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM SMR 560",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX 525F",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM SXC 625",
+    "from": 2004,
+    "to": ""
+  }
+]
