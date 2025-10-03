@@ -1,17 +1,7 @@
 [
   {
-    "models": "Yamaha YZ 80",
-    "from": 1984,
-    "to": 1992
-  },
-  {
-    "models": "Yamaha TT-R 110",
-    "from": 2008,
-    "to": 2025
-  },
-  {
-    "models": "Yamaha TT-R 125",
-    "from": 2000,
-    "to": 2025
+    "models": "Suzuki RM 450Z",
+    "from": 2010,
+    "to": 2012
   }
 ]
