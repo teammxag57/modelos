@@ -1,0 +1,17 @@
+[
+  {
+    "models": "Kawasaki KX 85",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 100",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KX 112",
+    "from": 2022,
+    "to": 2025
+  }
+]
