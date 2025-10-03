@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Kawasaki KDX 200",
+    "from": 1988,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 1988,
+    "to": 1991
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 1984,
+    "to": 1991
+  },
+  {
+    "models": "Kawasaki KX 500",
+    "from": 1984,
+    "to": 2004
+  }
+]
