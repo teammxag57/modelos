@@ -1,0 +1,37 @@
+[
+  {
+    "models": "YAMAHA WR250X",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "YAMAHA WR250F",
+    "from": 2015,
+    "to": 2022
+  },
+  {
+    "models": "YAMAHA WR250R",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "YAMAHA YZ 250F",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "YAMAHA YZ 250FX",
+    "from": 2015,
+    "to": 2020
+  },
+  {
+    "models": "YAMAHA YZ 450F",
+    "from": 2010,
+    "to": 2022
+  },
+  {
+    "models": "YAMAHA YZ 450FX",
+    "from": 2016,
+    "to": 2020
+  }
+]
