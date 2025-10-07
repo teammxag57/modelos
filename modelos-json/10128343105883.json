@@ -1,0 +1,52 @@
+[
+  {
+    "models": "Lower Bearing - Inferior",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KFX 400",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "Suzuki LT-R 450",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "Suzuki LT-Z 400",
+    "from": 2003,
+    "to": 2014
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 1996,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 1996,
+    "to": 2008
+  },
+  {
+    "models": "Suzuki RM 85",
+    "from": 2005,
+    "to": 2023
+  },
+  {
+    "models": "Suzuki RM 85L",
+    "from": 2005,
+    "to": 2016
+  },
+  {
+    "models": "Suzuki RM 250Z",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "Suzuki RM 450Z",
+    "from": 2005,
+    "to": 2009
+  }
+]
