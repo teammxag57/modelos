@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Kawasaki KX 60",
+    "from": 1988,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki KX 65",
+    "from": 2000,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 80",
+    "from": 1981,
+    "to": 1984
+  },
+  {
+    "models": "Suzuki RM 60",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "Suzuki RM 65",
+    "from": 2003,
+    "to": 2005
+  }
+]
