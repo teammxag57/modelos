@@ -1,0 +1,37 @@
+[
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 1998,
+    "to": 2005
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 1998,
+    "to": 2005
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2009,
+    "to": 2015
+  }
+]
