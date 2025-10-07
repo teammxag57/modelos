@@ -1,0 +1,57 @@
+[
+  {
+    "models": "Honda CR 450F",
+    "from": 2001,
+    "to": 2010
+  },
+  {
+    "models": "Honda CRF 450X",
+    "from": 2005,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna SMR 450",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna SMR 510",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TC 450",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TE 450",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TE 510",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TXC 450",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TXC 510",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Kawasaki KLX 450R",
+    "from": 2008,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2010,
+    "to": 2018
+  }
+]
