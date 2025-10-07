@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Sherco SC 250F",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC 300F",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Sherco SEF 250",
+    "from": 2011,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SEF 300",
+    "from": 2011,
+    "to": 2025
+  }
+]
