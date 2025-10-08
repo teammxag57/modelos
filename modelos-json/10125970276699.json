@@ -1,0 +1,207 @@
+[
+  {
+    "models": "Gasgas EC 250",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 250F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 350F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 450F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 500F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EX 250",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EX 300",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EX 450F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 450F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Husaberg FE 250",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Husaberg FE 350",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE 450",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE 501",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 250",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 300",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FC 450F",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 250F",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 350F",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 501F",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FS 450F",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FX 450F",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2012,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2012,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2012,
+    "to": 2025
+  },
+  {
+    "models": "KTM Freeride 350",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM SMR 450F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2012,
+    "to": 2025
+  }
+]
