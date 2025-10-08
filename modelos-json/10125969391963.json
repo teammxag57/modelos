@@ -1,0 +1,37 @@
+[
+  {
+    "models": "Honda CR 250F",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 250F",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "Husaberg FE 250",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2006,
+    "to": 2012
+  },
+  {
+    "models": "Sherco SC 125",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE 125",
+    "from": 2018,
+    "to": 2025
+  }
+]
