@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Fantic XX 250",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha WR 250",
+    "from": 1994,
+    "to": 1997
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1993,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250X",
+    "from": 2016,
+    "to": 2022
+  }
+]
