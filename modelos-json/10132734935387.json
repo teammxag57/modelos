@@ -1,0 +1,117 @@
+[
+  {
+    "models": "Beta RR 125",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 125R",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 200",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 200R",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 250",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 250R",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 300",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 300R",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 350F",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 350FR",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 390F",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 390FR",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 400F",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 430F",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 430FR",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 450F",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 480F",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 480FR",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 498F",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Beta RX 300",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Beta RX 450",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Beta Xtrainer 250",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "Beta Xtrainer 300",
+    "from": 2015,
+    "to": 2025
+  }
+]
