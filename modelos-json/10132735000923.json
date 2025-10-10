@@ -1,0 +1,102 @@
+[
+  {
+    "models": "FRONT - DELANTERO - AVANT",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC-E 3",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas MC-E 5",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 50",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 50",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna EE 3",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna EE 5",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX 50",
+    "from": 2002,
+    "to": 2025
+  },
+  {
+    "models": "KTM SXE 3",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM SXE 5",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "REAR - TRASERO - ARRIERE",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC-E 3",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas MC-E 5",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 50",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 50",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna EE 3",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna EE 5",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX 50",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM SXE 3",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM SXE 5",
+    "from": 2020,
+    "to": 2025
+  }
+]
