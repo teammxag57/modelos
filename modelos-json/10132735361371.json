@@ -1,0 +1,47 @@
+[
+  {
+    "models": "Gasgas EC 125",
+    "from": 1995,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 250",
+    "from": 1995,
+    "to": 2017
+  },
+  {
+    "models": "Gasgas EC 250F",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 1999,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EC 300F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 450F",
+    "from": 2003,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas MC 125",
+    "from": 1995,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 1995,
+    "to": 2017
+  },
+  {
+    "models": "Rieju MR Racing 300",
+    "from": 2021,
+    "to": 2024
+  }
+]
