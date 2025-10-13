@@ -1,7 +1,142 @@
 [
   {
-    "models": "Honda CR 150F",
-    "from": 2007,
-    "to": 2025
+    "models": "Fantic XE 125",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Fantic XE 250F",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Fantic XE 450F",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Fantic XX 125",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Fantic XX 250F",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Fantic XX 450F",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Gasgas EC 125",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 200",
+    "from": 2010,
+    "to": 2020
+  },
+  {
+    "models": "Gasgas EC 250",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 250F",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 300F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 450F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas MX 125",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "Gasgas MX 250",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "Kawasaki KLX 450R",
+    "from": 2008,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2004,
+    "to": 2022
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2006,
+    "to": 2022
+  },
+  {
+    "models": "Suzuki RMX 450",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "Suzuki RM-Z 250",
+    "from": 2004,
+    "to": 2022
+  },
+  {
+    "models": "Suzuki RM-Z 450",
+    "from": 2005,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha WR 250",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha WR 250F",
+    "from": 2003,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2003,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2003,
+    "to": 2023
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 2003,
+    "to": 2023
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2003,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2003,
+    "to": 2022
   }
 ]
