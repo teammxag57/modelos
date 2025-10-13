@@ -1,11 +1,361 @@
 [
   {
-    "models": "Honda CR 125",
-    "from": 2002,
-    "to": 2008
+    "models": "Aprilia MXV 450",
+    "from": 2008,
+    "to": 2011
   },
   {
-    "models": "Honda CR 250",
+    "models": "Electric - Kove E-MX Electric",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "Electric - Surron Storm Bee Electric",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Kove MX 250 Enduro",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Kove MX 250 Motocross",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Kove MX 250 Supermoto",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Kove MX 450 Motocross",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Kove Rally 450 EX Edition",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Kove Rally 450 Factory Edition",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Kove Rally 450 Standard Edition",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Redmoto - CRF 250 CRF250 R Special - M/X (Rekluse Clutch)",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Redmoto - CRF 150 CRF150 RB - M/X (19/16\" Wheels)",
+    "from": 2016,
+    "to": 2025
+  },
+  {
+    "models": "Redmoto - CRF 150 CRF150 R - Minimoto (12\" Wheels)",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Redmoto - CRF 250 CRF250 R - M/X",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Redmoto - CRF 250 CRF250 R - Enduro",
+    "from": 2014,
+    "to": 2018
+  },
+  {
+    "models": "Redmoto - CRF 250 CRF250 R - Enduro Special - Rekluse Clutch Auto or Manual",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Redmoto - CRF 250 CRF250 RWE - M/X",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Redmoto - CRF 250 CRF250 RX - Enduro",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Redmoto - CRF 250 CRF250 RX - Enduro Special - Rekluse Clutch Auto or Manual",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Redmoto - CRF 250 CRF250 R - Enduro - Six Days",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 250 CRF250 R - Enduro - Six Days - Rekluse Core Manual",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 250 CRF250 X - Enduro",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 300 CRF300 R - Enduro",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 300 CRF300 RX - Enduro",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Redmoto - CRF 300 CRF300 R - Enduro Special - Rekluse Core Manual Clutch",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 300 CRF300 R - Enduro Special - Rekluse Core EXP Auto Clutch",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 300 CRF300 R - Enduro - Six Days",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 300 CRF300 R - Enduro - Six Days - Rekluse Core Manual",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 300 CRF300 RX - Enduro Special - Rekluse Clutch Auto or Manual",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Redmoto - CRF 300 CRF300 X - Enduro",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 R - Enduro",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 R - Enduro Special - Rekluse Core Manual Clutch",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 400 CRF400 RX - Enduro Special - Rekluse Auto or Manual",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "Redmoto - CRF 400 CRF400 RX - Enduro",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 R - Enduro Special - Rekluse Core EXP Auto Clutch",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 R Special - M/X (Rekluse Clutch",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 R - Country Special - Rekluse Core Manual Clutch",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 R - Country Special - Rekluse Core EXP Auto Clutch",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 R - M/X",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 R - Supermoto",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 R - SMT - Supermoto",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 RWE - M/X",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 RX - Enduro",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 RX - Enduro Special - Rekluse Auto or Manual",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 RX - Enduro - Six Days",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 RX - Enduro - Six Days Rekluse Core Manual Clutch",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 X - Enduro",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 X - Country",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 RS - Enduro Sport",
+    "from": 2016,
+    "to": 2016
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 RS - Supermoto Sport",
+    "from": 2016,
+    "to": 2016
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 RX - Supermoto - 7.3L Fuel Tank",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 RXC - Supermoto - 8.5L Fuel Tank",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 X - Supermoto",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 RX - Supermoto",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 XR - Dual",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Redmoto - CRF 450 CRF450 XR - Supermoto",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Redmoto - CRF 500 CRF500 R - Enduro",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Redmoto - CRF 500 CRF500 R - Supermoto",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Redmoto - CRF 500 CRF500 X - Enduro",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Redmoto - CRF 500 CRF500 X - Supermoto",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Tm MX 80 2T/Junior 17/14\"",
+    "from": 2013,
+    "to": 2020
+  },
+  {
+    "models": "Tm MX 80 2T/Junior/19/16\"",
+    "from": 2013,
+    "to": 2020
+  },
+  {
+    "models": "Tm MX 85 2T/Junior 17/14\"",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Tm MX 85 2T/Junior/19/16\"",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Tm SMX 85 2T/Junior 12\"",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "Tm MX 100 2T/Junior 17/14\"",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Tm MX 100 2T/Junior/19/16\"",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Tm SMX 100 2T/Junior 12\"",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "Tm MX 112 2T/Junior 17/14\"",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Tm MX 112 2T/Junior/19/16\"",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Tm SMX 112 2T/Junior 12\"",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "Honda CR 125",
     "from": 2002,
     "to": 2008
   },
@@ -15,14 +365,14 @@
     "to": 2008
   },
   {
-    "models": "Honda CRE 250",
-    "from": 2002,
-    "to": 2008
+    "models": "Honda CRF 150 R - F 17\"/R 14 \" Wheels",
+    "from": 2007,
+    "to": 2025
   },
   {
-    "models": "Honda CR 150F",
+    "models": "Honda CRF 150 RB Expert - F 19\"/R 16\" Wheels",
     "from": 2007,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Honda CRF 230 L",
@@ -35,24 +385,29 @@
     "to": 2009
   },
   {
+    "models": "Honda CR 250",
+    "from": 2002,
+    "to": 2008
+  },
+  {
+    "models": "Honda CRE 250",
+    "from": 2002,
+    "to": 2008
+  },
+  {
     "models": "Honda CRF 250 F",
     "from": 2019,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Honda CR 250F",
     "from": 2003,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Honda CRF 250 RE",
     "from": 2016,
     "to": 2016
-  },
-  {
-    "models": "Honda CRF 250RX",
-    "from": 2019,
-    "to": 2024
   },
   {
     "models": "Honda CRF 250X",
@@ -65,29 +420,34 @@
     "to": 2016
   },
   {
+    "models": "Honda CRF 250 RWE",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 250RX",
+    "from": 2019,
+    "to": 2025
+  },
+  {
     "models": "Honda CRF 450 L",
     "from": 2019,
     "to": 2020
   },
   {
+    "models": "Honda CRF 450 R - 50th Anniversay Edition",
+    "from": 2023,
+    "to": 2023
+  },
+  {
     "models": "Honda CR 450F",
     "from": 2002,
-    "to": 2024
-  },
-  {
-    "models": "Honda CRF 450 Rally",
-    "from": 2013,
-    "to": 2015
-  },
-  {
-    "models": "Honda CRF 450 RE",
-    "from": 2016,
-    "to": 2016
+    "to": 2025
   },
   {
     "models": "Honda CRF 450 RL",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Honda CRF 450 R-S",
@@ -95,19 +455,24 @@
     "to": 2024
   },
   {
-    "models": "Honda CRF 450 RWE",
+    "models": "Honda CRF 450 RE",
+    "from": 2016,
+    "to": 2016
+  },
+  {
+    "models": "Honda CRF 450 Rally",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Honda CRF 450 RWE - Works Edition",
     "from": 2019,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Honda CRF 450RX",
     "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "Honda CRF 450X",
-    "from": 2005,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Honda CRF 450 XRL",
@@ -115,43 +480,8 @@
     "to": 2016
   },
   {
-    "models": "Redmoto - Honda Italy CRF 150",
-    "from": 2016,
-    "to": 2024
-  },
-  {
-    "models": "Redmoto - Honda Italy CRF 250",
-    "from": 2014,
-    "to": 2024
-  },
-  {
-    "models": "Redmoto - Honda Italy CRF 300",
-    "from": 2014,
-    "to": 2024
-  },
-  {
-    "models": "Redmoto - Honda Italy CRF 400",
-    "from": 2018,
-    "to": 2024
-  },
-  {
-    "models": "Redmoto - Honda Italy CRF 450",
-    "from": 2014,
-    "to": 2024
-  },
-  {
-    "models": "Redmoto - Honda Italy CRF 500",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "Tm MX 100",
-    "from": 2013,
-    "to": 2023
-  },
-  {
-    "models": "Tm MX 112",
-    "from": 2021,
-    "to": 2024
+    "models": "Honda CRF 450X",
+    "from": 2005,
+    "to": 2025
   }
 ]
