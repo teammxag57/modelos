@@ -1,66 +1,66 @@
 [
   {
-    "models": "Gasgas EC125",
+    "models": "Gasgas EC 125",
     "from": 2009,
     "to": 2015
   },
   {
-    "models": "Gasgas EC200",
+    "models": "Gasgas EC 200",
     "from": 2009,
     "to": 2017
   },
   {
-    "models": "Gasgas EC250",
+    "models": "Gasgas EC 250",
     "from": 2009,
     "to": 2017
   },
   {
-    "models": "Gasgas EC250 4T",
+    "models": "Gasgas EC 250 4T",
     "from": 2010,
     "to": 2015
   },
   {
-    "models": "Gasgas EC250 Replica",
+    "models": "Gasgas EC 250 Replica",
     "from": 2013,
     "to": 2014
   },
   {
-    "models": "Gasgas EC300",
+    "models": "Gasgas EC 300",
     "from": 2009,
     "to": 2017
   },
   {
-    "models": "Gasgas EC300 4T",
+    "models": "Gasgas EC 300 4T",
     "from": 2013,
     "to": 2015
   },
   {
-    "models": "Gasgas EC300 Replica",
+    "models": "Gasgas EC 300 Replica",
     "from": 2013,
     "to": 2014
   },
   {
-    "models": "Gasgas EC450 4T",
+    "models": "Gasgas EC 450 4T",
     "from": 2013,
     "to": 2015
   },
   {
-    "models": "Gasgas EC450FSR",
+    "models": "Gasgas EC 450FSR",
     "from": 2009,
     "to": ""
   },
   {
-    "models": "Gasgas MC125",
+    "models": "Gasgas MC 125",
     "from": 2009,
     "to": ""
   },
   {
-    "models": "Gasgas MC250",
+    "models": "Gasgas MC 250",
     "from": 2009,
     "to": ""
   },
   {
-    "models": "Honda CRF150R",
+    "models": "Honda CR 150F",
     "from": 2007,
     "to": 2024
   },
@@ -70,77 +70,77 @@
     "to": 2024
   },
   {
-    "models": "Suzuki RMX450",
+    "models": "Suzuki RMX 450",
     "from": 2010,
     "to": 2019
   },
   {
-    "models": "Suzuki RMZ250",
+    "models": "Suzuki RM 250Z",
     "from": 2007,
     "to": 2024
   },
   {
-    "models": "Suzuki RMZ450",
+    "models": "Suzuki RM 450Z",
     "from": 2005,
     "to": 2024
   },
   {
-    "models": "Yamaha WR250F",
+    "models": "Yamaha WR 250F",
     "from": 2003,
     "to": 2024
   },
   {
-    "models": "Yamaha WR250R DUAL SPORT",
+    "models": "Yamaha WR 250R DUAL SPORT",
     "from": 2008,
     "to": 2020
   },
   {
-    "models": "Yamaha WR250X Supermoto",
+    "models": "Yamaha WR 250X Supermoto",
     "from": 2008,
     "to": 2011
   },
   {
-    "models": "Yamaha WR450F",
+    "models": "Yamaha WR 450F",
     "from": 2003,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ125",
+    "models": "Yamaha YZ 125",
     "from": 2003,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ125X",
+    "models": "Yamaha YZ 125X",
     "from": 2020,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ250",
+    "models": "Yamaha YZ 250",
     "from": 2003,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ250F",
+    "models": "Yamaha YZ 250F",
     "from": 2003,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ250FX",
+    "models": "Yamaha YZ 250FX",
     "from": 2015,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ250X",
+    "models": "Yamaha YZ 250X",
     "from": 2016,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ450F",
+    "models": "Yamaha YZ 450F",
     "from": 2003,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ450FX",
+    "models": "Yamaha YZ 450FX",
     "from": 2016,
     "to": 2024
   }
