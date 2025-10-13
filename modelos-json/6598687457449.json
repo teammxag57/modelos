@@ -1,56 +1,56 @@
 [
   {
-    "models": "Kawasaki KX250",
+    "models": "Kawasaki KX 250",
     "from": 1999,
     "to": 2008
   },
   {
-    "models": "Yamaha WR250 F",
+    "models": "Yamaha WR 250F",
     "from": 1999,
     "to": 2000
   },
   {
-    "models": "Yamaha WR400 F",
+    "models": "Yamaha WR 400F",
     "from": 1999,
     "to": 2001
   },
   {
-    "models": "Yamaha WR426 F",
+    "models": "Yamaha WR 426F",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "Yamaha WR450 F",
+    "models": "Yamaha WR 450F",
     "from": 2003,
     "to": 2025
   },
   {
-    "models": "Yamaha YZ250",
+    "models": "Yamaha YZ 250",
     "from": 1999,
     "to": 2025
   },
   {
-    "models": "Yamaha YZ250 X",
+    "models": "Yamaha YZ 250X",
     "from": 2016,
     "to": 2025
   },
   {
-    "models": "Yamaha YZ400 F",
+    "models": "Yamaha YZ 400F",
     "from": 1998,
     "to": 1999
   },
   {
-    "models": "Yamaha YZ426 F",
+    "models": "Yamaha YZ 426F",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "Yamaha YZ450 F",
+    "models": "Yamaha YZ 450F",
     "from": 2003,
     "to": 2025
   },
   {
-    "models": "Yamaha YZ450 FX",
+    "models": "Yamaha YZ 450FX",
     "from": 2016,
     "to": 2024
   }
