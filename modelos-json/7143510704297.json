@@ -1,16 +1,16 @@
 [
   {
-    "models": "Honda CR125 R",
+    "models": "Honda CR 125",
     "from": 2004,
     "to": 2007
   },
   {
-    "models": "Honda CRF250 R",
+    "models": "Honda CR 250F",
     "from": 2004,
     "to": 2017
   },
   {
-    "models": "Honda CRF250 X",
+    "models": "Honda CRF 250X",
     "from": 2004,
     "to": 2017
   }
