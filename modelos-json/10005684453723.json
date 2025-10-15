@@ -1,32 +1,32 @@
 [
   {
-    "models": "Honda CRF 250 R",
+    "models": "Honda CR 250F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Honda CRF 250 RWE",
+    "models": "Honda CR 450F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Honda CRF 250 RX",
+    "models": "Honda CRF 250RWE",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Honda CRF 450 R",
+    "models": "Honda CRF 250RX",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Honda CRF 450 RWE",
+    "models": "Honda CRF 450RWE",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Honda CRF 450 RX",
+    "models": "Honda CRF 450RX",
     "from": 2025,
-    "to": ""
+    "to": 2026
   }
 ]
