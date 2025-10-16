@@ -1,17 +1,42 @@
 [
   {
-    "models": "Honda TRX 400X",
-    "from": 2005,
-    "to": 2014
+    "models": "Ducati Desmo 450 MX",
+    "from": 2025,
+    "to": 2026
   },
   {
-    "models": "Honda TRX 420",
+    "models": "Fantic XE 125",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Fantic XX 125",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Fantic XX 250",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Honda CR 125",
+    "from": 1984,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 150F",
     "from": 2007,
-    "to": 2014
+    "to": 2026
   },
   {
-    "models": "Honda CRF 450RWE",
-    "from": 2019,
+    "models": "Honda CR 250",
+    "from": 1984,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 250F",
+    "from": 2004,
     "to": 2026
   },
   {
@@ -20,39 +45,9 @@
     "to": 2026
   },
   {
-    "models": "Honda CR 250F",
-    "from": 2004,
-    "to": 2026
-  },
-  {
-    "models": "Honda CRF 250RX",
-    "from": 2019,
-    "to": 2026
-  },
-  {
-    "models": "Honda CRF 450RX",
-    "from": 2017,
-    "to": 2026
-  },
-  {
-    "models": "Honda CRF 450X",
-    "from": 2005,
-    "to": 2026
-  },
-  {
-    "models": "Honda CR 150F",
-    "from": 2007,
-    "to": 2026
-  },
-  {
-    "models": "Honda CRF 250X",
-    "from": 2004,
-    "to": 2018
-  },
-  {
-    "models": "Honda TRX 450 R",
-    "from": 2004,
-    "to": 2014
+    "models": "Honda CR 500",
+    "from": 1990,
+    "to": 2001
   },
   {
     "models": "Honda CR 80",
@@ -75,19 +70,14 @@
     "to": 2026
   },
   {
-    "models": "Honda CR 125",
-    "from": 1984,
-    "to": 2007
+    "models": "Honda CRF 250RX",
+    "from": 2019,
+    "to": 2026
   },
   {
-    "models": "Honda CR 250",
-    "from": 1984,
-    "to": 2007
-  },
-  {
-    "models": "Honda CR 500",
-    "from": 1990,
-    "to": 2001
+    "models": "Honda CRF 250X",
+    "from": 2004,
+    "to": 2018
   },
   {
     "models": "Honda CRF 450 RL",
@@ -95,9 +85,34 @@
     "to": 2026
   },
   {
-    "models": "Kawasaki KX 450F",
-    "from": 2006,
+    "models": "Honda CRF 450RWE",
+    "from": 2019,
     "to": 2026
+  },
+  {
+    "models": "Honda CRF 450RX",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "Honda CRF 450X",
+    "from": 2005,
+    "to": 2026
+  },
+  {
+    "models": "Honda TRX 400X",
+    "from": 2005,
+    "to": 2014
+  },
+  {
+    "models": "Honda TRX 420",
+    "from": 2007,
+    "to": 2014
+  },
+  {
+    "models": "Honda TRX 450 R",
+    "from": 2004,
+    "to": 2014
   },
   {
     "models": "Kawasaki KFX 400",
@@ -110,18 +125,38 @@
     "to": 2013
   },
   {
-    "models": "Kawasaki KVF 700 Prairie",
-    "from": 2004,
-    "to": 2006
-  },
-  {
     "models": "Kawasaki KVF 650 Prairie",
     "from": 2002,
     "to": 2003
   },
   {
+    "models": "Kawasaki KVF 700 Prairie",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 1974,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 1978,
+    "to": 2008
+  },
+  {
     "models": "Kawasaki KX 250F",
     "from": 2004,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 250FX",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2006,
     "to": 2026
   },
   {
@@ -135,13 +170,13 @@
     "to": 2026
   },
   {
-    "models": "Kawasaki KX 250",
-    "from": 1978,
-    "to": 2008
+    "models": "Kawasaki KX 500",
+    "from": 1983,
+    "to": 2004
   },
   {
-    "models": "Kawasaki KX 250FX",
-    "from": 2021,
+    "models": "Kawasaki KX 65",
+    "from": 2000,
     "to": 2026
   },
   {
@@ -155,54 +190,14 @@
     "to": 2026
   },
   {
-    "models": "Kawasaki KX 65",
-    "from": 2000,
-    "to": 2026
-  },
-  {
-    "models": "Kawasaki KX 125",
-    "from": 1974,
-    "to": 2008
-  },
-  {
-    "models": "Kawasaki KX 500",
-    "from": 1983,
-    "to": 2004
+    "models": "Suzuki LT-R 450",
+    "from": 2006,
+    "to": 2011
   },
   {
     "models": "Suzuki LTZ 400",
     "from": 2002,
     "to": 2013
-  },
-  {
-    "models": "Suzuki RM 250Z",
-    "from": 2004,
-    "to": 2026
-  },
-  {
-    "models": "Suzuki RMX 450Z",
-    "from": 2010,
-    "to": 2019
-  },
-  {
-    "models": "Suzuki RM 450Z",
-    "from": 2005,
-    "to": 2026
-  },
-  {
-    "models": "Suzuki RM 80",
-    "from": 1983,
-    "to": 2001
-  },
-  {
-    "models": "Suzuki RM 85",
-    "from": 2002,
-    "to": 2026
-  },
-  {
-    "models": "Suzuki RM 65",
-    "from": 2003,
-    "to": 2005
   },
   {
     "models": "Suzuki RM 125",
@@ -215,9 +210,104 @@
     "to": 2008
   },
   {
-    "models": "Suzuki LT-R 450",
-    "from": 2006,
-    "to": 2011
+    "models": "Suzuki RM 250Z",
+    "from": 2004,
+    "to": 2026
+  },
+  {
+    "models": "Suzuki RM 450Z",
+    "from": 2005,
+    "to": 2026
+  },
+  {
+    "models": "Suzuki RM 65",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "Suzuki RM 80",
+    "from": 1983,
+    "to": 2001
+  },
+  {
+    "models": "Suzuki RM 85",
+    "from": 2002,
+    "to": 2026
+  },
+  {
+    "models": "Suzuki RMX 450Z",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Triumph TF 250E",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 250RC",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 250X",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 450E",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 450X",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha Grizzly 125",
+    "from": 2005,
+    "to": 2014
+  },
+  {
+    "models": "Yamaha Grizzly 350",
+    "from": 2007,
+    "to": 2014
+  },
+  {
+    "models": "Yamaha Grizzly 450",
+    "from": 2007,
+    "to": 2014
+  },
+  {
+    "models": "Yamaha WR 250",
+    "from": 1993,
+    "to": 1997
+  },
+  {
+    "models": "Yamaha WR 250F",
+    "from": 2001,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha WR 400F",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha WR 426F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YFM 250 Raptor",
+    "from": 2008,
+    "to": 2013
   },
   {
     "models": "Yamaha YFM 350 Raptor",
@@ -230,34 +320,14 @@
     "to": 2004
   },
   {
-    "models": "Yamaha YZ 426F",
+    "models": "Yamaha YFM 450",
     "from": 2000,
-    "to": 2002
+    "to": 2012
   },
   {
-    "models": "Yamaha WR 426F",
-    "from": 2001,
-    "to": 2002
-  },
-  {
-    "models": "Yamaha YZ 250F",
-    "from": 2001,
-    "to": 2026
-  },
-  {
-    "models": "Yamaha WR 400F",
-    "from": 1998,
-    "to": 1999
-  },
-  {
-    "models": "Yamaha YZ 400F",
-    "from": 1998,
-    "to": 1999
-  },
-  {
-    "models": "Yamaha YFM 250 Raptor",
-    "from": 2008,
-    "to": 2013
+    "models": "Yamaha YFM 550 Grizzly",
+    "from": 2009,
+    "to": 2014
   },
   {
     "models": "Yamaha YFM 600 Grizzly",
@@ -275,24 +345,49 @@
     "to": 2016
   },
   {
-    "models": "Yamaha Grizzly 350",
-    "from": 2007,
-    "to": 2014
+    "models": "Yamaha YFM 700R Raptor",
+    "from": 2006,
+    "to": 2021
   },
   {
-    "models": "Yamaha Grizzly 450",
-    "from": 2007,
-    "to": 2014
+    "models": "Yamaha YFZ 350 Banshee",
+    "from": 1987,
+    "to": 2011
   },
   {
-    "models": "Yamaha YFM 450",
-    "from": 2000,
-    "to": 2012
-  },
-  {
-    "models": "Yamaha YFM 550 Grizzly",
+    "models": "Yamaha YFZ 450R / SE",
     "from": 2009,
-    "to": 2014
+    "to": 2021
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1980,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 144",
+    "from": 1985,
+    "to": 2018
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1985,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2001,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 400F",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha YZ 426F",
+    "from": 2000,
+    "to": 2002
   },
   {
     "models": "Yamaha YZ 450F",
@@ -300,19 +395,9 @@
     "to": 2026
   },
   {
-    "models": "Yamaha WR 250F",
-    "from": 2001,
+    "models": "Yamaha YZ 65",
+    "from": 2018,
     "to": 2026
-  },
-  {
-    "models": "Yamaha WR 450F",
-    "from": 2003,
-    "to": 2026
-  },
-  {
-    "models": "Yamaha YFZ 450R / SE",
-    "from": 2009,
-    "to": 2021
   },
   {
     "models": "Yamaha YZ 80",
@@ -322,91 +407,6 @@
   {
     "models": "Yamaha YZ 85",
     "from": 2002,
-    "to": 2026
-  },
-  {
-    "models": "Yamaha YZ 65",
-    "from": 2018,
-    "to": 2026
-  },
-  {
-    "models": "Yamaha YZ 125",
-    "from": 1980,
-    "to": 2026
-  },
-  {
-    "models": "Yamaha YZ 250",
-    "from": 1985,
-    "to": 2026
-  },
-  {
-    "models": "Yamaha WR 250",
-    "from": 1993,
-    "to": 1997
-  },
-  {
-    "models": "Yamaha YFZ 350 Banshee",
-    "from": 1987,
-    "to": 2011
-  },
-  {
-    "models": "Yamaha Grizzly 125",
-    "from": 2005,
-    "to": 2014
-  },
-  {
-    "models": "Yamaha YFM 700R Raptor",
-    "from": 2006,
-    "to": 2021
-  },
-  {
-    "models": "Yamaha YZ 144",
-    "from": 1985,
-    "to": 2018
-  },
-  {
-    "models": "Fantic XX 125",
-    "from": 2021,
-    "to": 2026
-  },
-  {
-    "models": "Fantic XE 125",
-    "from": 2021,
-    "to": 2026
-  },
-  {
-    "models": "Fantic XX 250",
-    "from": 2021,
-    "to": 2026
-  },
-  {
-    "models": "Triumph TF 250X",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "Triumph TF 450X",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "Triumph TF 250E",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "Triumph TF 450E",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "Triumph TF 250RC",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "Ducati Desmo 450 MX",
-    "from": 2025,
     "to": 2026
   }
 ]
