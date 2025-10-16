@@ -1,22 +1,12 @@
 [
   {
-    "models": "Honda CR-F 250R",
-    "from": 2007,
-    "to": 2025
+    "models": "Kawasaki KX 250F",
+    "from": 2009,
+    "to": 2026
   },
   {
-    "models": "Honda CR-F 450R",
-    "from": 2007,
-    "to": 2025
-  },
-  {
-    "models": "Honda CR-F 250RX",
-    "from": 2018,
-    "to": 2025
-  },
-  {
-    "models": "Honda CR-F 450RX",
-    "from": 2017,
-    "to": 2025
+    "models": "Kawasaki KX 450F",
+    "from": 2009,
+    "to": 2026
   }
 ]
