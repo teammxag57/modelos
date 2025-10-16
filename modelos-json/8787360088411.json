@@ -15,17 +15,17 @@
     "to": 2022
   },
   {
-    "models": "Honda CR 125 R",
+    "models": "Honda CR 125",
     "from": 2000,
     "to": 2007
   },
   {
-    "models": "Honda CR 250 R",
+    "models": "Honda CR 250",
     "from": 2000,
     "to": 2007
   },
   {
-    "models": "Honda CR 85 R",
+    "models": "Honda CR 85",
     "from": 2003,
     "to": 2007
   },
@@ -40,23 +40,23 @@
     "to": 2012
   },
   {
-    "models": "Suzuki RMZ 250",
+    "models": "Suzuki RM 250Z",
     "from": 2004,
-    "to": 2022
+    "to": 2026
   },
   {
-    "models": "Suzuki RMZ 450",
+    "models": "Suzuki RM 450Z",
     "from": 2005,
     "to": 2017
   },
   {
     "models": "Yamaha YZ 125",
     "from": 1997,
-    "to": 2023
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250",
     "from": 1997,
-    "to": 2022
+    "to": 2026
   }
 ]
