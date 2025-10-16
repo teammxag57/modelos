@@ -1,15 +1,5 @@
 [
   {
-    "models": "Beta 250 2T Xtrainer",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "Beta 300 2T Xtrainer",
-    "from": 2023,
-    "to": 2025
-  },
-  {
     "models": "Beta RR 125",
     "from": 2020,
     "to": 2026
