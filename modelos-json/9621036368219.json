@@ -1,22 +1,22 @@
 [
   {
-    "models": "Sherco 250 SEF Factory",
+    "models": "Sherco SEF 250",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Sherco 300 SEF Factory",
+    "models": "Sherco SEF 300",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Sherco 450 SEF Factory",
+    "models": "Sherco SEF 450",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Sherco 500 SEF Factory",
+    "models": "Sherco SEF 500",
     "from": 2025,
-    "to": ""
+    "to": 2026
   }
 ]
