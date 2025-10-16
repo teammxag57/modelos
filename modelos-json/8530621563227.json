@@ -1,16 +1,16 @@
 [
   {
+    "models": "GasGas 300 EC",
+    "from": 2024,
+    "to": 2026
+  },
+  {
     "models": "GasGas EC 250",
     "from": 2024,
     "to": 2026
   },
   {
     "models": "GasGas EC 250F",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "GasGas EC 300",
     "from": 2024,
     "to": 2026
   },
@@ -85,13 +85,13 @@
     "to": 2026
   },
   {
-    "models": "Husqvarna FC 450 Rockstar Edition",
-    "from": 2022,
+    "models": "Husqvarna FC 450F",
+    "from": 2023,
     "to": 2026
   },
   {
-    "models": "Husqvarna FC 450F",
-    "from": 2023,
+    "models": "Husqvarna FC 450F Rockstar Edition",
+    "from": 2022,
     "to": 2026
   },
   {
@@ -235,11 +235,6 @@
     "to": 2026
   },
   {
-    "models": "KTM SX 450F",
-    "from": 2023,
-    "to": 2026
-  },
-  {
     "models": "KTM SX 450F Factory Edition",
     "from": 2022,
     "to": 2026
@@ -270,7 +265,7 @@
     "to": 2026
   },
   {
-    "models": "KTM XC-W 450F",
+    "models": "KTM XCF-W 450",
     "from": 2024,
     "to": 2026
   }
