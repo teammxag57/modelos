@@ -2,27 +2,27 @@
   {
     "models": "GasGas MC 65",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Honda CR 80 R",
+    "models": "Honda CR 80",
     "from": 1985,
     "to": 2002
   },
   {
     "models": "Husqvarna TC 65",
     "from": 2017,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 85",
     "from": 2001,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM 65 SX",
+    "models": "KTM SX 65",
     "from": 2009,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Suzuki RM 85",
@@ -32,11 +32,11 @@
   {
     "models": "Yamaha YZ 65",
     "from": 2018,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 85",
     "from": 2002,
-    "to": 2025
+    "to": 2026
   }
 ]
