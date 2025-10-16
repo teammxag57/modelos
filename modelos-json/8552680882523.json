@@ -1,98 +1,103 @@
 [
   {
+    "models": "Ducati Desmo 450 MX",
+    "from": 2025,
+    "to": 2026
+  },
+  {
     "models": "Fantic XE 125",
     "from": 2021,
-    "to": 2022
+    "to": 2026
   },
   {
     "models": "Fantic XX 125",
     "from": 2021,
-    "to": 2022
+    "to": 2026
   },
   {
     "models": "Fantic XX 250",
     "from": 2021,
-    "to": 2022
+    "to": 2026
   },
   {
-    "models": "Honda CR 125 R",
+    "models": "Honda CR 125",
     "from": 1984,
     "to": 2007
   },
   {
-    "models": "Honda CR 250 R",
+    "models": "Honda CR 150F",
+    "from": 2007,
+    "to": 2026
+  },
+  {
+    "models": "Honda CR 250",
     "from": 1984,
     "to": 2007
   },
   {
-    "models": "Honda CR 500 R",
+    "models": "Honda CR 250F",
+    "from": 2004,
+    "to": 2026
+  },
+  {
+    "models": "Honda CR 450F",
+    "from": 2002,
+    "to": 2026
+  },
+  {
+    "models": "Honda CR 500",
     "from": 1990,
     "to": 2001
   },
   {
-    "models": "Honda CR 80 R",
+    "models": "Honda CR 80",
     "from": 1985,
     "to": 2002
   },
   {
-    "models": "Honda CR 85 R",
+    "models": "Honda CR 85",
     "from": 2003,
     "to": 2007
   },
   {
     "models": "Honda CRF 110",
     "from": 2013,
-    "to": 2022
+    "to": 2026
   },
   {
     "models": "Honda CRF 125F",
     "from": 2014,
-    "to": 2021
+    "to": 2026
   },
   {
-    "models": "Honda CRF 150 R",
-    "from": 2007,
-    "to": 2022
-  },
-  {
-    "models": "Honda CRF 250 R",
-    "from": 2004,
-    "to": 2021
-  },
-  {
-    "models": "Honda CRF 250 RX",
+    "models": "Honda CRF 250RX",
     "from": 2019,
-    "to": 2021
+    "to": 2026
   },
   {
-    "models": "Honda CRF 250 X",
+    "models": "Honda CRF 250X",
     "from": 2004,
     "to": 2018
   },
   {
-    "models": "Honda CRF 450 R",
-    "from": 2002,
-    "to": 2022
-  },
-  {
     "models": "Honda CRF 450 RL",
     "from": 2021,
-    "to": 2022
+    "to": 2026
   },
   {
-    "models": "Honda CRF 450 RWE",
+    "models": "Honda CRF 450RWE",
     "from": 2019,
-    "to": 2022
+    "to": 2026
   },
   {
-    "models": "Honda CRF 450 RX",
+    "models": "Honda CRF 450RX",
     "from": 2017,
-    "to": 2022
+    "to": 2026
   },
   {
-    "models": "Honda CRF 450 X",
+    "models": "Honda CRF 450X",
     "from": 2005,
-    "to": 2022
+    "to": 2026
   },
   {
     "models": "Honda TRX 400X",
@@ -142,27 +147,27 @@
   {
     "models": "Kawasaki KX 250F",
     "from": 2004,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Kawasaki KX 250XC",
+    "models": "Kawasaki KX 250FX",
     "from": 2021,
-    "to": 2022
-  },
-  {
-    "models": "Kawasaki KX 450",
-    "from": 2019,
-    "to": 2022
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 450F",
     "from": 2006,
-    "to": 2023
+    "to": 2026
   },
   {
-    "models": "Kawasaki KX 450XC",
+    "models": "Kawasaki KX 450F",
+    "from": 2019,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 450FX",
     "from": 2021,
-    "to": 2022
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 500",
@@ -172,7 +177,7 @@
   {
     "models": "Kawasaki KX 65",
     "from": 2000,
-    "to": 2021
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 80",
@@ -182,7 +187,7 @@
   {
     "models": "Kawasaki KX 85",
     "from": 2001,
-    "to": 2021
+    "to": 2026
   },
   {
     "models": "Suzuki LT-R 450",
@@ -205,6 +210,16 @@
     "to": 2008
   },
   {
+    "models": "Suzuki RM 250Z",
+    "from": 2004,
+    "to": 2026
+  },
+  {
+    "models": "Suzuki RM 450Z",
+    "from": 2005,
+    "to": 2026
+  },
+  {
     "models": "Suzuki RM 65",
     "from": 2003,
     "to": 2005
@@ -217,22 +232,37 @@
   {
     "models": "Suzuki RM 85",
     "from": 2002,
-    "to": 2021
+    "to": 2026
   },
   {
-    "models": "Suzuki RMX 450 Z",
+    "models": "Suzuki RMX 450Z",
     "from": 2010,
     "to": 2019
   },
   {
-    "models": "Suzuki RMZ 250",
-    "from": 2004,
-    "to": 2024
+    "models": "Triumph TF 250E",
+    "from": 2025,
+    "to": 2026
   },
   {
-    "models": "Suzuki RMZ 450",
-    "from": 2005,
-    "to": 2024
+    "models": "Triumph TF 250RC",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 250X",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 450E",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 450X",
+    "from": 2025,
+    "to": 2026
   },
   {
     "models": "Yamaha Grizzly 125",
@@ -257,7 +287,7 @@
   {
     "models": "Yamaha WR 250F",
     "from": 2001,
-    "to": 2021
+    "to": 2026
   },
   {
     "models": "Yamaha WR 400F",
@@ -272,7 +302,7 @@
   {
     "models": "Yamaha WR 450F",
     "from": 2003,
-    "to": 2021
+    "to": 2026
   },
   {
     "models": "Yamaha YFM 250 Raptor",
@@ -332,7 +362,7 @@
   {
     "models": "Yamaha YZ 125",
     "from": 1980,
-    "to": 2022
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 144",
@@ -342,12 +372,12 @@
   {
     "models": "Yamaha YZ 250",
     "from": 1985,
-    "to": 2022
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250F",
     "from": 2001,
-    "to": 2022
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 400F",
@@ -362,12 +392,12 @@
   {
     "models": "Yamaha YZ 450F",
     "from": 2003,
-    "to": 2022
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 65",
     "from": 2018,
-    "to": 2022
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 80",
@@ -377,6 +407,6 @@
   {
     "models": "Yamaha YZ 85",
     "from": 2002,
-    "to": 2022
+    "to": 2026
   }
 ]
