@@ -1,5 +1,85 @@
 [
   {
+    "models": "Beta RR 125",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 125R",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 200",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 200R",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 250",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 250R",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 300",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 300R",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 350",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 350FR",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 390",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 390FR",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 430",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 430FR",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 480",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR 480FR",
+    "from": 2010,
+    "to": 2019
+  },
+  {
     "models": "Beta XTrainer 250",
     "from": 2015,
     "to": 2026
