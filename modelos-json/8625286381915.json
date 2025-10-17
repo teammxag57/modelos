@@ -5,17 +5,17 @@
     "to": 2023
   },
   {
-    "models": "GasGas EX-F 250",
+    "models": "GasGas EX 250F",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "GasGas EX-F 350",
+    "models": "GasGas EX 350F",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "GasGas EX-F 450",
+    "models": "GasGas EX 450F",
     "from": 2021,
     "to": 2023
   },
@@ -30,72 +30,57 @@
     "to": 2023
   },
   {
-    "models": "GasGas MC-F 250",
+    "models": "GasGas MC 250F",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "GasGas MC-F 350",
+    "models": "GasGas MC 350F",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "GasGas MC-F 450",
+    "models": "GasGas MC 450F",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "Husqvarna FC 250",
+    "models": "Husqvarna FC 250F",
     "from": 2014,
     "to": 2025
   },
   {
-    "models": "Husqvarna FC 350",
+    "models": "Husqvarna FC 350F",
     "from": 2014,
     "to": 2025
   },
   {
-    "models": "Husqvarna FC 450",
+    "models": "Husqvarna FC 450F",
     "from": 2014,
     "to": 2025
   },
   {
-    "models": "Husqvarna FE 250",
+    "models": "Husqvarna FE 250F",
     "from": 2025,
-    "to": ""
+    "to": 2025
   },
   {
-    "models": "Husqvarna FE 250",
-    "from": 2014,
-    "to": 2017
-  },
-  {
-    "models": "Husqvarna FE 350",
+    "models": "Husqvarna FE 350F",
     "from": 2025,
-    "to": ""
+    "to": 2025
   },
   {
-    "models": "Husqvarna FE 350",
-    "from": 2014,
-    "to": 2017
-  },
-  {
-    "models": "Husqvarna FE 450",
+    "models": "Husqvarna FE 450F",
     "from": 2025,
-    "to": ""
+    "to": 2025
   },
   {
-    "models": "Husqvarna FE 450",
-    "from": 2014,
-    "to": 2017
-  },
-  {
-    "models": "Husqvarna FX 350",
+    "models": "Husqvarna FX 350F",
     "from": 2022,
     "to": 2025
   },
   {
-    "models": "Husqvarna FX 450",
+    "models": "Husqvarna FX 450F",
     "from": 2022,
     "to": 2025
   },
@@ -117,27 +102,17 @@
   {
     "models": "Husqvarna TE 150",
     "from": 2025,
-    "to": ""
+    "to": 2025
   },
   {
     "models": "Husqvarna TE 250",
     "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna TE 250",
-    "from": 2014,
-    "to": 2016
+    "to": 2025
   },
   {
     "models": "Husqvarna TE 300",
     "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna TE 300",
-    "from": 2014,
-    "to": 2017
+    "to": 2025
   },
   {
     "models": "Husqvarna TX 125",
@@ -150,24 +125,24 @@
     "to": 2025
   },
   {
-    "models": "Kawasaki KX 250",
+    "models": "Kawasaki KX 250F",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Kawasaki KX 250X",
+    "models": "Kawasaki KX 250FX",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Kawasaki KX 450",
+    "models": "Kawasaki KX 450F",
     "from": 2019,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Kawasaki KX 450X",
+    "models": "Kawasaki KX 450FX",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM EXC 125",
@@ -180,27 +155,27 @@
     "to": 2025
   },
   {
+    "models": "KTM EXC 250F",
+    "from": 2014,
+    "to": 2025
+  },
+  {
     "models": "KTM EXC 300",
     "from": 2014,
     "to": 2025
   },
   {
-    "models": "KTM EXC-F 250",
+    "models": "KTM EXC 350F",
     "from": 2014,
     "to": 2025
   },
   {
-    "models": "KTM EXC-F 350",
+    "models": "KTM EXC 450F",
     "from": 2014,
     "to": 2025
   },
   {
-    "models": "KTM EXC-F 450",
-    "from": 2014,
-    "to": 2025
-  },
-  {
-    "models": "KTM EXC-F 500",
+    "models": "KTM EXC 500F",
     "from": 2014,
     "to": 2025
   },
@@ -215,17 +190,17 @@
     "to": 2025
   },
   {
-    "models": "KTM SX-F 250",
+    "models": "KTM SX 250F",
     "from": 2014,
     "to": 2025
   },
   {
-    "models": "KTM SX-F 350",
+    "models": "KTM SX 350F",
     "from": 2014,
     "to": 2025
   },
   {
-    "models": "KTM SX-F 450",
+    "models": "KTM SX 450F",
     "from": 2014,
     "to": 2025
   },
@@ -235,12 +210,27 @@
     "to": 2025
   },
   {
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2025
+  },
+  {
     "models": "KTM XC 150",
     "from": 2014,
     "to": 2015
   },
   {
+    "models": "KTM XC 200W",
+    "from": 2014,
+    "to": 2025
+  },
+  {
     "models": "KTM XC 250",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC 250F",
     "from": 2014,
     "to": 2025
   },
@@ -250,17 +240,12 @@
     "to": 2025
   },
   {
-    "models": "KTM XC-F 250",
+    "models": "KTM XC 350F",
     "from": 2014,
     "to": 2025
   },
   {
-    "models": "KTM XC-F 350",
-    "from": 2014,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC-F 450",
+    "models": "KTM XC 450F",
     "from": 2014,
     "to": 2025
   },
@@ -280,113 +265,58 @@
     "to": 2025
   },
   {
-    "models": "KTM XC-W 125",
-    "from": 2017,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC-W 200",
-    "from": 2014,
-    "to": 2025
-  },
-  {
-    "models": "Sherco SEF-R 250",
-    "from": 2015,
-    "to": 2025
-  },
-  {
-    "models": "Sherco SEF-R 300",
-    "from": 2015,
-    "to": 2025
-  },
-  {
-    "models": "Sherco SEF-R 450",
-    "from": 2015,
-    "to": 2025
-  },
-  {
-    "models": "Sherco SE-R 125",
+    "models": "Sherco SE 125",
     "from": 2018,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Sherco SE-R 300",
+    "models": "Sherco SE 250",
     "from": 2015,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Sherco SR-R 250",
+    "models": "Sherco SE 300",
     "from": 2015,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Stark VARG",
+    "models": "Sherco SEF 250",
+    "from": 2015,
+    "to": 2026
+  },
+  {
+    "models": "Sherco SEF 300",
+    "from": 2015,
+    "to": 2026
+  },
+  {
+    "models": "Sherco SEF 450",
+    "from": 2015,
+    "to": 2026
+  },
+  {
+    "models": "Sherco SR 250",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Stark Varg EX",
     "from": 2023,
     "to": 2025
   },
   {
-    "models": "TM EN 125",
-    "from": 2011,
-    "to": 2024
+    "models": "Stark Varg MX",
+    "from": 2023,
+    "to": 2025
   },
   {
-    "models": "TM EN 250",
-    "from": 2011,
-    "to": 2024
-  },
-  {
-    "models": "TM EN 250 FI 2T",
-    "from": 2019,
-    "to": 2024
-  },
-  {
-    "models": "TM EN 250 FI 4T",
-    "from": 2010,
-    "to": 2024
-  },
-  {
-    "models": "TM EN 300",
-    "from": 2011,
-    "to": 2024
-  },
-  {
-    "models": "TM EN 300 FI 2T",
-    "from": 2019,
-    "to": 2024
-  },
-  {
-    "models": "TM EN 300 FI 4T",
-    "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "TM EN 450 FI",
-    "from": 2010,
-    "to": 2024
-  },
-  {
-    "models": "TM MX 125",
-    "from": 2011,
-    "to": 2024
-  },
-  {
-    "models": "TM MX 250 FI 4T",
-    "from": 2010,
-    "to": 2024
-  },
-  {
-    "models": "TM MX 450 FI",
-    "from": 2013,
-    "to": 2024
-  },
-  {
-    "models": "Triumph TF 250-X",
+    "models": "Triumph TF 250X",
     "from": 2024,
     "to": 2025
   },
   {
-    "models": "Triumph TF 450-RC",
-    "from": 2024,
+    "models": "Triumph TF 450X",
+    "from": 2025,
     "to": 2025
   }
 ]
