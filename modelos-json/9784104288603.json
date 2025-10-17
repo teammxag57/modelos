@@ -1,77 +1,122 @@
 [
   {
-    "models": "Husqvarna FC 250",
-    "from": 2023,
-    "to": 2025
+    "models": "Beta RR 125",
+    "from": 2020,
+    "to": 2024
   },
   {
-    "models": "Husqvarna FC 350",
-    "from": 2023,
-    "to": 2025
+    "models": "Beta RR 125R",
+    "from": 2020,
+    "to": 2024
   },
   {
-    "models": "Husqvarna FC 450",
-    "from": 2023,
-    "to": 2025
+    "models": "Beta RR 200",
+    "from": 2020,
+    "to": 2024
   },
   {
-    "models": "Husqvarna FE 250",
-    "from": 2024,
-    "to": 2025
+    "models": "Beta RR 200R",
+    "from": 2020,
+    "to": 2024
   },
   {
-    "models": "Husqvarna FE 350",
-    "from": 2024,
-    "to": 2025
+    "models": "Beta RR 250",
+    "from": 2020,
+    "to": 2024
   },
   {
-    "models": "Husqvarna FE 450",
-    "from": 2024,
-    "to": 2025
+    "models": "Beta RR 250R",
+    "from": 2020,
+    "to": 2024
   },
   {
-    "models": "Husqvarna FE 501",
-    "from": 2024,
-    "to": 2025
+    "models": "Beta RR 300",
+    "from": 2020,
+    "to": 2024
   },
   {
-    "models": "Husqvarna FX 350",
-    "from": 2023,
-    "to": 2025
+    "models": "Beta RR 300R",
+    "from": 2020,
+    "to": 2024
   },
   {
-    "models": "Husqvarna TC 125",
-    "from": 2023,
-    "to": 2025
+    "models": "Beta RR 350",
+    "from": 2020,
+    "to": 2024
   },
   {
-    "models": "Husqvarna TC 250",
-    "from": 2023,
-    "to": 2025
+    "models": "Beta RR 350R",
+    "from": 2020,
+    "to": 2024
   },
   {
-    "models": "Husqvarna TC 300",
-    "from": 2023,
-    "to": 2025
+    "models": "Beta RR 390",
+    "from": 2020,
+    "to": 2024
   },
   {
-    "models": "Husqvarna TE 150",
-    "from": 2024,
-    "to": 2025
+    "models": "Beta RR 390R",
+    "from": 2020,
+    "to": 2024
   },
   {
-    "models": "Husqvarna TE 250",
-    "from": 2024,
-    "to": 2025
+    "models": "Beta RR 430",
+    "from": 2020,
+    "to": 2024
   },
   {
-    "models": "Husqvarna TE 300",
-    "from": 2024,
-    "to": 2025
+    "models": "Beta RR 430R",
+    "from": 2020,
+    "to": 2024
   },
   {
-    "models": "Husqvarna TX 300",
-    "from": 2023,
-    "to": 2025
+    "models": "Beta RR 480",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 480R",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR X-Pro 125",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-Pro 200",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-Pro 250",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-Pro 300",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-Pro 350F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-Pro 390F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-Pro 430F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-Pro 480F",
+    "from": 2025,
+    "to": 2026
   }
 ]
