@@ -1,82 +1,162 @@
 [
   {
-    "models": "Beta RR 125 2T",
+    "models": "Beta RR 125",
     "from": 2018,
     "to": 2024
   },
   {
-    "models": "Beta RR 200 2T",
+    "models": "Beta RR 125R",
     "from": 2018,
     "to": 2024
   },
   {
-    "models": "Beta RR 250 2T",
+    "models": "Beta RR 200",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 200R",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 250",
     "from": 2015,
     "to": 2024
   },
   {
-    "models": "Beta RR 300 2T",
+    "models": "Beta RR 250R",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 300",
     "from": 2020,
     "to": 2024
   },
   {
-    "models": "Beta RR 350 4T",
+    "models": "Beta RR 300R",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 350F",
     "from": 2013,
     "to": 2024
   },
   {
-    "models": "Beta RR 390 4T",
+    "models": "Beta RR 350FR",
     "from": 2013,
     "to": 2024
   },
   {
-    "models": "Beta RR 430 4T",
+    "models": "Beta RR 390F",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 390FR",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 430F",
     "from": 2015,
     "to": 2024
   },
   {
-    "models": "Beta RR 480 4T",
+    "models": "Beta RR 430FR",
     "from": 2015,
     "to": 2024
   },
   {
-    "models": "Beta RR X-Pro 125 2T",
-    "from": 2025,
-    "to": ""
+    "models": "Beta RR 480F",
+    "from": 2015,
+    "to": 2024
   },
   {
-    "models": "Beta RR X-Pro 200 2T",
-    "from": 2025,
-    "to": ""
+    "models": "Beta RR 480FR",
+    "from": 2015,
+    "to": 2024
   },
   {
-    "models": "Beta RR X-Pro 250 2T",
+    "models": "Beta RR RACE 125",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Beta RR X-Pro 300 2T",
+    "models": "Beta RR RACE 200",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Beta RR X-Pro 350 4T",
+    "models": "Beta RR RACE 250",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Beta RR X-Pro 390 4T",
+    "models": "Beta RR RACE 300",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Beta RR X-Pro 430 4T",
+    "models": "Beta RR RACE 350F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Beta RR X-Pro 480 4T",
+    "models": "Beta RR RACE 390F",
     "from": 2025,
-    "to": ""
+    "to": 2026
+  },
+  {
+    "models": "Beta RR RACE 430F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR RACE 480F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 125",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 200",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 250",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 300",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 350F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 390F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 430F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 480F",
+    "from": 2025,
+    "to": 2026
   }
 ]
