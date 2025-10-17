@@ -5,22 +5,22 @@
     "to": 2025
   },
   {
+    "models": "GasGas EC 250F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
     "models": "GasGas EC 300",
     "from": 2021,
     "to": 2025
   },
   {
-    "models": "GasGas EC-F 250",
+    "models": "GasGas EC 350F",
     "from": 2021,
     "to": 2025
   },
   {
-    "models": "GasGas EC-F 350",
-    "from": 2021,
-    "to": 2025
-  },
-  {
-    "models": "GasGas EC-F 450",
+    "models": "GasGas EC 450F",
     "from": 2021,
     "to": 2025
   },
@@ -30,22 +30,22 @@
     "to": 2025
   },
   {
+    "models": "GasGas EX 250F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
     "models": "GasGas EX 350",
     "from": 2024,
     "to": 2025
   },
   {
-    "models": "GasGas EX-F 250",
+    "models": "GasGas EX 350F",
     "from": 2024,
     "to": 2025
   },
   {
-    "models": "GasGas EX-F 350",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "GasGas EX-F 450",
+    "models": "GasGas EX 450F",
     "from": 2024,
     "to": 2025
   },
@@ -60,48 +60,48 @@
     "to": 2025
   },
   {
-    "models": "GasGas MC-F 250",
+    "models": "GasGas MC 250F",
     "from": 2024,
     "to": 2025
   },
   {
-    "models": "GasGas MC-F 350",
+    "models": "GasGas MC 350F",
     "from": 2024,
     "to": 2025
   },
   {
-    "models": "GasGas MC-F 450",
+    "models": "GasGas MC 450F",
     "from": 2024,
     "to": 2025
   },
   {
-    "models": "Husqvarna FE 250",
+    "models": "Husqvarna FE 250F",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Husqvarna FE 350",
+    "models": "Husqvarna FE 350F",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Husqvarna FE 450",
+    "models": "Husqvarna FE 450F",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Husqvarna TE 150",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Husqvarna TE 250",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Husqvarna TE 300",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   }
 ]
