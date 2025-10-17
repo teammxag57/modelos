@@ -280,7 +280,12 @@
     "to": 2026
   },
   {
-    "models": "Stark Varg",
+    "models": "Stark Varg EX",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Stark Varg MX",
     "from": 2023,
     "to": 2025
   },
