@@ -1,17 +1,42 @@
 [
   {
-    "models": "Rieju MR 200",
+    "models": "Rieju MR PRO 200",
     "from": 2021,
     "to": 2025
   },
   {
-    "models": "Rieju MR 250",
+    "models": "Rieju MR PRO 250",
     "from": 2021,
     "to": 2025
   },
   {
-    "models": "Rieju MR 300",
+    "models": "Rieju MR PRO 300",
     "from": 2021,
     "to": 2025
+  },
+  {
+    "models": "Rieju MR PRO 300i",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Rieju MR RACING 200",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR RACING 250",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR RACING 300",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR RACING 300i",
+    "from": 2026,
+    "to": ""
   }
 ]
