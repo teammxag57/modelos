@@ -1,18 +1,28 @@
 [
   {
-    "models": "Honda CR 125R",
+    "models": "Honda CR 125",
     "from": 1981,
     "to": 2003
   },
   {
-    "models": "Honda CR 250R",
+    "models": "Honda CR 150F",
+    "from": 2007,
+    "to": 2025
+  },
+  {
+    "models": "Honda CR 250",
     "from": 1981,
+    "to": 2003
+  },
+  {
+    "models": "Honda CR 450F",
+    "from": 2002,
     "to": 2003
   },
   {
     "models": "Honda CR 450R",
     "from": 1981,
-    "to": 1981
+    "to": ""
   },
   {
     "models": "Honda CR 480R",
@@ -30,7 +40,7 @@
     "to": 1984
   },
   {
-    "models": "Honda CR 80R",
+    "models": "Honda CR 80",
     "from": 1982,
     "to": 2002
   },
@@ -40,7 +50,7 @@
     "to": 2002
   },
   {
-    "models": "Honda CR 85R",
+    "models": "Honda CR 85",
     "from": 2003,
     "to": 2007
   },
@@ -50,19 +60,9 @@
     "to": 2007
   },
   {
-    "models": "Honda CRF 150R",
-    "from": 2007,
-    "to": 2025
-  },
-  {
     "models": "Honda CRF 150RB",
     "from": 2007,
     "to": 2025
-  },
-  {
-    "models": "Honda CRF 450R",
-    "from": 2002,
-    "to": 2003
   },
   {
     "models": "Honda XR 250",
