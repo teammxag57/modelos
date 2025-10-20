@@ -1,37 +1,32 @@
 [
   {
-    "models": "Kawasaki 100 KX",
-    "from": 1987,
-    "to": 2019
+    "models": "Kawasaki KX 100",
+    "from": 1989,
+    "to": 2015
   },
   {
-    "models": "Kawasaki 60 KX",
+    "models": "Kawasaki KX 60",
     "from": 1983,
-    "to": 2003
+    "to": 2004
   },
   {
-    "models": "Kawasaki 80 KDX",
-    "from": 1984,
-    "to": 1988
-  },
-  {
-    "models": "Kawasaki 80 KX",
+    "models": "Kawasaki KX 80",
     "from": 1983,
     "to": 2000
   },
   {
-    "models": "Kawasaki 85 KX",
+    "models": "Kawasaki KX 85",
     "from": 2001,
     "to": 2021
   },
   {
-    "models": "Suzuki 100 RM",
+    "models": "Suzuki RM 100",
     "from": 2003,
-    "to": 2003
+    "to": ""
   },
   {
-    "models": "Suzuki 60 RM",
+    "models": "Suzuki RM 60",
     "from": 2003,
-    "to": 2003
+    "to": ""
   }
 ]
