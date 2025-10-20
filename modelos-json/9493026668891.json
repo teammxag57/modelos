@@ -15,7 +15,7 @@
     "to": 2024
   },
   {
-    "models": "Kawasaki KX 250XC",
+    "models": "Kawasaki KX 250FX",
     "from": 2021,
     "to": 2024
   },
@@ -25,87 +25,92 @@
     "to": 2023
   },
   {
+    "models": "Kawasaki KX 450FX",
+    "from": 2021,
+    "to": 2023
+  },
+  {
     "models": "Kawasaki KX 450SR",
     "from": 2022,
     "to": 2023
   },
   {
-    "models": "Kawasaki KX 450XC",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Suzuki RMX 450",
-    "from": 2010,
-    "to": 2019
-  },
-  {
-    "models": "Suzuki RM-Z 250",
+    "models": "Suzuki RM 250Z",
     "from": 2004,
     "to": 2022
   },
   {
-    "models": "Suzuki RM-Z 450",
+    "models": "Suzuki RM 450Z",
     "from": 2005,
     "to": 2024
   },
   {
-    "models": "Yamaha WR 250 F",
+    "models": "Suzuki RMX 450",
+    "from": 2010,
+    "to": 2010
+  },
+  {
+    "models": "Suzuki RMX 450",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Yamaha WR 250F",
     "from": 2001,
     "to": 2024
   },
   {
-    "models": "Yamaha WR 250 R",
-    "from": 2008,
-    "to": 2020
-  },
-  {
-    "models": "Yamaha WR 250 X",
+    "models": "Yamaha WR 250FX",
     "from": 2008,
     "to": 2011
   },
   {
-    "models": "Yamaha WR 400 F",
+    "models": "Yamaha WR 250R",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha WR 400F",
     "from": 1998,
     "to": 2000
   },
   {
-    "models": "Yamaha WR 426 F",
+    "models": "Yamaha WR 426F",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "Yamaha WR 450 F",
+    "models": "Yamaha WR 450F",
     "from": 2003,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ 250 F",
+    "models": "Yamaha YZ 250F",
     "from": 2001,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ 250 FX",
+    "models": "Yamaha YZ 250FX",
     "from": 2015,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ 400 F",
+    "models": "Yamaha YZ 400F",
     "from": 1998,
     "to": 1999
   },
   {
-    "models": "Yamaha YZ 426 F",
+    "models": "Yamaha YZ 426F",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "Yamaha YZ 450 F",
+    "models": "Yamaha YZ 450F",
     "from": 2003,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ 450 FX",
+    "models": "Yamaha YZ 450FX",
     "from": 2016,
     "to": 2024
   }
