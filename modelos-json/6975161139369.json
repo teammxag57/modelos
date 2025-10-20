@@ -1,22 +1,82 @@
 [
   {
+    "models": "Kawasaki KDX 250",
+    "from": 1983,
+    "to": 1984
+  },
+  {
+    "models": "Kawasaki KDX 80",
+    "from": 1984,
+    "to": 1988
+  },
+  {
+    "models": "Kawasaki KX 100",
+    "from": 1995,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KX 112",
+    "from": 2022,
+    "to": 2024
+  },
+  {
     "models": "Kawasaki KX 125",
-    "from": 1992,
+    "from": 1995,
     "to": 2008
   },
   {
     "models": "Kawasaki KX 250",
+    "from": 1983,
+    "to": 1986
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 1995,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 500",
+    "from": 1983,
+    "to": 1986
+  },
+  {
+    "models": "Kawasaki KX 60",
+    "from": 1985,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki KX 65",
+    "from": 2000,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 80",
+    "from": 1989,
+    "to": 2000
+  },
+  {
+    "models": "Kawasaki KX 85",
+    "from": 2001,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki DR-Z 125",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki DR-Z 125",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki RM 125",
     "from": 1992,
     "to": 2008
   },
   {
-    "models": "Suzuki RM 125",
-    "from": 1995,
-    "to": 2008
-  },
-  {
     "models": "Suzuki RM 250",
-    "from": 1995,
+    "from": 1993,
     "to": 2008
   },
   {
@@ -27,16 +87,31 @@
   {
     "models": "Suzuki RM 85",
     "from": 2002,
-    "to": 2017
+    "to": 2023
+  },
+  {
+    "models": "Yamaha WR 250",
+    "from": 1997,
+    "to": 1997
   },
   {
     "models": "Yamaha YZ 125",
     "from": 1997,
-    "to": 2017
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 125X",
+    "from": 2020,
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250",
     "from": 1997,
-    "to": 2017
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 250 X",
+    "from": 2016,
+    "to": 2024
   }
 ]
