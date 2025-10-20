@@ -1,62 +1,7 @@
 [
   {
-    "models": "Honda 250 CR R",
-    "from": 1988,
-    "to": 2008
-  },
-  {
-    "models": "Honda 250 CRF250R",
-    "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "Honda 250 CRM",
-    "from": 1989,
-    "to": 1991
-  },
-  {
-    "models": "Honda 450 CFR R",
-    "from": 2002,
-    "to": 2019
-  },
-  {
-    "models": "Honda 450 CRF",
+    "models": "Suzuki RM 450Z",
     "from": 2005,
-    "to": 2009
-  },
-  {
-    "models": "Honda 450 CRF R",
-    "from": 2002,
-    "to": 2014
-  },
-  {
-    "models": "Honda 450 CRF R-C",
-    "from": 2012,
-    "to": 2012
-  },
-  {
-    "models": "Honda 450 CRF X",
-    "from": 2005,
-    "to": 2016
-  },
-  {
-    "models": "Honda 450 CRF X-C",
-    "from": 2012,
-    "to": 2012
-  },
-  {
-    "models": "Honda 450 TRX R",
-    "from": 2004,
-    "to": 2016
-  },
-  {
-    "models": "Honda 500 CR R",
-    "from": 1988,
-    "to": 2001
-  },
-  {
-    "models": "Honda 700 TRX XX",
-    "from": 2008,
-    "to": 2009
+    "to": 2022
   }
 ]
