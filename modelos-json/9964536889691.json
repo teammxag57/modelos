@@ -1,28 +1,33 @@
 [
   {
-    "models": "Gasgas MC 65",
+    "models": "GasGas MC 50",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "Husqvarna TC 125",
-    "from": 2015,
-    "to": 2015
+    "models": "GasGas MC 65",
+    "from": 2021,
+    "to": 2023
   },
   {
-    "models": "Husqvarna TC 125 HQV",
-    "from": 2014,
+    "models": "Husaberg TE 125",
+    "from": 2012,
     "to": 2014
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2015
   },
   {
     "models": "Husqvarna TC 50",
     "from": 2017,
-    "to": 2019
+    "to": 2023
   },
   {
     "models": "Husqvarna TC 50 Mini",
     "from": 2018,
-    "to": 2019
+    "to": 2023
   },
   {
     "models": "Husqvarna TC 65",
@@ -31,62 +36,117 @@
   },
   {
     "models": "Husqvarna TE 125",
-    "from": 2012,
+    "from": 2014,
     "to": 2016
   },
   {
-    "models": "Husqvarna TE 125 HQV",
-    "from": 2014,
+    "models": "KTM EXC 125",
+    "from": 1998,
+    "to": 2017
+  },
+  {
+    "models": "KTM EXC 125 Factory Edition",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC 125 Six Days",
+    "from": 2001,
+    "to": 2016
+  },
+  {
+    "models": "KTM 125 Supermoto",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 1998,
+    "to": 2015
+  },
+  {
+    "models": "KTM SXS 125",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 144",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2009,
+    "to": 2015
+  },
+  {
+    "models": "KTM XC 150",
+    "from": 2010,
     "to": 2014
   },
   {
-    "models": "KTM 125 EXC",
-    "from": 2011,
+    "models": "KTM EXC 200",
+    "from": 1997,
     "to": 2016
   },
   {
-    "models": "KTM 125 EXC FACTORY EDIT.",
-    "from": 2011,
-    "to": 2011
+    "models": "KTM 200 MXC",
+    "from": 1998,
+    "to": 2003
   },
   {
-    "models": "KTM 125 EXC FACTORY EDITION",
-    "from": 2015,
-    "to": 2015
+    "models": "KTM SX 200",
+    "from": 2003,
+    "to": 2004
   },
   {
-    "models": "KTM 125 EXC SIX-DAYS",
-    "from": 2011,
+    "models": "KTM XC 200",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-W 200",
+    "from": 2006,
     "to": 2016
   },
   {
-    "models": "KTM 125 SX",
-    "from": 2011,
-    "to": 2015
-  },
-  {
-    "models": "KTM 150 SX",
-    "from": 2011,
-    "to": 2015
-  },
-  {
-    "models": "KTM 200 EXC",
-    "from": 2011,
-    "to": 2016
-  },
-  {
-    "models": "KTM 50 SX",
-    "from": 2010,
-    "to": 2019
-  },
-  {
-    "models": "KTM 50 SX Mini",
-    "from": 2010,
-    "to": 2019
-  },
-  {
-    "models": "KTM 65 SX",
-    "from": 2010,
+    "models": "KTM SX 50",
+    "from": 2009,
     "to": 2023
+  },
+  {
+    "models": "KTM SX 50 Factory Edition",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "KTM SX 50 Junior",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 50 Mini",
+    "from": 2009,
+    "to": 2023
+  },
+  {
+    "models": "KTM SXS 50",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "KTM SX 65",
+    "from": 2009,
+    "to": 2023
+  },
+  {
+    "models": "KTM SXS 65",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "KTM XC 65",
+    "from": 2009,
+    "to": ""
   }
 ]
