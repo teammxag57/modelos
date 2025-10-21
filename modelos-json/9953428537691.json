@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 250F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 350F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 501F",
+    "from": 2024,
+    "to": 2025
+  }
+]
