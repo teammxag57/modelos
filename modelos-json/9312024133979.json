@@ -1,5 +1,20 @@
 [
   {
+    "models": "Yamaha TTR 125",
+    "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "Yamaha WR 200 R",
+    "from": 1992,
+    "to": ""
+  },
+  {
+    "models": "Yamaha WR 250",
+    "from": 1991,
+    "to": 1997
+  },
+  {
     "models": "Yamaha WR 250F",
     "from": 2001,
     "to": ""
@@ -15,19 +30,34 @@
     "to": ""
   },
   {
+    "models": "Yamaha WR 500",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "Yamaha YZ 100",
+    "from": 1977,
+    "to": 1983
+  },
+  {
     "models": "Yamaha YZ 125",
-    "from": 1980,
+    "from": 1974,
     "to": 2004
   },
   {
     "models": "Yamaha YZ 250",
-    "from": 1980,
+    "from": 1976,
     "to": 2004
   },
   {
     "models": "Yamaha YZ 250F",
     "from": 2001,
     "to": ""
+  },
+  {
+    "models": "Yamaha YZ 400",
+    "from": 1976,
+    "to": 1979
   },
   {
     "models": "Yamaha YZ 400F",
@@ -40,9 +70,24 @@
     "to": 2001
   },
   {
+    "models": "Yamaha YZ 465",
+    "from": 1980,
+    "to": 1981
+  },
+  {
+    "models": "Yamaha YZ 490",
+    "from": 1982,
+    "to": 1990
+  },
+  {
+    "models": "Yamaha YZ 60",
+    "from": 1981,
+    "to": 1983
+  },
+  {
     "models": "Yamaha YZ 65",
     "from": 2018,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 80",
