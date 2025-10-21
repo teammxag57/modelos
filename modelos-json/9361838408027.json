@@ -1,97 +1,12 @@
 [
   {
-    "models": "Kawasaki KX 125",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "Kawasaki KX 250",
-    "from": 2005,
-    "to": 2008
-  },
-  {
-    "models": "Kawasaki KX 250F",
-    "from": 2005,
-    "to": 2020
-  },
-  {
-    "models": "Kawasaki KX 450F",
-    "from": 2006,
-    "to": 2018
-  },
-  {
-    "models": "Suzuki RM-Z 250",
-    "from": 2005,
-    "to": 2006
-  },
-  {
-    "models": "Yamaha WR 250 F",
-    "from": 2001,
-    "to": 2002
-  },
-  {
-    "models": "Yamaha WR 400 F",
-    "from": 2000,
-    "to": ""
-  },
-  {
-    "models": "Yamaha WR 426 F",
-    "from": 2001,
-    "to": 2002
-  },
-  {
-    "models": "Yamaha YZ 125",
-    "from": 2000,
-    "to": 2020
-  },
-  {
-    "models": "Yamaha YZ 125X",
-    "from": 2020,
-    "to": ""
-  },
-  {
-    "models": "Yamaha YZ 250",
-    "from": 2000,
-    "to": 2020
-  },
-  {
-    "models": "Yamaha YZ 250 F",
-    "from": 2001,
-    "to": 2008
-  },
-  {
-    "models": "Yamaha YZ 250 FX",
-    "from": 2020,
-    "to": 2021
-  },
-  {
-    "models": "Yamaha YZ 250 X",
-    "from": 2016,
-    "to": 2020
-  },
-  {
-    "models": "Yamaha YZ 426 F",
-    "from": 2000,
-    "to": 2002
-  },
-  {
-    "models": "Yamaha YZ 450 F",
-    "from": 2003,
-    "to": 2008
-  },
-  {
-    "models": "Yamaha YZ 450 FX",
-    "from": 2019,
-    "to": 2020
-  },
-  {
     "models": "Yamaha YZ 65",
     "from": 2018,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 85",
-    "from": 2015,
-    "to": 2020
+    "from": 2019,
+    "to": 2025
   }
 ]
