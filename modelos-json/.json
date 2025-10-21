@@ -1,12 +1,52 @@
 [
   {
-    "models": "Suzuki RM 450Z",
-    "from": 2005,
-    "to": 2022
+    "models": "Yamaha WR 250F",
+    "from": 2022,
+    "to": 2024
   },
   {
-    "models": "Suzuki RMX 450",
-    "from": 2010,
-    "to": 2011
+    "models": "Yamaha WR 450F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 125X",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250FX",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 250X",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2021,
+    "to": 2024
   }
 ]
