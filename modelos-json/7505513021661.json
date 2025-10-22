@@ -1,0 +1,47 @@
+[
+  {
+    "models": "KTM 200 EXC - GS",
+    "from": 2001,
+    "to": ""
+  },
+  {
+    "models": "KTM 200 EXC - GS 8kW",
+    "from": 2000,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2000,
+    "to": 2005
+  },
+  {
+    "models": "KTM EXC 125 SIX-DAYS",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2000,
+    "to": 2005
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2000,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 125 TYLA RATTRAY",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM SXS 125",
+    "from": 2001,
+    "to": 2008
+  }
+]
