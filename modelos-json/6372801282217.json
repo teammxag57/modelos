@@ -1,0 +1,122 @@
+[
+  {
+    "models": "KTM EXC 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 150W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 200W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC 250F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 350F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC 350FW",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 450F",
+    "from": 2016,
+    "to": 2018
+  }
+]
