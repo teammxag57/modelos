@@ -1,0 +1,102 @@
+[
+  {
+    "models": "KTM EXC 125",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2005,
+    "to": 2017
+  },
+  {
+    "models": "KTM XC 150W",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 200",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 200W",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 250F",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 250FW",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 450F",
+    "from": 2007,
+    "to": 2007
+  }
+]
