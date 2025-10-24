@@ -1,0 +1,82 @@
+[
+  {
+    "models": "Gasgas EC 250",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "HONDA CRF 250X",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna FE 250",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 501F",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2001,
+    "to": 2017
+  },
+  {
+    "models": "KTM MX 125",
+    "from": 1987,
+    "to": 1993
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 1995,
+    "to": 2021
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2011,
+    "to": 2025
+  }
+]
