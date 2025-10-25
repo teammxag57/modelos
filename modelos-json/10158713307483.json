@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "KTM 85 SX",
+    "from": 2003,
+    "to": 2017
+  },
+  {
+    "models": "KTM 85 SXS",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 105",
+    "from": 2004,
+    "to": 2011
+  },
+  {
+    "models": "KTM XC 105",
+    "from": 2008,
+    "to": 2009
+  }
+]
