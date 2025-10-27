@@ -8,5 +8,10 @@
     "models": "Yamaha YZ 125",
     "from": 2001,
     "to": 2021
+  },
+  {
+    "models": "Fantic XX 125",
+    "from": 2021,
+    "to": ""
   }
 ]
