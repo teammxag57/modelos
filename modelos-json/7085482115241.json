@@ -1,97 +1,122 @@
 [
   {
-    "models": "Gasgas Endurocross 200",
-    "from": 2006,
-    "to": 2012
+    "models": "Fantic XX 250",
+    "from": 2022,
+    "to": 2025
   },
   {
-    "models": "Gasgas Endurocross 250",
-    "from": 2006,
-    "to": 2012
+    "models": "Gasgas EC 250",
+    "from": 1997,
+    "to": 2019
   },
   {
-    "models": "Gasgas Endurocross 300",
-    "from": 2006,
-    "to": 2012
+    "models": "Gasgas EC 300",
+    "from": 1999,
+    "to": 2019
+  },
+  {
+    "models": "Honda CR 125",
+    "from": 2003,
+    "to": 2004
   },
   {
     "models": "Honda CR 250",
     "from": 1986,
-    "to": 2007
+    "to": 2004
   },
   {
-    "models": "Husqvarna TE 125",
-    "from": 2014,
-    "to": 2016
+    "models": "Husaberg TE 125",
+    "from": 2012,
+    "to": 2014
   },
   {
-    "models": "Husqvarna TE 200",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "Husqvarna TE 250",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "Kawasaki KDX 200",
-    "from": 1990,
-    "to": 2006
-  },
-  {
-    "models": "Kawasaki KDX 220",
-    "from": 1990,
-    "to": 2006
-  },
-  {
-    "models": "Kawasaki KDX 250",
-    "from": 1997,
-    "to": 2012
-  },
-  {
-    "models": "Kawasaki KX 125",
-    "from": 1993,
-    "to": 2005
-  },
-  {
-    "models": "Kawasaki KX 250",
-    "from": 2005,
-    "to": 2007
-  },
-  {
-    "models": "KTM EXC 125",
-    "from": 2008,
-    "to": 2013
-  },
-  {
-    "models": "KTM SX 125",
-    "from": 2006,
-    "to": 2013
-  },
-  {
-    "models": "KTM SX 150",
+    "models": "Husqvarna WR 250",
     "from": 2011,
     "to": 2013
   },
   {
+    "models": "Husqvarna WR 300",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 1987,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 1998,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 1998,
+    "to": 2013
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 1998,
+    "to": 2005
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 1993,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
     "models": "Suzuki RM 250",
     "from": 2003,
-    "to": 2007
+    "to": 2012
   },
   {
-    "models": "TM EN 250",
-    "from": 2016,
-    "to": 2019
+    "models": "Suzuki RM 250",
+    "from": 1996,
+    "to": 1997
   },
   {
-    "models": "TM MX 250",
-    "from": 2016,
-    "to": 2019
+    "models": "Suzuki RM 250",
+    "from": 1989,
+    "to": 1993
   },
   {
     "models": "Yamaha YZ 250",
-    "from": 1997,
-    "to": 2007
+    "from": 1989,
+    "to": 2005
   }
 ]
