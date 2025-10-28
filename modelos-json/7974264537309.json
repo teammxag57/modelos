@@ -1,5 +1,25 @@
 [
   {
+    "models": "Beta RR 125",
+    "from": 2018,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR 125R",
+    "from": 2018,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR 200",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Beta RR 200R",
+    "from": 2019,
+    "to": 2020
+  },
+  {
     "models": "Beta RR 250",
     "from": 2013,
     "to": 2021
