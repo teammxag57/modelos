@@ -1,36 +1,16 @@
 [
   {
-    "models": "Gasgas 250",
-    "from": 2012,
-    "to": ""
-  },
-  {
-    "models": "Gasgas 250 EC 4T",
+    "models": "Gasgas EC 250F",
     "from": 2011,
-    "to": 2012
+    "to": 2015
   },
   {
-    "models": "Gasgas 250 EC F 4T",
+    "models": "Gasgas EC 300F",
     "from": 2013,
     "to": 2015
   },
   {
-    "models": "Gasgas 250 EC Six Days",
-    "from": 2011,
-    "to": 2012
-  },
-  {
-    "models": "Gasgas 300",
-    "from": 2012,
-    "to": ""
-  },
-  {
-    "models": "Gasgas 300 EC F",
-    "from": 2013,
-    "to": 2015
-  },
-  {
-    "models": "Gasgas 450 EC F",
+    "models": "Gasgas EC 450F",
     "from": 2013,
     "to": 2015
   },
@@ -42,7 +22,7 @@
   {
     "models": "Yamaha WR 250F",
     "from": 2001,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Yamaha WR 250R",
@@ -55,18 +35,18 @@
     "to": 2015
   },
   {
-    "models": "Yamaha YZ1 25",
+    "models": "Yamaha YZ 125",
     "from": 2005,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250F",
     "from": 2001,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250FX",
     "from": 2015,
-    "to": 2023
+    "to": 2026
   }
 ]
