@@ -1,137 +1,182 @@
 [
   {
-    "models": "Beta 125 RR 2T",
-    "from": 2018,
-    "to": 2024
+    "models": "HM-Moto CRE-F 250R",
+    "from": 2010,
+    "to": 2013
   },
   {
-    "models": "Honda CR 125 R",
+    "models": "HM-Moto CRE-F 250X",
+    "from": 2004,
+    "to": 2010
+  },
+  {
+    "models": "HM-Moto CRE-F 250X",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "HM-Moto CRE-F 290X",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "HM-Moto CRE-F 300R",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "HM-Moto CRE-F 300X",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "HM-Moto CRE-F 450R",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "HM-Moto CRE-F 450R",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "HM-Moto CRE-F 500R",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Honda CR 125",
     "from": 1983,
     "to": 2007
   },
   {
-    "models": "Honda CR 250 R",
-    "from": 1988,
+    "models": "Honda CR 250",
+    "from": 1984,
     "to": 2007
   },
   {
-    "models": "Honda CR 500 R",
-    "from": 1988,
-    "to": 1999
+    "models": "Honda CR 500",
+    "from": 1984,
+    "to": 2001
   },
   {
-    "models": "Honda CRE 450 F Enduro",
-    "from": 2004,
-    "to": 2006
-  },
-  {
-    "models": "Honda CRF 150 F",
+    "models": "Honda CRF 230F",
     "from": 2003,
-    "to": 2025
-  },
-  {
-    "models": "Honda CRF 230 F",
-    "from": 2003,
-    "to": 2025
-  },
-  {
-    "models": "Honda CRF 230 L",
-    "from": 2008,
     "to": 2009
   },
   {
-    "models": "Honda CRF 250 F",
-    "from": 2019,
-    "to": 2025
-  },
-  {
-    "models": "Honda CRF 250 R",
+    "models": "Honda CR 250F",
     "from": 2004,
     "to": 2025
   },
   {
-    "models": "Honda CRF 250 RX",
-    "from": 2019,
-    "to": 2025
+    "models": "Honda CRF 250R Red Moto",
+    "from": 2020,
+    "to": 2024
   },
   {
-    "models": "Honda CRF 250 X",
-    "from": 2004,
+    "models": "Honda CRF 250RE",
+    "from": 2016,
     "to": 2017
   },
   {
-    "models": "Honda CRF 300 L",
-    "from": 2021,
+    "models": "Honda CRF 250RWE",
+    "from": 2025,
     "to": 2025
   },
   {
-    "models": "Honda CRF 450 L",
+    "models": "Honda CRF 250RX",
     "from": 2019,
     "to": 2025
   },
   {
-    "models": "Honda CRF 450 R",
+    "models": "Honda CRF 250RX Red Moto",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF 250RX Red Moto Special",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF 300RX Red Moto",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "Honda CRF 300RX Red Moto Special",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "Honda CRF 400RX Red Moto",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "Honda CRF 450L",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "Honda CR 450F",
     "from": 2002,
     "to": 2025
   },
   {
-    "models": "Honda CRF 450 RL",
-    "from": 2021,
+    "models": "Honda CRF 450R Anniversary",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF 450R Red Moto",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "Honda CRF 450RE",
+    "from": 2016,
+    "to": 2016
+  },
+  {
+    "models": "Honda CRF 450RWE",
+    "from": 2025,
     "to": 2025
   },
   {
-    "models": "Honda CRF 450 R-L",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "Honda CRF 450 RX",
+    "models": "Honda CRF 450RX",
     "from": 2017,
     "to": 2025
   },
   {
-    "models": "Honda CRF 450 RX-L",
-    "from": 2019,
-    "to": 2025
+    "models": "Honda CRF 450RX Red Moto",
+    "from": 2020,
+    "to": 2020
   },
   {
-    "models": "Honda CRF 450 X",
+    "models": "Honda CRF 450X",
     "from": 2005,
-    "to": 2025
+    "to": 2018
   },
   {
-    "models": "Honda XR 250",
-    "from": 1990,
-    "to": 1995
+    "models": "Honda CRF 450XRL",
+    "from": 2016,
+    "to": 2016
   },
   {
-    "models": "Honda XR 250 R",
-    "from": 1996,
-    "to": 2005
-  },
-  {
-    "models": "Honda XR 250 SM",
-    "from": 2004,
-    "to": 2005
-  },
-  {
-    "models": "Honda XR 400",
-    "from": 2004,
-    "to": 2005
-  },
-  {
-    "models": "Honda XR 400 R",
+    "models": "Honda XR 250R",
     "from": 1996,
     "to": 2004
   },
   {
-    "models": "Honda XR 440 SM",
-    "from": 2004,
-    "to": 2005
+    "models": "Honda XR 400R",
+    "from": 1996,
+    "to": 2002
   },
   {
-    "models": "Honda XR 650 R",
+    "models": "Honda XR 650R",
     "from": 2000,
-    "to": 2008
+    "to": 2007
   }
 ]
