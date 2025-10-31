@@ -1,6 +1,6 @@
 [
   {
-    "models": "Husqvarna All models 92-94 ALL",
+    "models": "Husqvarna All models",
     "from": 1992,
     "to": 1994
   },
@@ -20,7 +20,7 @@
     "to": 1988
   },
   {
-    "models": "Yamaha YZ 125 LC/WR",
+    "models": "Yamaha YZ 125",
     "from": 1989,
     "to": ""
   },
@@ -37,7 +37,7 @@
   {
     "models": "Yamaha YZ 65",
     "from": 2018,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 80",
@@ -47,6 +47,6 @@
   {
     "models": "Yamaha YZ 85",
     "from": 2002,
-    "to": 2024
+    "to": 2026
   }
 ]
