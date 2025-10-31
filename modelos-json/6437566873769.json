@@ -1,57 +1,47 @@
 [
   {
-    "models": "Benelli 250 Leonicino E4",
-    "from": 2020,
-    "to": 2024
-  },
-  {
-    "models": "Benelli BN 251 ABS",
-    "from": 2018,
-    "to": 2024
-  },
-  {
-    "models": "Benelli LEONCINO 251",
-    "from": 2019,
-    "to": 2024
-  },
-  {
-    "models": "Benelli TNT 251",
-    "from": 2016,
-    "to": 2024
-  },
-  {
-    "models": "Benelli TRK 251",
-    "from": 2016,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha WR 250 F",
-    "from": 2001,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha WR 250 X",
-    "from": 2008,
+    "models": "Gasgas EC 250",
+    "from": 2011,
     "to": 2015
   },
   {
-    "models": "Yamaha WR250R",
+    "models": "Gasgas EC 300F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 450F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha WR 250F",
+    "from": 2001,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha WR 250R",
     "from": 2008,
-    "to": 2024
+    "to": 2020
   },
   {
     "models": "Yamaha YZ 125",
     "from": 2005,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Yamaha YZ 250 F",
+    "models": "Yamaha YZ 125X",
+    "from": 2020,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 250F",
     "from": 2001,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Yamaha YZ 250 FX",
+    "models": "Yamaha YZ 250FX",
     "from": 2015,
-    "to": 2024
+    "to": 2026
   }
 ]
