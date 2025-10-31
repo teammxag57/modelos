@@ -1,22 +1,17 @@
 [
   {
-    "models": "Yamaha YZ125",
+    "models": "Yamaha YZ 125",
     "from": 1987,
     "to": 2004
   },
   {
-    "models": "Yamaha YZ65",
+    "models": "Yamaha YZ 65",
     "from": 2018,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Yamaha YZ85",
+    "models": "Yamaha YZ 85",
     "from": 2002,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha YZ85LW",
-    "from": 2022,
-    "to": 2024
+    "to": 2026
   }
 ]
