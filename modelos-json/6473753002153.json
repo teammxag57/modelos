@@ -5,11 +5,6 @@
     "to": 2007
   },
   {
-    "models": "Honda CR 250F",
-    "from": 2022,
-    "to": 2026
-  },
-  {
     "models": "Honda CR 450F",
     "from": 2002,
     "to": 2026
@@ -20,7 +15,7 @@
     "to": 1999
   },
   {
-    "models": "Honda CRE 450F Enduro",
+    "models": "Honda CRE 450F",
     "from": 2004,
     "to": 2006
   },
@@ -37,11 +32,6 @@
   {
     "models": "Honda CRF 450RX",
     "from": 2017,
-    "to": 2026
-  },
-  {
-    "models": "Honda CRF 450RX-L",
-    "from": 2019,
     "to": 2026
   },
   {
