@@ -1,12 +1,12 @@
 [
   {
-    "models": "Yamaha YZ 450 F",
+    "models": "Yamaha YZ 450F",
     "from": 2007,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Yamaha YZ 450 FX",
+    "models": "Yamaha YZ 450FX",
     "from": 2016,
-    "to": 2024
+    "to": 2026
   }
 ]
