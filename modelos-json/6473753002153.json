@@ -1,61 +1,71 @@
 [
   {
-    "models": "Honda CR 250",
+    "models": "CR 250",
     "from": 1988,
-    "to": 2001
-  },
-  {
-    "models": "Honda CR 250",
-    "from": 2005,
     "to": 2007
   },
   {
-    "models": "Honda CR 500",
+    "models": "CR 250F",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "CR 450F",
+    "from": 2002,
+    "to": 2025
+  },
+  {
+    "models": "CR 500",
     "from": 1988,
     "to": 1999
   },
   {
-    "models": "Honda CRE 450 F Enduro",
+    "models": "CRE 450F Enduro",
     "from": 2004,
     "to": 2006
   },
   {
-    "models": "Honda CR 450F",
-    "from": 2002,
-    "to": 2024
-  },
-  {
-    "models": "Honda CRF 450 R-L",
+    "models": "CRF 450RL",
     "from": 2019,
     "to": 2020
   },
   {
-    "models": "Honda CRF 450RX",
-    "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "Honda CRF 450 RX-L",
+    "models": "CRF 450RWE",
     "from": 2019,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Honda CRF 450X",
+    "models": "CRF 450RX",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "CRF 450RX-L",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "CRF 450X",
     "from": 2005,
     "to": 2018
   },
   {
-    "models": "Honda TRX 450 R",
+    "models": "CRM 250",
+    "from": 1989,
+    "to": 1996
+  },
+  {
+    "models": "TRX 450R",
     "from": 2004,
     "to": 2005
   },
   {
-    "models": "Honda TRX 450 R/ER",
+    "models": "TRX 450R",
     "from": 2006,
     "to": 2014
   },
   {
-    "models": "Honda TRX 700 XX",
+    "models": "TRX 700XX",
     "from": 2008,
     "to": 2010
   }
