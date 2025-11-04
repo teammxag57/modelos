@@ -5,192 +5,192 @@
     "to": ""
   },
   {
-    "models": "Gas-Gas EC125",
+    "models": "Gasgas EC125",
     "from": 2001,
     "to": 2011
   },
   {
-    "models": "Gasgas EC200",
+    "models": "Gasgas EC 200",
     "from": 1999,
     "to": 2011
   },
   {
-    "models": "Gasgas EC250 4T",
+    "models": "Gasgas EC 250F",
     "from": 2010,
     "to": 2013
   },
   {
-    "models": "Gasgas EC250",
+    "models": "Gasgas EC 250",
     "from": 1996,
     "to": 2012
   },
   {
-    "models": "Gasgas EC300 4T",
+    "models": "Gasgas EC 300F",
     "from": 2013,
     "to": ""
   },
   {
-    "models": "Gasgas EC300",
+    "models": "Gasgas EC 300",
     "from": 1999,
     "to": 2012
   },
   {
-    "models": "Gasgas EC450FSE",
+    "models": "Gasgas EC 450FSE",
     "from": 2003,
     "to": 2005
   },
   {
-    "models": "Gasgas MC125",
+    "models": "Gasgas MC 125",
     "from": 2001,
     "to": 2009
   },
   {
-    "models": "Gasgas MC250",
+    "models": "Gasgas MC 250",
     "from": 1999,
     "to": 2009
   },
   {
-    "models": "Gasgas SM125",
+    "models": "Gasgas SM 125",
     "from": 2003,
     "to": 2009
   },
   {
-    "models": "Gasgas SM250",
+    "models": "Gasgas SM 250",
     "from": 2003,
     "to": 2005
   },
   {
-    "models": "Gasgas SM450FSE",
+    "models": "Gasgas SM 450FSE",
     "from": 2004,
     "to": 2005
   },
   {
-    "models": "Honda CR125R",
+    "models": "Honda CR 125",
     "from": 1982,
     "to": 2004
   },
   {
-    "models": "Honda CR250R",
+    "models": "Honda CR 250",
     "from": 1985,
     "to": 2001
   },
   {
-    "models": "Honda CR500R",
+    "models": "Honda CR 500",
     "from": 1985,
     "to": 2001
   },
   {
-    "models": "Honda XR400R",
+    "models": "Honda XR 400R",
     "from": 1996,
     "to": 2004
   },
   {
-    "models": "Suzuki DR650SE",
+    "models": "Suzuki DR 650SE",
     "from": 1990,
     "to": 1995
   },
   {
-    "models": "Suzuki RM125",
+    "models": "Suzuki RM 125",
     "from": 1989,
     "to": ""
   },
   {
-    "models": "Suzuki RM250",
+    "models": "Suzuki RM 250",
     "from": 1989,
     "to": ""
   },
   {
-    "models": "Suzuki RM80",
+    "models": "Suzuki RM 80",
     "from": 1987,
     "to": 2001
   },
   {
-    "models": "Suzuki RM85",
+    "models": "Suzuki RM 85",
     "from": 2002,
     "to": 2023
   },
   {
-    "models": "Suzuki RM85L",
+    "models": "Suzuki RM 85L",
     "from": 2003,
     "to": 2016
   },
   {
-    "models": "Yamaha IT175",
+    "models": "Yamaha IT 175",
     "from": 1982,
     "to": 1983
   },
   {
-    "models": "Yamaha IT250",
+    "models": "Yamaha IT 250",
     "from": 1981,
     "to": 1983
   },
   {
-    "models": "Yamaha IT490",
+    "models": "Yamaha IT 490",
     "from": 1983,
     "to": 1984
   },
   {
-    "models": "Yamaha TT225",
+    "models": "Yamaha TT 225",
     "from": 1986,
     "to": 1987
   },
   {
-    "models": "Yamaha TT350",
+    "models": "Yamaha TT 350",
     "from": 1986,
     "to": 1987
   },
   {
-    "models": "Yamaha TT600",
+    "models": "Yamaha TT 600",
     "from": 1983,
     "to": 1986
   },
   {
-    "models": "Yamaha TTR225",
+    "models": "Yamaha TTR 225",
     "from": 1999,
     "to": 2004
   },
   {
-    "models": "Yamaha WR250F",
+    "models": "Yamaha WR 250F",
     "from": 2020,
     "to": 2024
   },
   {
-    "models": "Yamaha WR250R DUAL SPORT",
+    "models": "Yamaha WR 250R DUAL SPORT",
     "from": 2008,
     "to": 2011
   },
   {
-    "models": "Yamaha WR250X Supermoto",
+    "models": "Yamaha WR 250X Supermoto",
     "from": 2008,
     "to": 2011
   },
   {
-    "models": "Yamaha WR400F",
+    "models": "Yamaha WR 400F",
     "from": 1998,
     "to": ""
   },
   {
-    "models": "Yamaha WR450F",
+    "models": "Yamaha WR 450F",
     "from": 2020,
     "to": 2024
   },
   {
-    "models": "Yamaha XT225",
+    "models": "Yamaha XT 225",
     "from": 1992,
     "to": 2007
   },
   {
-    "models": "Yamaha XT250",
+    "models": "Yamaha XT 250",
     "from": 1984,
     "to": ""
   },
   {
-    "models": "Yamaha XT350",
+    "models": "Yamaha XT 350",
     "from": 1985,
     "to": 2000
   },
   {
-    "models": "Yamaha XT600",
+    "models": "Yamaha XT 600",
     "from": 1984,
     "to": 1989
   },
@@ -200,67 +200,67 @@
     "to": 2010
   },
   {
-    "models": "Yamaha YFM700R Raptor",
+    "models": "Yamaha YFM 700R Raptor",
     "from": 2006,
     "to": 2015
   },
   {
-    "models": "Yamaha YFZ450",
+    "models": "Yamaha YFZ 450",
     "from": 2004,
     "to": 2013
   },
   {
-    "models": "Yamaha YFZ450R",
+    "models": "Yamaha YFZ 450R",
     "from": 2009,
     "to": 2024
   },
   {
-    "models": "Yamaha YFZ450X",
+    "models": "Yamaha YFZ 450X",
     "from": 2010,
     "to": 2011
   },
   {
-    "models": "Yamaha YTZ250 Tri Moto",
+    "models": "Yamaha YTZ 250 Tri Moto",
     "from": 1985,
     "to": 1986
   },
   {
-    "models": "Yamaha YZ100",
+    "models": "Yamaha YZ 100",
     "from": 1982,
     "to": 1983
   },
   {
-    "models": "Yamaha YZ125",
+    "models": "Yamaha YZ 125",
     "from": 1981,
     "to": 1986
   },
   {
-    "models": "Yamaha YZ250F",
+    "models": "Yamaha YZ 250F",
     "from": 2019,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ250FX",
+    "models": "Yamaha YZ 250FX",
     "from": 2020,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ450F",
+    "models": "Yamaha YZ 450F",
     "from": 2018,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ450FX",
+    "models": "Yamaha YZ 450FX",
     "from": 2019,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ465",
+    "models": "Yamaha YZ 465",
     "from": 1981,
     "to": ""
   },
   {
-    "models": "Yamaha YZ490",
+    "models": "Yamaha YZ 490",
     "from": 1983,
     "to": 1986
   },
@@ -270,17 +270,17 @@
     "to": ""
   },
   {
-    "models": "Gasgas EC125",
+    "models": "Gasgas EC 125",
     "from": 2013,
     "to": ""
   },
   {
-    "models": "Honda CR125R",
+    "models": "Honda CR 125",
     "from": 1993,
     "to": 1999
   },
   {
-    "models": "Honda CR250R",
+    "models": "Honda CR 250",
     "from": 1992,
     "to": 2003
   },
@@ -400,97 +400,97 @@
     "to": 1990
   },
   {
-    "models": "Suzuki RM80",
+    "models": "Suzuki RM 80",
     "from": 1987,
     "to": 2001
   },
   {
-    "models": "Suzuki RM85",
+    "models": "Suzuki RM 85",
     "from": 2002,
     "to": 2023
   },
   {
-    "models": "Suzuki RM85L",
+    "models": "Suzuki RM 85L",
     "from": 2003,
     "to": 2016
   },
   {
-    "models": "Suzuki RMZ250",
+    "models": "Suzuki RM 250Z",
     "from": 2011,
     "to": 2012
   },
   {
-    "models": "Suzuki RMZ450",
+    "models": "Suzuki RM 450Z",
     "from": 2011,
     "to": 2012
   },
   {
-    "models": "Yamaha IT250",
+    "models": "Yamaha IT 250",
     "from": 1981,
     "to": 1983
   },
   {
-    "models": "Yamaha IT490",
+    "models": "Yamaha IT 490",
     "from": 1983,
     "to": 1984
   },
   {
-    "models": "Yamaha TT600",
+    "models": "Yamaha TT 600",
     "from": 1983,
     "to": 1986
   },
   {
-    "models": "Yamaha TTR250",
+    "models": "Yamaha TTR 250",
     "from": 1999,
     "to": 2006
   },
   {
-    "models": "Yamaha WR250",
+    "models": "Yamaha WR 250",
     "from": 1994,
     "to": 1997
   },
   {
-    "models": "Yamaha WR250F",
+    "models": "Yamaha WR 250F",
     "from": 2001,
     "to": 2024
   },
   {
-    "models": "Yamaha WR400F",
+    "models": "Yamaha WR 400F",
     "from": 1999,
     "to": 2000
   },
   {
-    "models": "Yamaha WR426F",
+    "models": "Yamaha WR 426F",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "Yamaha WR450F",
+    "models": "Yamaha WR 450F",
     "from": 2003,
     "to": 2024
   },
   {
-    "models": "Yamaha XT250",
+    "models": "Yamaha XT 250",
     "from": 1984,
     "to": ""
   },
   {
-    "models": "Yamaha XT350",
+    "models": "Yamaha XT 350",
     "from": 1985,
     "to": 2000
   },
   {
-    "models": "Yamaha XT550",
+    "models": "Yamaha XT 550",
     "from": 1982,
     "to": 1983
   },
   {
-    "models": "Yamaha XT600 (SA)",
+    "models": "Yamaha XT 600 (SA)",
     "from": 1996,
     "to": 2002
   },
   {
-    "models": "Yamaha XT600",
+    "models": "Yamaha XT 600",
     "from": 1984,
     "to": 1995
   },
@@ -505,72 +505,72 @@
     "to": 1994
   },
   {
-    "models": "Yamaha YFZ450",
+    "models": "Yamaha YFZ 450",
     "from": 2004,
     "to": 2013
   },
   {
-    "models": "Yamaha YZ125",
+    "models": "Yamaha YZ 125",
     "from": 1986,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ125X",
+    "models": "Yamaha YZ 125X",
     "from": 2020,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ250",
+    "models": "Yamaha YZ 250",
     "from": 1993,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ250F",
+    "models": "Yamaha YZ 250F",
     "from": 2001,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ250FX",
+    "models": "Yamaha YZ 250FX",
     "from": 2015,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ250X",
+    "models": "Yamaha YZ 250X",
     "from": 2016,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ400F",
+    "models": "Yamaha YZ 400F",
     "from": 1998,
     "to": 1999
   },
   {
-    "models": "Yamaha YZ426F",
+    "models": "Yamaha YZ 426F",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "Yamaha YZ450F",
+    "models": "Yamaha YZ 450F",
     "from": 2003,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ450FX",
+    "models": "Yamaha YZ 450FX",
     "from": 2016,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ465",
+    "models": "Yamaha YZ 465",
     "from": 1981,
     "to": ""
   },
   {
-    "models": "Yamaha YZ490",
+    "models": "Yamaha YZ 490",
     "from": 1983,
     "to": 1986
   },
   {
-    "models": "Yamaha YZ65",
+    "models": "Yamaha YZ 65",
     "from": 2018,
     "to": 2024
   }
