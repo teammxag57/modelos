@@ -1,16 +1,16 @@
 [
   {
-    "models": "Beta RR 2T 125 Race",
+    "models": "Beta RR 125R",
     "from": 2021,
     "to": 2024
   },
   {
-    "models": "Beta RR 2T 200 Race",
+    "models": "Beta RR 200R",
     "from": 2021,
     "to": 2024
   },
   {
-    "models": "Husqvarna CR125",
+    "models": "Husqvarna CR 125",
     "from": 2010,
     "to": 2013
   },
@@ -25,37 +25,37 @@
     "to": ""
   },
   {
-    "models": "Husqvarna TC 250",
+    "models": "Husqvarna TC  250",
     "from": 2010,
     "to": 2013
   },
   {
-    "models": "Husqvarna TC450",
+    "models": "Husqvarna TC 450",
     "from": 2010,
     "to": 2013
   },
   {
-    "models": "Husqvarna TE 250",
+    "models": "Husqvarna TE  250",
     "from": 2010,
     "to": 2013
   },
   {
-    "models": "Husqvarna TE310",
+    "models": "Husqvarna TE 310",
     "from": 2010,
     "to": 2013
   },
   {
-    "models": "Husqvarna TE450",
+    "models": "Husqvarna TE 450",
     "from": 2010,
     "to": 2013
   },
   {
-    "models": "Husqvarna TE510",
+    "models": "Husqvarna TE 510",
     "from": 2010,
     "to": ""
   },
   {
-    "models": "Husqvarna TE511",
+    "models": "Husqvarna TE 511",
     "from": 2012,
     "to": 2013
   },
@@ -85,82 +85,82 @@
     "to": 2013
   },
   {
-    "models": "Husqvarna WR125",
+    "models": "Husqvarna WR 125",
     "from": 2010,
     "to": 2013
   },
   {
-    "models": "Husqvarna WR250",
+    "models": "Husqvarna WR 250",
     "from": 2010,
     "to": 2013
   },
   {
-    "models": "Husqvarna WR300",
+    "models": "Husqvarna WR 300",
     "from": 2010,
     "to": 2013
   },
   {
-    "models": "Kawasaki KLX450R",
+    "models": "Kawasaki KLX 450R",
     "from": 2008,
     "to": 2009
   },
   {
-    "models": "Kawasaki KLX450R (AU)",
+    "models": "Kawasaki KLX 450R (AU)",
     "from": 2018,
     "to": 2019
   },
   {
-    "models": "Kawasaki KX450F",
+    "models": "Kawasaki KX 450F",
     "from": 2006,
     "to": 2007
   },
   {
-    "models": "Yamaha WR250F",
+    "models": "Yamaha WR 250F",
     "from": 2015,
     "to": 2024
   },
   {
-    "models": "Yamaha WR450F",
+    "models": "Yamaha WR 450F",
     "from": 2023,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ125",
+    "models": "Yamaha YZ 125",
     "from": 2005,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ125X",
+    "models": "Yamaha YZ 125X",
     "from": 2023,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ250",
+    "models": "Yamaha YZ 250",
     "from": 2005,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ250F",
+    "models": "Yamaha YZ 250F",
     "from": 2005,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ250FX",
+    "models": "Yamaha YZ 250FX",
     "from": 2015,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ250X",
+    "models": "Yamaha YZ 250X",
     "from": 2016,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ450F",
+    "models": "Yamaha YZ 450F",
     "from": 2005,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ450FX",
+    "models": "Yamaha YZ 450FX",
     "from": 2022,
     "to": 2024
   }
