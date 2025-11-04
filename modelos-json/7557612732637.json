@@ -90,14 +90,14 @@
     "to": 2024
   },
   {
-    "models": "Kawasaki KX 450SR",
-    "from": 2022,
-    "to": 2023
-  },
-  {
     "models": "Kawasaki KX 450FX",
     "from": 2021,
     "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 450SR",
+    "from": 2022,
+    "to": 2023
   },
   {
     "models": "Rieju MR Pro 200",
