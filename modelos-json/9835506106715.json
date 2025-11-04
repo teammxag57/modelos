@@ -1,31 +1,31 @@
 [
   {
-    "models": "Yamaha WR250F",
+    "models": "Yamaha WR 250F",
     "from": 2015,
     "to": 2019
   },
   {
-    "models": "Yamaha WR250R DUAL SPORT",
+    "models": "Yamaha WR 250R DUAL SPORT",
     "from": 2008,
     "to": 2020
   },
   {
-    "models": "Yamaha WR250X Supermoto",
+    "models": "Yamaha WR 250X Supermoto",
     "from": 2008,
     "to": 2011
   },
   {
-    "models": "Yamaha WR450F",
+    "models": "Yamaha WR 450F",
     "from": 2012,
     "to": 2019
   },
   {
-    "models": "Yamaha XT250",
+    "models": "Yamaha XT 250",
     "from": 2013,
     "to": 2024
   },
   {
-    "models": "Yamaha YFZ450R",
+    "models": "Yamaha YFZ 450R",
     "from": 2009,
     "to": 2024
   },
@@ -35,22 +35,22 @@
     "to": 2011
   },
   {
-    "models": "Yamaha YZ250F",
+    "models": "Yamaha YZ 250F",
     "from": 2014,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ250FX",
+    "models": "Yamaha YZ 250FX",
     "from": 2015,
     "to": 2019
   },
   {
-    "models": "Yamaha YZ450F",
+    "models": "Yamaha YZ 450F",
     "from": 2010,
     "to": 2022
   },
   {
-    "models": "Yamaha YZ450FX",
+    "models": "Yamaha YZ 450FX",
     "from": 2016,
     "to": 2018
   }
