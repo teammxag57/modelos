@@ -1,107 +1,162 @@
 [
   {
-    "models": "KTM 125 SX",
+    "models": "Gasgas EC  300 Ranger",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "Gasgas EC 200",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EC 250",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EC 250 Six Days",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EC 300 Six Days",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Gasgas Enduro GP 250",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "Gasgas Enduro GP 300",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "Gasgas XC 200",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas XC 250",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas XC 300",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Rieju MR Pro 200",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Pro 250",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Pro 300",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Racing 200",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Rieju MR Racing 250",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Rieju MR Racing 300",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Ranger 300",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha WR 250F",
+    "from": 2001,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha WR 426F",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2001,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 125X",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 2001,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2001,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 250FX",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2018
+    "to": 2024
   },
   {
-    "models": "KTM 125 XC-W",
-    "from": 2017,
-    "to": 2019
+    "models": "Yamaha YZ 426F",
+    "from": 2001,
+    "to": 2002
   },
   {
-    "models": "KTM 150 SX",
+    "models": "Yamaha YZ 450F",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 450FX",
     "from": 2016,
-    "to": 2018
+    "to": 2024
   },
   {
-    "models": "KTM 150 XC-W",
-    "from": 2017,
-    "to": 2019
+    "models": "Yamaha YZ 85",
+    "from": 2003,
+    "to": 2024
   },
   {
-    "models": "KTM 250 EXC",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM 250 EXC-F",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM 250 SX",
-    "from": 2017,
-    "to": 2018
-  },
-  {
-    "models": "KTM 250 SX-F",
-    "from": 2016,
-    "to": 2018
-  },
-  {
-    "models": "KTM 250 XC",
-    "from": 2017,
-    "to": 2018
-  },
-  {
-    "models": "KTM 250 XC-F",
-    "from": 2016,
-    "to": 2018
-  },
-  {
-    "models": "KTM 250 XC-W",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM 300 EXC",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM 300 XC",
-    "from": 2017,
-    "to": 2018
-  },
-  {
-    "models": "KTM 300 XC-W",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM 350 EXC-F",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM 350 SX-F",
-    "from": 2016,
-    "to": 2018
-  },
-  {
-    "models": "KTM 350 XC-F",
-    "from": 2016,
-    "to": 2018
-  },
-  {
-    "models": "KTM 450 EXC-F",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM 450 SX-F",
-    "from": 2016,
-    "to": 2018
-  },
-  {
-    "models": "KTM 450 XC-F",
-    "from": 2016,
-    "to": 2018
-  },
-  {
-    "models": "KTM 500 EXC-F",
-    "from": 2017,
-    "to": 2019
+    "models": "Yamaha YZ 85LW",
+    "from": 2022,
+    "to": 2024
   }
 ]
