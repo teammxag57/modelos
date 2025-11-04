@@ -15,19 +15,14 @@
     "to": 2024
   },
   {
-    "models": "Kawasaki KX 450SR",
-    "from": 2022,
-    "to": 2023
-  },
-  {
     "models": "Kawasaki KX 450FX",
     "from": 2021,
     "to": 2024
   },
   {
-    "models": "Suzuki RMX 450",
-    "from": 2010,
-    "to": 2019
+    "models": "Kawasaki KX 450SR",
+    "from": 2022,
+    "to": 2023
   },
   {
     "models": "Suzuki RM 250Z",
@@ -38,6 +33,11 @@
     "models": "Suzuki RM 450Z",
     "from": 2005,
     "to": 2024
+  },
+  {
+    "models": "Suzuki RMX 450",
+    "from": 2010,
+    "to": 2019
   },
   {
     "models": "Yamaha WR 250F",
