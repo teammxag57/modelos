@@ -1,162 +1,152 @@
 [
   {
-    "models": "Gasgas EC  300 Ranger",
-    "from": 2020,
-    "to": ""
-  },
-  {
-    "models": "Gasgas EC 200",
-    "from": 2018,
+    "models": "KTM EXC 250",
+    "from": 2017,
     "to": 2019
   },
   {
-    "models": "Gasgas EC 250",
-    "from": 2018,
+    "models": "KTM EXC 250 Six Days",
+    "from": 2017,
     "to": 2019
   },
   {
-    "models": "Gasgas EC 250 Six Days",
-    "from": 2019,
-    "to": ""
-  },
-  {
-    "models": "Gasgas EC 300",
-    "from": 2018,
+    "models": "KTM EXC 250F",
+    "from": 2017,
     "to": 2019
   },
   {
-    "models": "Gasgas EC 300 Six Days",
-    "from": 2019,
-    "to": ""
-  },
-  {
-    "models": "Gasgas Enduro GP 250",
-    "from": 2018,
-    "to": ""
-  },
-  {
-    "models": "Gasgas Enduro GP 300",
-    "from": 2018,
-    "to": ""
-  },
-  {
-    "models": "Gasgas XC 200",
-    "from": 2018,
+    "models": "KTM EXC 250F Six Days",
+    "from": 2017,
     "to": 2019
   },
   {
-    "models": "Gasgas XC 250",
-    "from": 2018,
+    "models": "KTM EXC 300",
+    "from": 2017,
     "to": 2019
   },
   {
-    "models": "Gasgas XC 300",
-    "from": 2018,
+    "models": "KTM EXC 300 Six Days",
+    "from": 2017,
     "to": 2019
   },
   {
-    "models": "Rieju MR Pro 200",
-    "from": 2022,
-    "to": 2024
+    "models": "KTM EXC 350F",
+    "from": 2017,
+    "to": 2019
   },
   {
-    "models": "Rieju MR Pro 250",
-    "from": 2022,
-    "to": 2024
+    "models": "KTM EXC 350F Six Days",
+    "from": 2017,
+    "to": 2019
   },
   {
-    "models": "Rieju MR Pro 300",
-    "from": 2021,
-    "to": 2024
+    "models": "KTM EXC 450F",
+    "from": 2017,
+    "to": 2019
   },
   {
-    "models": "Rieju MR Racing 200",
-    "from": 2022,
-    "to": 2023
+    "models": "KTM EXC 450F Six Days",
+    "from": 2017,
+    "to": 2019
   },
   {
-    "models": "Rieju MR Racing 250",
-    "from": 2021,
-    "to": 2023
+    "models": "KTM EXC 500F",
+    "from": 2017,
+    "to": 2019
   },
   {
-    "models": "Rieju MR Racing 300",
-    "from": 2020,
-    "to": 2024
+    "models": "KTM EXC 500F Six Days",
+    "from": 2017,
+    "to": 2019
   },
   {
-    "models": "Rieju MR Ranger 300",
-    "from": 2020,
-    "to": 2024
+    "models": "KTM SX 125",
+    "from": 2016,
+    "to": 2018
   },
   {
-    "models": "Yamaha WR 250F",
-    "from": 2001,
-    "to": 2024
+    "models": "KTM SX 150",
+    "from": 2016,
+    "to": 2018
   },
   {
-    "models": "Yamaha WR 426F",
-    "from": 2001,
-    "to": 2002
+    "models": "KTM SX 250",
+    "from": 2017,
+    "to": 2018
   },
   {
-    "models": "Yamaha WR 450F",
-    "from": 2003,
-    "to": 2024
+    "models": "KTM SX 250F",
+    "from": 2016,
+    "to": 2018
   },
   {
-    "models": "Yamaha YZ 125",
-    "from": 2001,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha YZ 125X",
-    "from": 2020,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha YZ 250",
-    "from": 2001,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha YZ 250F",
-    "from": 2001,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha YZ 250FX",
+    "models": "KTM SX 250F Factory Edition",
     "from": 2015,
-    "to": 2024
+    "to": 2017
   },
   {
-    "models": "Yamaha YZ 250X",
+    "models": "KTM SX 350F",
     "from": 2016,
-    "to": 2024
+    "to": 2018
   },
   {
-    "models": "Yamaha YZ 426F",
-    "from": 2001,
-    "to": 2002
-  },
-  {
-    "models": "Yamaha YZ 450F",
-    "from": 2003,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha YZ 450FX",
+    "models": "KTM SX 450F",
     "from": 2016,
-    "to": 2024
+    "to": 2018
   },
   {
-    "models": "Yamaha YZ 85",
-    "from": 2003,
-    "to": 2024
+    "models": "KTM SX 450F Factory Edition",
+    "from": 2015,
+    "to": 2017
   },
   {
-    "models": "Yamaha YZ 85LW",
-    "from": 2022,
-    "to": 2024
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC 250 F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC 300W Six Days",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 350F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC 450F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC-W 150",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC-W 250",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC-W 300",
+    "from": 2017,
+    "to": 2019
   }
 ]
