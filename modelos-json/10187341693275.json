@@ -1,0 +1,57 @@
+[
+  {
+    "models": "BETA RR 350F",
+    "from": 2011,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR 350FR",
+    "from": 2013,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR 390F",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR 390FR",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR 400F",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "BETA RR 430F",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR 430R",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR 480F",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR 480R",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR 498F",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "BETA RR 520F",
+    "from": 2010,
+    "to": 2011
+  }
+]
