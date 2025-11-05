@@ -2,31 +2,31 @@
   {
     "models": "KTM SX 150",
     "from": 2023,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "KTM SX 125",
     "from": 2023,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 150",
     "from": 2023,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 125",
     "from": 2023,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Gasgas MC 150",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Gasgas MC 125",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   }
 ]
