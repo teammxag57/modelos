@@ -1,111 +1,96 @@
 [
   {
-    "models": "KTM 125 EXC",
+    "models": "KTM EXC 125",
     "from": 1998,
     "to": 2016
   },
   {
-    "models": "KTM 125 SX",
-    "from": 1998,
-    "to": 2011
-  },
-  {
-    "models": "KTM 144 SX",
-    "from": 2008,
-    "to": 2008
-  },
-  {
-    "models": "KTM 150 SX",
-    "from": 2009,
-    "to": 2011
-  },
-  {
-    "models": "KTM 200 EXC",
+    "models": "KTM EXC 200",
     "from": 1998,
     "to": 2016
   },
   {
-    "models": "KTM 200 SX",
-    "from": 2003,
-    "to": 2005
-  },
-  {
-    "models": "KTM 250 EXC",
+    "models": "KTM EXC 250",
     "from": 1998,
     "to": 2016
   },
   {
-    "models": "KTM 250 EXC Racing",
+    "models": "KTM EXC 250 Racing",
     "from": 2001,
     "to": 2006
   },
   {
-    "models": "KTM 250 EXC-F",
+    "models": "KTM EXC 250F",
     "from": 2007,
     "to": 2016
   },
   {
-    "models": "KTM 250 SX",
-    "from": 1998,
-    "to": 2011
-  },
-  {
-    "models": "KTM 250 SX-F",
-    "from": 2006,
-    "to": 2010
-  },
-  {
-    "models": "KTM 300 EXC",
+    "models": "KTM EXC 300",
     "from": 1998,
     "to": 2016
   },
   {
-    "models": "KTM 350 EXC-F",
+    "models": "KTM EXC 350F",
     "from": 2012,
     "to": 2016
   },
   {
-    "models": "KTM 380 SX",
-    "from": 1998,
-    "to": 2002
-  },
-  {
-    "models": "KTM 400 EXC",
+    "models": "KTM EXC 400",
     "from": 2009,
     "to": 2011
   },
   {
-    "models": "KTM 450 EXC",
+    "models": "KTM EXC 450F",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 500",
     "from": 2012,
     "to": 2016
   },
   {
-    "models": "KTM 450 EXC Racing",
-    "from": 2003,
-    "to": 2007
-  },
-  {
-    "models": "KTM 450 EXC-R",
-    "from": 2008,
+    "models": "KTM SX 125",
+    "from": 1998,
     "to": 2011
   },
   {
-    "models": "KTM 450 SX Racing",
-    "from": 2003,
-    "to": 2006
+    "models": "KTM SX 144",
+    "from": 2008,
+    "to": 2008
   },
   {
-    "models": "KTM 450 SX-F",
-    "from": 2007,
+    "models": "KTM SX 150",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 1998,
+    "to": 2011
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2006,
     "to": 2010
   },
   {
-    "models": "KTM 500 EXC",
-    "from": 2012,
-    "to": 2016
+    "models": "KTM SX 380",
+    "from": 1998,
+    "to": 2002
   },
   {
-    "models": "KTM 505 SX-F",
+    "models": "KTM SX 450F",
+    "from": 2003,
+    "to": 2010
+  },
+  {
+    "models": "KTM SX 505F",
     "from": 2008,
     "to": 2008
   }
