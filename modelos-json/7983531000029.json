@@ -1,87 +1,22 @@
 [
   {
-    "models": "Honda CR-F 250",
+    "models": "Honda CRF 250R",
     "from": 2022,
     "to": 2023
   },
   {
-    "models": "Honda CR-F 250RX",
+    "models": "Honda CRF 250RX",
     "from": 2022,
     "to": 2023
   },
   {
-    "models": "Honda CR-F 450",
+    "models": "Honda CRF 450R",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "Honda CR-F 450RX",
+    "models": "Honda CRF 450RX",
     "from": 2021,
     "to": 2023
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
   }
 ]
