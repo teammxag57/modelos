@@ -15,6 +15,11 @@
     "to": 2025
   },
   {
+    "models": "HONDA CR 450F",
+    "from": 2003,
+    "to": 2025
+  },
+  {
     "models": "HONDA CRF 250RWE",
     "from": 2026,
     "to": ""
@@ -33,11 +38,6 @@
     "models": "HONDA CRF 450L",
     "from": 2020,
     "to": 2020
-  },
-  {
-    "models": "HONDA CR 450F",
-    "from": 2003,
-    "to": 2025
   },
   {
     "models": "HONDA CRF 450RL",
