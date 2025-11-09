@@ -63,5 +63,10 @@
     "models": "Honda TRX 700XX",
     "from": 2008,
     "to": 2010
+  },
+  {
+    "models": "Honda CRF 250R",
+    "from": 2022,
+    "to": 2026
   }
 ]
