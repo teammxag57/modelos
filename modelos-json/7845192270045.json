@@ -10,82 +10,82 @@
     "to": 2025
   },
   {
-    "models": "Beta RR - Race 125",
+    "models": "Beta RR 125R",
     "from": 2025,
     "to": 2025
   },
   {
-    "models": "Beta RR - Race 200",
+    "models": "Beta RR 200R",
     "from": 2025,
     "to": 2025
   },
   {
-    "models": "Beta RR - Race 250",
+    "models": "Beta RR 250R",
     "from": 2025,
     "to": 2025
   },
   {
-    "models": "Beta RR - Race 300",
+    "models": "Beta RR 300R",
     "from": 2025,
     "to": 2025
   },
   {
-    "models": "Beta RR - Race 350",
+    "models": "Beta RR 350FR",
     "from": 2025,
     "to": 2025
   },
   {
-    "models": "Beta RR - Race 390",
+    "models": "Beta RR 390FR",
     "from": 2025,
     "to": 2025
   },
   {
-    "models": "Beta RR - Race 430",
+    "models": "Beta RR 430FR",
     "from": 2025,
     "to": 2025
   },
   {
-    "models": "Beta RR - Race 480",
+    "models": "Beta RR 480FR",
     "from": 2025,
     "to": 2025
   },
   {
-    "models": "Beta RR - X-Pro 125",
+    "models": "Beta RR X-Pro 125",
     "from": 2025,
     "to": 2025
   },
   {
-    "models": "Beta RR - X-Pro 200",
+    "models": "Beta RR X-Pro 200",
     "from": 2025,
     "to": 2025
   },
   {
-    "models": "Beta RR - X-Pro 250",
+    "models": "Beta RR X-Pro 250",
     "from": 2025,
     "to": 2025
   },
   {
-    "models": "Beta RR - X-Pro 300",
+    "models": "Beta RR X-Pro 300",
     "from": 2025,
     "to": 2025
   },
   {
-    "models": "Beta RR - X-Pro 350",
+    "models": "Beta RR X-Pro 350F",
     "from": 2025,
     "to": 2025
   },
   {
-    "models": "Beta RR - X-Pro 390",
+    "models": "Beta RR X-Pro 390F",
     "from": 2025,
     "to": 2025
   },
   {
-    "models": "Beta RR - X-Pro 430",
+    "models": "Beta RR X-Pro 430F",
     "from": 2025,
     "to": 2025
   },
   {
-    "models": "Beta RR - X-Pro 480",
+    "models": "Beta RR X-Pro 480F",
     "from": 2025,
     "to": 2025
   },
@@ -110,37 +110,37 @@
     "to": 2024
   },
   {
-    "models": "Beta RR 350",
+    "models": "Beta RR 350F",
     "from": 2011,
     "to": 2024
   },
   {
-    "models": "Beta RR 390",
+    "models": "Beta RR 390F",
     "from": 2005,
     "to": 2024
   },
   {
-    "models": "Beta RR 430",
+    "models": "Beta RR 430F",
     "from": 2015,
     "to": 2024
   },
   {
-    "models": "Beta RR 450",
+    "models": "Beta RR 450F",
     "from": 2005,
     "to": 2014
   },
   {
-    "models": "Beta RR 480",
+    "models": "Beta RR 480F",
     "from": 2015,
     "to": 2024
   },
   {
-    "models": "Beta RR 498",
+    "models": "Beta RR 498F",
     "from": 2012,
     "to": 2014
   },
   {
-    "models": "Beta RR 520",
+    "models": "Beta RR 520F",
     "from": 2005,
     "to": 2011
   },
@@ -195,7 +195,7 @@
     "to": 2025
   },
   {
-    "models": "Beta RX 450",
+    "models": "Beta RX 450F",
     "from": 2024,
     "to": 2025
   },
@@ -210,72 +210,72 @@
     "to": 2025
   },
   {
-    "models": "Electric - Em/Electric Motion Escape (Diaphragm Clutch) Electric",
+    "models": "Em/Electric Motion Escape (Diaphragm Clutch) Electric",
     "from": 2024,
     "to": 2025
   },
   {
-    "models": "Electric - Kove E-MX Electric",
+    "models": "Kove E-MX Electric",
     "from": 2024,
     "to": 2024
   },
   {
-    "models": "Gas Gas EC 125",
+    "models": "Gasgas EC 125",
     "from": 2000,
     "to": 2015
   },
   {
-    "models": "Gas Gas EC 200",
+    "models": "Gasgas EC 200",
     "from": 2000,
     "to": 2019
   },
   {
-    "models": "Gas Gas EC 250",
+    "models": "Gasgas EC 250",
     "from": 2000,
     "to": 2019
   },
   {
-    "models": "Gas Gas EC 300",
+    "models": "Gasgas EC 300",
     "from": 2000,
     "to": 2019
   },
   {
-    "models": "Gas Gas EC 400",
+    "models": "Gasgas EC 400",
     "from": 2000,
     "to": 2009
   },
   {
-    "models": "Gas Gas EC 450",
+    "models": "Gasgas EC 450",
     "from": 2000,
     "to": 2015
   },
   {
-    "models": "Gas Gas EC Raid 450",
+    "models": "Gasgas EC Raid 450",
     "from": 2015,
     "to": 2015
   },
   {
-    "models": "Gas Gas ENDURO GP 250",
+    "models": "Gasgas ENDURO GP 250",
     "from": 2018,
     "to": 2019
   },
   {
-    "models": "Gas Gas ENDURO GP 300",
+    "models": "Gasgas ENDURO GP 300",
     "from": 2018,
     "to": 2019
   },
   {
-    "models": "Gas Gas FSE 450",
+    "models": "Gasgas FSE 450",
     "from": 2004,
     "to": 2009
   },
   {
-    "models": "Gas Gas MC 125",
+    "models": "Gasgas MC 125",
     "from": 2002,
     "to": 2005
   },
   {
-    "models": "Gas Gas MC 250",
+    "models": "Gasgas MC 250",
     "from": 2002,
     "to": 2008
   },
@@ -436,8 +436,13 @@
   },
   {
     "models": "Kawasaki KX 250",
-    "from": 1994,
-    "to": 2025
+    "from": 1988,
+    "to": 2002
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2004,
+    "to": 2018
   },
   {
     "models": "Kawasaki KX 300",
@@ -445,9 +450,9 @@
     "to": 2025
   },
   {
-    "models": "Kawasaki KX 450",
-    "from": 2006,
-    "to": 2025
+    "models": "Kawasaki KX 450F",
+    "from": 2005,
+    "to": 2023
   },
   {
     "models": "Kawasaki KX 500",
@@ -495,24 +500,39 @@
     "to": 2016
   },
   {
-    "models": "Rieju MR 200",
+    "models": "Rieju MR Racing 200",
     "from": 2022,
     "to": 2022
   },
   {
-    "models": "Rieju MR 250",
+    "models": "Rieju MR Racing 250",
     "from": 2020,
     "to": 2024
   },
   {
-    "models": "Rieju MR 300",
+    "models": "Rieju MR Racing 300",
     "from": 2020,
     "to": 2025
   },
   {
-    "models": "Rieju MRi 300",
-    "from": 2025,
+    "models": "Rieju MR Pro 200",
+    "from": 2022,
+    "to": 2022
+  },
+  {
+    "models": "Rieju MR Pro 250",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Pro 300",
+    "from": 2020,
     "to": 2025
+  },
+  {
+    "models": "Rieju MR Pro 300i",
+    "from": 2026,
+    "to": ""
   },
   {
     "models": "Suzuki DR 125",
@@ -587,20 +607,20 @@
   {
     "models": "Yamaha WR 250",
     "from": 1998,
-    "to": 2020
+    "to": 2002
   },
   {
-    "models": "Yamaha WR 400",
+    "models": "Yamaha WR 400F",
     "from": 1998,
     "to": 2000
   },
   {
-    "models": "Yamaha WR 426",
+    "models": "Yamaha WR 426F",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "Yamaha WR 450",
+    "models": "Yamaha WR 450F",
     "from": 2003,
     "to": 2015
   },
