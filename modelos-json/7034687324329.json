@@ -15,6 +15,11 @@
     "to": 2006
   },
   {
+    "models": "Honda CRF 250R",
+    "from": 2022,
+    "to": 2026
+  },
+  {
     "models": "Honda CRF 450R",
     "from": 2002,
     "to": 2025
@@ -63,10 +68,5 @@
     "models": "Honda TRX 700XX",
     "from": 2008,
     "to": 2010
-  },
-  {
-    "models": "Honda CRF 250R",
-    "from": 2022,
-    "to": 2026
   }
 ]
