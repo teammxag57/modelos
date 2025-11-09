@@ -310,7 +310,7 @@
     "to": 2001
   },
   {
-    "models": "Honda CRF 150",
+    "models": "Honda CRF 150R",
     "from": 2003,
     "to": 2017
   },
@@ -320,12 +320,12 @@
     "to": 2019
   },
   {
-    "models": "Honda CRF 250",
+    "models": "Honda CRF 250R",
     "from": 2003,
     "to": 2025
   },
   {
-    "models": "Honda CRF 450",
+    "models": "Honda CRF 450R",
     "from": 2002,
     "to": 2025
   },
@@ -570,12 +570,12 @@
     "to": 2019
   },
   {
-    "models": "Suzuki RM-Z 250",
+    "models": "Suzuki RM 250Z",
     "from": 2004,
     "to": 2025
   },
   {
-    "models": "Suzuki RM-Z 450",
+    "models": "Suzuki RM 450Z",
     "from": 2005,
     "to": 2025
   },
@@ -615,17 +615,17 @@
     "to": 2007
   },
   {
-    "models": "Yamaha YZ 400",
+    "models": "Yamaha YZ 400F",
     "from": 1998,
     "to": 1999
   },
   {
-    "models": "Yamaha YZ 426",
+    "models": "Yamaha YZ 426F",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "Yamaha YZ 450",
+    "models": "Yamaha YZ 450F",
     "from": 2003,
     "to": 2007
   }
