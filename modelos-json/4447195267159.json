@@ -15,17 +15,17 @@
     "to": 2013
   },
   {
-    "models": "Husqvarna FC 450",
+    "models": "Husqvarna FC 450F",
     "from": 2016,
     "to": 2018
   },
   {
-    "models": "Husqvarna FE 450",
+    "models": "Husqvarna FE 450F",
     "from": 2017,
     "to": 2019
   },
   {
-    "models": "Husqvarna FE 501",
+    "models": "Husqvarna FE 501F",
     "from": 2020,
     "to": 2023
   },
@@ -45,12 +45,12 @@
     "to": 2018
   },
   {
-    "models": "Husqvarna FX 450",
+    "models": "Husqvarna FX 450F",
     "from": 2017,
     "to": 2018
   },
   {
-    "models": "KTM 250 EXC-F",
+    "models": "KTM EXC 250F",
     "from": 2009,
     "to": 2013
   },
@@ -65,7 +65,7 @@
     "to": 2013
   },
   {
-    "models": "KTM 250 SX-F",
+    "models": "KTM SX 250F",
     "from": 2009,
     "to": 2012
   },
@@ -95,7 +95,7 @@
     "to": 2011
   },
   {
-    "models": "KTM 450 EXC-F",
+    "models": "KTM EXC 450F",
     "from": 2017,
     "to": 2019
   },
@@ -110,7 +110,7 @@
     "to": 2024
   },
   {
-    "models": "KTM 450 SX-F",
+    "models": "KTM SX 450F",
     "from": 2016,
     "to": 2018
   },
@@ -125,7 +125,7 @@
     "to": 2018
   },
   {
-    "models": "KTM 500 EXC-F",
+    "models": "KTM EXC 500F",
     "from": 2020,
     "to": 2023
   },
