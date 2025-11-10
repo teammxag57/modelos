@@ -1,42 +1,82 @@
 [
   {
-    "models": "Beta RR X-Pro 125 2T",
+    "models": "Beta RR RACE 125",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Beta RR X-Pro 200 2T",
+    "models": "Beta RR RACE 200",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Beta RR X-Pro 250 2T",
+    "models": "Beta RR RACE 250",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Beta RR X-Pro 300 2T",
+    "models": "Beta RR RACE 300",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Beta RR X-Pro 350 4T",
+    "models": "Beta RR RACE 350F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Beta RR X-Pro 390 4T",
+    "models": "Beta RR RACE 390F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Beta RR X-Pro 430 4T",
+    "models": "Beta RR RACE 430F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Beta RR X-Pro 480 4T",
+    "models": "Beta RR RACE 480F",
     "from": 2025,
-    "to": ""
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 125",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 200",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 250",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 300",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 350F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 390F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 430F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 480F",
+    "from": 2025,
+    "to": 2026
   }
 ]
