@@ -1,32 +1,477 @@
 [
   {
-    "models": "Yamaha WR 450F",
+    "models": "Gasgas EC 250F",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas MC 450F",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Husaberg 250 TE",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg 300 TE",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg 390 FE Enduro",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg 450 FX Cross Country",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg 570 FS",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna FC 250F",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FC 350F",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FC 450F",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FE 250F",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FE 350 (USA)",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FE 350F",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FE 501F",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna FE/S 501",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FR Rally 450",
+    "from": 2016,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FS 450",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FX 350F",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FX 450F",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TE 350",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "KTM EGS 125",
+    "from": 1992,
+    "to": 1999
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 1991,
+    "to": 2010
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 1989,
+    "to": 1997
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 1999,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 1996,
+    "to": 2004
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1998,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM EXC 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 450 Racing 450",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM EXC 450 Six Days",
+    "from": 2010,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2016,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC Enduro 250",
+    "from": 1996,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC R 530",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC Racing 250",
+    "from": 2002,
+    "to": 2010
+  },
+  {
+    "models": "KTM EXC Six Days 250",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC Six Days 300",
+    "from": 2012,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC Six Days 530",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC TPI 250",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC TPI Erzberg Edition  300",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC-F Enduro 250",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC-F Six Days 250",
+    "from": 2010,
+    "to": 2024
+  },
+  {
+    "models": "KTM MXC 200",
+    "from": 1999,
+    "to": 2004
+  },
+  {
+    "models": "KTM MXC 250",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM MXC 300",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM MXC Racing 450",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "KTM MXC, DX, DXC 550",
+    "from": 1993,
+    "to": 1996
+  },
+  {
+    "models": "KTM Rally Factory Replica 450",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "KTM SMR 450",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 1995,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX 144",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 1993,
+    "to": 1995
+  },
+  {
+    "models": "KTM SX 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM SX 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 400",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 440",
+    "from": 1994,
+    "to": 1994
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "KTM SX 520",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 525",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX F 505",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM SX-F 250 Factory Edition",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC 150",
+    "from": 2010,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC 200",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-F 250",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-F 350",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC-F 450",
+    "from": 2008,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC-F Enduro 250",
+    "from": 2006,
+    "to": 2024
+  },
+  {
+    "models": "KTM XCF-W 350",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM XCF-W Enduro 250",
+    "from": 2007,
+    "to": 2016
+  },
+  {
+    "models": "KTM XCF-W Six Days 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "KTM XCF-W Six Days 350",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM XCF-W/Six Days 350",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 200",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 450",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W Enduro 250",
+    "from": 2010,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC-W Six Days TPI 300",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC-W TPI 250",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC-W TPI 300",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "STARK VARG EX",
     "from": 2024,
-    "to": 2025
+    "to": ""
   },
   {
-    "models": "Yamaha WR 450F",
+    "models": "STARK VARG MX",
     "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Yamaha YZ 450F",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "Yamaha YZ 450F",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "Yamaha YZ 450FX",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Yamaha YZ 450FX",
-    "from": 2024,
-    "to": 2025
+    "to": ""
   }
 ]
