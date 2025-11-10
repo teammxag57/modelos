@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "KTM Freeride 250 F",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "KTM Freeride E 660W",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "KTM Freeride E-XC",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2003,
+    "to": 2025
+  }
+]
