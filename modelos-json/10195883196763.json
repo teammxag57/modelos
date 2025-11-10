@@ -1,17 +1,82 @@
 [
   {
-    "models": "KTM SX 65",
+    "models": "Husqvarna FC 250F",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FC 350F",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FC 450F",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FE 250F",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FE 350F",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FE 501F",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FX 350F",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FX 450F",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna TC 65",
     "from": 2023,
     "to": 2026
   },
   {
-    "models": "KTM SX 85",
+    "models": "Husqvarna TC 85",
     "from": 2021,
     "to": 2026
   },
   {
-    "models": "KTM Freeride E-XC",
-    "from": 2021,
-    "to": 2023
+    "models": "Husqvarna TE 150",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2017,
+    "to": 2021
   }
 ]
