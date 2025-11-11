@@ -1,17 +1,42 @@
 [
   {
-    "models": "Honda CR 125R",
-    "from": 2000,
-    "to": 2003
+    "models": "Yamaha YZ 125",
+    "from": 2022,
+    "to": 2026
   },
   {
-    "models": "Honda CR 250R",
-    "from": 2000,
-    "to": 2003
+    "models": "Yamaha YZ 125X",
+    "from": 2024,
+    "to": 2026
   },
   {
-    "models": "Honda CRF 450R",
-    "from": 2002,
-    "to": 2003
+    "models": "Yamaha YZ 250",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Yamaha YZ 250FX",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 250X",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2019,
+    "to": 2023
   }
 ]
