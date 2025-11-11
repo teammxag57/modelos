@@ -118,5 +118,10 @@
     "models": "KTM XCF-W 450",
     "from": 2023,
     "to": 2026
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2024,
+    "to": 2026
   }
 ]
