@@ -153,5 +153,10 @@
     "models": "Honda XR 650R",
     "from": 2003,
     "to": 2007
+  },
+  {
+    "models": "Honda CR 500",
+    "from": 1996,
+    "to": 2001
   }
 ]
