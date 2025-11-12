@@ -95,6 +95,11 @@
     "to": 2026
   },
   {
+    "models": "Husqvarna TC 300",
+    "from": 2025,
+    "to": 2026
+  },
+  {
     "models": "Husqvarna TE 125",
     "from": 2014,
     "to": 2017
@@ -318,10 +323,5 @@
     "models": "Triumph TF 450X",
     "from": 2025,
     "to": 2025
-  },
-  {
-    "models": "Husqvarna TC 300",
-    "from": 2025,
-    "to": 2026
   }
 ]
