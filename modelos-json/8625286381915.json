@@ -47,17 +47,17 @@
   {
     "models": "Husqvarna FC 250F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FC 350F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FC 450F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FE 250F",
@@ -87,12 +87,12 @@
   {
     "models": "Husqvarna TC 125",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 250",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 125",
@@ -152,117 +152,117 @@
   {
     "models": "KTM EXC 200",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM EXC 250F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM EXC 300",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM EXC 350F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM EXC 450F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM EXC 500F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 125",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 250",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 250F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 350F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 450F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM XC 125",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM XC 125W",
     "from": 2017,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM XC 150",
     "from": 2014,
-    "to": 2015
+    "to": 2026
   },
   {
     "models": "KTM XC 200W",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM XC 250",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM XC 250F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM XC 300",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM XC 350F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM XC 450F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM XCF-W 250",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM XCF-W 350",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM XCF-W 500",
     "from": 2017,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Sherco SE 125",
@@ -318,5 +318,10 @@
     "models": "Triumph TF 450X",
     "from": 2025,
     "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 300",
+    "from": 2025,
+    "to": 2026
   }
 ]
