@@ -65,14 +65,29 @@
     "to": 2025
   },
   {
+    "models": "Husqvarna FE 250F",
+    "from": 2014,
+    "to": 2017
+  },
+  {
     "models": "Husqvarna FE 350F",
     "from": 2025,
     "to": 2025
   },
   {
+    "models": "Husqvarna FE 350F",
+    "from": 2014,
+    "to": 2017
+  },
+  {
     "models": "Husqvarna FE 450F",
     "from": 2025,
     "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2014,
+    "to": 2017
   },
   {
     "models": "Husqvarna FX 350F",
@@ -323,20 +338,5 @@
     "models": "Triumph TF 450X",
     "from": 2025,
     "to": 2025
-  },
-  {
-    "models": "Husqvarna FE 250F",
-    "from": 2014,
-    "to": 2017
-  },
-  {
-    "models": "Husqvarna FE 350F",
-    "from": 2014,
-    "to": 2017
-  },
-  {
-    "models": "Husqvarna FE 450F",
-    "from": 2014,
-    "to": 2017
   }
 ]
