@@ -180,6 +180,11 @@
     "to": 2026
   },
   {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2026
+  },
+  {
     "models": "KTM SX 350F",
     "from": 2014,
     "to": 2026
@@ -195,9 +200,19 @@
     "to": 2025
   },
   {
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2026
+  },
+  {
     "models": "KTM XC 150",
     "from": 2014,
     "to": 2015
+  },
+  {
+    "models": "KTM XC 200W",
+    "from": 2014,
+    "to": 2026
   },
   {
     "models": "KTM XC 250",
@@ -237,16 +252,6 @@
   {
     "models": "KTM XCF-W 500",
     "from": 2017,
-    "to": 2026
-  },
-  {
-    "models": "KTM XC 125W",
-    "from": 2017,
-    "to": 2026
-  },
-  {
-    "models": "KTM XC 200W",
-    "from": 2014,
     "to": 2026
   },
   {
@@ -298,10 +303,5 @@
     "models": "Triumph TF 450X",
     "from": 2025,
     "to": 2025
-  },
-  {
-    "models": "KTM SX 300",
-    "from": 2023,
-    "to": 2026
   }
 ]
