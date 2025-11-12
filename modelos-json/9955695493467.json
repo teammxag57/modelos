@@ -1,5 +1,30 @@
 [
   {
+    "models": "KTM EXC 250F",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2026,
+    "to": ""
+  },
+  {
     "models": "KTM SX 125",
     "from": 2025,
     "to": 2026
