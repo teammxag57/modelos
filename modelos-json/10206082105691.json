@@ -1,0 +1,162 @@
+[
+  {
+    "models": "GasGas EC 250",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EC 300",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 250",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 300",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 350F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EX 450F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas MC 250",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "GasGas MC 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas MC 350F",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "GasGas MC 450F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "KTM 500 XCF-W",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC 125",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC 250F",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC 350F",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC 450F",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC-W 150",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC-W 250",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC-W 300",
+    "from": 2020,
+    "to": 2025
+  }
+]
