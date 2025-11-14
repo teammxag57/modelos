@@ -1,0 +1,37 @@
+[
+  {
+    "models": "Kawasaki KX 125",
+    "from": 2002,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 2002,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2002,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 250FX",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2006,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450FX",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 500",
+    "from": 2002,
+    "to": 2004
+  }
+]
