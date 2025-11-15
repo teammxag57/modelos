@@ -1,27 +1,12 @@
 [
   {
-    "models": "Kawasaki KX 100",
-    "from": 1998,
-    "to": 2026
+    "models": "Yamaha WR 250F",
+    "from": 2003,
+    "to": 2014
   },
   {
-    "models": "Kawasaki KX 80",
-    "from": 1998,
-    "to": 2001
-  },
-  {
-    "models": "Kawasaki KX 85",
-    "from": 2002,
-    "to": 2026
-  },
-  {
-    "models": "Yamaha YZ 80",
-    "from": 1993,
-    "to": 2001
-  },
-  {
-    "models": "Yamaha YZ 85",
-    "from": 2002,
-    "to": 2026
+    "models": "Yamaha WR 450F",
+    "from": 2003,
+    "to": 2015
   }
 ]
