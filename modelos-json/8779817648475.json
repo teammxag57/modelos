@@ -1,33 +1,53 @@
 [
   {
-    "models": "KTM EXCF 250",
+    "models": "KTM EXC 150",
     "from": 2024,
-    "to": 2025
+    "to": ""
   },
   {
-    "models": "KTM EXCF 350",
+    "models": "KTM EXC 250",
     "from": 2024,
-    "to": 2025
+    "to": ""
   },
   {
-    "models": "KTM EXCF 450",
+    "models": "KTM EXC 250F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM EXCF 500",
+    "models": "KTM EXC 300",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 500F",
     "from": 2024,
     "to": ""
   },
   {
     "models": "KTM SX 125",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 250",
     "from": 2023,
-    "to": 2025
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2023,
+    "to": 2026
   },
   {
     "models": "KTM SX 300",
@@ -35,33 +55,13 @@
     "to": 2024
   },
   {
-    "models": "KTM SXF 250",
+    "models": "KTM SX 350F",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM SXF 350",
+    "models": "KTM SX 450F",
     "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM SXF 450",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM TP I 150",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "KTM TP I 250",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "KTM TP I 300",
-    "from": 2024,
-    "to": ""
+    "to": 2026
   }
 ]
