@@ -1,12 +1,12 @@
 [
   {
-    "models": "Yamaha YZF 250",
+    "models": "Yamaha YZ 250F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Yamaha YZF 450",
+    "models": "Yamaha YZ 450F",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   }
 ]
