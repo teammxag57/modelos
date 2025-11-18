@@ -1,62 +1,12 @@
 [
   {
-    "models": "KTM EXC 150",
-    "from": 2020,
-    "to": 2023
+    "models": "Kawasaki KX 250F",
+    "from": 2013,
+    "to": 2026
   },
   {
-    "models": "KTM EXC 250",
-    "from": 2020,
-    "to": 2023
-  },
-  {
-    "models": "KTM EXC 250F",
-    "from": 2020,
-    "to": 2023
-  },
-  {
-    "models": "KTM EXC 300",
-    "from": 2020,
-    "to": 2023
-  },
-  {
-    "models": "KTM EXC 350F",
-    "from": 2020,
-    "to": 2023
-  },
-  {
-    "models": "KTM EXC 450F",
-    "from": 2020,
-    "to": 2023
-  },
-  {
-    "models": "KTM SX 125",
-    "from": 2019,
-    "to": 2022
-  },
-  {
-    "models": "KTM SX 150",
-    "from": 2019,
-    "to": 2022
-  },
-  {
-    "models": "KTM SX 250",
-    "from": 2019,
-    "to": 2022
-  },
-  {
-    "models": "KTM SX 250F",
-    "from": 2019,
-    "to": 2022
-  },
-  {
-    "models": "KTM SX 350F",
-    "from": 2019,
-    "to": 2022
-  },
-  {
-    "models": "KTM SX 450F",
-    "from": 2019,
-    "to": 2022
+    "models": "Kawasaki KX 450F",
+    "from": 2009,
+    "to": 2026
   }
 ]
