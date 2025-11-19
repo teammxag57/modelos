@@ -1,0 +1,77 @@
+[
+  {
+    "models": "Yamaha TT-R 230",
+    "from": 2005,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha WR 250F",
+    "from": 2001,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha WR 250X",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha WR 400F",
+    "from": 1999,
+    "to": 2001
+  },
+  {
+    "models": "Yamaha WR 426F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1999,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1999,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2001,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 250FX",
+    "from": 2015,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 250X",
+    "from": 2016,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 400F",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha YZ 426F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2016,
+    "to": 2026
+  }
+]
