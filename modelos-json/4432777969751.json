@@ -2,61 +2,51 @@
   {
     "models": "Fantic XE 250F",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Fantic XE 450F",
     "from": 2021,
-    "to": 2025
-  },
-  {
-    "models": "Fantic XX 125",
-    "from": 2021,
-    "to": 2025
-  },
-  {
-    "models": "Fantic XX 250",
-    "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Fantic XX 250F",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Fantic XX 450F",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha WR 250F",
-    "from": 2015,
-    "to": 2025
+    "from": 2011,
+    "to": 2014
   },
   {
     "models": "Yamaha WR 450F",
-    "from": 2019,
-    "to": 2025
-  },
-  {
-    "models": "Yamaha YZ 250F",
     "from": 2009,
-    "to": 2025
+    "to": 2015
   },
   {
-    "models": "Yamaha YZ 250FX",
-    "from": 2015,
-    "to": 2025
+    "models": "Yamaha YZ 125",
+    "from": 2008,
+    "to": 2026
   },
   {
-    "models": "Yamaha YZ 450F",
-    "from": 2009,
-    "to": 2025
+    "models": "Yamaha YZ 125X",
+    "from": 2020,
+    "to": 2026
   },
   {
-    "models": "Yamaha YZ 450FX",
-    "from": 2016,
-    "to": 2025
+    "models": "Yamaha YZ 250",
+    "from": 2008,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 250X",
+    "from": 2017,
+    "to": 2026
   }
 ]
