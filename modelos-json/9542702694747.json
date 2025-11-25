@@ -1,21 +1,6 @@
 [
   {
-    "models": "Sherco SE 300 Factory",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "Sherco SEF 300 Factory",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "Sherco SEF 500 Factory",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "Sherco SEF 250 Factory",
+    "models": "Sherco SE 125 Factory",
     "from": 2024,
     "to": 2026
   },
@@ -25,12 +10,27 @@
     "to": 2026
   },
   {
-    "models": "Sherco SE 125 Factory",
+    "models": "Sherco SE 300 Factory",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Sherco SEF 250 Factory",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Sherco SEF 300 Factory",
     "from": 2024,
     "to": 2026
   },
   {
     "models": "Sherco SEF 450 Factory",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Sherco SEF 500 Factory",
     "from": 2024,
     "to": 2026
   }
