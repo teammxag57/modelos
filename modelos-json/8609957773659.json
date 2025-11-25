@@ -1,262 +1,77 @@
 [
   {
-    "models": "GasGas EC 250",
+    "models": "FANTIC XE 125",
     "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "FANTIC XE 300",
+    "from": 2025,
     "to": 2025
   },
   {
-    "models": "GasGas EC 250F",
-    "from": 2024,
-    "to": 2025
+    "models": "FANTIC XX 125",
+    "from": 2023,
+    "to": 2024
   },
   {
-    "models": "GasGas EC 300",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "GasGas EC 350F",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "GasGas EC 450F",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "GasGas EC 500F",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "GasGas ES 350",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "GasGas ES 350",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "GasGas EW 500F",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "GasGas MC 125",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "GasGas MC 250",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "GasGas MC 250F",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "GasGas MC 350F",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "GasGas MC 450F",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FC 250",
+    "models": "FANTIC XX 250",
     "from": 2023,
     "to": 2025
   },
   {
-    "models": "Husqvarna FC 350",
+    "models": "FANTIC XX 250F",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "FANTIC XX 450F",
     "from": 2023,
     "to": 2025
   },
   {
-    "models": "Husqvarna FC 450",
+    "models": "YAMAHA WR 250F",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "YAMAHA WR 450F",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "YAMAHA YZ 125",
     "from": 2023,
     "to": 2025
   },
   {
-    "models": "Husqvarna FE 250",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FE 350",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FE 450",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FE 501",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FX 350",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FX 450",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna TC 125",
+    "models": "YAMAHA YZ 250",
     "from": 2023,
     "to": 2025
   },
   {
-    "models": "Husqvarna TC 250",
+    "models": "YAMAHA YZ 250F",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "YAMAHA YZ 250FX",
     "from": 2023,
     "to": 2025
   },
   {
-    "models": "Husqvarna TE 150",
+    "models": "YAMAHA YZ 250X",
     "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA YZ 450F",
+    "from": 2021,
     "to": 2025
   },
   {
-    "models": "Husqvarna TE 250",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna TE 300",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna TX 125",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna TX 300",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM EXC 250",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM EXC 300",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM EXC-F 250",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM EXC-F 350",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM EXC-F 450",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM EXC-F 500",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM SX 125",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM SX 150",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM SX 250",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM SX-F 250",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM SX-F 350",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM SX-F 450",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC 125",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC 250",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC 300",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC-F 250",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC-F 300",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC-F 450",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM XCF-W 350",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM XCF-W 500",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC-W 150",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC-W 250",
-    "from": 2024,
+    "models": "YAMAHA YZ 450FX",
+    "from": 2022,
     "to": 2025
   }
 ]
