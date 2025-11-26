@@ -5,7 +5,17 @@
     "to": 2024
   },
   {
+    "models": "Beta RR 350FR",
+    "from": 2020,
+    "to": 2024
+  },
+  {
     "models": "Beta RR 390F",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 390FR",
     "from": 2020,
     "to": 2024
   },
@@ -15,7 +25,17 @@
     "to": 2024
   },
   {
+    "models": "Beta RR 430FR",
+    "from": 2020,
+    "to": 2024
+  },
+  {
     "models": "Beta RR 480F",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 480FR",
     "from": 2020,
     "to": 2024
   },
