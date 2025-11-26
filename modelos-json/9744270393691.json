@@ -1,11 +1,21 @@
 [
   {
-    "models": "Sherco SEF 250",
+    "models": "Sherco SEF 250 Factory",
+    "from": 2016,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SEF 250 Racing",
     "from": 2014,
     "to": 2023
   },
   {
-    "models": "Sherco SEF 300",
+    "models": "Sherco SEF 300 Factory",
+    "from": 2016,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SEF 300 Racing",
     "from": 2014,
     "to": 2023
   }
