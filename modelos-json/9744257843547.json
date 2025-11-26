@@ -1,27 +1,37 @@
 [
   {
-    "models": "Beta RR 250 2T",
+    "models": "Beta RR 250",
     "from": 2018,
     "to": 2024
   },
   {
-    "models": "Beta RR 300 2T",
+    "models": "Beta RR 250R",
     "from": 2018,
     "to": 2024
   },
   {
-    "models": "Beta RR X Trainer 300",
+    "models": "Beta RR 300",
     "from": 2018,
-    "to": 2025
+    "to": 2024
   },
   {
-    "models": "Beta RR X-Pro 250 2T",
-    "from": 2025,
-    "to": ""
+    "models": "Beta RR 300R",
+    "from": 2018,
+    "to": 2024
   },
   {
-    "models": "Beta RR X-Pro 300 2T",
+    "models": "Beta RR X-Pro 250",
     "from": 2025,
-    "to": ""
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-Pro 300",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta XTrainer 300",
+    "from": 2018,
+    "to": 2026
   }
 ]
