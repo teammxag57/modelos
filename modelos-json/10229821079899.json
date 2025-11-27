@@ -1,0 +1,47 @@
+[
+  {
+    "models": "Beta RR 200",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 200R",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 250",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 250R",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 300",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 300R",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR X-Pro 200",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-Pro 250",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-Pro 300",
+    "from": 2025,
+    "to": 2026
+  }
+]
