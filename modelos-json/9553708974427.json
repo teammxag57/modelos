@@ -1,12 +1,12 @@
 [
   {
-    "models": "Suzuki RMZ 250",
+    "models": "Suzuki RM 250Z",
     "from": 2019,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Suzuki RMZ 450",
+    "models": "Suzuki RM 450Z",
     "from": 2018,
-    "to": 2025
+    "to": 2026
   }
 ]
