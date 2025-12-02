@@ -2,106 +2,111 @@
   {
     "models": "KTM EXC 250",
     "from": 2024,
-    "to": 2025
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2024,
+    "to": 2026
   },
   {
     "models": "KTM EXC 300",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM EXC-F 250",
+    "models": "KTM EXC 350F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM EXC-F 350",
+    "models": "KTM EXC 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM EXC-F 450",
+    "models": "KTM EXC 500F",
     "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM EXC-F 500",
-    "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 125",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 150",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 250",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM SX-F 250",
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 250F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM SX-F 350",
+    "models": "KTM SX 350F",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM SX-F 450",
+    "models": "KTM SX 450F",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM XC 125",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM XC 250",
     "from": 2023,
-    "to": 2025
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 250F",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2024,
+    "to": 2026
   },
   {
     "models": "KTM XC 300",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM XC-F 250",
+    "models": "KTM XC 350F",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM XC-F 350",
+    "models": "KTM XC 350FW",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 450F",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM XC-F 450",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM XCF-W 350",
+    "models": "KTM XC 500FW",
     "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM XCF-W 500",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC-W 250",
-    "from": 2024,
-    "to": 2025
+    "to": 2026
   }
 ]
