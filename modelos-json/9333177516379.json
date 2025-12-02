@@ -1,37 +1,72 @@
 [
   {
-    "models": "Sherco SEF-R 250",
-    "from": 2024,
-    "to": 2025
+    "models": "Sherco SE 300 Factory",
+    "from": 2025,
+    "to": 2026
   },
   {
-    "models": "Sherco SEF-R 300",
-    "from": 2024,
-    "to": 2025
+    "models": "Sherco SEF 300 Factory",
+    "from": 2025,
+    "to": 2026
   },
   {
-    "models": "Sherco SEF-R 450",
-    "from": 2024,
-    "to": 2025
+    "models": "Sherco SEF 500 Factory",
+    "from": 2025,
+    "to": 2026
   },
   {
-    "models": "Sherco SEF-R 500",
+    "models": "Sherco SE 125 Racing",
     "from": 2024,
-    "to": 2025
+    "to": 2024
   },
   {
-    "models": "Sherco SE-R 125",
+    "models": "Sherco SE 300 Racing",
     "from": 2024,
-    "to": 2025
+    "to": 2024
   },
   {
-    "models": "Sherco SE-R 250",
+    "models": "Sherco SEF 450 Racing",
     "from": 2024,
-    "to": 2025
+    "to": 2024
   },
   {
-    "models": "Sherco SE-R 300",
+    "models": "Sherco SEF 250 Factory",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Sherco SE 250 Factory",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Sherco SE 125 Factory",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Sherco SEF 250 Racing",
     "from": 2024,
-    "to": 2025
+    "to": 2024
+  },
+  {
+    "models": "Sherco SE 250 Racing",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "Sherco SEF 450 Factory",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Sherco SEF 300 Racing",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "Sherco SEF 500 Racing",
+    "from": 2024,
+    "to": 2024
   }
 ]
