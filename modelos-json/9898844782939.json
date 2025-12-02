@@ -1,5 +1,15 @@
 [
   {
+    "models": "GasGas EC 250",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "GasGas EC 300",
+    "from": 2018,
+    "to": 2019
+  },
+  {
     "models": "Rieju MR 200",
     "from": 2021,
     "to": 2025
@@ -13,5 +23,15 @@
     "models": "Rieju MR 300",
     "from": 2021,
     "to": 2025
+  },
+  {
+    "models": "Rieju MR Pro 300i",
+    "from": 2026,
+    "to": 2026
+  },
+  {
+    "models": "Rieju MR Racing 300i",
+    "from": 2026,
+    "to": 2026
   }
 ]
