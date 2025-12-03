@@ -2,21 +2,21 @@
   {
     "models": "Honda CRF 250R",
     "from": 2022,
-    "to": 2025
-  },
-  {
-    "models": "Honda CRF 450R",
-    "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Honda CRF 250RX",
     "from": 2022,
-    "to": 2025
+    "to": 2026
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 2021,
+    "to": 2026
   },
   {
     "models": "Honda CRF 450RX",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   }
 ]
