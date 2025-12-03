@@ -1,0 +1,57 @@
+[
+  {
+    "models": "GasGas EC 250",
+    "from": 2009,
+    "to": 2020
+  },
+  {
+    "models": "GasGas EC 300",
+    "from": 2009,
+    "to": 2020
+  },
+  {
+    "models": "GasGas XC 250",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "GasGas XC 300",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "GasGas XC 350",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Rieju MR Pro 250",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR Pro 300",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR Pro 300i",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Rieju MR Racing 250",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR Racing 300",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR Racing 300i",
+    "from": 2026,
+    "to": ""
+  }
+]
