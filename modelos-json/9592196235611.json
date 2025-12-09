@@ -7,7 +7,7 @@
   {
     "models": "Gasgas MC 150",
     "from": 2025,
-    "to": null
+    "to": ""
   },
   {
     "models": "Husqvarna TC 125",
@@ -15,18 +15,28 @@
     "to": 2025
   },
   {
-    "models": "Husqvarna TC 150i",
+    "models": "Husqvarna TC 150",
     "from": 2024,
     "to": 2025
   },
   {
     "models": "KTM SX 125",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 150",
     "from": 2023,
-    "to": 2025
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2025,
+    "to": 2026
   }
 ]
