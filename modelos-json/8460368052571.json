@@ -1,12 +1,12 @@
 [
   {
-    "models": "Yamaha YZ 250F",
-    "from": 2019,
+    "models": "Fantic XXF 250",
+    "from": 2021,
     "to": 2026
   },
   {
-    "models": "Fantic XXF 250",
-    "from": 2021,
+    "models": "Yamaha YZ 250F",
+    "from": 2019,
     "to": 2026
   }
 ]
