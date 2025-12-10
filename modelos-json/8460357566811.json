@@ -1,17 +1,17 @@
 [
   {
-    "models": "Gasgas MC-F 450",
+    "models": "Gasgas MC 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Husqvarna FC 450",
+    "models": "Husqvarna FC 450F",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM SX-F 450",
+    "models": "KTM SX 450F",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   }
 ]
