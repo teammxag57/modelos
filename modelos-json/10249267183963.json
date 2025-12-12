@@ -1,0 +1,37 @@
+[
+  {
+    "models": "Gasgas EC 250F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EX 250F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 250F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FC 250F",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FE 250F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2023,
+    "to": 2026
+  }
+]
