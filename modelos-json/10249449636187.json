@@ -1,0 +1,47 @@
+[
+  {
+    "models": "Gasgas EX 450F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas MC 450F",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FC 450F",
+    "from": 2016,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FS 450F",
+    "from": 2016,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FX 450F",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM SMR 450F",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2016,
+    "to": 2026
+  }
+]
