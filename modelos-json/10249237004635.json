@@ -1,0 +1,42 @@
+[
+  {
+    "models": "Gasgas EC 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EX 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FC 250F",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FE 250F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM Freeride 250F",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2016,
+    "to": 2022
+  }
+]
