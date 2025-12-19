@@ -18,5 +18,10 @@
     "models": "KTM SX 144",
     "from": 2008,
     "to": ""
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2003,
+    "to": 2004
   }
 ]
