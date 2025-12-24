@@ -1,33 +1,138 @@
 [
   {
-    "models": "Ajp SPR 240 X Extreme Enduro",
+    "models": "AJP SPR 240 X Extreme Enduro",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Ajp SPR 250 Enduro - Brembo Brake System",
+    "models": "AJP SPR 250 Enduro - Brembo Brake System",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Ajp SPR 510 Supermoto",
+    "models": "AJP SPR 510 Supermoto",
     "from": 2020,
-    "to": ""
+    "to": 2020
   },
   {
-    "models": "Ajp SPR -R 310 Enduro",
+    "models": "AJP SPR -R 310 Enduro",
     "from": 2020,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Ajp SPR -R 510 Enduro",
+    "models": "AJP SPR -R 510 Enduro",
     "from": 2020,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "Aprilia MX 125 SM",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "Aprilia RST 1000 Futura",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "Aprilia RX 125",
+    "from": 1996,
+    "to": 1999
+  },
+  {
+    "models": "Aprilia SRV 850",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Benelli BX 449 Cross",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "Benelli BX 505 Enduro",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Benelli Motard 250",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "Bimota BBX 300",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "Bimota DBX 1100",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "Bmw G 450 X",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Cagiva Elefant 750",
+    "from": 1994,
+    "to": 1994
+  },
+  {
+    "models": "Cagiva Elefant 900",
+    "from": 1993,
+    "to": 1994
+  },
+  {
+    "models": "Cagiva Marathon 900",
+    "from": 1995,
+    "to": 1997
+  },
+  {
+    "models": "Ccm Adventure GP 450 All Models",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Ccm Project X 600 Project X",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Ducati Desmo MX 450 Desmo 450 MX",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Ducati Monster 695",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "Ducati Monster 800 S2R",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Ducati Monster Dark 620",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "Ducati MultiStrada 620",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "Ducati MultiStrada Dark 620",
+    "from": 2003,
+    "to": 2004
   },
   {
     "models": "Electric - Alta Motors Redshift Electric EXR (50HP)",
     "from": 2019,
-    "to": ""
+    "to": 2019
   },
   {
     "models": "Electric - Alta Motors Redshift Electric MX (42HP)",
@@ -37,157 +142,262 @@
   {
     "models": "Electric - Alta Motors Redshift Electric MXR (50HP)",
     "from": 2018,
-    "to": ""
+    "to": 2018
   },
   {
-    "models": "Electric - Ktm Freeride \"E-XC\" Electric E-XC",
+    "models": "Electric - Husqvarna Pioneer Electric Pioneer",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Electric - KTM Freeride \"E-XC\" Electric E-XC",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "Electric - Stark Future Varg Electric Varg",
-    "from": 2023,
-    "to": 2024
+    "models": "Electric - KTM Freeride \"LV\" Electric LV - 11Kw",
+    "from": 2025,
+    "to": 2025
   },
   {
-    "models": "Gas Gas EC - F 250 4T",
-    "from": 2021,
-    "to": 2024
+    "models": "Fantic CABALLERO 125 Regolarita Comp",
+    "from": 2008,
+    "to": 2008
   },
   {
-    "models": "Gas Gas EC - F 350 4T",
-    "from": 2021,
-    "to": 2024
+    "models": "Fantic CABALLERO 125 Regolarita Comp Racing",
+    "from": 2009,
+    "to": 2009
   },
   {
-    "models": "Gas Gas EC - F 450 4T",
-    "from": 2024,
-    "to": ""
+    "models": "Fantic CABALLERO 50 Regolarita Comp Racing",
+    "from": 2009,
+    "to": 2009
   },
   {
-    "models": "Gas Gas EC - F 500 4T",
-    "from": 2024,
-    "to": ""
+    "models": "Fantic CABALLERO 50 Regolarita Mini",
+    "from": 2008,
+    "to": 2009
   },
   {
-    "models": "Gas Gas EC 200 Ranger",
+    "models": "Fantic CABALLERO 65 Regolarita Mini",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Fantic CABALLERO 85 Regolarita Mini",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Gasgas EC 125",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 200 Ranger",
     "from": 2019,
     "to": 2020
   },
   {
-    "models": "Gas Gas EC 250 2T",
+    "models": "Gasgas EC 250",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Gas Gas EC 300 2T",
+    "models": "Gasgas EC 250F",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Gas Gas EC 300 Ranger",
+    "models": "Gasgas EC 300",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 300 Ranger",
     "from": 2019,
     "to": 2020
   },
   {
-    "models": "Gas Gas Enducross 125",
+    "models": "Gasgas EC 350F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 450F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 500F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC -GP 300 2T - EC300 GP",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas Enducross 125",
     "from": 1994,
     "to": 1999
   },
   {
-    "models": "Gas Gas Enducross 250",
+    "models": "Gasgas Enducross 250",
     "from": 1995,
     "to": 1999
   },
   {
-    "models": "Gas Gas ES 350 4T",
+    "models": "Gasgas ES 350 4T",
     "from": 2024,
-    "to": ""
+    "to": 2025
   },
   {
-    "models": "Gas Gas ES 500 4T",
+    "models": "Gasgas ES 500 4T",
     "from": 2024,
-    "to": ""
+    "to": 2025
   },
   {
-    "models": "Gas Gas EW - F 500 4T",
+    "models": "Gasgas EW - F 500 4T",
     "from": 2024,
-    "to": ""
+    "to": 2024
   },
   {
-    "models": "Gas Gas EX 250 2T",
+    "models": "Gasgas EX 250 2T",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Gas Gas EX 300 2T",
+    "models": "Gasgas EX 300 2T",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EX -F 250 4T",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EX -F 350 4T",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EX -F 450 4T",
     "from": 2021,
     "to": 2024
   },
   {
-    "models": "Gas Gas EX -F 250 4T",
-    "from": 2021,
+    "models": "Gasgas MC - F 250 F - Factory Edition",
+    "from": 2023,
     "to": 2024
   },
   {
-    "models": "Gas Gas EX -F 350 4T",
-    "from": 2021,
+    "models": "Gasgas MC - F 450 F - Factory Edition",
+    "from": 2023,
     "to": 2024
   },
   {
-    "models": "Gas Gas EX -F 450 4T",
-    "from": 2021,
-    "to": 2024
+    "models": "Gasgas MC - F 450 F - Prado Edition",
+    "from": 2025,
+    "to": 2025
   },
   {
-    "models": "Gas Gas MC - F 250 F",
-    "from": 2021,
-    "to": 2024
-  },
-  {
-    "models": "Gas Gas MC - F 350 4T",
+    "models": "Gasgas MC - F 450 F - Troy Lee Design",
     "from": 2022,
-    "to": 2024
+    "to": 2022
   },
   {
-    "models": "Gas Gas MC - F 450 F",
+    "models": "Gasgas MC 125",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Gas Gas MC 125 2T",
-    "from": 2021,
-    "to": 2024
+    "models": "Gasgas MC 150",
+    "from": 2025,
+    "to": 2025
   },
   {
-    "models": "Gas Gas MC 250 2T",
+    "models": "Gasgas MC 250",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Gas Gas MC 85 19/16\" Wheels",
+    "models": "Gasgas MC 250F",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Gas Gas Pampera 400",
+    "models": "Gasgas MC 300",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 350F",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 450F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 85",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas Pampera 400",
     "from": 2006,
     "to": 2009
   },
   {
-    "models": "Gas Gas Wild HP 240",
+    "models": "Gasgas Wild HP 240",
     "from": 2003,
     "to": 2005
   },
   {
-    "models": "Gas Gas Wild HP 300",
+    "models": "Gasgas Wild HP 300",
     "from": 2003,
     "to": 2009
   },
   {
-    "models": "Gas Gas Wild HP 450",
+    "models": "Gasgas Wild HP 450",
     "from": 2003,
     "to": 2009
+  },
+  {
+    "models": "Gpx Moto - Enduro FSE 250 E Air Cooled/4T",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Gpx Moto - Enduro FSE 300 R/Liquid Cooled/4T",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gpx Moto - Enduro FSE 450 R/Liquid Cooled/4T",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gpx Moto - Enduro TSE 250 R/Liquid Cooled/2T",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gpx Moto - Enduro TSE 300 R/Liquid Cooled/2T",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Honda EXC 300 2T -Champions Edition",
+    "from": 2024,
+    "to": 2025
   },
   {
     "models": "Husaberg All models 93-94 ALL",
@@ -247,7 +457,7 @@
   {
     "models": "Husaberg FX 450",
     "from": 2011,
-    "to": ""
+    "to": 2011
   },
   {
     "models": "Husaberg TE 125",
@@ -280,72 +490,137 @@
     "to": 2005
   },
   {
-    "models": "Husqvarna FC 250 4T",
+    "models": "Husqvarna FC 250 4T - Heritage Range",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FC 250 Rockstar Edition",
+    "from": 2022,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FC 250F",
     "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 350 4T - Heritage Range",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 350F",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 450 4T - Heritage Range",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FC 450 Rockstar Edition",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FC 450F",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE - Pro 350 4T/Pro",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE - w 350 w -4T",
+    "from": 2024,
     "to": 2024
   },
   {
-    "models": "Husqvarna FC 350 4T",
-    "from": 2014,
+    "models": "Husqvarna FE - w 501 w -4T",
+    "from": 2024,
     "to": 2024
   },
   {
-    "models": "Husqvarna FC 450 4T",
-    "from": 2014,
-    "to": 2024
+    "models": "Husqvarna FE 250 4T - Heritage Range",
+    "from": 2023,
+    "to": 2025
   },
   {
-    "models": "Husqvarna FE 250 4T",
+    "models": "Husqvarna FE 250F",
     "from": 2014,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Husqvarna FE 350 4T",
-    "from": 2014,
-    "to": 2024
+    "models": "Husqvarna FE 350 4T - Heritage Range",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 350 4T - Rockstar Edition",
+    "from": 2021,
+    "to": 2022
   },
   {
     "models": "Husqvarna FE 350 Pro - 4T",
     "from": 2024,
-    "to": ""
+    "to": 2025
   },
   {
-    "models": "Husqvarna FE 350 s -4T",
-    "from": 2015,
-    "to": 2024
-  },
-  {
-    "models": "Husqvarna FE 350 w -4T",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna FE 450 4T",
+    "models": "Husqvarna FE 350F",
     "from": 2014,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Husqvarna FE 501 4T",
+    "models": "Husqvarna FE 450 4T - Heritage Range",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 450F",
     "from": 2014,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Husqvarna FE 501 s -4T",
+    "models": "Husqvarna FE 501 4T - Heritage Range",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE 501F",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE -s 350 4T - S Heritage Range",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FE -s 501 s -4T",
     "from": 2015,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Husqvarna FE 501 w -4T",
-    "from": 2024,
-    "to": ""
+    "models": "Husqvarna FE -s 501 S 4T - S Heritage Range",
+    "from": 2025,
+    "to": 2025
   },
   {
-    "models": "Husqvarna FX 350 4T",
+    "models": "Husqvarna FX 350 4T - Heritage Range",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FX 350F",
     "from": 2017,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Husqvarna FX 450 4T",
+    "models": "Husqvarna FX 450F",
     "from": 2017,
     "to": 2024
   },
@@ -360,19 +635,49 @@
     "to": 2012
   },
   {
-    "models": "Husqvarna TC 125 2T",
+    "models": "Husqvarna TC 125",
     "from": 2014,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 125 2T - Heritage Range",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 150",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 150 2T - Heritage Range",
+    "from": 2025,
+    "to": 2025
   },
   {
     "models": "Husqvarna TC 250 2T",
     "from": 2014,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 250 2T - Heritage Range",
+    "from": 2023,
+    "to": 2025
   },
   {
     "models": "Husqvarna TC 250 R",
     "from": 2006,
     "to": 2013
+  },
+  {
+    "models": "Husqvarna TC 300",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 300 2T - Heritage Range",
+    "from": 2025,
+    "to": 2025
   },
   {
     "models": "Husqvarna TC 449",
@@ -385,34 +690,24 @@
     "to": 2009
   },
   {
-    "models": "Husqvarna TC 85 17/14\" Wheels",
+    "models": "Husqvarna TC 85",
     "from": 2021,
-    "to": 2024
-  },
-  {
-    "models": "Husqvarna TC 85 19/16\" Wheels",
-    "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Husqvarna TE 125",
     "from": 2006,
-    "to": 2013
-  },
-  {
-    "models": "Husqvarna TE 125",
-    "from": 2014,
     "to": 2016
   },
   {
     "models": "Husqvarna TE 150",
     "from": 2017,
-    "to": 2019
+    "to": 2025
   },
   {
-    "models": "Husqvarna TE 150 /i -2T",
-    "from": 2020,
-    "to": 2024
+    "models": "Husqvarna TE 150 2T - Heritage Range",
+    "from": 2023,
+    "to": 2023
   },
   {
     "models": "Husqvarna TE 250",
@@ -422,7 +717,12 @@
   {
     "models": "Husqvarna TE 250 /i -2T",
     "from": 2018,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 250 2T - Heritage Range",
+    "from": 2023,
+    "to": 2025
   },
   {
     "models": "Husqvarna TE 250 R",
@@ -432,17 +732,22 @@
   {
     "models": "Husqvarna TE 300",
     "from": 2014,
-    "to": 2018
+    "to": 2025
   },
   {
-    "models": "Husqvarna TE 300 /i -2T",
-    "from": 2019,
-    "to": 2024
+    "models": "Husqvarna TE 300 2T - Heritage Range",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 300 i /2T Rockstar Edition",
+    "from": 2021,
+    "to": 2022
   },
   {
     "models": "Husqvarna TE 300 Pro-2T",
     "from": 2024,
-    "to": ""
+    "to": 2025
   },
   {
     "models": "Husqvarna TE 310 R",
@@ -458,11 +763,6 @@
     "models": "Husqvarna TE 510",
     "from": 2006,
     "to": 2010
-  },
-  {
-    "models": "Husqvarna TE 510",
-    "from": 2006,
-    "to": 2009
   },
   {
     "models": "Husqvarna TE 511",
@@ -492,7 +792,12 @@
   {
     "models": "Husqvarna TX 300 /i -2T",
     "from": 2020,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TX 300 2T - Heritage Range",
+    "from": 2023,
+    "to": 2025
   },
   {
     "models": "Husqvarna TXC 250 R",
@@ -512,7 +817,7 @@
   {
     "models": "Husqvarna TXC 510",
     "from": 2011,
-    "to": ""
+    "to": 2011
   },
   {
     "models": "Husqvarna TXC 511",
@@ -540,19 +845,29 @@
     "to": 2013
   },
   {
-    "models": "Kawasaki KX 450 4T - Brembo Front Caliper",
-    "from": 2024,
-    "to": ""
+    "models": "Jotagas/Jtg Enduro 300",
+    "from": 2019,
+    "to": 2019
   },
   {
-    "models": "Kawasaki KX 450 XC - 4T - Brembo Front Caliper",
+    "models": "Kawasaki KX 450F",
     "from": 2024,
-    "to": ""
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450FX",
+    "from": 2024,
+    "to": 2025
   },
   {
     "models": "KTM Adventure 640",
     "from": 2005,
-    "to": ""
+    "to": 2005
+  },
+  {
+    "models": "KTM DXC 125",
+    "from": 1992,
+    "to": 1993
   },
   {
     "models": "KTM DXC 250",
@@ -637,17 +952,17 @@
   {
     "models": "KTM EXC 125",
     "from": 1992,
-    "to": 1993
+    "to": 2003
   },
   {
-    "models": "KTM EXC 125",
-    "from": 1994,
-    "to": 2003
+    "models": "KTM EXC 125 /Six days/Champion Edition",
+    "from": 2004,
+    "to": 2016
   },
   {
     "models": "KTM EXC 150 2T - Inc TPI Models",
     "from": 2020,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM EXC 200",
@@ -657,17 +972,22 @@
   {
     "models": "KTM EXC 250",
     "from": 1992,
-    "to": 1993
-  },
-  {
-    "models": "KTM EXC 250",
-    "from": 1994,
     "to": 2003
   },
   {
     "models": "KTM EXC 250 2T - Inc TPI Models",
     "from": 2004,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 250 2T - Inc TPI Models Six Days Edition",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 250 2T -Champions Edition",
+    "from": 2025,
+    "to": 2025
   },
   {
     "models": "KTM EXC 250 Racing",
@@ -675,34 +995,39 @@
     "to": 2009
   },
   {
-    "models": "KTM EXC 300",
-    "from": 1992,
-    "to": 1993
+    "models": "KTM EXC 250F",
+    "from": 2006,
+    "to": 2025
   },
   {
     "models": "KTM EXC 300",
-    "from": 1994,
-    "to": 2003
+    "from": 1992,
+    "to": 2025
   },
   {
     "models": "KTM EXC 300 2T - Hardenduro",
     "from": 2024,
-    "to": ""
+    "to": 2025
   },
   {
-    "models": "KTM EXC 300 2T - Inc TPI Models",
-    "from": 2004,
-    "to": 2022
+    "models": "KTM EXC 300 2T - Six Days Edition",
+    "from": 2001,
+    "to": 2025
   },
   {
-    "models": "KTM EXC 300 2T - Inc TPI Models",
-    "from": 1998,
-    "to": 2024
+    "models": "KTM EXC 300 TPI - Erzberg/Erzbergrodeo Edition",
+    "from": 2020,
+    "to": 2023
   },
   {
     "models": "KTM EXC 350",
     "from": 1994,
     "to": 1995
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2012,
+    "to": 2025
   },
   {
     "models": "KTM EXC 400",
@@ -715,13 +1040,13 @@
     "to": 2011
   },
   {
-    "models": "KTM EXC 500",
-    "from": 1992,
-    "to": 1993
+    "models": "KTM EXC 450F",
+    "from": 2004,
+    "to": 2025
   },
   {
     "models": "KTM EXC 500",
-    "from": 2012,
+    "from": 1992,
     "to": 2016
   },
   {
@@ -740,6 +1065,11 @@
     "to": 2009
   },
   {
+    "models": "KTM EXC 530 /Six days/Champion Edition",
+    "from": 2010,
+    "to": 2011
+  },
+  {
     "models": "KTM EXC 550",
     "from": 1992,
     "to": 1993
@@ -755,39 +1085,64 @@
     "to": 2011
   },
   {
-    "models": "KTM EXC-F 250 4T",
-    "from": 2006,
-    "to": 2024
+    "models": "KTM EXC-F 250 4T Champion Edition",
+    "from": 2010,
+    "to": 2010
   },
   {
-    "models": "KTM EXC-F 350 4T",
-    "from": 2012,
-    "to": 2024
+    "models": "KTM EXC-F 250 4T Champions Edition",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC-F 250 4T Factory Edition",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC-F 250 4T Six Days Edition",
+    "from": 2007,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC-F 350 4T Champions Edition",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC-F 350 4T Factory Edition",
+    "from": 2015,
+    "to": 2022
   },
   {
     "models": "KTM EXC-F 350 4t/Six Days",
     "from": 2012,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "KTM EXC-F 450 4T",
-    "from": 2017,
-    "to": 2024
+    "models": "KTM EXC-F 450 4T Champions Edition",
+    "from": 2025,
+    "to": 2025
   },
   {
     "models": "KTM EXC-F 450 4t/Six Days",
     "from": 2017,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM EXC-F 500 4T",
     "from": 2017,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC-F 500 4T Champion Edition",
+    "from": 2025,
+    "to": 2025
   },
   {
     "models": "KTM EXC-F 500 Six Days",
     "from": 2017,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM EXC-G 400 Racing",
@@ -805,11 +1160,6 @@
     "to": 2009
   },
   {
-    "models": "KTM EXC-R 450",
-    "from": 2008,
-    "to": 2009
-  },
-  {
     "models": "KTM EXC-R 530",
     "from": 2008,
     "to": 2009
@@ -817,7 +1167,7 @@
   {
     "models": "KTM GS 125",
     "from": 1992,
-    "to": ""
+    "to": 1992
   },
   {
     "models": "KTM LC4 350",
@@ -832,11 +1182,6 @@
   {
     "models": "KTM LC4 600",
     "from": 1993,
-    "to": 1994
-  },
-  {
-    "models": "KTM LC4 600",
-    "from": 1995,
     "to": 1996
   },
   {
@@ -912,7 +1257,7 @@
   {
     "models": "KTM Rallye 450 Rallye Factory Replica",
     "from": 2005,
-    "to": ""
+    "to": 2005
   },
   {
     "models": "KTM SMC 625",
@@ -922,52 +1267,37 @@
   {
     "models": "KTM SX 125",
     "from": 1992,
-    "to": 1993
-  },
-  {
-    "models": "KTM SX 125",
-    "from": 1994,
-    "to": 2003
-  },
-  {
-    "models": "KTM SX 125",
-    "from": 2004,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM SX 150",
     "from": 2008,
-    "to": 2022
+    "to": 2025
   },
   {
     "models": "KTM SX 250",
     "from": 1992,
-    "to": 1993
+    "to": 2025
   },
   {
-    "models": "KTM SX 250",
-    "from": 1994,
-    "to": 2003
-  },
-  {
-    "models": "KTM SX 250",
-    "from": 2003,
-    "to": 2024
+    "models": "KTM SX 250F",
+    "from": 2006,
+    "to": 2025
   },
   {
     "models": "KTM SX 300",
-    "from": 1992,
-    "to": 1993
-  },
-  {
-    "models": "KTM SX 300",
-    "from": 1994,
-    "to": 2003
-  },
-  {
-    "models": "KTM SX 300 2T",
     "from": 2023,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 1992,
+    "to": 2003
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2011,
+    "to": 2025
   },
   {
     "models": "KTM SX 440",
@@ -980,13 +1310,13 @@
     "to": 2009
   },
   {
-    "models": "KTM SX 500",
-    "from": 1992,
-    "to": 1993
+    "models": "KTM SX 450F",
+    "from": 2007,
+    "to": 2025
   },
   {
     "models": "KTM SX 500",
-    "from": 1994,
+    "from": 1992,
     "to": 2003
   },
   {
@@ -1005,28 +1335,38 @@
     "to": 1995
   },
   {
-    "models": "KTM SX 620",
-    "from": 1995,
-    "to": ""
-  },
-  {
     "models": "KTM SX 85 17/14\" & 19/16\" Wheels",
     "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX-F 250 4T - Adamo Edition",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX-F 250 4T - Troy Lee Edition",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "KTM SX-F 250 4T Factory Edition",
+    "from": 2015,
     "to": 2024
   },
   {
-    "models": "KTM SX-F 250",
-    "from": 2006,
-    "to": 2024
+    "models": "KTM SX-F 250 Prado Edition",
+    "from": 2020,
+    "to": 2020
   },
   {
-    "models": "KTM SX-F 350",
-    "from": 2011,
-    "to": 2024
+    "models": "KTM SX-F 450 Cairoli Edition",
+    "from": 2020,
+    "to": 2020
   },
   {
-    "models": "KTM SX-F 450",
-    "from": 2007,
+    "models": "KTM SX-F 450 Factory Edition",
+    "from": 2013,
     "to": 2024
   },
   {
@@ -1037,7 +1377,7 @@
   {
     "models": "KTM XC 125",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM XC 150",
@@ -1052,7 +1392,7 @@
   {
     "models": "KTM XC 250 2T - Inc TPI Models",
     "from": 2006,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM XC 300",
@@ -1062,7 +1402,7 @@
   {
     "models": "KTM XC 300 2T - Inc TPI Models",
     "from": 2020,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM XC 525 Desert Racing",
@@ -1072,17 +1412,22 @@
   {
     "models": "KTM XC-F 250",
     "from": 2006,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM XC-F 350",
     "from": 2011,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC-F 350 Factory Edition",
+    "from": 2022,
     "to": 2024
   },
   {
     "models": "KTM XC-F 450",
     "from": 2008,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM XC-F 505",
@@ -1097,17 +1442,12 @@
   {
     "models": "KTM XCF-W 350",
     "from": 2013,
-    "to": 2016
-  },
-  {
-    "models": "KTM XCF-W 350",
-    "from": 2020,
     "to": 2022
   },
   {
     "models": "KTM XCF-W 450",
     "from": 2023,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM XCF-W 500",
@@ -1132,7 +1472,7 @@
   {
     "models": "KTM XC-W 150 2T - Inc TPI Models",
     "from": 2017,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM XC-W 200",
@@ -1142,17 +1482,22 @@
   {
     "models": "KTM XC-W 250 2T - Inc TPI Models",
     "from": 2006,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM XC-W 300 2T - Hard Enduro",
     "from": 2024,
-    "to": ""
+    "to": 2025
   },
   {
     "models": "KTM XC-W 300 2T - Inc TPI Models",
     "from": 2006,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "KTM XC-W 300 Erzbergrodeo Edition",
+    "from": 2020,
+    "to": 2023
   },
   {
     "models": "KTM XC-W 300 Six Days",
@@ -1177,12 +1522,12 @@
   {
     "models": "KTM XW-F 350",
     "from": 2024,
-    "to": ""
+    "to": 2024
   },
   {
     "models": "KTM XW-F 500",
     "from": 2024,
-    "to": ""
+    "to": 2024
   },
   {
     "models": "Maico All Models 97-98 ALL",
@@ -1190,12 +1535,22 @@
     "to": 1998
   },
   {
-    "models": "Reiju MR 200 Ranger - J Juan Calipers",
+    "models": "Rieju MR Pro 200",
     "from": 2021,
     "to": 2024
   },
   {
-    "models": "Reiju MR 300 Ranger - J Juan Calipers",
+    "models": "Rieju MR Pro 300",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Racing 200",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Racing 300",
     "from": 2021,
     "to": 2024
   },
@@ -1227,67 +1582,57 @@
   {
     "models": "Sherco SC 125 2t/Cross Country",
     "from": 2019,
-    "to": ""
+    "to": 2019
   },
   {
     "models": "Sherco SC 250 2t/Cross Country",
     "from": 2019,
-    "to": ""
+    "to": 2019
   },
   {
     "models": "Sherco SC 300 2t/Cross Country",
     "from": 2019,
-    "to": ""
+    "to": 2019
   },
   {
     "models": "Sherco SCF 250 4t/Cross Country",
     "from": 2019,
-    "to": ""
+    "to": 2019
   },
   {
     "models": "Sherco SCF 300 4t/Cross Country",
     "from": 2019,
-    "to": ""
+    "to": 2019
   },
   {
     "models": "Sherco SCF 450 4t/Cross Country",
     "from": 2019,
-    "to": ""
+    "to": 2019
   },
   {
     "models": "Sherco SCF 500 4t/Cross Country",
     "from": 2019,
-    "to": ""
+    "to": 2019
   },
   {
     "models": "Sherco SCF-R 300",
     "from": 2016,
-    "to": ""
+    "to": 2016
   },
   {
-    "models": "Sherco SE 125 2t/Factory/Six Days",
+    "models": "Sherco SE 250",
     "from": 2012,
-    "to": 2024
+    "to": 2022
   },
   {
-    "models": "Sherco SE 250 2t/4t",
-    "from": 2012,
-    "to": 2013
-  },
-  {
-    "models": "Sherco SE 250 2t/Six Days",
-    "from": 2017,
-    "to": 2018
-  },
-  {
-    "models": "Sherco SE 250 I Racing",
-    "from": 2012,
-    "to": 2013
-  },
-  {
-    "models": "Sherco SE 300 2t/Six Days",
+    "models": "Sherco SE 300",
     "from": 2015,
     "to": 2018
+  },
+  {
+    "models": "Sherco SE 300",
+    "from": 2014,
+    "to": 2025
   },
   {
     "models": "Sherco SE 300 i",
@@ -1297,7 +1642,7 @@
   {
     "models": "Sherco SE 300 i R",
     "from": 2013,
-    "to": ""
+    "to": 2013
   },
   {
     "models": "Sherco SE 300 I Racing",
@@ -1307,7 +1652,7 @@
   {
     "models": "Sherco SE 450 i",
     "from": 2013,
-    "to": ""
+    "to": 2013
   },
   {
     "models": "Sherco SE 510 I Racing",
@@ -1315,58 +1660,53 @@
     "to": 2013
   },
   {
-    "models": "Sherco SE-F 250 2T/Factory",
-    "from": 2014,
-    "to": 2024
+    "models": "Sherco SE-F 125 Factory 2t",
+    "from": 2023,
+    "to": 2025
   },
   {
-    "models": "Sherco SEF 250 4t/Six Days",
-    "from": 2014,
-    "to": 2019
-  },
-  {
-    "models": "Sherco SE-F 300 2T/Factory",
-    "from": 2014,
-    "to": 2024
-  },
-  {
-    "models": "Sherco SEF-F 250 4T/Factory",
-    "from": 2014,
-    "to": 2024
-  },
-  {
-    "models": "Sherco SEF-F 300 4T/Factory",
-    "from": 2014,
-    "to": 2024
-  },
-  {
-    "models": "Sherco SEF-F 450 4T/Factory",
-    "from": 2014,
-    "to": 2024
-  },
-  {
-    "models": "Sherco SEF-F 500 4T/Factory",
-    "from": 2019,
-    "to": 2024
-  },
-  {
-    "models": "Sherco SEF-R 250 4t/Racing",
+    "models": "Sherco SEF 250",
     "from": 2014,
     "to": 2019
   },
   {
-    "models": "Sherco SEF-R 300 4t/Racing",
+    "models": "Sherco SEF 250 Factory",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SEF 300",
     "from": 2014,
     "to": 2022
   },
   {
-    "models": "Sherco SEF-R 450 4t/Racing",
-    "from": 2014,
+    "models": "Sherco SEF 300 Factory",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SEF 300 Factory",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SEF 450 Factory",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SEF 500",
+    "from": 2019,
     "to": 2021
   },
   {
-    "models": "Sherco SEF-R 500 4t/Racing",
-    "from": 2019,
+    "models": "Sherco SEF 500 Factory",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SEF-R 450 4t/Racing",
+    "from": 2014,
     "to": 2021
   },
   {
@@ -1375,19 +1715,24 @@
     "to": 2021
   },
   {
-    "models": "Sherco SE-R 250 2t/Racing",
-    "from": 2014,
-    "to": 2022
-  },
-  {
-    "models": "Sherco SE-R 300 2t/Racng",
-    "from": 2014,
-    "to": 2022
-  },
-  {
-    "models": "Sherco SM 125 Factory 2t",
+    "models": "Sherco SE-RS 125 SE-RS Racing 4T",
     "from": 2023,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "Sherco SM 125 Supermoto 2T",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SM-RS 125 SM-RS Blackmoon 4T",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SM-RS 125 SM-RS Factory 4T",
+    "from": 2023,
+    "to": 2025
   },
   {
     "models": "Sherco SX 2.5i-F 250",
@@ -1395,234 +1740,269 @@
     "to": 2010
   },
   {
-    "models": "Tm 80cc Models 98-00 80",
+    "models": "Stark VARG EX",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Stark VARG MX",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Suzuki UH 125 Burgman",
+    "from": 2002,
+    "to": 2006
+  },
+  {
+    "models": "Suzuki XQ 125 Maxster",
+    "from": 2001,
+    "to": 2001
+  },
+  {
+    "models": "TM 80cc Models 98-00 80",
     "from": 1998,
     "to": 2000
   },
   {
-    "models": "Tm 85cc Models 01-04 85",
+    "models": "TM 85cc Models 01-04 85",
     "from": 2001,
     "to": 2004
   },
   {
-    "models": "Tm All Models 01-04 ALL except 85cc models",
+    "models": "TM All Models 01-04 ALL except 85cc models",
     "from": 2001,
     "to": 2004
   },
   {
-    "models": "Tm All Models 98-00 ALL except 80cc models",
+    "models": "TM All Models 98-00 ALL except 80cc models",
     "from": 1998,
     "to": 2000
   },
   {
-    "models": "Tm CC 250 Fi ES 2T/Cross Country",
+    "models": "TM CC 250 Fi ES 2T/Cross Country",
     "from": 2019,
     "to": 2020
   },
   {
-    "models": "Tm CC 250 Fi ES 4T/Cross Country",
+    "models": "TM CC 250 Fi ES 4T/Cross Country",
     "from": 2019,
     "to": 2020
   },
   {
-    "models": "Tm CC 300 Fi ES 2T/Cross Country",
+    "models": "TM CC 300 Fi ES 2T/Cross Country",
     "from": 2019,
     "to": 2020
   },
   {
-    "models": "Tm DKR 450 Fi ES",
+    "models": "TM DKR 450 Fi ES",
     "from": 2015,
-    "to": ""
+    "to": 2015
   },
   {
-    "models": "Tm EN 125 2T - All Versions",
+    "models": "TM EN 125 2T - All Versions",
     "from": 2005,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Tm EN 125 2T/Cross Country 21/18\"",
+    "models": "TM EN 125 2T/Cross Country 21/18\"",
     "from": 2019,
     "to": 2021
   },
   {
-    "models": "Tm EN 144 2T - All Versions",
+    "models": "TM EN 144 2T - All Versions",
     "from": 2008,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Tm EN 144 2T/Cross Country 21/18\"",
+    "models": "TM EN 144 2T/Cross Country 21/18\"",
     "from": 2019,
     "to": 2021
   },
   {
-    "models": "Tm EN 250 2T - All Versions",
+    "models": "TM EN 250 2T - All Versions",
     "from": 2005,
-    "to": 2024
+    "to": 2020
   },
   {
-    "models": "Tm EN 250 2T/ES/Fi",
+    "models": "TM EN 250 2T/ES/Fi",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Tm EN 250 Fi (4T) - Inc ES",
+    "models": "TM EN 250 Fi (4T) - Inc ES",
     "from": 2005,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Tm EN 300 2T/ES",
+    "models": "TM EN 300 2T/ES",
     "from": 2007,
-    "to": 2024
+    "to": 2020
   },
   {
-    "models": "Tm EN 300 2T/ES/Fi",
+    "models": "TM EN 300 2T/ES/Fi",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Tm EN 300 Fi (4T) - Inc ES",
+    "models": "TM EN 300 Fi (4T) - Inc ES",
     "from": 2010,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Tm EN 450 Fi (4T)",
+    "models": "TM EN 450 Fi (4T)",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "TM EN 530 Fi (4T)",
     "from": 2005,
     "to": 2024
   },
   {
-    "models": "Tm EN 530 Fi (4T)",
-    "from": 2005,
-    "to": 2024
-  },
-  {
-    "models": "Tm FT 300 2T/ES - Flat Track",
+    "models": "TM FT 300 2T/ES - Flat Track",
     "from": 2019,
-    "to": 2023
+    "to": 2025
   },
   {
-    "models": "Tm FT 450 Fi KS/ES - Flat Track",
+    "models": "TM FT 450 Fi KS/ES - Flat Track",
     "from": 2016,
-    "to": 2023
+    "to": 2025
   },
   {
-    "models": "Tm FT 530 Fi KS/ES",
+    "models": "TM FT 530 Fi KS/ES",
     "from": 2019,
     "to": 2022
   },
   {
-    "models": "Tm MX 125 2T",
+    "models": "TM MX 125 2T",
     "from": 1994,
-    "to": 2000
-  },
-  {
-    "models": "Tm MX 125 2T",
-    "from": 2001,
     "to": 2004
   },
   {
-    "models": "Tm MX 125 2T - All Versions",
+    "models": "TM MX 125 2T - All Versions",
     "from": 2005,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Tm MX 144 2T - All Versions",
+    "models": "TM MX 144 2T - All Versions",
     "from": 2008,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Tm MX 250 2T",
+    "models": "TM MX 250 2T",
     "from": 2001,
     "to": 2004
   },
   {
-    "models": "Tm MX 250 2T/Inc ES",
+    "models": "TM MX 250 2T/Inc ES",
     "from": 2005,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Tm MX 250 Fi (4T) - Inc ES",
+    "models": "TM MX 250 Fi (4T) - Inc ES",
     "from": 2005,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Tm MX 300 2T",
+    "models": "TM MX 300 2T",
     "from": 2001,
     "to": 2004
   },
   {
-    "models": "Tm MX 300 2T/ES",
+    "models": "TM MX 300 2T/ES",
     "from": 2008,
-    "to": 2024
+    "to": 2020
   },
   {
-    "models": "Tm MX 300 Fi (4T) - Inc ES",
+    "models": "TM MX 300 2T/ES/Fi",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "TM MX 300 Fi (4T) - Inc ES",
     "from": 2005,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Tm MX 450 Fi (4T)",
+    "models": "TM MX 450 Fi (4T)",
     "from": 2001,
     "to": 2004
   },
   {
-    "models": "Tm MX 450 Fi (4T) - Inc ES",
+    "models": "TM MX 450 Fi (4T) - Inc ES",
     "from": 2005,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Tm MX 530 Fi (4T)",
+    "models": "TM MX 530 Fi (4T)",
     "from": 2001,
     "to": 2004
   },
   {
-    "models": "Tm MX 530 Fi (4T)",
+    "models": "TM MX 530 Fi/ES (4T)",
     "from": 2005,
-    "to": 2022
+    "to": 2025
   },
   {
-    "models": "Tm MX 85 2T/Junior",
+    "models": "TM MX 85 2T/Junior",
     "from": 2005,
     "to": 2010
   },
   {
-    "models": "Tm SMM 450 F Black Dream",
+    "models": "TM SMM 450 F Black Dream",
     "from": 2008,
     "to": 2010
   },
   {
-    "models": "Tm SMR 300 2T",
+    "models": "TM SMR 300 2T",
     "from": 2014,
-    "to": ""
+    "to": 2014
   },
   {
-    "models": "Tm SMX 85 Junior",
+    "models": "TM SMX 85 Junior",
     "from": 2008,
     "to": 2010
   },
   {
-    "models": "Tm TM 125 /250 MX/E",
+    "models": "TM TM 125 /250 MX/E",
     "from": 1994,
     "to": 2000
   },
   {
-    "models": "Tm TM 125 MX/E",
+    "models": "TM TM 125 MX/E",
     "from": 1992,
     "to": 1993
   },
   {
-    "models": "Tm TM 80 E",
+    "models": "TM TM 80 E",
     "from": 1993,
-    "to": ""
+    "to": 1993
   },
   {
-    "models": "Tm TM 80 MX/E",
+    "models": "TM TM 80 MX/E",
     "from": 1994,
     "to": 2000
   },
   {
-    "models": "Triumph TF 250 X 250 TF 250 X",
+    "models": "Triumph TF 250E",
     "from": 2024,
-    "to": ""
+    "to": 2025
+  },
+  {
+    "models": "Triumph TF 250X",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Triumph TF 450E",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Triumph TF 450X",
+    "from": 2025,
+    "to": 2025
   },
   {
     "models": "Yamaha TT 600",
@@ -1638,5 +2018,20 @@
     "models": "Yamaha XT 660 Z Tenere",
     "from": 2008,
     "to": 2015
+  },
+  {
+    "models": "Yamaha XTZ 700 Tenere/Explore/Extreme/Rally Edition/World Raid Edition",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YP 180 Majesty",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "Yamaha YZF-R 125",
+    "from": 2008,
+    "to": 2014
   }
 ]
