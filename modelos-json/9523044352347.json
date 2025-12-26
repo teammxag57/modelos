@@ -1,72 +1,767 @@
 [
   {
-    "models": "Yamaha WR 250F",
+    "models": "Aprilia RXV 450",
+    "from": 2006,
+    "to": 2014
+  },
+  {
+    "models": "Aprilia RXV 450 Rally",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "Aprilia RXV 550",
+    "from": 2006,
+    "to": 2014
+  },
+  {
+    "models": "Aprilia SXV 450",
+    "from": 2006,
+    "to": 2010
+  },
+  {
+    "models": "Aprilia SXV 450 Van Den Bosch Edition",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "Aprilia SXV 550",
+    "from": 2006,
+    "to": 2010
+  },
+  {
+    "models": "Aprilia SXV 550 Van Den Bosch Edition",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "Beta ALP 125",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "Beta RE 125",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "Beta RR 125",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 125R",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 200",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 200R",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 250",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 250F",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 250R",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 300",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 300R",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 350F",
+    "from": 2011,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 350FR",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 390F",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 390FR",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 430F",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 430FR",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 450 Cross Country",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "Beta RR 450F",
+    "from": 2005,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 480F",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 480FR",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 498 4T",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 520 Enduro",
+    "from": 2005,
+    "to": 2011
+  },
+  {
+    "models": "Beta RR 80 Standard",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Beta RR Race 200",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR Race 430",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR X-Pro 125",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR X-Pro 200",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR X-Pro 250",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR X-Pro 300",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR X-Pro 350F",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR X-Pro 390F",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR X-Pro 430F",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR X-Pro 480F",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR-S 125 4T",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "Beta RR-S 350F",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Beta RR-S 390 4T",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Beta RR-S 430",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Beta RR-S 500 4T",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Beta RS 350F",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "Beta RS 390 4T",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "Beta RS 430",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "Beta RS 500 4T",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "Beta RX 300",
     "from": 2022,
-    "to": 2026
+    "to": 2025
+  },
+  {
+    "models": "Beta RX 450",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Beta Xtrainer 250",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Beta Xtrainer 300",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Bimota BBX 300",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "Bimota BX 450",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Fantic XE 125",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XE 300",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XEF 250",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XEF 310",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XEF 450",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XX 125",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XX 250",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XXF 250",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XXF 450",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 125",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 200",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 200",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EC 200 Ranger",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Gasgas EC 250",
+    "from": 2010,
+    "to": 2018
+  },
+  {
+    "models": "Gasgas EC 250 Racing /Six Days",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EC 250F",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 300 /Racing /E",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 300 E",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 300 F Racing",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 300 Racing /Six Days",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EC 300 Ranger",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Gasgas EC 450 F Racing",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC Raid 450",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas ENDURO GP 250",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas ENDURO GP 300",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki KLX 450R",
+    "from": 2007,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 250FX",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 300X",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2006,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450FX",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450SR",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR 300 Alffredo Gomez Edition- Nissin Calipers",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR 300 Six Days Argentina/France/Italy/Spain - Nissin Calipers",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR Pro 200",
+    "from": 2022,
+    "to": 2022
+  },
+  {
+    "models": "Rieju MR Pro 300i",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR Racing 200",
+    "from": 2022,
+    "to": 2022
+  },
+  {
+    "models": "Rieju MR Racing 250 Racing",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Racing 300",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki DR 125 SM",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Suzuki RM 250Z",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "Suzuki RM 450Z",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "Suzuki RMX 450 Z",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "TM CC 250 Fi ES 2T/Cross Country",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "TM CC 250 Fi ES 4T/Cross Country",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "TM CC 300 Fi ES 2T/Cross Country",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "TM DKR 450 Fi ES",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "TM EN 125 2T - All Versions",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "TM EN 125 2T/Cross Country 21/18\"",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "TM EN 144 2T - All Versions",
+    "from": 2008,
+    "to": 2025
+  },
+  {
+    "models": "TM EN 144 2T/Cross Country 21/18\"",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "TM EN 250 2T - All Versions",
+    "from": 2005,
+    "to": 2020
+  },
+  {
+    "models": "TM EN 250 2T/ES/Fi",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "TM EN 250 Fi (4T) - Inc ES",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "TM EN 300 2T/ES",
+    "from": 2007,
+    "to": 2020
+  },
+  {
+    "models": "TM EN 300 2T/ES/Fi",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "TM EN 300 Fi (4T) - Inc ES",
+    "from": 2010,
+    "to": 2025
+  },
+  {
+    "models": "TM EN 450 Fi (4T)",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "TM EN 530 Fi (4T)",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "TM FT 300 2T/ES - Flat Track",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "TM FT 450 Fi KS/ES - Flat Track",
+    "from": 2016,
+    "to": 2025
+  },
+  {
+    "models": "TM FT 530 Fi KS/ES",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "TM MX 125 2T - All Versions",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "TM MX 144 2T - All Versions",
+    "from": 2008,
+    "to": 2025
+  },
+  {
+    "models": "TM MX 250 2T/Inc ES",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "TM MX 250 Fi (4T) - Inc ES",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "TM MX 300 2T/ES",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "TM MX 300 2T/ES/Fi",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "TM MX 300 Fi (4T) - Inc ES",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "TM MX 450 Fi (4T) - Inc ES",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "TM MX 530 Fi/ES (4T)",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "Tm SMK 450",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Tm SMR 125 Fi/2T - Spoke Wheels",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Tm SMR 250 2T/Spoke Wheels",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "TM SMR 300 2T",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Tm SMR 300 2T/Spoke Wheels",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Tm SMR 450 /Spoke Wheels/100mm Caliper Ctr",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Tm SMR 530 /Spoke Wheels/100mm Caliper Ctr",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Tm SMX 300 2T/ES/Fi",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha WR 250F",
+    "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha WR 250R",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha WR 250X",
+    "from": 2008,
+    "to": 2011
   },
   {
     "models": "Yamaha WR 450F",
-    "from": 2021,
-    "to": 2026
+    "from": 2003,
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 125",
     "from": 2022,
-    "to": 2026
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2003,
+    "to": 2021
   },
   {
     "models": "Yamaha YZ 125 Monster Energy Edition",
     "from": 2022,
-    "to": 2026
+    "to": 2023
   },
   {
     "models": "Yamaha YZ 125X",
-    "from": 2023,
-    "to": 2026
+    "from": 2020,
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250",
     "from": 2022,
-    "to": 2026
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 2003,
+    "to": 2021
   },
   {
     "models": "Yamaha YZ 250 - Monster Energy Edition",
     "from": 2022,
-    "to": 2026
+    "to": 2023
   },
   {
     "models": "Yamaha YZ 250F",
-    "from": 2021,
-    "to": 2026
+    "from": 2003,
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250F - Monster Energy Edition",
     "from": 2021,
-    "to": 2026
+    "to": 2023
   },
   {
     "models": "Yamaha YZ 250FX",
-    "from": 2022,
-    "to": 2026
+    "from": 2015,
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250X",
-    "from": 2023,
-    "to": 2026
+    "from": 2016,
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450F",
-    "from": 2020,
-    "to": 2026
+    "from": 2003,
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450F - Monster Energy Edition",
     "from": 2021,
-    "to": 2026
+    "to": 2023
   },
   {
     "models": "Yamaha YZ 450FX",
-    "from": 2021,
-    "to": 2026
+    "from": 2016,
+    "to": 2025
   }
 ]
