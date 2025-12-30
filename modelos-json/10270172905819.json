@@ -1,0 +1,72 @@
+[
+  {
+    "models": "Sherco SC-F 250",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC-F 300",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC-R 125",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC-R 250",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SC-R 300",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE 125",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SE 250",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SE 300",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SE 4.5i",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "Sherco SE 5.1i",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "Sherco SEF 250",
+    "from": 2008,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SEF 300",
+    "from": 2010,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SEF 450",
+    "from": 2015,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SEF 500",
+    "from": 2021,
+    "to": 2023
+  }
+]
