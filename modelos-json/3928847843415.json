@@ -20,6 +20,11 @@
     "to": 2025
   },
   {
+    "models": "Honda CRF 250RWE",
+    "from": 2025,
+    "to": ""
+  },
+  {
     "models": "Honda CRF 250RX",
     "from": 2019,
     "to": 2025
@@ -63,10 +68,5 @@
     "models": "Honda CRF 450X",
     "from": 2005,
     "to": 2025
-  },
-  {
-    "models": "Honda CRF 250RWE",
-    "from": 2025,
-    "to": ""
   }
 ]
