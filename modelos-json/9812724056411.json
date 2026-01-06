@@ -1,12 +1,7 @@
 [
   {
-    "models": "Honda CR 250F",
+    "models": "Honda CRF 250R",
     "from": 2018,
-    "to": 2024
-  },
-  {
-    "models": "Honda CR 450F",
-    "from": 2017,
     "to": 2024
   },
   {
@@ -20,9 +15,14 @@
     "to": 2020
   },
   {
+    "models": "Honda CRF 450R",
+    "from": 2017,
+    "to": 2024
+  },
+  {
     "models": "Honda CRF 450RL",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Honda CRF 450R-S",
@@ -42,6 +42,6 @@
   {
     "models": "Honda CRF 450X",
     "from": 2019,
-    "to": 2024
+    "to": 2025
   }
 ]
