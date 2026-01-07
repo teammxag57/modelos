@@ -1,7 +1,12 @@
 [
   {
-    "models": "Stark VARG",
+    "models": "Stark VARG EX",
     "from": 2023,
-    "to": 2025
+    "to": 2026
+  },
+  {
+    "models": "Stark VARG MX",
+    "from": 2023,
+    "to": 2026
   }
 ]
