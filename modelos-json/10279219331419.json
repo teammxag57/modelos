@@ -1,0 +1,122 @@
+[
+  {
+    "models": "Chain Roller - Lower",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Honda CR 250R",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "Honda CRF 250R",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 250RWE",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Honda CRF 250RX",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 250X",
+    "from": 2006,
+    "to": 2017
+  },
+  {
+    "models": "Honda CRF 450L",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 2012,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 450RL",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 450R-S",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF 450RWE",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 450RX",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 450X",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Chain Roller - Upper",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Honda CRF 250RWE",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Honda CRF 250R",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 250RX",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 450L",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 450RL",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 450R-S",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF 450RWE",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 450RX",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 450X",
+    "from": 2019,
+    "to": 2025
+  }
+]
