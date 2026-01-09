@@ -1,6 +1,16 @@
 [
   {
-    "models": "Gasgas MC 85",
+    "models": "Wheel Bearing Kit Front",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 85 17/14",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 85 19/16",
     "from": 2021,
     "to": 2025
   },
@@ -15,51 +25,6 @@
     "to": 2025
   },
   {
-    "models": "Kawasaki KLX 450R",
-    "from": 2008,
-    "to": 2009
-  },
-  {
-    "models": "Kawasaki KLX 450R (AU)",
-    "from": 2018,
-    "to": 2019
-  },
-  {
-    "models": "Kawasaki KX 125",
-    "from": 2003,
-    "to": 2005
-  },
-  {
-    "models": "Kawasaki KX 250",
-    "from": 2003,
-    "to": 2007
-  },
-  {
-    "models": "Kawasaki KX 250F",
-    "from": 2004,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KX 250FX",
-    "from": 2021,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KX 450F",
-    "from": 2006,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KX 450SR",
-    "from": 2022,
-    "to": 2023
-  },
-  {
-    "models": "Kawasaki KX 450FX",
-    "from": 2021,
-    "to": 2024
-  },
-  {
     "models": "KTM FREERIDE 250 F",
     "from": 2019,
     "to": 2020
@@ -70,9 +35,19 @@
     "to": 2017
   },
   {
+    "models": "KTM FREERIDE 350 (EURO)",
+    "from": 2015,
+    "to": ""
+  },
+  {
     "models": "KTM Freeride 350",
     "from": 2012,
     "to": 2017
+  },
+  {
+    "models": "KTM Freeride E",
+    "from": 2025,
+    "to": ""
   },
   {
     "models": "KTM Freeride E-XC",
@@ -95,6 +70,81 @@
     "to": 2014
   },
   {
+    "models": "Wheel Bearing Kit Rear",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Aprilia RXV 450",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "Aprilia RXV 550",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "Aprilia SXV 450",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "Aprilia SXV 550",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "BMW G450X",
+    "from": 2007,
+    "to": 2010
+  },
+  {
+    "models": "Kawasaki KLX 450R",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki KLX450R",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 250X",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2006,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450SR",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450X",
+    "from": 2021,
+    "to": 2025
+  },
+  {
     "models": "Suzuki RM 250Z",
     "from": 2004,
     "to": 2006
@@ -102,21 +152,26 @@
   {
     "models": "Yamaha WR 450F",
     "from": 2024,
-    "to": ""
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250F",
     "from": 2009,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250FX",
+    "from": 2025,
+    "to": ""
   },
   {
     "models": "Yamaha YZ 450F",
     "from": 2009,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450FX",
     "from": 2024,
-    "to": ""
+    "to": 2025
   }
 ]
