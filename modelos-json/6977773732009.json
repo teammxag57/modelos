@@ -30,7 +30,7 @@
     "to": 2017
   },
   {
-    "models": "Gasgas EC 300F",
+    "models": "Gasgas EC 300 4T",
     "from": 2013,
     "to": 2015
   },
@@ -40,7 +40,7 @@
     "to": 2014
   },
   {
-    "models": "Gasgas EC 450F",
+    "models": "Gasgas EC 450 4T",
     "from": 2013,
     "to": 2015
   },
@@ -60,14 +60,24 @@
     "to": ""
   },
   {
-    "models": "Honda CR 150F",
+    "models": "Honda CRF150R",
     "from": 2007,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Honda CRF150RB",
     "from": 2007,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "Suzuki RM 250Z",
+    "from": 2007,
+    "to": 2025
+  },
+  {
+    "models": "Suzuki RM 450Z",
+    "from": 2005,
+    "to": 2022
   },
   {
     "models": "Suzuki RMX 450",
@@ -75,19 +85,9 @@
     "to": 2019
   },
   {
-    "models": "Suzuki RM 250Z",
-    "from": 2007,
-    "to": 2024
-  },
-  {
-    "models": "Suzuki RM 450Z",
-    "from": 2005,
-    "to": 2024
-  },
-  {
     "models": "Yamaha WR 250F",
     "from": 2003,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha WR 250R DUAL SPORT",
@@ -102,46 +102,46 @@
   {
     "models": "Yamaha WR 450F",
     "from": 2003,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 125",
     "from": 2003,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 125X",
     "from": 2020,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250",
     "from": 2003,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250F",
     "from": 2003,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250FX",
     "from": 2015,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450F",
     "from": 2003,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450FX",
     "from": 2016,
-    "to": 2024
+    "to": 2025
   }
 ]
