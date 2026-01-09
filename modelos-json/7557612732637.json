@@ -1,6 +1,6 @@
 [
   {
-    "models": "Gasgas EC 125",
+    "models": "Gasgas EC  125",
     "from": 2008,
     "to": 2015
   },
@@ -15,9 +15,19 @@
     "to": 2019
   },
   {
-    "models": "Gasgas EC 250F",
+    "models": "Gasgas EC 250 4T",
     "from": 2010,
     "to": 2015
+  },
+  {
+    "models": "Gasgas EC 250 Replica",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Gasgas EC 250 Six Days",
+    "from": 2019,
+    "to": ""
   },
   {
     "models": "Gasgas EC 300",
@@ -25,12 +35,22 @@
     "to": 2019
   },
   {
-    "models": "Gasgas EC 300F",
+    "models": "Gasgas EC 300 4T",
     "from": 2013,
     "to": 2015
   },
   {
-    "models": "Gasgas EC 450F",
+    "models": "Gasgas EC 300 Replica",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Gasgas EC 300 Six Days",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Gasgas EC 450 4T",
     "from": 2013,
     "to": 2015
   },
@@ -70,34 +90,39 @@
     "to": 2019
   },
   {
-    "models": "Kawasaki KLX 450R",
+    "models": "Kawasaki KLX450R",
     "from": 2008,
     "to": 2009
   },
   {
-    "models": "Kawasaki KX 250F",
-    "from": 2004,
-    "to": 2024
+    "models": "Kawasaki KLX450R (AU)",
+    "from": 2018,
+    "to": 2019
   },
   {
-    "models": "Kawasaki KX 250FX",
+    "models": "Kawasaki KX 250F",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 250X",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Kawasaki KX 450F",
     "from": 2006,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KX 450FX",
-    "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Kawasaki KX 450SR",
     "from": 2022,
-    "to": 2023
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450X",
+    "from": 2021,
+    "to": 2025
   },
   {
     "models": "Rieju MR Pro 200",
@@ -142,51 +167,61 @@
   {
     "models": "Yamaha WR 250F",
     "from": 2003,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "Yamaha WR 250R DUAL SPORT",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha WR 250X Supermoto",
+    "from": 2008,
+    "to": 2011
   },
   {
     "models": "Yamaha WR 450F",
     "from": 2003,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 125",
     "from": 2003,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 125X",
     "from": 2020,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250",
     "from": 2003,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250F",
     "from": 2004,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250FX",
     "from": 2015,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450F",
     "from": 2003,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450FX",
     "from": 2016,
-    "to": 2024
+    "to": 2025
   }
 ]
