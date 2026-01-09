@@ -1,6 +1,16 @@
 [
   {
-    "models": "Honda CR 250R",
+    "models": "Beta RC 450F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RX 450F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Honda CR 250",
     "from": 2000,
     "to": 2001
   },
@@ -20,16 +30,6 @@
     "to": ""
   },
   {
-    "models": "Kawasaki KLX 400R CA MODEL CV CARB",
-    "from": 2004,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX 400R NON CA MODELS PUMPER CARB",
-    "from": 2004,
-    "to": ""
-  },
-  {
     "models": "Kawasaki KLX 400SR",
     "from": 2003,
     "to": 2004
@@ -40,7 +40,7 @@
     "to": 2024
   },
   {
-    "models": "Kawasaki KX 250FX",
+    "models": "Kawasaki KX 250X",
     "from": 2021,
     "to": 2024
   },
@@ -65,36 +65,6 @@
     "to": ""
   },
   {
-    "models": "Suzuki DRZ  400E",
-    "from": 2000,
-    "to": 2003
-  },
-  {
-    "models": "Suzuki DRZ 400E CA MODEL CV CARB",
-    "from": 2004,
-    "to": 2007
-  },
-  {
-    "models": "Suzuki DRZ 400E NON CA MODELS PUMPER CARB",
-    "from": 2004,
-    "to": 2007
-  },
-  {
-    "models": "Suzuki DRZ 400K",
-    "from": 2000,
-    "to": 2003
-  },
-  {
-    "models": "Suzuki DRZ 400S",
-    "from": 2000,
-    "to": 2024
-  },
-  {
-    "models": "Suzuki DRZ 400SM",
-    "from": 2005,
-    "to": 2024
-  },
-  {
     "models": "Suzuki RM 125",
     "from": 1998,
     "to": 2003
@@ -112,21 +82,21 @@
   {
     "models": "Yamaha YZ 250F",
     "from": 2014,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250FX",
     "from": 2015,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450F",
     "from": 2010,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450FX",
     "from": 2016,
-    "to": 2024
+    "to": 2025
   }
 ]
