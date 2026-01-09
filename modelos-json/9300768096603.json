@@ -1,11 +1,11 @@
 [
   {
-    "models": "Lower Roller",
+    "models": "Chain Roller - Lower",
     "from": "",
     "to": ""
   },
   {
-    "models": "Gasgas EC125",
+    "models": "Gasgas EC 125",
     "from": 2001,
     "to": 2011
   },
@@ -15,7 +15,7 @@
     "to": 2011
   },
   {
-    "models": "Gasgas EC 250F",
+    "models": "Gasgas EC 250 4T",
     "from": 2010,
     "to": 2013
   },
@@ -25,7 +25,7 @@
     "to": 2012
   },
   {
-    "models": "Gasgas EC 300F",
+    "models": "Gasgas EC 300 4T",
     "from": 2013,
     "to": ""
   },
@@ -72,7 +72,7 @@
   {
     "models": "Honda CR 250",
     "from": 1985,
-    "to": 2001
+    "to": 2003
   },
   {
     "models": "Honda CR 500",
@@ -115,21 +115,6 @@
     "to": 2016
   },
   {
-    "models": "Yamaha IT 175",
-    "from": 1982,
-    "to": 1983
-  },
-  {
-    "models": "Yamaha IT 250",
-    "from": 1981,
-    "to": 1983
-  },
-  {
-    "models": "Yamaha IT 490",
-    "from": 1983,
-    "to": 1984
-  },
-  {
     "models": "Yamaha TT 225",
     "from": 1986,
     "to": 1987
@@ -145,14 +130,14 @@
     "to": 1986
   },
   {
-    "models": "Yamaha TTR 225",
+    "models": "Yamaha TT-R 225",
     "from": 1999,
     "to": 2004
   },
   {
     "models": "Yamaha WR 250F",
-    "from": 2020,
-    "to": 2024
+    "from": 2001,
+    "to": 2025
   },
   {
     "models": "Yamaha WR 250R DUAL SPORT",
@@ -167,20 +152,20 @@
   {
     "models": "Yamaha WR 400F",
     "from": 1998,
-    "to": ""
+    "to": 2000
   },
   {
     "models": "Yamaha WR 450F",
-    "from": 2020,
-    "to": 2024
+    "from": 2003,
+    "to": 2025
   },
   {
-    "models": "Yamaha XT 225",
+    "models": "Yamaha XT  225",
     "from": 1992,
     "to": 2007
   },
   {
-    "models": "Yamaha XT 250",
+    "models": "Yamaha XT  250",
     "from": 1984,
     "to": ""
   },
@@ -192,10 +177,10 @@
   {
     "models": "Yamaha XT 600",
     "from": 1984,
-    "to": 1989
+    "to": 1995
   },
   {
-    "models": "Yamaha XTZ 125 (SA)",
+    "models": "Yamaha XT-Z 125",
     "from": 2003,
     "to": 2010
   },
@@ -212,7 +197,7 @@
   {
     "models": "Yamaha YFZ 450R",
     "from": 2009,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YFZ 450X",
@@ -232,27 +217,27 @@
   {
     "models": "Yamaha YZ 125",
     "from": 1981,
-    "to": 1986
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250F",
-    "from": 2019,
-    "to": 2024
+    "from": 2001,
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250FX",
-    "from": 2020,
-    "to": 2024
+    "from": 2015,
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450F",
-    "from": 2018,
-    "to": 2024
+    "from": 2003,
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450FX",
-    "from": 2019,
-    "to": 2024
+    "from": 2016,
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 465",
@@ -265,7 +250,7 @@
     "to": 1986
   },
   {
-    "models": "Upper Roller",
+    "models": "Chain Roller - Upper",
     "from": "",
     "to": ""
   },
@@ -275,14 +260,9 @@
     "to": ""
   },
   {
-    "models": "Honda CR 125",
+    "models": "Honda Honda CR 125",
     "from": 1993,
     "to": 1999
-  },
-  {
-    "models": "Honda CR 250",
-    "from": 1992,
-    "to": 2003
   },
   {
     "models": "KTM Adventure 640",
@@ -385,7 +365,7 @@
     "to": 2005
   },
   {
-    "models": "Suzuki DR350SE",
+    "models": "Suzuki DR 350SE",
     "from": 1997,
     "to": 1999
   },
@@ -400,21 +380,6 @@
     "to": 1990
   },
   {
-    "models": "Suzuki RM 80",
-    "from": 1987,
-    "to": 2001
-  },
-  {
-    "models": "Suzuki RM 85",
-    "from": 2002,
-    "to": 2023
-  },
-  {
-    "models": "Suzuki RM 85L",
-    "from": 2003,
-    "to": 2016
-  },
-  {
     "models": "Suzuki RM 250Z",
     "from": 2011,
     "to": 2012
@@ -425,22 +390,7 @@
     "to": 2012
   },
   {
-    "models": "Yamaha IT 250",
-    "from": 1981,
-    "to": 1983
-  },
-  {
-    "models": "Yamaha IT 490",
-    "from": 1983,
-    "to": 1984
-  },
-  {
-    "models": "Yamaha TT 600",
-    "from": 1983,
-    "to": 1986
-  },
-  {
-    "models": "Yamaha TTR 250",
+    "models": "Yamaha TT-R 250",
     "from": 1999,
     "to": 2006
   },
@@ -450,34 +400,9 @@
     "to": 1997
   },
   {
-    "models": "Yamaha WR 250F",
-    "from": 2001,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha WR 400F",
-    "from": 1999,
-    "to": 2000
-  },
-  {
     "models": "Yamaha WR 426F",
     "from": 2001,
     "to": 2002
-  },
-  {
-    "models": "Yamaha WR 450F",
-    "from": 2003,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha XT 250",
-    "from": 1984,
-    "to": ""
-  },
-  {
-    "models": "Yamaha XT 350",
-    "from": 1985,
-    "to": 2000
   },
   {
     "models": "Yamaha XT 550",
@@ -485,59 +410,34 @@
     "to": 1983
   },
   {
-    "models": "Yamaha XT 600 (SA)",
+    "models": "Yamaha XT 600",
     "from": 1996,
     "to": 2002
   },
   {
-    "models": "Yamaha XT 600",
-    "from": 1984,
-    "to": 1995
-  },
-  {
-    "models": "Yamaha XTZ TENERE 660 (Euro)",
+    "models": "Yamaha XTZ TENERE 660",
     "from": 1996,
     "to": 2009
   },
   {
-    "models": "Yamaha XTZ750 SUPER TENERE (SA)",
+    "models": "Yamaha XTZ750 SUPER TENERE",
     "from": 1989,
     "to": 1994
   },
   {
-    "models": "Yamaha YFZ 450",
-    "from": 2004,
-    "to": 2013
-  },
-  {
-    "models": "Yamaha YZ 125",
-    "from": 1986,
-    "to": 2024
-  },
-  {
     "models": "Yamaha YZ 125X",
     "from": 2020,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250",
     "from": 1993,
-    "to": 2026
-  },
-  {
-    "models": "Yamaha YZ 250F",
-    "from": 2001,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha YZ 250FX",
-    "from": 2015,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 400F",
@@ -550,28 +450,8 @@
     "to": 2002
   },
   {
-    "models": "Yamaha YZ 450F",
-    "from": 2003,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha YZ 450FX",
-    "from": 2016,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha YZ 465",
-    "from": 1981,
-    "to": ""
-  },
-  {
-    "models": "Yamaha YZ 490",
-    "from": 1983,
-    "to": 1986
-  },
-  {
     "models": "Yamaha YZ 65",
     "from": 2018,
-    "to": 2026
+    "to": 2025
   }
 ]
