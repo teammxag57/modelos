@@ -20,13 +20,13 @@
     "to": 2019
   },
   {
-    "models": "Gasgas EC 300 Ranger",
-    "from": 2020,
+    "models": "Gasgas EC 300 Six Days",
+    "from": 2019,
     "to": ""
   },
   {
-    "models": "Gasgas EC 300 Six Days",
-    "from": 2019,
+    "models": "Gasgas EC Ranger 300",
+    "from": 2020,
     "to": ""
   },
   {
@@ -120,74 +120,74 @@
     "to": ""
   },
   {
-    "models": "Sherco SE 125",
+    "models": "Sherco SE 125 Factory",
     "from": 2021,
     "to": 2025
   },
   {
-    "models": "Sherco SE 250",
+    "models": "Sherco SE 250 Factory",
     "from": 2023,
     "to": 2025
   },
   {
-    "models": "Sherco SE 300",
+    "models": "Sherco SE 300 Factory",
     "from": 2021,
     "to": 2025
   },
   {
-    "models": "Sherco SEF 250",
+    "models": "Sherco SE F-R 250 Factory",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SE F-R 300 Factory",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SE F-R 450 Factory",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "Sherco SEF 250 Factory",
     "from": 2024,
     "to": 2025
   },
   {
-    "models": "Sherco SEF 300",
+    "models": "Sherco SEF 300 Factory",
     "from": 2024,
     "to": 2025
   },
   {
     "models": "Sherco SEF 450",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "Sherco SEF 500",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Sherco SEF 500",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Sherco SEF-R 250",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Sherco SEF-R 300",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Sherco SEF-R 450",
     "from": 2020,
     "to": ""
   },
   {
-    "models": "Sherco SE-R 250",
+    "models": "Sherco SEF 450 Factory",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SEF 500 Factory",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SE-R 250 Factory",
     "from": 2019,
     "to": 2021
   },
   {
-    "models": "Sherco SE-R 300",
+    "models": "Sherco SE-R 300 Factory",
     "from": 2019,
     "to": 2020
   },
   {
     "models": "Yamaha WR 250F",
     "from": 2001,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha WR 400F",
@@ -202,37 +202,37 @@
   {
     "models": "Yamaha WR 450F",
     "from": 2003,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 125",
     "from": 1998,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 125X",
     "from": 2020,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250",
     "from": 1998,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250F",
     "from": 2001,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250FX",
     "from": 2015,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 400F",
@@ -247,11 +247,11 @@
   {
     "models": "Yamaha YZ 450F",
     "from": 2003,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450FX",
     "from": 2016,
-    "to": 2024
+    "to": 2025
   }
 ]
