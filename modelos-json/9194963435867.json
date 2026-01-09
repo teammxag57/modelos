@@ -50,52 +50,52 @@
     "to": 2021
   },
   {
-    "models": "Beta RR 498",
+    "models": "Beta RR 498F",
     "from": 2012,
     "to": 2014
   },
   {
-    "models": "Beta RR-S 350F",
+    "models": "Beta RR-S 350",
     "from": 2017,
     "to": 2021
   },
   {
-    "models": "Beta RR-S 390F",
+    "models": "Beta RR-S 390",
     "from": 2017,
     "to": 2021
   },
   {
-    "models": "Beta RR-S 430F",
+    "models": "Beta RR-S 430",
     "from": 2017,
     "to": 2021
   },
   {
-    "models": "Beta RR-S 500F",
+    "models": "Beta RR-S 500",
     "from": 2017,
     "to": 2021
   },
   {
-    "models": "Beta RS 390F",
+    "models": "Beta RS 390",
     "from": 2015,
     "to": 2016
   },
   {
-    "models": "Beta RS 400F",
+    "models": "Beta RS 400",
     "from": 2014,
     "to": ""
   },
   {
-    "models": "Beta RS 430F",
+    "models": "Beta RS 430",
     "from": 2015,
     "to": 2016
   },
   {
-    "models": "Beta RS 500F",
+    "models": "Beta RS 500",
     "from": 2015,
     "to": 2016
   },
   {
-    "models": "Beta RS 520F",
+    "models": "Beta RS 520",
     "from": 2014,
     "to": ""
   },
@@ -110,6 +110,11 @@
     "to": 2019
   },
   {
+    "models": "Gasgas EC 250 4T",
+    "from": 2012,
+    "to": 2015
+  },
+  {
     "models": "Gasgas EC 250 Replica",
     "from": 2013,
     "to": 2014
@@ -120,14 +125,14 @@
     "to": ""
   },
   {
-    "models": "Gasgas EC 250F",
-    "from": 2012,
-    "to": 2015
-  },
-  {
     "models": "Gasgas EC 300",
     "from": 2015,
     "to": 2019
+  },
+  {
+    "models": "Gasgas EC 300 4T",
+    "from": 2013,
+    "to": 2015
   },
   {
     "models": "Gasgas EC 300 Replica",
@@ -140,12 +145,7 @@
     "to": ""
   },
   {
-    "models": "Gasgas EC 300F",
-    "from": 2013,
-    "to": 2015
-  },
-  {
-    "models": "Gasgas EC 450F",
+    "models": "Gasgas EC 450 4T",
     "from": 2013,
     "to": 2015
   },
@@ -190,274 +190,14 @@
     "to": 2019
   },
   {
-    "models": "Honda CR 250F",
+    "models": "Honda CRF 250R",
     "from": 2010,
     "to": 2014
   },
   {
-    "models": "Honda CR 450F",
+    "models": "Honda CRF 450R",
     "from": 2009,
     "to": 2012
-  },
-  {
-    "models": "Husavarna 701 Enduro LR",
-    "from": 2020,
-    "to": ""
-  },
-  {
-    "models": "Husavarna 701 Supermoto",
-    "from": 2016,
-    "to": 2022
-  },
-  {
-    "models": "Husavarna CR 125",
-    "from": 2010,
-    "to": 2013
-  },
-  {
-    "models": "Husavarna FC 250 Heritage Edition",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Husavarna FC 250 Rockstar Edition",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Husavarna FC 250F",
-    "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "Husavarna FC 350 Heritage Edition",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Husavarna FC 350F",
-    "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "Husavarna FC 450 Heritage Edition",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Husavarna FC 450 Rockstar Edition",
-    "from": 2018,
-    "to": 2023
-  },
-  {
-    "models": "Husavarna FC 450F",
-    "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "Husavarna FE 250F",
-    "from": 2017,
-    "to": 2021
-  },
-  {
-    "models": "Husavarna FE 350F",
-    "from": 2017,
-    "to": 2021
-  },
-  {
-    "models": "Husavarna FE 350s",
-    "from": 2020,
-    "to": 2021
-  },
-  {
-    "models": "Husavarna FE 450F",
-    "from": 2016,
-    "to": 2021
-  },
-  {
-    "models": "Husavarna FE 501F",
-    "from": 2016,
-    "to": 2021
-  },
-  {
-    "models": "Husavarna FE 501s",
-    "from": 2020,
-    "to": 2021
-  },
-  {
-    "models": "Husavarna FS 450F",
-    "from": 2018,
-    "to": 2024
-  },
-  {
-    "models": "Husavarna FX 350 Heritage Edition",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Husavarna FX 350F",
-    "from": 2017,
-    "to": 2023
-  },
-  {
-    "models": "Husavarna FX 450 Heritage Edition",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Husavarna FX 450F",
-    "from": 2017,
-    "to": 2025
-  },
-  {
-    "models": "Husavarna Norden 901 Expedition",
-    "from": 2023,
-    "to": 2024
-  },
-  {
-    "models": "Husavarna SM 450",
-    "from": 2010,
-    "to": ""
-  },
-  {
-    "models": "Husavarna SM 510",
-    "from": 2010,
-    "to": ""
-  },
-  {
-    "models": "Husavarna TC 125",
-    "from": 2018,
-    "to": 2024
-  },
-  {
-    "models": "Husavarna TC 125 Heritage Edition",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Husavarna TC 250",
-    "from": 2010,
-    "to": 2024
-  },
-  {
-    "models": "Husavarna TC 250 Heritage Edition",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Husavarna TC 450",
-    "from": 2010,
-    "to": 2013
-  },
-  {
-    "models": "Husavarna TE 150",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "Husavarna TE 150i",
-    "from": 2020,
-    "to": 2021
-  },
-  {
-    "models": "Husavarna TE 250",
-    "from": 2010,
-    "to": 2018
-  },
-  {
-    "models": "Husavarna TE 250i",
-    "from": 2018,
-    "to": 2021
-  },
-  {
-    "models": "Husavarna TE 300",
-    "from": 2017,
-    "to": 2018
-  },
-  {
-    "models": "Husavarna TE 300i",
-    "from": 2019,
-    "to": 2021
-  },
-  {
-    "models": "Husavarna TE 300i Rockstar Edition",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Husavarna TE 310",
-    "from": 2010,
-    "to": 2013
-  },
-  {
-    "models": "Husavarna TE 450",
-    "from": 2010,
-    "to": 2013
-  },
-  {
-    "models": "Husavarna TE 510",
-    "from": 2010,
-    "to": ""
-  },
-  {
-    "models": "Husavarna TE 511",
-    "from": 2012,
-    "to": 2013
-  },
-  {
-    "models": "Husavarna TX  300",
-    "from": 2017,
-    "to": 2023
-  },
-  {
-    "models": "Husavarna TX  300 Heritage Edition",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Husavarna TX  300i",
-    "from": 2020,
-    "to": 2022
-  },
-  {
-    "models": "Husavarna TX C250",
-    "from": 2010,
-    "to": 2013
-  },
-  {
-    "models": "Husavarna TX C310",
-    "from": 2012,
-    "to": 2013
-  },
-  {
-    "models": "Husavarna TX C450",
-    "from": 2010,
-    "to": 2013
-  },
-  {
-    "models": "Husavarna TX C510",
-    "from": 2010,
-    "to": ""
-  },
-  {
-    "models": "Husavarna TX C511",
-    "from": 2012,
-    "to": 2013
-  },
-  {
-    "models": "Husavarna WR 125",
-    "from": 2010,
-    "to": 2013
-  },
-  {
-    "models": "Husavarna WR 250",
-    "from": 2010,
-    "to": 2013
-  },
-  {
-    "models": "Husavarna WR 300",
-    "from": 2010,
-    "to": 2013
   },
   {
     "models": "Husqvarna 701 Enduro",
@@ -465,14 +205,274 @@
     "to": 2024
   },
   {
-    "models": "Kawasaki KLX 450R",
-    "from": 2008,
-    "to": 2009
+    "models": "Husqvarna 701 Enduro LR",
+    "from": 2020,
+    "to": ""
   },
   {
-    "models": "Kawasaki KLX 450R (AU)",
+    "models": "Husqvarna 701 Supermoto",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna CR 125",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna FC 250 Heritage Edition",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FC 250 Rockstar Edition",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FC 250F",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FC 350 Heritage Edition",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FC 350F",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FC 450 Heritage Edition",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FC 450 Rockstar Edition",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FC 450F",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FE 250F",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FE 350F",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FE 350s",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2016,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FE 501F",
+    "from": 2016,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FE 501s",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FS 450F",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FX 350 Heritage Edition",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FX 350F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FX 450 Heritage Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FX 450F",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna Norden 901 Expedition",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna SM450",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna SM510",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TC 125 Heritage Edition",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2010,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TC 250 Heritage Edition",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TC450",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TE 150i",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2010,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2018,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna TE 300i Rockstar Edition",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 310",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE 450",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE 510",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 511",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TX 300 Heritage Edition",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TX 300i",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TXC 250",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TXC 310",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TXC 450",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TXC 510",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TXC 511",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR 125",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR 250",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR 300",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Kawasaki KLX 450R",
     "from": 2018,
     "to": 2019
+  },
+  {
+    "models": "Kawasaki KLX450R",
+    "from": 2008,
+    "to": 2009
   },
   {
     "models": "Kawasaki KX 125",
@@ -490,7 +490,7 @@
     "to": 2024
   },
   {
-    "models": "Kawasaki KX 250FX",
+    "models": "Kawasaki KX 250X",
     "from": 2021,
     "to": 2024
   },
@@ -522,12 +522,12 @@
   {
     "models": "KTM Adventure R 790",
     "from": 2019,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM Adventure R 890",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM Adventure R Rally 790",
@@ -565,24 +565,19 @@
     "to": 2021
   },
   {
-    "models": "KTM EXC 250F Six Days",
-    "from": 2007,
-    "to": 2016
-  },
-  {
     "models": "KTM EXC 300",
     "from": 2016,
     "to": 2017
   },
   {
+    "models": "KTM EXC 300",
+    "from": 2018,
+    "to": 2021
+  },
+  {
     "models": "KTM EXC 300 Six Days",
     "from": 2016,
     "to": ""
-  },
-  {
-    "models": "KTM EXC 300 TPI",
-    "from": 2018,
-    "to": 2021
   },
   {
     "models": "KTM EXC 300 TPI Six Days",
@@ -595,24 +590,9 @@
     "to": 2022
   },
   {
-    "models": "KTM EXC 350F Factory Edition",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "KTM EXC 350F Six Days",
-    "from": 2017,
-    "to": 2021
-  },
-  {
     "models": "KTM EXC 450F",
     "from": 2020,
     "to": ""
-  },
-  {
-    "models": "KTM EXC 450F Six Days",
-    "from": 2017,
-    "to": 2019
   },
   {
     "models": "KTM EXC 500",
@@ -630,7 +610,27 @@
     "to": 2022
   },
   {
-    "models": "KTM EXC 500F Six Days",
+    "models": "KTM EXC-F 250 Six Days",
+    "from": 2007,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC-F 350 Factory Edition",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 350 Six Days",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "KTM EXC-F 450 Six Days",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC-F 500 Six Days",
     "from": 2020,
     "to": 2022
   },
@@ -705,21 +705,6 @@
     "to": 2022
   },
   {
-    "models": "KTM SX 250F Factory Edition",
-    "from": 2016,
-    "to": 2022
-  },
-  {
-    "models": "KTM SX 250F Troy Lee Designs",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "KTM SX 300",
-    "from": 2023,
-    "to": ""
-  },
-  {
     "models": "KTM SX 350F",
     "from": 2017,
     "to": 2022
@@ -730,7 +715,17 @@
     "to": 2022
   },
   {
-    "models": "KTM SX 450F Factory Edition",
+    "models": "KTM SX-F 250 Factory Edition",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX-F 250 Troy Lee Designs",
+    "from": 2021,
+    "to": ""
+  },
+  {
+    "models": "KTM SX-F 450 Factory Edition",
     "from": 2016,
     "to": 2023
   },
@@ -905,13 +900,8 @@
     "to": 2021
   },
   {
-    "models": "Sherco SE 125 Six Days",
-    "from": 2018,
-    "to": ""
-  },
-  {
     "models": "Sherco SE 2.5",
-    "from": null,
+    "from": "",
     "to": 2013
   },
   {
@@ -922,11 +912,6 @@
   {
     "models": "Sherco SE 250",
     "from": 2013,
-    "to": ""
-  },
-  {
-    "models": "Sherco SE 250",
-    "from": null,
     "to": 2012
   },
   {
@@ -935,18 +920,8 @@
     "to": 2022
   },
   {
-    "models": "Sherco SE 250 Factory",
-    "from": 2016,
-    "to": 2018
-  },
-  {
-    "models": "Sherco SE 250 Six Days",
-    "from": 2018,
-    "to": ""
-  },
-  {
     "models": "Sherco SE 3.0",
-    "from": null,
+    "from": "",
     "to": 2013
   },
   {
@@ -957,27 +932,12 @@
   {
     "models": "Sherco SE 300",
     "from": 2013,
-    "to": ""
-  },
-  {
-    "models": "Sherco SE 300",
-    "from": null,
     "to": 2012
   },
   {
     "models": "Sherco SE 300",
     "from": 2014,
     "to": 2022
-  },
-  {
-    "models": "Sherco SE 300 Factory",
-    "from": 2016,
-    "to": 2018
-  },
-  {
-    "models": "Sherco SE 300 Six Days",
-    "from": 2018,
-    "to": ""
   },
   {
     "models": "Sherco SE 450i-R",
@@ -990,19 +950,39 @@
     "to": 2013
   },
   {
-    "models": "Sherco SEF 250",
-    "from": 2014,
-    "to": 2018
-  },
-  {
-    "models": "Sherco SEF 250 Factory",
+    "models": "Sherco SE F-R 250 Factory",
     "from": 2016,
     "to": 2020
   },
   {
-    "models": "Sherco SEF 250 Six Days",
+    "models": "Sherco SE F-R 250 Six Days",
     "from": 2018,
     "to": ""
+  },
+  {
+    "models": "Sherco SE F-R 300 Factory",
+    "from": 2016,
+    "to": 2020
+  },
+  {
+    "models": "Sherco SE F-R 300 Six Days",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE F-R 450 Factory",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "Sherco SE F-R 450 Six Days",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "Sherco SEF 250",
+    "from": 2014,
+    "to": 2018
   },
   {
     "models": "Sherco SEF 300",
@@ -1010,27 +990,32 @@
     "to": 2018
   },
   {
-    "models": "Sherco SEF 300 Factory",
-    "from": 2016,
-    "to": 2020
-  },
-  {
-    "models": "Sherco SEF 300 Six Days",
-    "from": 2018,
-    "to": ""
-  },
-  {
     "models": "Sherco SEF 450",
     "from": 2015,
     "to": 2021
   },
   {
-    "models": "Sherco SEF 450 Factory",
-    "from": 2016,
-    "to": 2019
+    "models": "Sherco SE-R 125 Six Days",
+    "from": 2018,
+    "to": ""
   },
   {
-    "models": "Sherco SEF 450 Six Days",
+    "models": "Sherco SE-R 250 Factory",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "Sherco SE-R 250 Six Days",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE-R 300 Factory",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "Sherco SE-R 300 Six Days",
     "from": 2018,
     "to": ""
   },
@@ -1052,7 +1037,7 @@
   {
     "models": "Suzuki RM 250Z",
     "from": 2004,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Suzuki RM 450Z",
@@ -1062,51 +1047,51 @@
   {
     "models": "Yamaha WR 250F",
     "from": 2005,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha WR 450F",
     "from": 2005,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 125",
     "from": 2004,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 125X",
     "from": 2020,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250",
     "from": 2004,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250F",
     "from": 2004,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250FX",
     "from": 2015,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450F",
     "from": 2004,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450FX",
     "from": 2016,
-    "to": 2024
+    "to": 2025
   }
 ]
