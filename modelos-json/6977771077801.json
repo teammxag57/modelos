@@ -2,17 +2,17 @@
   {
     "models": "Kawasaki KX 125",
     "from": 1997,
-    "to": 1999
+    "to": 2000
   },
   {
     "models": "Kawasaki KX 250",
     "from": 1997,
-    "to": 1999
+    "to": 2000
   },
   {
     "models": "Kawasaki KX 65",
     "from": 2000,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Suzuki RM 65",
@@ -22,51 +22,51 @@
   {
     "models": "Yamaha WR 250F",
     "from": 2017,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha WR 450F",
     "from": 2016,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 125",
     "from": 2008,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 125X",
     "from": 2020,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250",
     "from": 2008,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250F",
-    "from": 2008,
-    "to": 2024
+    "from": 2007,
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250FX",
     "from": 2015,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450F",
     "from": 2008,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450FX",
     "from": 2016,
-    "to": 2024
+    "to": 2025
   }
 ]
