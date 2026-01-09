@@ -1,10 +1,5 @@
 [
   {
-    "models": "Gasgas EC  300 Ranger",
-    "from": 2020,
-    "to": ""
-  },
-  {
     "models": "Gasgas EC 200",
     "from": 2018,
     "to": 2019
@@ -27,6 +22,11 @@
   {
     "models": "Gasgas EC 300 Six Days",
     "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Gasgas EC Ranger 300",
+    "from": 2020,
     "to": ""
   },
   {
@@ -92,7 +92,7 @@
   {
     "models": "Yamaha WR 250F",
     "from": 2001,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha WR 426F",
@@ -102,37 +102,37 @@
   {
     "models": "Yamaha WR 450F",
     "from": 2003,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 125",
     "from": 2001,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 125X",
     "from": 2020,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250",
     "from": 2001,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250F",
     "from": 2001,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250FX",
     "from": 2015,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 426F",
@@ -142,21 +142,21 @@
   {
     "models": "Yamaha YZ 450F",
     "from": 2003,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450FX",
     "from": 2016,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 85",
     "from": 2003,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ 85LW",
+    "models": "Yamaha YZ 85 LW",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   }
 ]
