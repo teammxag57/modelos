@@ -8,5 +8,10 @@
     "models": "Yamaha YZ 85",
     "from": 2002,
     "to": 2021
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2023,
+    "to": 2025
   }
 ]
