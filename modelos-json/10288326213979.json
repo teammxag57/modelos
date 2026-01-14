@@ -1,0 +1,107 @@
+[
+  {
+    "models": "Gasgas MC 250",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 250F",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 450F",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "HONDA CRF 250X",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "HUSABERG FC 550",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "HUSQVARNA FE 250",
+    "from": 2014,
+    "to": 2026
+  },
+  {
+    "models": "HUSQVARNA FE 501",
+    "from": 2013,
+    "to": 2026
+  },
+  {
+    "models": "HUSQVARNA TC 150",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "HUSQVARNA TE 150",
+    "from": 2020,
+    "to": 2026
+  },
+  {
+    "models": "HUSQVARNA TE 250",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2006,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1994,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "KTM EXC-F SIX DAYS 250",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "KTM MX 500",
+    "from": 1988,
+    "to": 1994
+  },
+  {
+    "models": "KTM MX 600",
+    "from": 1988,
+    "to": 1992
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 1995,
+    "to": 2021
+  },
+  {
+    "models": "KTM SX ATV 450",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM XC ATV 450",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "SHERCO SEF 250",
+    "from": 2017,
+    "to": 2020
+  }
+]
