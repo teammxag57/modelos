@@ -1,0 +1,82 @@
+[
+  {
+    "models": "BETA RR RACE 250",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "BETA RR X-PRO 250",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 125",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EC 300 ENDURO GP",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "Gasgas MC 300",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "HM CR SUPERMOTARD 125",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "HONDA CRF 250R",
+    "from": 2011,
+    "to": 2024
+  },
+  {
+    "models": "HONDA CRF 450R",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "HONDA CR 500",
+    "from": 1988,
+    "to": 1991
+  },
+  {
+    "models": "HUSABERG FC 550",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2007,
+    "to": 2015
+  },
+  {
+    "models": "KTM MX 500",
+    "from": 1988,
+    "to": 1994
+  },
+  {
+    "models": "KTM SMR 525",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM MX 600",
+    "from": 1988,
+    "to": 1992
+  },
+  {
+    "models": "YAMAHA YZ 490",
+    "from": 1982,
+    "to": 1988
+  }
+]
