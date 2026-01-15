@@ -1,7 +1,82 @@
 [
   {
-    "models": "Husqvarna TC 85",
-    "from": 2018,
-    "to": 2023
+    "models": "Beta RR 125",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 125R",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 250",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 250R",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 300",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 300R",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 350F",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 350FR",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR RACE 125",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR RACE 250",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR RACE 300",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR RACE 350F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 125",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 250",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 300",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 350F",
+    "from": 2025,
+    "to": 2026
   }
 ]
