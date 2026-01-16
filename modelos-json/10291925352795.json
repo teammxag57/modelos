@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Ducati Desmo MX 450",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Honda CRF 250R",
+    "from": 2015,
+    "to": 2026
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2015,
+    "to": 2026
+  }
+]
