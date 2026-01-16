@@ -1,0 +1,27 @@
+[
+  {
+    "models": "YAMAHA WR 450 F",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "YAMAHA YZ 250 F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "YAMAHA YZ 250 FX",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "YAMAHA YZ 450 F",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "YAMAHA YZ 450 FX",
+    "from": 2023,
+    "to": 2024
+  }
+]
