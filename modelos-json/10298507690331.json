@@ -1,0 +1,157 @@
+[
+  {
+    "models": "KTM EXC 450",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 525",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXC-G 250 Racing",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-G 400",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXC-G 450",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM MXC-G 450",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM MXC-G 525",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM SMR 450",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "KTM SMR 525",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM SMR 560",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM SMS 450",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 105",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX 450",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 525",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX 65",
+    "from": 2005,
+    "to": 2013
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2005,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 85 BW",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM SXS 450",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM SXS 540",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM SXS 65",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "KTM SXS-F 450",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM XC 105",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 450",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 525",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 65",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 85",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-W 400",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-W 450",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-W 525",
+    "from": 2007,
+    "to": ""
+  }
+]
