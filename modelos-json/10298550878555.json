@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Gasgas MC 65",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 65",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 60",
+    "from": 1997,
+    "to": 1999
+  },
+  {
+    "models": "KTM SX 65",
+    "from": 2000,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha PW 50",
+    "from": 1990,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha PW 80",
+    "from": 1983,
+    "to": 2006
+  }
+]
