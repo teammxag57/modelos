@@ -1,6 +1,6 @@
 [
   {
-    "models": "BETA RR 350F",
+    "models": "BETA RR 350",
     "from": 2011,
     "to": 2019
   },
@@ -30,17 +30,17 @@
     "to": 2019
   },
   {
-    "models": "BETA RR 430R",
+    "models": "BETA RR 430FR",
     "from": 2015,
     "to": 2019
   },
   {
-    "models": "BETA RR 480F",
+    "models": "BETA RR 480",
     "from": 2015,
     "to": 2019
   },
   {
-    "models": "BETA RR 480R",
+    "models": "BETA RR 480FR",
     "from": 2015,
     "to": 2019
   },
