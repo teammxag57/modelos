@@ -1,57 +1,52 @@
 [
   {
-    "models": "BETA RR 350",
-    "from": 2011,
-    "to": 2019
+    "models": "Husqvarna FC 350",
+    "from": 2014,
+    "to": 2015
   },
   {
-    "models": "BETA RR 350FR",
-    "from": 2013,
-    "to": 2019
+    "models": "Husqvarna FE 250",
+    "from": 2016,
+    "to": 2016
   },
   {
-    "models": "BETA RR 390F",
-    "from": 2015,
-    "to": 2019
+    "models": "Husqvarna FE 350",
+    "from": 2014,
+    "to": 2016
   },
   {
-    "models": "BETA RR 390FR",
-    "from": 2017,
-    "to": 2019
+    "models": "KTM EXC 250F",
+    "from": 2014,
+    "to": 2016
   },
   {
-    "models": "BETA RR 400F",
-    "from": 2010,
-    "to": 2014
-  },
-  {
-    "models": "BETA RR 430F",
-    "from": 2015,
-    "to": 2019
-  },
-  {
-    "models": "BETA RR 430FR",
-    "from": 2015,
-    "to": 2019
-  },
-  {
-    "models": "BETA RR 480",
-    "from": 2015,
-    "to": 2019
-  },
-  {
-    "models": "BETA RR 480FR",
-    "from": 2015,
-    "to": 2019
-  },
-  {
-    "models": "BETA RR 498F",
+    "models": "KTM EXC 350F",
     "from": 2012,
-    "to": 2014
+    "to": 2016
   },
   {
-    "models": "BETA RR 520F",
-    "from": 2010,
-    "to": 2011
+    "models": "KTM Freeride 350",
+    "from": 2013,
+    "to": 2017
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM XC-F 350",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "KTM XCF-W 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM XCF-W 350",
+    "from": 2012,
+    "to": 2013
   }
 ]
