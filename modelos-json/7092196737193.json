@@ -75,7 +75,7 @@
     "to": 2002
   },
   {
-    "models": "Honda CR 80RB",
+    "models": "Honda CR 80 RB",
     "from": 1996,
     "to": 2002
   },
@@ -85,7 +85,7 @@
     "to": 2007
   },
   {
-    "models": "Honda CR 85RB",
+    "models": "Honda CR 85 RB",
     "from": 2003,
     "to": 2007
   },
@@ -95,7 +95,7 @@
     "to": 2020
   },
   {
-    "models": "Honda CRF 250L ABS",
+    "models": "Honda CRF 250L",
     "from": 2017,
     "to": 2020
   },
@@ -112,37 +112,32 @@
   {
     "models": "Honda CRF 300L",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Honda CRF 300L ABS",
+    "models": "Honda CRF 300L",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Honda CRF 300LR",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Honda CRF 300LR ABS",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Honda CRF 300LS",
     "from": 2024,
-    "to": ""
+    "to": 2025
   },
   {
-    "models": "Honda GROM 125",
-    "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "Honda GROM 125 ABS",
-    "from": 2018,
-    "to": 2024
+    "models": "Honda Trail 125 ABS",
+    "from": 2021,
+    "to": 2022
   },
   {
     "models": "Honda TRX 250X",
@@ -150,34 +145,29 @@
     "to": 1992
   },
   {
-    "models": "Honda TRX 300 EX",
+    "models": "Honda TRX300 EX",
     "from": 1993,
     "to": 2008
   },
   {
-    "models": "Honda TRX 300 X",
+    "models": "Honda TRX300 X",
     "from": 2009,
     "to": ""
   },
   {
-    "models": "Honda TRX 450ER",
+    "models": "Honda TRX450ER",
     "from": 2006,
     "to": 2014
   },
   {
-    "models": "Honda TRX 450R",
+    "models": "Honda TRX450R",
     "from": 2004,
     "to": 2009
   },
   {
-    "models": "Honda TRX 700XX",
+    "models": "Honda TRX700XX",
     "from": 2008,
     "to": 2009
-  },
-  {
-    "models": "Honda XR 250R",
-    "from": 1990,
-    "to": 1995
   },
   {
     "models": "Honda XR 400R",
@@ -185,44 +175,39 @@
     "to": 2004
   },
   {
-    "models": "Honda XR 600R",
+    "models": "Honda XR250R",
+    "from": 1990,
+    "to": 1995
+  },
+  {
+    "models": "Honda XR600R",
     "from": 1991,
     "to": 2000
   },
   {
-    "models": "Honda XR 650L",
+    "models": "Honda XR650L",
     "from": 1993,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Honda XR 650R",
+    "models": "Honda XR650R",
     "from": 2000,
     "to": 2007
   },
   {
-    "models": "Honda Z125M",
-    "from": 2019,
-    "to": 2021
-  },
-  {
-    "models": "Honda Z125M ABS",
-    "from": 2019,
-    "to": 2024
-  },
-  {
     "models": "Kawasaki EL450 Eliminator",
     "from": 2024,
-    "to": ""
+    "to": 2025
   },
   {
     "models": "Kawasaki EL450 Eliminator ABS",
     "from": 2024,
-    "to": ""
+    "to": 2025
   },
   {
     "models": "Kawasaki EL450 Eliminator SE ABS",
     "from": 2024,
-    "to": ""
+    "to": 2025
   },
   {
     "models": "Kawasaki EX 650R",
@@ -232,7 +217,7 @@
   {
     "models": "Kawasaki EX 650R ABS",
     "from": 2017,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Kawasaki KDX 200",
@@ -245,119 +230,24 @@
     "to": 2005
   },
   {
-    "models": "Kawasaki KEF 300 Lakota",
+    "models": "Kawasaki KEF300 Lakota",
     "from": 1995,
     "to": 2003
   },
   {
-    "models": "Kawasaki KFX 450R",
+    "models": "Kawasaki KFX450R",
     "from": 2008,
     "to": 2014
   },
   {
-    "models": "Kawasaki KL 650 A (KLR)",
+    "models": "Kawasaki KL650 A (KLR)",
     "from": 1987,
     "to": 2007
   },
   {
-    "models": "Kawasaki KL 650 B (KLR) TENGAI",
+    "models": "Kawasaki KL650 B (KLR) TENGAI",
     "from": 1990,
     "to": 1991
-  },
-  {
-    "models": "Kawasaki KLX 140",
-    "from": 2008,
-    "to": 2020
-  },
-  {
-    "models": "Kawasaki KLX 140G",
-    "from": 2017,
-    "to": 2020
-  },
-  {
-    "models": "Kawasaki KLX 140L",
-    "from": 2008,
-    "to": 2020
-  },
-  {
-    "models": "Kawasaki KLX 140R",
-    "from": 2021,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KLX 140R F",
-    "from": 2021,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KLX 140R L",
-    "from": 2021,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KLX 150L",
-    "from": 2014,
-    "to": 2019
-  },
-  {
-    "models": "Kawasaki KLX 230",
-    "from": 2020,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KLX 230 ABS",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX 230 SM",
-    "from": 2023,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KLX 230R",
-    "from": 2020,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KLX 230R S",
-    "from": 2023,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KLX 230S",
-    "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KLX 230S ABS",
-    "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KLX 250S",
-    "from": 2006,
-    "to": 2020
-  },
-  {
-    "models": "Kawasaki KLX 250SF",
-    "from": 2009,
-    "to": 2010
-  },
-  {
-    "models": "Kawasaki KLX 300",
-    "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KLX 300 SM",
-    "from": 2021,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KLX 300(R)",
-    "from": 1997,
-    "to": 2024
   },
   {
     "models": "Kawasaki KLX 400R",
@@ -376,26 +266,121 @@
   },
   {
     "models": "Kawasaki KLX 450R",
-    "from": 2008,
-    "to": 2009
-  },
-  {
-    "models": "Kawasaki KLX 450R (AU)",
     "from": 2018,
     "to": 2019
   },
   {
-    "models": "Kawasaki KLX 650 C",
+    "models": "Kawasaki KLX140",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX140G",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX140L",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX140R",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KLX140R F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KLX140R L",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KLX150L",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki KLX230",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KLX230 ABS",
+    "from": 2021,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX230 SM",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KLX230R",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KLX230R S",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KLX230S",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KLX230S ABS",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KLX250S",
+    "from": 2006,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX250SF",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "Kawasaki KLX300",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX300 SM",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX300(R)",
+    "from": 1997,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX450R",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Kawasaki KLX650 C",
     "from": 1993,
     "to": 1996
   },
   {
-    "models": "Kawasaki KLX 650D1",
+    "models": "Kawasaki KLX650D1",
     "from": 1996,
     "to": ""
   },
   {
-    "models": "Kawasaki KLX 650R",
+    "models": "Kawasaki KLX650R",
     "from": 1996,
     "to": ""
   },
@@ -407,7 +392,7 @@
   {
     "models": "Kawasaki KX 112",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Kawasaki KX 125",
@@ -422,27 +407,27 @@
   {
     "models": "Kawasaki KX 250F",
     "from": 2004,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Kawasaki KX 250FX",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Kawasaki KX 450F",
     "from": 2006,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KX 450SR",
-    "from": 2022,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "Kawasaki KX 450FX",
     "from": 2021,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450SR",
+    "from": 2022,
+    "to": 2025
   },
   {
     "models": "Kawasaki KX 500",
@@ -452,7 +437,7 @@
   {
     "models": "Kawasaki KX 65",
     "from": 2000,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Kawasaki KX 80",
@@ -467,57 +452,12 @@
   {
     "models": "Kawasaki KX 85",
     "from": 2001,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Kawasaki KX 85 Big Wheel",
     "from": 2001,
     "to": 2018
-  },
-  {
-    "models": "Kawasaki Z1000",
-    "from": 2003,
-    "to": 2006
-  },
-  {
-    "models": "Kawasaki Z650 (ER650)",
-    "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki Z650 (ER650) ABS",
-    "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki Z650RS",
-    "from": 2022,
-    "to": 2023
-  },
-  {
-    "models": "Kawasaki Z650RS ABS",
-    "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki Z900",
-    "from": 2017,
-    "to": 2022
-  },
-  {
-    "models": "Kawasaki Z900 ABS",
-    "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki Z900 SE",
-    "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki ZX900 Ninja ZX9R",
-    "from": 1994,
-    "to": 2003
   },
   {
     "models": "Rieju MR Racing 250",
@@ -547,7 +487,7 @@
   {
     "models": "Suzuki DR 650SE",
     "from": 1996,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Suzuki DRZ 400E",
@@ -555,12 +495,12 @@
     "to": 2003
   },
   {
-    "models": "Suzuki DRZ 400E CA MODEL CV CARB",
+    "models": "Suzuki DRZ 400E",
     "from": 2004,
     "to": 2007
   },
   {
-    "models": "Suzuki DRZ 400E NON CA MODELS PUMPER CARB",
+    "models": "Suzuki DRZ 400E",
     "from": 2004,
     "to": 2007
   },
@@ -630,6 +570,11 @@
     "to": 2008
   },
   {
+    "models": "Suzuki RM 250Z",
+    "from": 2004,
+    "to": 2006
+  },
+  {
     "models": "Suzuki RM 65",
     "from": 2003,
     "to": 2005
@@ -655,12 +600,7 @@
     "to": ""
   },
   {
-    "models": "Suzuki RM 250Z",
-    "from": 2004,
-    "to": 2006
-  },
-  {
-    "models": "Yamaha TTR 250",
+    "models": "Yamaha TT-R 250",
     "from": 1999,
     "to": 2006
   },
@@ -692,7 +632,12 @@
   {
     "models": "Yamaha XT 250",
     "from": 2008,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "Yamaha XT 600",
+    "from": 1996,
+    "to": 2002
   },
   {
     "models": "Yamaha XT 600",
@@ -700,14 +645,14 @@
     "to": 1995
   },
   {
-    "models": "Yamaha XT 600 (SA)",
-    "from": 1996,
-    "to": 2002
-  },
-  {
     "models": "Yamaha YFM 250 Raptor",
     "from": 2008,
     "to": 2013
+  },
+  {
+    "models": "Yamaha YFM 700R Raptor",
+    "from": 2006,
+    "to": 2025
   },
   {
     "models": "Yamaha YFM350 Raptor",
@@ -725,16 +670,6 @@
     "to": 2005
   },
   {
-    "models": "Yamaha YFM700R Raptor",
-    "from": 2006,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha YFZ350 Banshee",
-    "from": 1987,
-    "to": 2009
-  },
-  {
     "models": "Yamaha YFZ 450",
     "from": 2004,
     "to": 2013
@@ -742,12 +677,22 @@
   {
     "models": "Yamaha YFZ 450R",
     "from": 2009,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YFZ 450X",
     "from": 2010,
     "to": 2011
+  },
+  {
+    "models": "Yamaha YFZ350 Banshee",
+    "from": 1987,
+    "to": 2009
+  },
+  {
+    "models": "Yamaha YTZ 250 Tri Moto",
+    "from": 1985,
+    "to": 1986
   },
   {
     "models": "Yamaha YZ 125",
@@ -772,7 +717,7 @@
   {
     "models": "Yamaha YZ 65",
     "from": 2018,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 80",
@@ -782,11 +727,11 @@
   {
     "models": "Yamaha YZ 85",
     "from": 2002,
-    "to": 2026
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ 85LW",
+    "models": "Yamaha YZ 85 LW",
     "from": 2022,
-    "to": 2026
+    "to": 2025
   }
 ]
