@@ -1,8 +1,13 @@
 [
   {
-    "models": "Wheel Bearing Kit Front",
+    "models": "Front Wheel",
     "from": "",
     "to": ""
+  },
+  {
+    "models": "BMW G450X",
+    "from": 2007,
+    "to": 2010
   },
   {
     "models": "Gasgas MC 85 17/14",
@@ -10,7 +15,7 @@
     "to": 2025
   },
   {
-    "models": "Gasgas MC 85 19/16",
+    "models": "Gasgas MC 85",
     "from": 2021,
     "to": 2025
   },
@@ -70,7 +75,7 @@
     "to": 2014
   },
   {
-    "models": "Wheel Bearing Kit Rear",
+    "models": "Rear Wheel",
     "from": "",
     "to": ""
   },
@@ -93,11 +98,6 @@
     "models": "Aprilia SXV 550",
     "from": 2006,
     "to": 2011
-  },
-  {
-    "models": "BMW G450X",
-    "from": 2007,
-    "to": 2010
   },
   {
     "models": "Kawasaki KLX 450R",
@@ -125,7 +125,7 @@
     "to": 2025
   },
   {
-    "models": "Kawasaki KX 250X",
+    "models": "Kawasaki KX 250FX",
     "from": 2021,
     "to": 2025
   },
@@ -140,7 +140,7 @@
     "to": 2025
   },
   {
-    "models": "Kawasaki KX 450X",
+    "models": "Kawasaki KX 450FX",
     "from": 2021,
     "to": 2025
   },
