@@ -1,6 +1,6 @@
 [
   {
-    "models": "Gasgas EC  125",
+    "models": "Gasgas EC 125",
     "from": 2008,
     "to": 2015
   },
@@ -90,14 +90,14 @@
     "to": 2019
   },
   {
+    "models": "Kawasaki KLX 450R",
+    "from": 2018,
+    "to": 2019
+  },
+  {
     "models": "Kawasaki KLX450R",
     "from": 2008,
     "to": 2009
-  },
-  {
-    "models": "Kawasaki KLX450R (AU)",
-    "from": 2018,
-    "to": 2019
   },
   {
     "models": "Kawasaki KX 250F",
@@ -105,7 +105,7 @@
     "to": 2025
   },
   {
-    "models": "Kawasaki KX 250X",
+    "models": "Kawasaki KX 250FX",
     "from": 2021,
     "to": 2025
   },
@@ -115,13 +115,13 @@
     "to": 2025
   },
   {
-    "models": "Kawasaki KX 450SR",
-    "from": 2022,
+    "models": "Kawasaki KX 450FX",
+    "from": 2021,
     "to": 2025
   },
   {
-    "models": "Kawasaki KX 450X",
-    "from": 2021,
+    "models": "Kawasaki KX 450SR",
+    "from": 2022,
     "to": 2025
   },
   {
