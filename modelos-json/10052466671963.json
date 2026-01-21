@@ -1,183 +1,98 @@
 [
   {
-    "models": "Yamaha BW350",
+    "models": "Yamaha BW 350",
     "from": 1987,
     "to": 1988
   },
   {
-    "models": "Yamaha BW80",
+    "models": "Yamaha BW 80",
     "from": 1986,
     "to": 1990
   },
   {
-    "models": "Yamaha FZ1",
-    "from": 2001,
-    "to": 2005
-  },
-  {
-    "models": "Yamaha FZS 1000 S",
-    "from": 2001,
-    "to": 2005
-  },
-  {
-    "models": "Yamaha PW80",
+    "models": "Yamaha PW 80",
     "from": 1983,
     "to": 2006
   },
   {
-    "models": "Yamaha RT100",
-    "from": 1990,
-    "to": 2000
-  },
-  {
-    "models": "Yamaha SR400",
-    "from": 2015,
-    "to": 2017
-  },
-  {
-    "models": "Yamaha TDM850",
-    "from": 1992,
-    "to": 1993
-  },
-  {
-    "models": "Yamaha TT250",
+    "models": "Yamaha TT 250",
     "from": 1999,
     "to": 2000
   },
   {
-    "models": "Yamaha TTR125 Drum Brake",
+    "models": "Yamaha TT-R 125",
     "from": 2000,
     "to": 2003
   },
   {
-    "models": "Yamaha TTR125E Drum Brake",
+    "models": "Yamaha TT-R 125",
+    "from": 2000,
+    "to": 2008
+  },
+  {
+    "models": "Yamaha TT-R 125E",
     "from": 2003,
     "to": 2009
   },
   {
-    "models": "Yamaha TTR125L Disc Brake",
-    "from": 2000,
-    "to": 2008
-  },
-  {
-    "models": "Yamaha TTR125LE Disc Brake",
+    "models": "Yamaha TT-R 125LE",
     "from": 2003,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Yamaha TTR230",
+    "models": "Yamaha TT-R 230",
     "from": 2005,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Yamaha TTR250",
+    "models": "Yamaha TT-R 250",
     "from": 1999,
     "to": 2006
   },
   {
-    "models": "Yamaha TTR90",
+    "models": "Yamaha TT-R 90",
     "from": 2000,
     "to": 2008
   },
   {
-    "models": "Yamaha TW200 Trailway",
-    "from": 1987,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha WR200",
+    "models": "Yamaha WR 200",
     "from": 1992,
     "to": ""
   },
   {
-    "models": "Yamaha WR250",
+    "models": "Yamaha WR 250",
     "from": 1991,
     "to": 1997
   },
   {
-    "models": "Yamaha WR250F",
+    "models": "Yamaha WR 250F",
     "from": 2001,
     "to": 2006
   },
   {
-    "models": "Yamaha WR400F",
+    "models": "Yamaha WR 400F",
     "from": 1998,
     "to": 2000
   },
   {
-    "models": "Yamaha WR426F",
+    "models": "Yamaha WR 426F",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "Yamaha WR450F",
+    "models": "Yamaha WR 450F",
     "from": 2003,
     "to": 2006
   },
   {
-    "models": "Yamaha WR500",
+    "models": "Yamaha WR 500",
     "from": 1992,
     "to": 1993
   },
   {
-    "models": "Yamaha XT350",
+    "models": "Yamaha XT 350",
     "from": 1985,
     "to": 2000
-  },
-  {
-    "models": "Yamaha XV1600 Road Star",
-    "from": 1999,
-    "to": 2003
-  },
-  {
-    "models": "Yamaha XV1700 Road Star Silverado",
-    "from": 2004,
-    "to": 2007
-  },
-  {
-    "models": "Yamaha XVS1100 V-Star",
-    "from": 1999,
-    "to": 2009
-  },
-  {
-    "models": "Yamaha XVS1300 STRYKER",
-    "from": 2011,
-    "to": 2017
-  },
-  {
-    "models": "Yamaha XVS1300 V STAR",
-    "from": 2007,
-    "to": 2017
-  },
-  {
-    "models": "Yamaha XVS1300 V STAR DELUXE",
-    "from": 2013,
-    "to": 2016
-  },
-  {
-    "models": "Yamaha XVS1300 V STAR TOURER",
-    "from": 2010,
-    "to": 2017
-  },
-  {
-    "models": "Yamaha XVS650 V-Star",
-    "from": 1998,
-    "to": 2016
-  },
-  {
-    "models": "Yamaha XVZ 1300 A Royal Star",
-    "from": 1996,
-    "to": ""
-  },
-  {
-    "models": "Yamaha XVZ13 Royal Star",
-    "from": 1996,
-    "to": 2013
-  },
-  {
-    "models": "Yamaha YFA1",
-    "from": 1989,
-    "to": 2004
   },
   {
     "models": "Yamaha YFB250 Timberwolf",
@@ -310,78 +225,68 @@
     "to": 2006
   },
   {
-    "models": "Yamaha YZ125",
+    "models": "Yamaha YZ 125",
     "from": 1986,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ125X",
+    "models": "Yamaha YZ 125X",
     "from": 2020,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ250",
+    "models": "Yamaha YZ 250",
     "from": 1988,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ250F",
+    "models": "Yamaha YZ 250F",
     "from": 2001,
     "to": 2013
   },
   {
-    "models": "Yamaha YZ250X",
+    "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ400F",
+    "models": "Yamaha YZ 400F",
     "from": 1998,
     "to": 1999
   },
   {
-    "models": "Yamaha YZ426F",
+    "models": "Yamaha YZ 426F",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "Yamaha YZ450F",
+    "models": "Yamaha YZ 450F",
     "from": 2003,
     "to": 2009
   },
   {
-    "models": "Yamaha YZ490",
+    "models": "Yamaha YZ 490",
     "from": 1986,
     "to": 1990
   },
   {
-    "models": "Yamaha YZ65",
+    "models": "Yamaha YZ 65",
     "from": 2018,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ80",
+    "models": "Yamaha YZ 80",
     "from": 1986,
     "to": 2001
   },
   {
-    "models": "Yamaha YZ85",
+    "models": "Yamaha YZ 85",
     "from": 2002,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ85LW",
+    "models": "Yamaha YZ 85 LW",
     "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha YZF1000",
-    "from": 1997,
-    "to": ""
-  },
-  {
-    "models": "Yamaha YZF-R1",
-    "from": 1998,
-    "to": 2001
+    "to": 2025
   }
 ]
