@@ -135,41 +135,6 @@
     "to": 2025
   },
   {
-    "models": "Honda Trail 125 ABS",
-    "from": 2021,
-    "to": 2022
-  },
-  {
-    "models": "Honda TRX 250X",
-    "from": 1991,
-    "to": 1992
-  },
-  {
-    "models": "Honda TRX300 EX",
-    "from": 1993,
-    "to": 2008
-  },
-  {
-    "models": "Honda TRX300 X",
-    "from": 2009,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX450ER",
-    "from": 2006,
-    "to": 2014
-  },
-  {
-    "models": "Honda TRX450R",
-    "from": 2004,
-    "to": 2009
-  },
-  {
-    "models": "Honda TRX700XX",
-    "from": 2008,
-    "to": 2009
-  },
-  {
     "models": "Honda XR 400R",
     "from": 1996,
     "to": 2004
@@ -193,31 +158,6 @@
     "models": "Honda XR650R",
     "from": 2000,
     "to": 2007
-  },
-  {
-    "models": "Kawasaki EL450 Eliminator",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Kawasaki EL450 Eliminator ABS",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Kawasaki EL450 Eliminator SE ABS",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Kawasaki EX 650R",
-    "from": 2017,
-    "to": 2020
-  },
-  {
-    "models": "Kawasaki EX 650R ABS",
-    "from": 2017,
-    "to": 2025
   },
   {
     "models": "Kawasaki KDX 200",
@@ -520,41 +460,6 @@
     "to": 2024
   },
   {
-    "models": "Suzuki LT-230E",
-    "from": 1987,
-    "to": 1993
-  },
-  {
-    "models": "Suzuki LT-230S",
-    "from": 1985,
-    "to": 1990
-  },
-  {
-    "models": "Suzuki LT-250R",
-    "from": 1985,
-    "to": 1992
-  },
-  {
-    "models": "Suzuki LT-250S",
-    "from": 1989,
-    "to": 1990
-  },
-  {
-    "models": "Suzuki LT-500R",
-    "from": 1990,
-    "to": ""
-  },
-  {
-    "models": "Suzuki LT-A500F Vinson",
-    "from": 2002,
-    "to": 2007
-  },
-  {
-    "models": "Suzuki LT-F500F Vinson",
-    "from": 2003,
-    "to": 2007
-  },
-  {
     "models": "Suzuki RM 100",
     "from": 2003,
     "to": ""
@@ -628,71 +533,6 @@
     "models": "Yamaha WR 500",
     "from": 1992,
     "to": 1993
-  },
-  {
-    "models": "Yamaha XT 250",
-    "from": 2008,
-    "to": 2025
-  },
-  {
-    "models": "Yamaha XT 600",
-    "from": 1996,
-    "to": 2002
-  },
-  {
-    "models": "Yamaha XT 600",
-    "from": 1990,
-    "to": 1995
-  },
-  {
-    "models": "Yamaha YFM 250 Raptor",
-    "from": 2008,
-    "to": 2013
-  },
-  {
-    "models": "Yamaha YFM 700R Raptor",
-    "from": 2006,
-    "to": 2025
-  },
-  {
-    "models": "Yamaha YFM350 Raptor",
-    "from": 2004,
-    "to": 2013
-  },
-  {
-    "models": "Yamaha YFM350 Warrior",
-    "from": 1987,
-    "to": 1989
-  },
-  {
-    "models": "Yamaha YFM660R Raptor",
-    "from": 2001,
-    "to": 2005
-  },
-  {
-    "models": "Yamaha YFZ 450",
-    "from": 2004,
-    "to": 2013
-  },
-  {
-    "models": "Yamaha YFZ 450R",
-    "from": 2009,
-    "to": 2025
-  },
-  {
-    "models": "Yamaha YFZ 450X",
-    "from": 2010,
-    "to": 2011
-  },
-  {
-    "models": "Yamaha YFZ350 Banshee",
-    "from": 1987,
-    "to": 2009
-  },
-  {
-    "models": "Yamaha YTZ 250 Tri Moto",
-    "from": 1985,
-    "to": 1986
   },
   {
     "models": "Yamaha YZ 125",
