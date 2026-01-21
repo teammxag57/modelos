@@ -50,21 +50,6 @@
     "to": 2009
   },
   {
-    "models": "Gasgas SM 125",
-    "from": 2003,
-    "to": 2009
-  },
-  {
-    "models": "Gasgas SM 250",
-    "from": 2003,
-    "to": 2005
-  },
-  {
-    "models": "Gasgas SM 450FSE",
-    "from": 2004,
-    "to": 2005
-  },
-  {
     "models": "Honda CR 125",
     "from": 1982,
     "to": 2004
@@ -160,12 +145,12 @@
     "to": 2025
   },
   {
-    "models": "Yamaha XT  225",
+    "models": "Yamaha XT 225",
     "from": 1992,
     "to": 2007
   },
   {
-    "models": "Yamaha XT  250",
+    "models": "Yamaha XT 250",
     "from": 1984,
     "to": ""
   },
@@ -203,11 +188,6 @@
     "models": "Yamaha YFZ 450X",
     "from": 2010,
     "to": 2011
-  },
-  {
-    "models": "Yamaha YTZ 250 Tri Moto",
-    "from": 1985,
-    "to": 1986
   },
   {
     "models": "Yamaha YZ 100",
@@ -255,116 +235,6 @@
     "to": ""
   },
   {
-    "models": "Gasgas EC 125",
-    "from": 2013,
-    "to": ""
-  },
-  {
-    "models": "Honda Honda CR 125",
-    "from": 1993,
-    "to": 1999
-  },
-  {
-    "models": "KTM Adventure 640",
-    "from": 1999,
-    "to": 2007
-  },
-  {
-    "models": "KTM Adventure 950",
-    "from": 2003,
-    "to": 2006
-  },
-  {
-    "models": "KTM Adventure 990",
-    "from": 2007,
-    "to": 2013
-  },
-  {
-    "models": "KTM Adventure 990 Dakar",
-    "from": 2011,
-    "to": ""
-  },
-  {
-    "models": "KTM Adventure 990 Ltd",
-    "from": 2010,
-    "to": 2011
-  },
-  {
-    "models": "KTM Adventure Baja 990",
-    "from": 2013,
-    "to": ""
-  },
-  {
-    "models": "KTM Adventure R 990",
-    "from": 2012,
-    "to": ""
-  },
-  {
-    "models": "KTM LC4 640",
-    "from": 2005,
-    "to": ""
-  },
-  {
-    "models": "KTM LC4-E 400",
-    "from": 2000,
-    "to": 2001
-  },
-  {
-    "models": "KTM Super Enduro 950 R",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM Super Moto 620",
-    "from": 1999,
-    "to": ""
-  },
-  {
-    "models": "KTM Supermoto 640 LC4",
-    "from": 1999,
-    "to": 2001
-  },
-  {
-    "models": "KTM Supermoto 950",
-    "from": 2005,
-    "to": 2007
-  },
-  {
-    "models": "KTM Supermoto 990",
-    "from": 2008,
-    "to": 2010
-  },
-  {
-    "models": "KTM Supermoto 990 R",
-    "from": 2009,
-    "to": 2012
-  },
-  {
-    "models": "KTM Supermoto 990 R ABS",
-    "from": 2013,
-    "to": ""
-  },
-  {
-    "models": "KTM Supermoto 990 T",
-    "from": 2009,
-    "to": 2011
-  },
-  {
-    "models": "KTM Supermoto 990 T ABS",
-    "from": 2011,
-    "to": 2013
-  },
-  {
-    "models": "KTM Supermoto 990 T Ltd",
-    "from": 2011,
-    "to": ""
-  },
-  {
-    "models": "KTM SXC 625",
-    "from": 2003,
-    "to": 2005
-  },
-  {
     "models": "Suzuki DR 350SE",
     "from": 1997,
     "to": 1999
@@ -403,26 +273,6 @@
     "models": "Yamaha WR 426F",
     "from": 2001,
     "to": 2002
-  },
-  {
-    "models": "Yamaha XT 550",
-    "from": 1982,
-    "to": 1983
-  },
-  {
-    "models": "Yamaha XT 600",
-    "from": 1996,
-    "to": 2002
-  },
-  {
-    "models": "Yamaha XTZ TENERE 660",
-    "from": 1996,
-    "to": 2009
-  },
-  {
-    "models": "Yamaha XTZ750 SUPER TENERE",
-    "from": 1989,
-    "to": 1994
   },
   {
     "models": "Yamaha YZ 125X",
