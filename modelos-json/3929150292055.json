@@ -1,236 +1,296 @@
 [
   {
-    "models": "Beta RR 2T 125",
+    "models": "Embraiagem/Clutch/Embrague/Embrayage",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Gasgas EC 250",
+    "from": 2000,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2000,
+    "to": 2019
+  },
+  {
+    "models": "Trav�o/Brake/Freno/Frein",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Beta RC 450F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR 125",
     "from": 2019,
     "to": 2024
   },
   {
-    "models": "Beta RR 2T 125 Race",
-    "from": 2021,
-    "to": 2024
-  },
-  {
-    "models": "Beta RR 2T 200",
+    "models": "Beta RR 200",
     "from": 2019,
     "to": 2024
   },
   {
-    "models": "Beta RR 2T 200 Race",
-    "from": 2021,
-    "to": 2024
-  },
-  {
-    "models": "Beta RR 2T 250",
+    "models": "Beta RR 250",
     "from": 2013,
     "to": 2024
   },
   {
-    "models": "Beta RR 2T 250 Race",
-    "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "Beta RR 2T 300",
-    "from": 2013,
-    "to": 2024
-  },
-  {
-    "models": "Beta RR 2T 300 Race",
-    "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "Beta RR 4T 250",
+    "models": "Beta RR 250F",
     "from": 2005,
     "to": 2007
   },
   {
-    "models": "Beta RR 4T 350",
+    "models": "Beta RR 300",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 350F",
     "from": 2011,
     "to": 2024
   },
   {
-    "models": "Beta RR 4T 350 Race",
+    "models": "Beta RR 350FR",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Beta RR 4T 390",
+    "models": "Beta RR 390F",
     "from": 2015,
     "to": 2024
   },
   {
-    "models": "Beta RR 4T 390 Race",
+    "models": "Beta RR 390FR",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Beta RR 4T 400",
+    "models": "Beta RR 390S",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Beta RR 400F",
     "from": 2005,
     "to": 2014
   },
   {
-    "models": "Beta RR 4T 430",
+    "models": "Beta RR 430F",
     "from": 2015,
     "to": 2024
   },
   {
-    "models": "Beta RR 4T 430 Race",
+    "models": "Beta RR 430FR",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Beta RR 4T 450",
+    "models": "Beta RR 450F",
     "from": 2005,
     "to": 2014
   },
   {
-    "models": "Beta RR 4T 480",
+    "models": "Beta RR 480F",
     "from": 2018,
     "to": 2024
   },
   {
-    "models": "Beta RR 4T 480 Race",
+    "models": "Beta RR 480FR",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Beta RR 4T 498",
+    "models": "Beta RR 498F",
     "from": 2012,
     "to": 2014
   },
   {
-    "models": "Beta RR 4T 520",
+    "models": "Beta RR 500S",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Beta RR 520F",
     "from": 2010,
     "to": 2011
   },
   {
-    "models": "Beta RR 4T 525",
+    "models": "Beta RR 525F",
     "from": 2005,
     "to": 2009
   },
   {
-    "models": "Beta RR-S 4T 350",
-    "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "Beta RR-S 4T 390",
-    "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "Beta RR-S 4T 390 Special Edition",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Beta RR-S 4T 430",
-    "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "Beta RR-S 4T 500",
-    "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "Beta RR-S 4T 500 Special Edition",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Beta RS 4T 390",
-    "from": 2015,
-    "to": 2016
-  },
-  {
-    "models": "Beta RS 4T 400",
-    "from": 2014,
-    "to": ""
-  },
-  {
-    "models": "Beta RS 4T 430",
-    "from": 2015,
-    "to": 2016
-  },
-  {
-    "models": "Beta RS 4T 500",
-    "from": 2015,
-    "to": 2016
-  },
-  {
-    "models": "Beta RS 4T 520",
-    "from": 2014,
-    "to": ""
-  },
-  {
-    "models": "Beta RX 2T 300",
+    "models": "Beta RR Race 125",
     "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR Race 200",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR RACE 250",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR RACE 300",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR X-PRO 125",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-PRO 200",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-PRO 250",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-PRO 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-PRO 350F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-PRO 390F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-PRO 430F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-PRO 480F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR-S 350",
+    "from": 2017,
     "to": 2024
   },
   {
-    "models": "Beta RX 4T 450",
-    "from": 2024,
+    "models": "Beta RR-S 390",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR-S 430",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR-S 500",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Beta RS 390",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "Beta RS 400",
+    "from": 2014,
     "to": ""
+  },
+  {
+    "models": "Beta RS 430",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "Beta RS 500",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "Beta RS 520",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Beta RX 300",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Beta RX 450F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Beta XTRAINER 250",
+    "from": 2024,
+    "to": 2025
   },
   {
     "models": "Beta XTRAINER 300",
     "from": 2015,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Gasgas EC125",
+    "models": "Gasgas EC 125",
     "from": 2001,
     "to": 2015
   },
   {
-    "models": "Gasgas EC200",
+    "models": "Gasgas EC 200",
     "from": 2000,
     "to": 2019
   },
   {
-    "models": "Gasgas EC250",
-    "from": 2000,
-    "to": 2019
-  },
-  {
-    "models": "Gasgas EC250 4T",
+    "models": "Gasgas EC 250 4T",
     "from": 2010,
     "to": 2012
   },
   {
-    "models": "Gasgas EC250 Replica",
+    "models": "Gasgas EC 250 Replica",
     "from": 2013,
     "to": 2014
   },
   {
-    "models": "Gasgas EC250 Six Days",
+    "models": "Gasgas EC 250 Six Days",
     "from": 2019,
     "to": ""
   },
   {
-    "models": "Gasgas EC300",
-    "from": 2000,
-    "to": 2019
-  },
-  {
-    "models": "Gasgas EC300 Replica",
+    "models": "Gasgas EC 300 Replica",
     "from": 2013,
     "to": 2014
   },
   {
-    "models": "Gasgas EC300 Six Days",
+    "models": "Gasgas EC 300 Six Days",
     "from": 2019,
     "to": ""
   },
   {
-    "models": "Gasgas EC450FSE",
+    "models": "Gasgas EC 450FSE",
     "from": 2003,
     "to": 2006
   },
   {
-    "models": "Gasgas EC450FSR",
+    "models": "Gasgas EC 450FSR",
     "from": 2007,
     "to": 2009
   },
@@ -245,122 +305,122 @@
     "to": ""
   },
   {
-    "models": "Gasgas MC125",
+    "models": "Gasgas MC 125",
     "from": 2001,
     "to": 2009
   },
   {
-    "models": "Gasgas MC250",
+    "models": "Gasgas MC 250",
     "from": 2000,
     "to": 2009
   },
   {
-    "models": "Gasgas SM125",
+    "models": "Gasgas SM 125",
     "from": 2003,
     "to": 2009
   },
   {
-    "models": "Gasgas SM250",
+    "models": "Gasgas SM 250",
     "from": 2003,
     "to": 2005
   },
   {
-    "models": "Gasgas XC200",
+    "models": "Gasgas XC 200",
     "from": 2018,
     "to": 2019
   },
   {
-    "models": "Gasgas XC250",
+    "models": "Gasgas XC 250",
     "from": 2018,
     "to": 2019
   },
   {
-    "models": "Gasgas XC300",
+    "models": "Gasgas XC 300",
     "from": 2018,
     "to": 2019
   },
   {
-    "models": "Honda CR125R",
+    "models": "Honda CR 125",
     "from": 1999,
     "to": 2007
   },
   {
-    "models": "Honda CR250R",
+    "models": "Honda CR 250",
     "from": 1999,
     "to": 2007
   },
   {
-    "models": "Honda CR500R",
+    "models": "Honda CR 500",
     "from": 1999,
     "to": 2001
   },
   {
-    "models": "Honda CR80R",
+    "models": "Honda CR 80",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "Honda CR80RB",
+    "models": "Honda CR 80 RB",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "Honda CR85R",
+    "models": "Honda CR 85",
     "from": 2003,
     "to": 2007
   },
   {
-    "models": "Honda CR85RB",
+    "models": "Honda CR 85 RB",
     "from": 2003,
     "to": 2007
   },
   {
-    "models": "Honda CRF150R",
+    "models": "Honda CRF 150 RB",
     "from": 2007,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Honda CRF150RB",
+    "models": "Honda CRF 150R",
     "from": 2007,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Honda CRF250R",
+    "models": "Honda CRF 250R",
     "from": 2004,
     "to": 2006
   },
   {
-    "models": "Honda CRF250X",
+    "models": "Honda CRF 250X",
     "from": 2004,
     "to": 2017
   },
   {
-    "models": "Honda CRF450L",
+    "models": "Honda CRF 450L",
     "from": 2019,
     "to": 2020
   },
   {
-    "models": "Honda CRF450R",
+    "models": "Honda CRF 450R",
     "from": 2002,
     "to": 2006
   },
   {
-    "models": "Honda CRF450RL",
+    "models": "Honda CRF 450RL",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Honda CRF450X",
+    "models": "Honda CRF 450X",
     "from": 2005,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Honda XR250R",
+    "models": "Honda XR 400R",
     "from": 2000,
     "to": 2004
   },
   {
-    "models": "Honda XR400R",
+    "models": "Honda XR250R",
     "from": 2000,
     "to": 2004
   },
@@ -370,19 +430,29 @@
     "to": 2007
   },
   {
-    "models": "Kawasaki KDX200",
+    "models": "Kawasaki KDX 200",
     "from": 1995,
     "to": 2006
   },
   {
-    "models": "Kawasaki KDX220",
+    "models": "Kawasaki KDX 220",
     "from": 1997,
     "to": 2005
   },
   {
-    "models": "Kawasaki KLX250R",
+    "models": "Kawasaki KLX 250R",
     "from": 1994,
     "to": 1996
+  },
+  {
+    "models": "Kawasaki KLX 400R",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX 400R NON CA MODELS PUMPER CARB",
+    "from": 2004,
+    "to": ""
   },
   {
     "models": "Kawasaki KLX300",
@@ -393,16 +463,6 @@
     "models": "Kawasaki KLX300(R)",
     "from": 1997,
     "to": 2024
-  },
-  {
-    "models": "Kawasaki KLX400R",
-    "from": 2003,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX400R NON CA MODELS PUMPER CARB",
-    "from": 2004,
-    "to": ""
   },
   {
     "models": "Kawasaki KLX450R",
@@ -420,57 +480,57 @@
     "to": 1996
   },
   {
-    "models": "Kawasaki KX100",
+    "models": "Kawasaki KX 100",
     "from": 1995,
     "to": 2021
   },
   {
-    "models": "Kawasaki KX112",
+    "models": "Kawasaki KX 112",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Kawasaki KX125",
+    "models": "Kawasaki KX 125",
     "from": 1994,
     "to": 2005
   },
   {
-    "models": "Kawasaki KX250",
+    "models": "Kawasaki KX 250",
     "from": 1994,
     "to": 2007
   },
   {
-    "models": "Kawasaki KX250F",
+    "models": "Kawasaki KX 250F",
     "from": 2004,
     "to": 2020
   },
   {
-    "models": "Kawasaki KX450F",
+    "models": "Kawasaki KX 450F",
     "from": 2006,
     "to": 2018
   },
   {
-    "models": "Kawasaki KX500",
+    "models": "Kawasaki KX 500",
     "from": 1994,
     "to": 2004
   },
   {
-    "models": "Kawasaki KX80",
+    "models": "Kawasaki KX 80",
     "from": 1994,
     "to": 2000
   },
   {
-    "models": "Kawasaki KX80 Big Wheel",
+    "models": "Kawasaki KX 80 Big Wheel",
     "from": 1994,
     "to": ""
   },
   {
-    "models": "Kawasaki KX85",
+    "models": "Kawasaki KX 85",
     "from": 2001,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Kawasaki KX85 Big Wheel",
+    "models": "Kawasaki KX 85 Big Wheel",
     "from": 2001,
     "to": 2018
   },
@@ -505,128 +565,128 @@
     "to": 2024
   },
   {
-    "models": "Suzuki DR350SE",
+    "models": "Suzuki DR 350SE",
     "from": 1999,
     "to": ""
   },
   {
-    "models": "Suzuki DRZ400E",
+    "models": "Suzuki DRZ 400E",
     "from": 2000,
     "to": 2003
   },
   {
-    "models": "Suzuki DRZ400E CA MODEL CV CARB",
+    "models": "Suzuki DRZ 400E",
     "from": 2004,
     "to": 2006
   },
   {
-    "models": "Suzuki DRZ400E NON CA MODELS PUMPER CARB",
+    "models": "Suzuki DRZ 400E",
     "from": 2004,
     "to": 2006
   },
   {
-    "models": "Suzuki DRZ400K",
+    "models": "Suzuki DRZ 400K",
     "from": 2000,
     "to": 2003
   },
   {
-    "models": "Suzuki RM100",
+    "models": "Suzuki RM 100",
     "from": 2003,
     "to": ""
   },
   {
-    "models": "Suzuki RM125",
+    "models": "Suzuki RM 125",
     "from": 1996,
     "to": 2008
   },
   {
-    "models": "Suzuki RM250",
+    "models": "Suzuki RM 250",
     "from": 1996,
     "to": 2008
   },
   {
-    "models": "Suzuki RM85",
+    "models": "Suzuki RM 250Z",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "Suzuki RM 450Z",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "Suzuki RM 85",
     "from": 2005,
     "to": 2023
   },
   {
-    "models": "Suzuki RM85L",
+    "models": "Suzuki RM 85L",
     "from": 2003,
     "to": 2016
   },
   {
-    "models": "Suzuki RMX450",
+    "models": "Suzuki RMX 450",
     "from": 2010,
     "to": 2019
   },
   {
-    "models": "Suzuki RMZ250",
-    "from": 2004,
-    "to": 2024
-  },
-  {
-    "models": "Suzuki RMZ450",
+    "models": "Yamaha TT-R 230",
     "from": 2005,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Yamaha TTR230",
-    "from": 2005,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha WR250F",
+    "models": "Yamaha WR 250F",
     "from": 2001,
     "to": 2016
   },
   {
-    "models": "Yamaha WR426F",
+    "models": "Yamaha WR 426F",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "Yamaha WR450F",
+    "models": "Yamaha WR 450F",
     "from": 2003,
     "to": 2015
   },
   {
-    "models": "Yamaha YZ125",
+    "models": "Yamaha YZ 125",
     "from": 2001,
     "to": 2007
   },
   {
-    "models": "Yamaha YZ250",
+    "models": "Yamaha YZ 250",
     "from": 2001,
     "to": 2007
   },
   {
-    "models": "Yamaha YZ250F",
+    "models": "Yamaha YZ 250F",
     "from": 2001,
     "to": 2006
   },
   {
-    "models": "Yamaha YZ426F",
+    "models": "Yamaha YZ 426F",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "Yamaha YZ450F",
+    "models": "Yamaha YZ 450F",
     "from": 2003,
     "to": 2007
   },
   {
-    "models": "Yamaha YZ65",
+    "models": "Yamaha YZ 65",
     "from": 2018,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ85",
+    "models": "Yamaha YZ 85",
     "from": 2002,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ85LW",
+    "models": "Yamaha YZ 85 LW",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   }
 ]
