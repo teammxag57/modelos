@@ -1,31 +1,16 @@
 [
   {
-    "models": "Beta RR-S 4T 125",
+    "models": "Beta RR-S 125F",
     "from": 2017,
     "to": 2019
   },
   {
-    "models": "Honda CRM125R",
+    "models": "Honda CRM 125R",
     "from": 1993,
     "to": 1999
   },
   {
-    "models": "Honda NX125",
-    "from": 1995,
-    "to": 1997
-  },
-  {
-    "models": "Kawasaki KDX175",
-    "from": 1980,
-    "to": 1982
-  },
-  {
-    "models": "Kawasaki KDX250",
-    "from": 1980,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KDX400",
+    "models": "Kawasaki KLX 250",
     "from": 1979,
     "to": 1980
   },
@@ -47,17 +32,17 @@
   {
     "models": "Kawasaki KLX140R",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Kawasaki KLX140R F",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Kawasaki KLX140R L",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Kawasaki KLX150L",
@@ -65,102 +50,62 @@
     "to": 2019
   },
   {
-    "models": "Kawasaki KLX250",
-    "from": 1979,
-    "to": 1980
-  },
-  {
-    "models": "Kawasaki KX100",
+    "models": "Kawasaki KX 100",
     "from": 1995,
     "to": 2021
   },
   {
-    "models": "Kawasaki KX112",
+    "models": "Kawasaki KX 112",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Kawasaki KX125",
+    "models": "Kawasaki KX 125",
     "from": 1978,
     "to": 1981
   },
   {
-    "models": "Kawasaki KX250",
+    "models": "Kawasaki KX 250",
     "from": 1974,
     "to": 1978
   },
   {
-    "models": "Kawasaki KX400",
+    "models": "Kawasaki KX 400",
     "from": 1975,
     "to": 1976
   },
   {
-    "models": "Kawasaki KX65",
+    "models": "Kawasaki KX 65",
     "from": 2000,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Kawasaki KX80",
+    "models": "Kawasaki KX 80",
     "from": 1986,
     "to": 2000
   },
   {
-    "models": "Kawasaki KX80 Big Wheel",
+    "models": "Kawasaki KX 80 Big Wheel",
     "from": 1992,
     "to": 1994
   },
   {
-    "models": "Kawasaki KX85",
+    "models": "Kawasaki KX 85",
     "from": 2001,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Kawasaki KX85 Big Wheel",
+    "models": "Kawasaki KX 85 Big Wheel",
     "from": 2001,
     "to": 2018
   },
   {
-    "models": "Sherco Enduro 50",
-    "from": 2004,
-    "to": 2018
-  },
-  {
-    "models": "Sherco SM R 50",
-    "from": 2020,
-    "to": 2023
-  },
-  {
-    "models": "Sherco SM RS 50",
-    "from": 2020,
-    "to": 2024
-  },
-  {
-    "models": "Sherco X-Ride 1.25",
-    "from": 2014,
-    "to": ""
-  },
-  {
-    "models": "Sherco X-Ride 125",
-    "from": 2012,
-    "to": ""
-  },
-  {
-    "models": "Sherco X-Ride 2.9",
-    "from": 2012,
-    "to": ""
-  },
-  {
-    "models": "Sherco X-Ride 2.90",
-    "from": 2014,
-    "to": ""
-  },
-  {
-    "models": "Suzuki RM100",
+    "models": "Suzuki RM 100",
     "from": 2003,
     "to": ""
   },
   {
-    "models": "Suzuki RM65",
+    "models": "Suzuki RM 65",
     "from": 2003,
     "to": 2005
   },
@@ -200,33 +145,28 @@
     "to": 2009
   },
   {
-    "models": "Yamaha TY350",
-    "from": 1985,
-    "to": 1986
-  },
-  {
-    "models": "Yamaha XT250",
+    "models": "Yamaha XT 250",
     "from": 2008,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ65",
+    "models": "Yamaha YZ 65",
     "from": 2018,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ80",
+    "models": "Yamaha YZ 80",
     "from": 1993,
     "to": 2001
   },
   {
-    "models": "Yamaha YZ85",
+    "models": "Yamaha YZ 85",
     "from": 2002,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ85LW",
+    "models": "Yamaha YZ 85 LW",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   }
 ]
