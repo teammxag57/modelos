@@ -1,0 +1,137 @@
+[
+  {
+    "models": "KTM EXC 250",
+    "from": 2000,
+    "to": 2005
+  },
+  {
+    "models": "KTM EXC 250 Racing",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXC 250 Racing Six Days",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 250 Six Days",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2000,
+    "to": 2005
+  },
+  {
+    "models": "KTM EXC 380",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 400",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 400 Racing",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 520",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM MXC 250",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM MXC 300",
+    "from": 2000,
+    "to": 2005
+  },
+  {
+    "models": "KTM MXC 380",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM MXC 400",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM MXC 520",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 105",
+    "from": 2004,
+    "to": 2011
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2000,
+    "to": 2005
+  },
+  {
+    "models": "KTM SX 380",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 400",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 520",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 65",
+    "from": 2002,
+    "to": 2013
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2003,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 85 BW",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM SXS 250",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "KTM SXS 540",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM XC 105",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 65",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 85",
+    "from": 2008,
+    "to": 2009
+  }
+]
