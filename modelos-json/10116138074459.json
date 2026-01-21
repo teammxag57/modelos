@@ -1,451 +1,176 @@
 [
   {
-    "models": "HM Moto 250 CRE-F R 4T",
+    "models": "HM 250 CRE-F R 4T",
     "from": 2004,
-    "to": ""
+    "to": 2009
   },
   {
-    "models": "HM Moto 250 CRE-F R 4T",
+    "models": "HM 250 CRM-F X IE 4T",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "HM 250 Montesa Cora 4T",
     "from": 2005,
     "to": 2009
   },
   {
-    "models": "HM Moto 250 CRM-F X IE 4T",
+    "models": "HM 290 CRE-F X IE 4T",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "HM Moto 250 Montesa Cora 4T",
-    "from": 2005,
-    "to": 2009
-  },
-  {
-    "models": "HM Moto 290 CRE-F X IE 4T",
+    "models": "HM 290 CRM-F X IE 4T",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "HM Moto 290 CRM-F X IE 4T",
-    "from": 2007,
-    "to": 2008
-  },
-  {
-    "models": "HM Moto 300 CRE-F X IE 4T",
+    "models": "HM 300 CRE-F X IE 4T",
     "from": 2008,
     "to": 2010
   },
   {
-    "models": "HM Moto 450 CRE-F R",
+    "models": "HM 450 CRE-F R",
     "from": 2002,
-    "to": ""
-  },
-  {
-    "models": "HM Moto 450 CRE-F R",
-    "from": 2003,
-    "to": 2004
-  },
-  {
-    "models": "HM Moto 450 CRE-F R",
-    "from": 2005,
-    "to": 2008
-  },
-  {
-    "models": "HM Moto 450 CRE-F R",
-    "from": 2009,
     "to": 2013
   },
   {
-    "models": "HM Moto 450 CRE-F X",
+    "models": "HM 450 CRE-F X",
     "from": 2005,
     "to": 2009
   },
   {
-    "models": "HM Moto 450 CRE-F X IE",
+    "models": "HM 450 CRE-F X IE",
     "from": 2007,
     "to": 2009
   },
   {
-    "models": "HM Moto 450 CRM-F R",
+    "models": "HM 450 CRM-F R",
     "from": 2002,
-    "to": ""
-  },
-  {
-    "models": "HM Moto 450 CRM-F R",
-    "from": 2003,
-    "to": 2004
-  },
-  {
-    "models": "HM Moto 450 CRM-F R",
-    "from": 2005,
-    "to": 2008
-  },
-  {
-    "models": "HM Moto 450 CRM-F R",
-    "from": 2009,
     "to": 2013
   },
   {
-    "models": "HM Moto 450 CRM-F X",
+    "models": "HM 450 CRM-F X",
     "from": 2005,
     "to": 2009
   },
   {
-    "models": "HM Moto 450 CRM-F X IE",
+    "models": "HM 450 CRM-F X IE",
     "from": 2007,
     "to": 2009
   },
   {
-    "models": "HM Moto 490 CRE-F X IE",
+    "models": "HM 490 CRE-F X IE",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "HM Moto 490 CRM-F X IE",
+    "models": "HM 490 CRM-F X IE",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "HM Moto 500 CRE-X",
+    "models": "HM 500 CRE-X",
     "from": 2008,
     "to": 2013
   },
   {
-    "models": "HM Moto 500 CRM-X",
+    "models": "HM 500 CRM-X",
     "from": 2009,
     "to": 2013
   },
   {
-    "models": "Honda TRX450 R",
+    "models": "Honda CRF 150R",
+    "from": 2007,
+    "to": 2026
+  },
+  {
+    "models": "Honda CRF 150R RB",
+    "from": 2007,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 250R",
     "from": 2004,
-    "to": 2005
+    "to": 2026
   },
   {
-    "models": "Honda TRX450 R (Kick Start)",
-    "from": 2006,
-    "to": 2013
+    "models": "Honda CRF 250RW",
+    "from": "",
+    "to": 2026
   },
   {
-    "models": "Honda TRX450 ER (Elec Start)",
+    "models": "Honda CRF 250RWE",
+    "from": "",
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 250RX",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 250XRL",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "Honda CRF 450",
+    "from": "",
+    "to": 2026
+  },
+  {
+    "models": "Honda CRF 450L",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 202,
+    "to": 2026
+  },
+  {
+    "models": "Honda CRF 450RL",
+    "from": "",
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 450RWE",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Honda CRF 450RX",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 450X",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 450X RL",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "Honda CRF250",
+    "from": "",
+    "to": 2026
+  },
+  {
+    "models": "Honda TRX 450ER",
     "from": 2006,
     "to": 2014
   },
   {
-    "models": "Honda CRF150 R-7,8,9,A,B,C,D,E,F,G,H,J,K,L,M",
-    "from": 2007,
-    "to": 2022
-  },
-  {
-    "models": "Honda CRF150 R-P",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF150 R-R",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF150 R-S",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF150 RB-7,8,9,A,B,C,D,E,F,G,H,J,K,L,M",
-    "from": 2007,
-    "to": 2022
-  },
-  {
-    "models": "Honda CRF150 RB-P",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF150 RB-R",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF150 RB-S",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF250 R-4,5,6,7,8,9",
+    "models": "Honda TRX 450R",
     "from": 2004,
-    "to": 2009
-  },
-  {
-    "models": "Honda CRF250 R-A,B,C,D",
-    "from": 2010,
     "to": 2013
   },
   {
-    "models": "Honda CRF250 R-E,F,G,H",
-    "from": 2014,
-    "to": 2017
-  },
-  {
-    "models": "Honda CRF250 R-J,K",
-    "from": 2018,
-    "to": 2019
-  },
-  {
-    "models": "Honda CRF250 R-L",
-    "from": 2020,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF250 R-M",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF250 R-N",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF250 R-P",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF250 R-R",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF250 R-S",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF250 RWE-S",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF250 RX-K",
-    "from": 2019,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF250 RX-L",
-    "from": 2020,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF250 RX-M",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF250 RX-N",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF250 RX-P",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF250 RX-R",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF250 RX-S",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF250 X-4,5,6,7,8.9,A,B,C,D,E,F,G,H,J,K",
-    "from": 2004,
-    "to": 2019
-  },
-  {
-    "models": "Honda CRF250 XRL",
-    "from": 2015,
-    "to": 2017
-  },
-  {
-    "models": "Honda CRF450 L-K,L",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "Honda CRF450 R-2",
-    "from": 2002,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 R-3,4,5,6,7,8",
-    "from": 2003,
-    "to": 2008
-  },
-  {
-    "models": "Honda CRF450 R-9,A,B,C",
-    "from": 2009,
-    "to": 2012
-  },
-  {
-    "models": "Honda CRF450 R-D,E,F,G",
-    "from": 2013,
-    "to": 2016
-  },
-  {
-    "models": "Honda CRF450 R-H,J,K,L",
-    "from": 2017,
-    "to": 2020
-  },
-  {
-    "models": "Honda CRF450 R-M",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 R-N",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 R-P",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 R-R",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 R-S",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 RL-M",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 RL-N",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 RL-P",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 RL-R",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 RL-S",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 RX-H,J,K,L",
-    "from": 2017,
-    "to": 2020
-  },
-  {
-    "models": "Honda CRF450 RX-M",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 RX-N",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 RX-P",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 RX-R",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 RX-S",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 RWE-K,L Works Edition",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "Honda CRF450 RWE-M Works Edition",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 RWE-N Works Edition",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 RWE-P Works Edition",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 RWE-R Works Edition",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 RWE-S Works Edition",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 X-5,6,7,8,9,A,B,C,D,E,F,G,H",
-    "from": 2005,
-    "to": 2017
-  },
-  {
-    "models": "Honda CRF450 X-K,L",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "Honda CRF450 X-M",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 X-N",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 X-P,R",
-    "from": 2023,
-    "to": 2024
-  },
-  {
-    "models": "Honda CRF450 X",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Honda CRF450 XRL",
-    "from": 2015,
-    "to": 2016
-  },
-  {
-    "models": "Husqvarna TC250",
+    "models": "Husqvarna TC 250",
     "from": 2009,
     "to": 2013
   },
@@ -455,9 +180,19 @@
     "to": ""
   },
   {
-    "models": "Husqvarna TE250",
+    "models": "Husqvarna TE 250",
     "from": 2010,
     "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 310",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE250 Meo Replica",
+    "from": 2011,
+    "to": ""
   },
   {
     "models": "Husqvarna TE250 R",
@@ -465,8 +200,8 @@
     "to": ""
   },
   {
-    "models": "Husqvarna TE250 Meo Replica",
-    "from": 2011,
+    "models": "Husqvarna TE310 R",
+    "from": 2013,
     "to": ""
   },
   {
@@ -476,16 +211,6 @@
   },
   {
     "models": "Husqvarna TXC250 R",
-    "from": 2013,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna TE310",
-    "from": 2011,
-    "to": 2014
-  },
-  {
-    "models": "Husqvarna TE310 R",
     "from": 2013,
     "to": ""
   },
