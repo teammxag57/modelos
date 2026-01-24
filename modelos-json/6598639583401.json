@@ -20,6 +20,11 @@
     "to": ""
   },
   {
+    "models": "Husqvarna TX 125",
+    "from": 2019,
+    "to": 2026
+  },
+  {
     "models": "KTM SX 105",
     "from": 2008,
     "to": 2011
@@ -57,11 +62,6 @@
   {
     "models": "Yamaha YZ 65",
     "from": 2018,
-    "to": 2026
-  },
-  {
-    "models": "Husqvarna TX 125",
-    "from": 2019,
     "to": 2026
   }
 ]
