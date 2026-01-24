@@ -25,6 +25,11 @@
     "to": 2026
   },
   {
+    "models": "Kawasaki KX 125",
+    "from": 2006,
+    "to": 2008
+  },
+  {
     "models": "KTM SX 105",
     "from": 2008,
     "to": 2011
@@ -32,7 +37,7 @@
   {
     "models": "KTM SX 125",
     "from": 2008,
-    "to": 2026
+    "to": 2019
   },
   {
     "models": "KTM SX 144",
@@ -42,12 +47,12 @@
   {
     "models": "KTM SX 150",
     "from": 2009,
-    "to": 2026
+    "to": 2019
   },
   {
     "models": "KTM SX 85",
     "from": 2009,
-    "to": 2024
+    "to": 2019
   },
   {
     "models": "KTM XC 105",
@@ -63,15 +68,5 @@
     "models": "Yamaha YZ 65",
     "from": 2018,
     "to": 2026
-  },
-  {
-    "models": "Kawasaki KX 125",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "KTM EXC 125",
-    "from": 2008,
-    "to": 2016
   }
 ]
