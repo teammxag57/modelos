@@ -1,12 +1,42 @@
 [
   {
+    "models": "HM-Moto CRE-F 250R ie",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "HM-Moto CRE-F 300R ie",
+    "from": 2012,
+    "to": 2013
+  },
+  {
     "models": "Honda CRF 250R",
     "from": 2010,
-    "to": 2019
+    "to": 2022
+  },
+  {
+    "models": "Honda CRF 250R Red Moto",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "Honda CRF 250RE",
+    "from": 2016,
+    "to": 2017
   },
   {
     "models": "Honda CRF 250RX",
     "from": 2019,
-    "to": ""
+    "to": 2021
+  },
+  {
+    "models": "Honda CRF 250RX Red Moto",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "Honda CRF 250RX Red Moto Special",
+    "from": 2021,
+    "to": 2022
   }
 ]
