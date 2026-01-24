@@ -68,5 +68,10 @@
     "models": "Yamaha YZ 65",
     "from": 2018,
     "to": 2026
+  },
+  {
+    "models": "Sherco SE 125",
+    "from": 2018,
+    "to": 2026
   }
 ]
