@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Kawasaki KFX 450R",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Kawasaki KLX 450R",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2011,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2006,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 450FX",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha XTZ Super Tener�",
+    "from": "",
+    "to": 2019
+  }
+]
