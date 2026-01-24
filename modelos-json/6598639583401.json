@@ -63,5 +63,10 @@
     "models": "Yamaha YZ 65",
     "from": 2018,
     "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 2006,
+    "to": 2008
   }
 ]
