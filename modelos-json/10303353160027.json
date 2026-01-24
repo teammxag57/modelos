@@ -1,0 +1,12 @@
+[
+  {
+    "models": "Honda CRF 250R",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Honda CRF 250RX",
+    "from": 2019,
+    "to": ""
+  }
+]
