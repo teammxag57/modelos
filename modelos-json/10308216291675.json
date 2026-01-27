@@ -1,0 +1,242 @@
+[
+  {
+    "models": "Gasgas MC 50",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 65",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 85",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 85 17/14",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC-E 2",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC-E 3",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas MC-E 5",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna EE 2",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna EE 3",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna EE 5",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 50",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 50 MINI",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TC 65",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 85 17/14",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 RALLYE FACTORY REPL.",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM 50 SUPERMOTO",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 125 SIX-DAYS",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 250 SIX-DAYS",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 300 SIX-DAYS",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 400 RACING",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 400 RACING SIX-DAYS",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 520 RACING",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 525 RACING SIX.DAYS",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 105",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 380",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 400 RACING",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 50",
+    "from": 2006,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 50 FACTORY EDITION",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 50 MINI",
+    "from": 2009,
+    "to": 2023
+  },
+  {
+    "models": "KTM SX 50 PRO SENIOR LC",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM SX 520 RACING",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 65",
+    "from": 2002,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM SX 85 17/14",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "KTM SXE 3",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM SXE 5",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "KTM SXS 125",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM SXS 540 RACING",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 65",
+    "from": 2009,
+    "to": ""
+  }
+]
