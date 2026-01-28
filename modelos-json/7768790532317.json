@@ -1,62 +1,22 @@
 [
   {
-    "models": "Honda CR 125R",
-    "from": 2002,
-    "to": 2007
-  },
-  {
-    "models": "Honda CR 250R",
-    "from": 2002,
-    "to": 2007
-  },
-  {
-    "models": "Kawasaki KX 125",
-    "from": 1996,
-    "to": 2008
-  },
-  {
-    "models": "Kawasaki KX 250",
-    "from": 1996,
-    "to": 2008
-  },
-  {
-    "models": "Kawasaki KX 500",
-    "from": 1996,
-    "to": 2004
-  },
-  {
-    "models": "Yamaha WR 426 F",
-    "from": 2001,
-    "to": 2002
-  },
-  {
     "models": "Yamaha YZ 125",
-    "from": 1996,
-    "to": 2003
+    "from": 2006,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 125X",
+    "from": 2020,
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250",
-    "from": 1996,
-    "to": 2003
+    "from": 2006,
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ 250 F",
-    "from": 2001,
-    "to": 2003
-  },
-  {
-    "models": "Yamaha YZ 400 F",
-    "from": 1998,
-    "to": 1999
-  },
-  {
-    "models": "Yamaha YZ 426 F",
-    "from": 2000,
-    "to": 2002
-  },
-  {
-    "models": "Yamaha YZ 450 F",
-    "from": 2003,
-    "to": 2003
+    "models": "Yamaha YZ 250X",
+    "from": 2016,
+    "to": 2025
   }
 ]
