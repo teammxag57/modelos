@@ -1,5 +1,10 @@
 [
   {
+    "models": "Gasgas MC 85",
+    "from": 2021,
+    "to": 2025
+  },
+  {
     "models": "Husqvarna TC 85",
     "from": 2015,
     "to": 2024
@@ -18,11 +23,6 @@
     "models": "KTM 85 SX",
     "from": 2018,
     "to": 2024
-  },
-  {
-    "models": "Gasgas MC 85",
-    "from": 2021,
-    "to": 2025
   },
   {
     "models": "Yamaha YZ 85",
