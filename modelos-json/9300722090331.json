@@ -1,66 +1,66 @@
 [
   {
-    "models": "Lower Roller",
+    "models": "Chain Roller - Lower",
     "from": "",
     "to": ""
   },
   {
-    "models": "Honda CR125R",
+    "models": "Honda CR 125",
     "from": 1999,
     "to": 2007
   },
   {
-    "models": "Honda CR250R",
+    "models": "Honda CR 250",
     "from": 1982,
     "to": 2004
   },
   {
-    "models": "Honda CR480R",
+    "models": "Honda CR 480R",
     "from": 1982,
     "to": 1983
   },
   {
-    "models": "Honda CRF250R",
+    "models": "Honda CRF 250R",
     "from": 2004,
-    "to": ""
+    "to": 2009
   },
   {
-    "models": "Honda CRF250X",
+    "models": "Honda CRF 250X",
     "from": 2004,
     "to": 2005
   },
   {
-    "models": "Honda CRF450R",
+    "models": "Honda CRF 450R",
     "from": 2002,
-    "to": 2004
+    "to": 2009
   },
   {
-    "models": "Yamaha WR250",
+    "models": "Yamaha WR 250",
     "from": 1991,
     "to": 1997
   },
   {
-    "models": "Yamaha WR250F",
+    "models": "Yamaha WR 250F",
     "from": 2001,
     "to": 2019
   },
   {
-    "models": "Yamaha WR400F",
-    "from": 1999,
+    "models": "Yamaha WR 400F",
+    "from": 1998,
     "to": 2000
   },
   {
-    "models": "Yamaha WR426F",
+    "models": "Yamaha WR 426F",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "Yamaha WR450F",
+    "models": "Yamaha WR 450F",
     "from": 2003,
     "to": 2019
   },
   {
-    "models": "Yamaha WR500",
+    "models": "Yamaha WR 500",
     "from": 1992,
     "to": 1993
   },
@@ -75,133 +75,68 @@
     "to": 2009
   },
   {
-    "models": "Yamaha YZ125",
+    "models": "Yamaha YZ 125",
     "from": 1987,
-    "to": 2022
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ125X",
+    "models": "Yamaha YZ 125X",
     "from": 2020,
-    "to": 2022
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ250",
+    "models": "Yamaha YZ 250",
     "from": 1987,
-    "to": 2022
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ250F",
+    "models": "Yamaha YZ 250F",
     "from": 2001,
     "to": 2018
   },
   {
-    "models": "Yamaha YZ250FX",
+    "models": "Yamaha YZ 250FX",
     "from": 2015,
     "to": 2019
   },
   {
-    "models": "Yamaha YZ250X",
+    "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2022
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ400F",
+    "models": "Yamaha YZ 400F",
     "from": 1998,
     "to": 1999
   },
   {
-    "models": "Yamaha YZ426F",
+    "models": "Yamaha YZ 426F",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "Yamaha YZ450F",
+    "models": "Yamaha YZ 450F",
     "from": 2003,
     "to": 2017
   },
   {
-    "models": "Yamaha YZ450FX",
+    "models": "Yamaha YZ 450FX",
     "from": 2016,
     "to": 2018
   },
   {
-    "models": "Yamaha YZ490",
+    "models": "Yamaha YZ 490",
     "from": 1987,
     "to": 1990
   },
   {
-    "models": "Upper Roler",
+    "models": "Chain Roller - Upper",
     "from": "",
     "to": ""
   },
   {
-    "models": "Honda CR125R",
-    "from": 2000,
-    "to": 2007
-  },
-  {
-    "models": "Honda CR250R",
-    "from": 1982,
-    "to": 2001
-  },
-  {
-    "models": "Honda CR480R",
-    "from": 1982,
-    "to": 1983
-  },
-  {
-    "models": "Honda CRF250R",
-    "from": 2004,
-    "to": 2009
-  },
-  {
-    "models": "Honda CRF450R",
-    "from": 2002,
-    "to": 2009
-  },
-  {
-    "models": "Honda CRF450X",
+    "models": "Honda CRF 450X",
     "from": 2005,
     "to": 2017
-  },
-  {
-    "models": "Yamaha WR250",
-    "from": 1991,
-    "to": 1993
-  },
-  {
-    "models": "Yamaha WR400F",
-    "from": 1998,
-    "to": ""
-  },
-  {
-    "models": "Yamaha WR500",
-    "from": 1992,
-    "to": 1993
-  },
-  {
-    "models": "Yamaha YFM660R Raptor",
-    "from": 2001,
-    "to": 2005
-  },
-  {
-    "models": "Yamaha YFZ350 Banshee",
-    "from": 1987,
-    "to": 2009
-  },
-  {
-    "models": "Yamaha YZ125",
-    "from": 1989,
-    "to": 1992
-  },
-  {
-    "models": "Yamaha YZ250",
-    "from": 1987,
-    "to": 1992
-  },
-  {
-    "models": "Yamaha YZ490",
-    "from": 1987,
-    "to": 1990
   }
 ]
