@@ -22,7 +22,7 @@
   {
     "models": "Honda CRF 250R",
     "from": 2004,
-    "to": 2009
+    "to": ""
   },
   {
     "models": "Honda CRF 250X",
@@ -32,7 +32,7 @@
   {
     "models": "Honda CRF 450R",
     "from": 2002,
-    "to": 2009
+    "to": 2004
   },
   {
     "models": "Yamaha WR 250",
@@ -46,7 +46,7 @@
   },
   {
     "models": "Yamaha WR 400F",
-    "from": 1998,
+    "from": 1999,
     "to": 2000
   },
   {
@@ -135,8 +135,73 @@
     "to": ""
   },
   {
+    "models": "Honda CR 125",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 250",
+    "from": 1982,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR 480R",
+    "from": 1982,
+    "to": 1983
+  },
+  {
+    "models": "Honda CRF 250R",
+    "from": 2004,
+    "to": 2009
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 2002,
+    "to": 2009
+  },
+  {
     "models": "Honda CRF 450X",
     "from": 2005,
     "to": 2017
+  },
+  {
+    "models": "Yamaha WR 250",
+    "from": 1991,
+    "to": 1993
+  },
+  {
+    "models": "Yamaha WR 400F",
+    "from": 1998,
+    "to": ""
+  },
+  {
+    "models": "Yamaha WR 500",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "Yamaha YFM660R Raptor",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "Yamaha YFZ350 Banshee",
+    "from": 1987,
+    "to": 2009
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1989,
+    "to": 1992
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1987,
+    "to": 1992
+  },
+  {
+    "models": "Yamaha YZ 490",
+    "from": 1987,
+    "to": 1990
   }
 ]
