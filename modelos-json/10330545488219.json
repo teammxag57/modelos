@@ -1,0 +1,57 @@
+[
+  {
+    "models": "GasGas EC 250",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GasGas EC 300",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 300 Jarvis Edition",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna TE 300 RockStar Edition",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 250 Six Days",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 300 Erzberg Edition",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 300 Six Days",
+    "from": 2022,
+    "to": 2023
+  }
+]
