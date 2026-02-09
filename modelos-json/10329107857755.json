@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Fantic XX 450F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2024,
+    "to": 2026
+  }
+]
