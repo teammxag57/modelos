@@ -2,46 +2,41 @@
   {
     "models": "Gasgas MC 50",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Gasgas MC E 3",
+    "models": "Gasgas MC-E 3",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Gasgas MC E 5",
+    "models": "Gasgas MC-E 5",
     "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna EE 3",
-    "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna EE 5",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 50",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Ktm SX 50",
+    "models": "KTM SX 50",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Ktm SX-E 3",
+    "models": "KTM SXE 3",
     "from": 2023,
     "to": 2025
   },
   {
-    "models": "Ktm SX-E 5",
+    "models": "KTM SXE 5",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   }
 ]
