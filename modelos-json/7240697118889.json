@@ -1,192 +1,247 @@
 [
   {
-    "models": "HONDA CR R, R Expert 85",
+    "models": "Arctic Cat DVX 400",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Honda ATC X 200",
+    "from": 1983,
+    "to": 1987
+  },
+  {
+    "models": "Honda CR 85",
     "from": 2003,
     "to": 2012
   },
   {
-    "models": "HONDA CR 150F",
+    "models": "Honda CRF 150R",
     "from": 2007,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "KAWASAKI KFX 400",
-    "from": 2002,
-    "to": 2005
-  },
-  {
-    "models": "KAWASAKI KFX 450",
-    "from": 2007,
-    "to": 2015
-  },
-  {
-    "models": "KAWASAKI KLX , L 140",
-    "from": 2008,
-    "to": 2024
-  },
-  {
-    "models": "KAWASAKI KSF Mojave 250",
-    "from": 1987,
-    "to": 2002
-  },
-  {
-    "models": "KAWASAKI KX 100",
-    "from": 1988,
-    "to": 1996
-  },
-  {
-    "models": "KAWASAKI KX 100",
-    "from": 1997,
-    "to": 2021
-  },
-  {
-    "models": "KAWASAKI KX 112",
-    "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "KAWASAKI KX 80",
-    "from": 1988,
-    "to": 1996
-  },
-  {
-    "models": "KAWASAKI KX 80",
-    "from": 1997,
+    "models": "Honda TRX EX 300",
+    "from": 1993,
     "to": 2000
   },
   {
-    "models": "KAWASAKI KX 85",
+    "models": "Honda TRX EX Sportrax 250",
     "from": 2001,
-    "to": 2024
-  },
-  {
-    "models": "KAWASAKI KX II 85",
-    "from": 2001,
-    "to": 2024
-  },
-  {
-    "models": "KAWASAKI KXF Tecate 250",
-    "from": 1987,
-    "to": 1988
-  },
-  {
-    "models": "KAWASAKI KXT Tecate 250",
-    "from": 1987,
-    "to": 1988
-  },
-  {
-    "models": "SUZUKI LT 230",
-    "from": 1986,
-    "to": 1993
-  },
-  {
-    "models": "SUZUKI LT 250",
-    "from": 1989,
-    "to": 1990
-  },
-  {
-    "models": "SUZUKI LT-Z Quad Sport 400",
-    "from": 2002,
-    "to": 2019
-  },
-  {
-    "models": "SUZUKI RM 100",
-    "from": 2003,
-    "to": 2003
-  },
-  {
-    "models": "SUZUKI RM 500",
-    "from": 1988,
-    "to": 1989
-  },
-  {
-    "models": "TM Junior 80",
-    "from": 1996,
-    "to": 2000
-  },
-  {
-    "models": "YAMAHA YFM 4x4 Grizzly 600",
-    "from": 1998,
-    "to": 2001
-  },
-  {
-    "models": "YAMAHA YFM FWAP 4x4 Grizzly 660",
-    "from": 2002,
     "to": 2008
   },
   {
-    "models": "YAMAHA YFM FXG-FXM Wolverine 350",
-    "from": 1995,
-    "to": 2011
-  },
-  {
-    "models": "YAMAHA YFM R Raptor 350",
-    "from": 2004,
+    "models": "Honda TRX EX Sportrax 300",
+    "from": 2001,
     "to": 2014
   },
   {
-    "models": "YAMAHA YFM R Raptor 350",
-    "from": 2004,
+    "models": "Honda TRX EX Sportrax 400",
+    "from": 2001,
     "to": 2014
   },
   {
-    "models": "YAMAHA YFM Raptor 250",
+    "models": "Honda TRX EX Sportrax 450",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "Honda TRX Fourtrax (rear disc) 420",
+    "from": 2009,
+    "to": 2025
+  },
+  {
+    "models": "Honda TRX Fourtrax (rear disc) 520",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Honda TRX Fourtrax (rear drum) 420",
+    "from": 2009,
+    "to": 2025
+  },
+  {
+    "models": "Honda TRX Fourtrax (rear drum) 520",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Honda TRX Fourtrax 500",
+    "from": 2012,
+    "to": 2021
+  },
+  {
+    "models": "Honda TRX Fourtrax EX 400",
+    "from": 1999,
+    "to": 2014
+  },
+  {
+    "models": "Honda TRX X 250",
+    "from": 2008,
+    "to": 2013
+  },
+  {
+    "models": "Honda TRX X 300",
     "from": 2009,
     "to": 2014
   },
   {
-    "models": "YAMAHA YFM RN Raptor 660",
-    "from": 2001,
-    "to": 2009
+    "models": "Honda TRX X 400",
+    "from": 2009,
+    "to": 2014
   },
   {
-    "models": "YAMAHA YFM RN Raptor 660",
-    "from": 2001,
-    "to": 2009
-  },
-  {
-    "models": "YAMAHA YFM XG,XH Warrior 350",
+    "models": "Kawasaki KEF Lakota 300",
     "from": 1995,
-    "to": 1996
+    "to": 2004
   },
   {
-    "models": "YAMAHA YFM XT, XU Warrior 350",
+    "models": "Kawasaki KFX 400",
+    "from": 2002,
+    "to": 2005
+  },
+  {
+    "models": "Kawasaki KFX 450",
+    "from": 2007,
+    "to": 2015
+  },
+  {
+    "models": "Kawasaki KLX , L 140",
+    "from": 2008,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KSF Mojave 250",
+    "from": 1987,
+    "to": 2002
+  },
+  {
+    "models": "Kawasaki KX 100",
+    "from": 1988,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KX 112",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 80",
+    "from": 1988,
+    "to": 2000
+  },
+  {
+    "models": "Kawasaki KX 85",
+    "from": 2001,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KXF Tecate 250",
     "from": 1987,
     "to": 1988
   },
   {
-    "models": "YAMAHA YFS R Blaster 200",
+    "models": "Kawasaki KXT Tecate 250",
+    "from": 1987,
+    "to": 1988
+  },
+  {
+    "models": "Suzuki LT 230",
+    "from": 1986,
+    "to": 1993
+  },
+  {
+    "models": "Suzuki LT 250",
+    "from": 1989,
+    "to": 1990
+  },
+  {
+    "models": "Suzuki LT-Z Quad Sport 400",
+    "from": 2002,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki RM 100",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "Suzuki RM 500",
+    "from": 1988,
+    "to": 1989
+  },
+  {
+    "models": "Tm Junior 80",
+    "from": 1996,
+    "to": 2000
+  },
+  {
+    "models": "Yamaha YFM 4x4 Grizzly 600",
+    "from": 1998,
+    "to": 2001
+  },
+  {
+    "models": "Yamaha YFM FWAP 4x4 Grizzly 660",
+    "from": 2002,
+    "to": 2008
+  },
+  {
+    "models": "Yamaha YFM FXG-FXM Wolverine 350",
+    "from": 1995,
+    "to": 2011
+  },
+  {
+    "models": "Yamaha YFM R Raptor 350",
+    "from": 2004,
+    "to": 2014
+  },
+  {
+    "models": "Yamaha YFM Raptor 250",
+    "from": 2009,
+    "to": 2014
+  },
+  {
+    "models": "Yamaha YFM RN Raptor 660",
+    "from": 2001,
+    "to": 2009
+  },
+  {
+    "models": "Yamaha YFM XG,XH Warrior 350",
+    "from": 1995,
+    "to": 1996
+  },
+  {
+    "models": "Yamaha YFM XT, XU Warrior 350",
+    "from": 1987,
+    "to": 1988
+  },
+  {
+    "models": "Yamaha YFS R Blaster 200",
     "from": 2003,
     "to": 2006
   },
   {
-    "models": "YAMAHA YFZ Banshee 350",
+    "models": "Yamaha YFZ Banshee 350",
     "from": 1987,
-    "to": 1989
-  },
-  {
-    "models": "YAMAHA YFZ Banshee 350",
-    "from": 1990,
     "to": 2006
   },
   {
-    "models": "YAMAHA YFZ S 450",
+    "models": "Yamaha YFZ S 450",
     "from": 2004,
     "to": 2005
   },
   {
-    "models": "YAMAHA YZ 65",
+    "models": "Yamaha YZ 65",
     "from": 2019,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "YAMAHA YZ 80",
+    "models": "Yamaha YZ 80",
     "from": 1993,
     "to": 2001
   },
   {
-    "models": "YAMAHA YZ 85",
+    "models": "Yamaha YZ 85",
     "from": 2002,
-    "to": 2024
+    "to": 2026
   }
 ]
