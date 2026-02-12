@@ -1,21 +1,21 @@
 [
   {
-    "models": "YAMAHA TT-R 125",
+    "models": "Yamaha TT-R 125",
     "from": 2000,
     "to": 2026
   },
   {
-    "models": "YAMAHA YZ 65",
+    "models": "Yamaha YZ 65",
     "from": 2019,
     "to": 2026
   },
   {
-    "models": "YAMAHA YZ 80",
+    "models": "Yamaha YZ 80",
     "from": 1986,
-    "to": 2021
+    "to": 2001
   },
   {
-    "models": "YAMAHA YZ 85",
+    "models": "Yamaha YZ 85",
     "from": 2002,
     "to": 2026
   }
