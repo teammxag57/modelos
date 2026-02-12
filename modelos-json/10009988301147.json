@@ -1,373 +1,318 @@
 [
   {
-    "models": "Fantic CABALLERO 125 Reg. Comp",
-    "from": 2008,
-    "to": 2008
-  },
-  {
-    "models": "Fantic CABALLERO 125 Reg. Comp Racing",
+    "models": "Ajp PR5 Enduro 250",
     "from": 2009,
     "to": 2009
   },
   {
-    "models": "Fantic CABALLERO 50 Reg. Comp Racing",
+    "models": "Ajp PR5 Supermotard 250",
     "from": 2009,
     "to": 2009
   },
   {
-    "models": "Fantic CABALLERO 50 Reg. Mini",
+    "models": "Fantic MX 50",
     "from": 2008,
-    "to": 2009
-  },
-  {
-    "models": "Fantic CABALLERO 65 Reg. Mini",
-    "from": 2008,
-    "to": 2009
-  },
-  {
-    "models": "Fantic CABALLERO 85 Reg. Mini",
-    "from": 2008,
-    "to": 2009
-  },
-  {
-    "models": "Gas Gas EC 125",
-    "from": 2000,
-    "to": 2009
-  },
-  {
-    "models": "Gas Gas EC 200",
-    "from": 2000,
-    "to": 2009
-  },
-  {
-    "models": "Gas Gas EC 250",
-    "from": 2000,
-    "to": 2009
-  },
-  {
-    "models": "Gas Gas EC 300",
-    "from": 2000,
-    "to": 2009
-  },
-  {
-    "models": "Gas Gas EC 400",
-    "from": 2000,
-    "to": 2009
-  },
-  {
-    "models": "Gas Gas EC 450",
-    "from": 2000,
-    "to": 2009
-  },
-  {
-    "models": "Gas Gas FSE 450",
-    "from": 2004,
-    "to": 2009
-  },
-  {
-    "models": "Gas Gas MC 125",
-    "from": 2002,
-    "to": 2005
-  },
-  {
-    "models": "Gas Gas MC 250",
-    "from": 2002,
     "to": 2008
   },
   {
-    "models": "Gas Gas Pampera 400",
-    "from": 2006,
-    "to": 2009
+    "models": "Fantic MX 65",
+    "from": 2008,
+    "to": 2008
   },
   {
-    "models": "Gas Gas SM 125",
-    "from": 2002,
+    "models": "Fantic MX 85",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "Gasgas EC 125",
+    "from": 2000,
     "to": 2006
   },
   {
-    "models": "Gas Gas SM 250",
+    "models": "Gasgas EC 200",
+    "from": 2000,
+    "to": 2009
+  },
+  {
+    "models": "Gasgas EC 250",
+    "from": 2000,
+    "to": 2011
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2000,
+    "to": 2011
+  },
+  {
+    "models": "Gasgas EC fse 250",
+    "from": 2002,
+    "to": 2011
+  },
+  {
+    "models": "Gasgas EC fse 400",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "Gasgas EC fse 450",
+    "from": 2003,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC FSR 450",
+    "from": 2007,
+    "to": 2016
+  },
+  {
+    "models": "Gasgas EC fsr 515",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "Gasgas EC Hobby 200",
+    "from": 2007,
+    "to": 2016
+  },
+  {
+    "models": "Gasgas MC 125",
+    "from": 2003,
+    "to": 2013
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2000,
+    "to": 2013
+  },
+  {
+    "models": "Gasgas Pampera 400",
     "from": 2006,
     "to": 2009
   },
   {
-    "models": "Gas Gas SM 400 FSE",
-    "from": 2002,
-    "to": 2009
+    "models": "Hm CRE Enduro 125",
+    "from": 1995,
+    "to": 2001
   },
   {
-    "models": "Gas Gas SM 450",
-    "from": 2004,
-    "to": 2009
+    "models": "Hm CRE Enduro 250",
+    "from": 1995,
+    "to": 2001
+  },
+  {
+    "models": "Hm CRE Supermotard 250",
+    "from": 2003,
+    "to": 2003
   },
   {
     "models": "Honda CR 125",
-    "from": 1996,
-    "to": 2001
-  },
-  {
-    "models": "Honda CR 125 R",
-    "from": 1987,
-    "to": 1995
-  },
-  {
-    "models": "Honda CR 250 R",
     "from": 1987,
     "to": 2001
   },
   {
-    "models": "Honda CR 500 R",
+    "models": "Honda CR 250",
     "from": 1987,
     "to": 2001
   },
   {
-    "models": "Honda CR 80 R",
+    "models": "Honda CR 500",
+    "from": 1987,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR 80",
     "from": 1992,
-    "to": 1995
+    "to": 2002
   },
   {
-    "models": "Honda CR 85 R2",
+    "models": "Honda CR 85",
     "from": 2003,
-    "to": 2008
+    "to": 2012
   },
   {
-    "models": "Honda CRE 125",
-    "from": 1996,
-    "to": 2001
+    "models": "Honda CRF L 230",
+    "from": 2008,
+    "to": 2010
   },
   {
-    "models": "Honda CRE 125 R",
-    "from": 1990,
-    "to": 1995
+    "models": "Honda CRF M 230",
+    "from": 2009,
+    "to": 2012
   },
   {
-    "models": "Honda CRE 250",
-    "from": 1996,
-    "to": 2001
-  },
-  {
-    "models": "Honda CRE 250 R",
-    "from": 1990,
-    "to": 1995
-  },
-  {
-    "models": "Honda CRE 500",
-    "from": 1996,
-    "to": 2001
-  },
-  {
-    "models": "Honda CRE 500 R",
-    "from": 1990,
-    "to": 1995
-  },
-  {
-    "models": "Honda CRE 80",
+    "models": "Honda XLR R SPL 250",
     "from": 1994,
-    "to": 1998
+    "to": 1994
   },
   {
-    "models": "Honda CRM 250 2",
-    "from": 1991,
-    "to": 1993
-  },
-  {
-    "models": "Honda XR 250 L",
-    "from": 1996,
-    "to": 1997
-  },
-  {
-    "models": "Honda XR 250 R",
+    "models": "Honda XR 400R",
     "from": 1996,
     "to": 2004
   },
   {
-    "models": "Honda XR 250 R/L",
-    "from": 1991,
-    "to": 1995
-  },
-  {
-    "models": "Honda XR 400 R",
-    "from": 1996,
-    "to": 2004
-  },
-  {
-    "models": "Honda XR 400 SM",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "Honda XR 600 R",
+    "models": "Honda XR 600R",
     "from": 1991,
     "to": 2000
   },
   {
-    "models": "Honda XR 650 L",
-    "from": 1993,
-    "to": 2025
+    "models": "Honda XR 650R",
+    "from": 2000,
+    "to": 2011
   },
   {
-    "models": "Honda XR 650 R",
-    "from": 2001,
-    "to": 2009
+    "models": "Honda XR Supermotard 400",
+    "from": 2000,
+    "to": 2003
   },
   {
-    "models": "Honda XR 650 SM",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "Husqvarna WXE 125",
-    "from": 2007,
-    "to": 2008
-  },
-  {
-    "models": "Kawasaki KLX 250 S",
-    "from": 2008,
-    "to": 2020
-  },
-  {
-    "models": "Kawasaki KLX 250 S (USA model)",
-    "from": 2009,
-    "to": 2014
+    "models": "Kawasaki KLX 250",
+    "from": 1998,
+    "to": 2018
   },
   {
     "models": "Kawasaki KLX 300",
-    "from": 2021,
+    "from": 1996,
     "to": 2025
   },
   {
-    "models": "Kawasaki KLX 300 R",
+    "models": "Kawasaki KLX Camo 250",
+    "from": 2018,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KLX R 300",
     "from": 1997,
-    "to": 2025
+    "to": 2024
   },
   {
-    "models": "Kawasaki KLX 300 SM",
-    "from": 2021,
-    "to": 2025
-  },
-  {
-    "models": "Kawasaki KLX 400 R",
+    "models": "Kawasaki KLX R 400",
     "from": 2003,
     "to": 2004
   },
   {
-    "models": "Kawasaki KX 125 K2-K5/L1-L4/M1-M8F",
+    "models": "Kawasaki KLX R D1 650",
+    "from": 1996,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki KX 125",
     "from": 1995,
     "to": 2008
   },
   {
-    "models": "Kawasaki KX 250 K2-3",
+    "models": "Kawasaki KX 250",
     "from": 1995,
     "to": 2008
   },
   {
-    "models": "Kawasaki KX 500 E8-E16",
+    "models": "Kawasaki KX 500",
     "from": 1996,
     "to": 2004
   },
   {
-    "models": "Sherco Enduro 2.5i 250 F/R",
-    "from": 2007,
-    "to": 2011
-  },
-  {
-    "models": "Sherco Enduro 3.0i 300 F",
-    "from": 2010,
-    "to": 2011
-  },
-  {
-    "models": "Sherco Enduro 4.5i 450 F",
+    "models": "Sherco SEF 450",
     "from": 2004,
-    "to": 2011
-  },
-  {
-    "models": "Sherco Enduro 5.1i 510 F",
-    "from": 2007,
-    "to": 2011
-  },
-  {
-    "models": "Sherco S'MOTARD 4.5i 450",
-    "from": 2004,
-    "to": 2010
-  },
-  {
-    "models": "Sherco SX 2.5i-F 250",
-    "from": 2009,
-    "to": 2010
-  },
-  {
-    "models": "Suzuki DR-Z 400 E - Electric Start Models",
-    "from": 2000,
-    "to": 2007
-  },
-  {
-    "models": "Suzuki DR-Z 400 Kick Start Models",
-    "from": 2000,
     "to": 2004
   },
   {
-    "models": "Suzuki DR-Z 400 S- Electric Start Models",
-    "from": 2000,
-    "to": 2024
-  },
-  {
-    "models": "Suzuki DR-Z 400 SM - Supermoto",
+    "models": "Suzuki DR-Z SM 400",
     "from": 2005,
     "to": 2024
-  },
-  {
-    "models": "Suzuki DR-Z4 S 400 DR-Z4 S",
-    "from": 2025,
-    "to": 2025
-  },
-  {
-    "models": "Suzuki DR-Z4 SM 400 DR-Z4 SM",
-    "from": 2025,
-    "to": 2025
   },
   {
     "models": "Suzuki RM 125",
     "from": 1996,
-    "to": 2012
+    "to": 2009
   },
   {
     "models": "Suzuki RM 250",
     "from": 1996,
-    "to": 2008
+    "to": 2009
   },
   {
-    "models": "Tm All Models 01-04 ALL except 85cc models",
+    "models": "Suzuki RMX 250",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "Tm EN Enduro 125",
     "from": 2001,
     "to": 2004
   },
   {
-    "models": "Tm MX 125 2T",
+    "models": "Tm EN Enduro 250",
     "from": 2001,
     "to": 2004
   },
   {
-    "models": "Tm MX 250 2T",
+    "models": "Tm EN Enduro 300",
     "from": 2001,
     "to": 2004
   },
   {
-    "models": "Tm MX 300 2T",
+    "models": "Tm EN F Enduro 250",
     "from": 2001,
     "to": 2004
   },
   {
-    "models": "Tm MX 450 Fi (4T)",
+    "models": "Tm EN F Enduro 450",
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "Tm EN F Enduro 530",
     "from": 2001,
     "to": 2004
   },
   {
-    "models": "Tm MX 530 Fi (4T)",
+    "models": "Tm F 400",
+    "from": 2001,
+    "to": 2001
+  },
+  {
+    "models": "Tm F Enduro 400",
+    "from": 2001,
+    "to": 2001
+  },
+  {
+    "models": "Tm MX 125",
     "from": 2001,
     "to": 2004
   },
   {
-    "models": "Tm MX 85 2T/Junior",
-    "from": 2005,
-    "to": 2010
+    "models": "Tm MX 250",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "Tm MX 300",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "Tm MX 85",
+    "from": 2001,
+    "to": 2012
+  },
+  {
+    "models": "Tm MX F 250",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "Tm MX F 450",
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "Tm MX F 530",
+    "from": 2001,
+    "to": 2004
+  },
+  {
+    "models": "Tm SMF F 400",
+    "from": 2002,
+    "to": 2002
   },
   {
     "models": "Tm SMR 125",
@@ -375,24 +320,39 @@
     "to": 2005
   },
   {
-    "models": "Tm SMR 450 F",
-    "from": 2005,
-    "to": 2005
+    "models": "Tm SMR F 400",
+    "from": 2003,
+    "to": 2003
   },
   {
-    "models": "Tm SMR 530 F",
-    "from": 2005,
-    "to": 2005
+    "models": "Tm SMR F 450",
+    "from": 2004,
+    "to": 2004
   },
   {
-    "models": "Tm SMX 85 Junior",
-    "from": 2008,
-    "to": 2010
+    "models": "Tm SMR F 530",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "Tm SMX F 450",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "Tm SMX F 600",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "Tm SMX F 660",
+    "from": 2004,
+    "to": 2004
   },
   {
     "models": "Yamaha WR 125",
     "from": 1998,
-    "to": 1998
+    "to": 2002
   },
   {
     "models": "Yamaha WR 250",
@@ -400,17 +360,17 @@
     "to": 2002
   },
   {
-    "models": "Yamaha WR 250 F",
+    "models": "Yamaha WR 250F",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "Yamaha WR 400 F",
+    "models": "Yamaha WR 400F",
     "from": 1999,
     "to": 2000
   },
   {
-    "models": "Yamaha WR 426 F",
+    "models": "Yamaha WR 426F",
     "from": 2001,
     "to": 2002
   },
@@ -425,17 +385,17 @@
     "to": 2002
   },
   {
-    "models": "Yamaha YZ 250 F",
+    "models": "Yamaha YZ 250F",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "Yamaha YZ 400 F",
+    "models": "Yamaha YZ 400F",
     "from": 1999,
     "to": 1999
   },
   {
-    "models": "Yamaha YZ 426 F",
+    "models": "Yamaha YZ 426F",
     "from": 2000,
     "to": 2002
   }
