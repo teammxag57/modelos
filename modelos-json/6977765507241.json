@@ -1,72 +1,72 @@
 [
   {
-    "models": "FANTIC Rally 450",
+    "models": "Fantic XE 125",
     "from": 2022,
     "to": 2022
   },
   {
-    "models": "FANTIC XE 125",
+    "models": "Fantic XE 250F",
     "from": 2022,
     "to": 2022
   },
   {
-    "models": "FANTIC XEF 250",
+    "models": "Fantic XE 450F Rally",
     "from": 2022,
     "to": 2022
   },
   {
-    "models": "FANTIC XX 125",
+    "models": "Fantic XX 125",
     "from": 2020,
     "to": 2021
   },
   {
-    "models": "YAMAHA WR F 450",
-    "from": 2016,
-    "to": 2020
-  },
-  {
-    "models": "YAMAHA WR F Efi 250",
+    "models": "Yamaha WR 250F",
     "from": 2018,
     "to": 2021
   },
   {
-    "models": "YAMAHA WR F Enduro GP 250",
+    "models": "Yamaha WR 450F",
+    "from": 2016,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha WR F Enduro GP 250",
     "from": 2018,
     "to": 2018
   },
   {
-    "models": "YAMAHA YZ 125",
+    "models": "Yamaha YZ 125",
     "from": 2008,
     "to": 2021
   },
   {
-    "models": "YAMAHA YZ 250",
+    "models": "Yamaha YZ 250",
     "from": 2008,
     "to": 2021
   },
   {
-    "models": "YAMAHA YZ F 250",
+    "models": "Yamaha YZ 250F",
     "from": 2007,
     "to": 2020
   },
   {
-    "models": "YAMAHA YZ F 450",
-    "from": 2008,
-    "to": 2019
-  },
-  {
-    "models": "YAMAHA YZ FX 250",
+    "models": "Yamaha YZ 250FX",
     "from": 2015,
     "to": 2021
   },
   {
-    "models": "YAMAHA YZ FX 450",
-    "from": 2016,
-    "to": 2020
-  },
-  {
-    "models": "YAMAHA YZ X 250",
+    "models": "Yamaha YZ 250X",
     "from": 2016,
     "to": 2022
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2008,
+    "to": 2019
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2016,
+    "to": 2020
   }
 ]
