@@ -1,107 +1,187 @@
 [
   {
-    "models": "HONDA CR R 125",
-    "from": 2002,
-    "to": 2007
-  },
-  {
-    "models": "HONDA CR R 250",
-    "from": 2002,
-    "to": 2007
-  },
-  {
-    "models": "HONDA CRE 125",
-    "from": 2002,
-    "to": 2007
-  },
-  {
-    "models": "HONDA CRE 250",
-    "from": 2002,
-    "to": 2007
-  },
-  {
-    "models": "HONDA CRE F 250",
+    "models": "Hm CR Supermotard 125",
     "from": 2004,
-    "to": 2004
+    "to": 2006
   },
   {
-    "models": "HONDA CRE F 450",
+    "models": "Hm CRE Enduro 125",
     "from": 2002,
     "to": 2006
   },
   {
-    "models": "HONDA CRE RR 125",
+    "models": "Hm CRE Enduro 250",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "Hm CRE F Enduro 250",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "Hm CRE F Enduro 450",
+    "from": 2002,
+    "to": 2013
+  },
+  {
+    "models": "Hm CRE Supermotard 250",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Hm CRE X Enduro 250",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "Hm CRE X Enduro 450",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "Hm CRF Supermotard 250",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Hm CRF Supermotard 450",
+    "from": 2002,
+    "to": 2006
+  },
+  {
+    "models": "Hm CRM X Supermotard 125",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "Hm CRM X Supermotard 250",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "Hm CRM X Supermotard 450",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "Hm CRM X Supermotard 500",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "Honda CR 125",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 250",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "Honda CRE 125",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "Honda CRE 250",
+    "from": 2002,
+    "to": 2007
+  },
+  {
+    "models": "Honda CRE F 250",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "Honda CRE F 450",
+    "from": 2002,
+    "to": 2006
+  },
+  {
+    "models": "Honda CRE RR 125",
     "from": 2011,
     "to": 2011
   },
   {
-    "models": "HONDA CRF F 250",
-    "from": 2019,
-    "to": 2024
-  },
-  {
-    "models": "HONDA CRF L 450",
-    "from": 2019,
-    "to": 2021
-  },
-  {
-    "models": "HONDA CRF R 150",
+    "models": "Honda CRF 150R",
     "from": 2007,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "HONDA CRF R 250",
+    "models": "Honda CRF 250R",
     "from": 2004,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "HONDA CRF R 450",
-    "from": 2002,
-    "to": 2024
-  },
-  {
-    "models": "HONDA CRF R-S 450",
-    "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "HONDA CRF Rx 250",
+    "models": "Honda CRF 250RX",
     "from": 2019,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "HONDA CRF RX 450",
-    "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "HONDA CRF X 250",
+    "models": "Honda CRF 250X",
     "from": 2004,
     "to": 2019
   },
   {
-    "models": "HONDA CRF X 450",
+    "models": "Honda CRF 450R",
+    "from": 2002,
+    "to": 2026
+  },
+  {
+    "models": "Honda CRF 450RS",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Honda CRF 450RX",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "Honda CRF 450X",
     "from": 2005,
     "to": 2024
   },
   {
-    "models": "TM MX 85",
-    "from": 2013,
+    "models": "Honda CRF F 250",
+    "from": 2019,
     "to": 2024
   },
   {
-    "models": "TM MX 85",
-    "from": 2013,
+    "models": "Honda CRF L 450",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "Kove MX 250",
+    "from": 2024,
     "to": 2024
   },
   {
-    "models": "TM SM 85",
-    "from": 2018,
-    "to": 2019
+    "models": "Kove MX 450",
+    "from": 2024,
+    "to": 2024
   },
   {
-    "models": "TM SM 85",
-    "from": 2018,
-    "to": 2019
+    "models": "Kove MX Enduro 250",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "Kove MX Off Road 250",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Kove Rally 450",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Tm MX 85",
+    "from": 2013,
+    "to": 2025
   }
 ]
