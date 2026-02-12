@@ -1,8 +1,18 @@
 [
   {
+    "models": "Kawasaki KL 250",
+    "from": 2000,
+    "to": 2002
+  },
+  {
     "models": "Kawasaki KX 100",
     "from": 1997,
     "to": 2021
+  },
+  {
+    "models": "Kawasaki KX 112",
+    "from": 2022,
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 80",
@@ -12,16 +22,16 @@
   {
     "models": "Kawasaki KX 85",
     "from": 2001,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Suzuki RM 100",
     "from": 2003,
-    "to": ""
+    "to": 2003
   },
   {
     "models": "Suzuki RM 85",
     "from": 2005,
-    "to": 2024
+    "to": 2026
   }
 ]
