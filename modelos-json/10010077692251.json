@@ -1,78 +1,43 @@
 [
   {
-    "models": "Cobra CX 50 Big Wheel",
+    "models": "Cobra CX Big Wheel 50",
     "from": 2010,
-    "to": 2012
+    "to": 2014
   },
   {
-    "models": "Cobra CX 50 JR",
+    "models": "Cobra CX Junior 50",
     "from": 2007,
-    "to": 2017
+    "to": 2013
   },
   {
-    "models": "Cobra CX 50 P3",
-    "from": 2016,
-    "to": 2017
-  },
-  {
-    "models": "Cobra CX 50 SR King",
-    "from": 2005,
-    "to": 2017
-  },
-  {
-    "models": "Cobra CX 50 SR King (Magura)",
-    "from": 2003,
-    "to": 2004
-  },
-  {
-    "models": "Cobra CX 65 (AJP/Card)",
+    "models": "Cobra CX Senior 50",
     "from": 2007,
-    "to": 2008
+    "to": 2013
   },
   {
-    "models": "Cobra CX FWE King",
-    "from": 2016,
-    "to": 2018
-  },
-  {
-    "models": "Drr DB 50 Big Wheel",
-    "from": 2016,
-    "to": 2020
-  },
-  {
-    "models": "Drr DB 50 Jr",
-    "from": 2014,
-    "to": 2020
-  },
-  {
-    "models": "Drr DB 50 SR",
-    "from": 2014,
-    "to": 2020
-  },
-  {
-    "models": "Gas Gas MC 50",
-    "from": 2021,
-    "to": 2024
-  },
-  {
-    "models": "Gas Gas MC-E 5 Electric",
+    "models": "Gasgas MC 50",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "Husqvarna CR 50",
-    "from": 2010,
-    "to": 2012
-  },
-  {
-    "models": "Husqvarna EE 5 Electric EE 5",
-    "from": 2020,
+    "models": "Gasgas MC-E 5",
+    "from": 2021,
     "to": 2023
   },
   {
-    "models": "Husqvarna SM 50",
-    "from": 2010,
-    "to": 2012
+    "models": "Husqvarna CR Pro Senior 50",
+    "from": 2006,
+    "to": 2006
+  },
+  {
+    "models": "Husqvarna CR Senior 50",
+    "from": 2006,
+    "to": 2006
+  },
+  {
+    "models": "Husqvarna EE 5",
+    "from": 2019,
+    "to": 2023
   },
   {
     "models": "Husqvarna TC 50",
@@ -80,63 +45,83 @@
     "to": 2023
   },
   {
-    "models": "Husqvarna TC 50 Mini",
-    "from": 2017,
+    "models": "Husqvarna TC Mini 50",
+    "from": 2022,
     "to": 2023
   },
   {
-    "models": "KTM Senior Adventure 50",
+    "models": "Ktm SM Supermoto 50",
+    "from": 2006,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX 50",
+    "from": 2009,
+    "to": 2023
+  },
+  {
+    "models": "Ktm SX 65",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Ktm SX Mini 50",
+    "from": 2009,
+    "to": 2023
+  },
+  {
+    "models": "Ktm SX Pro Junior LC 50",
+    "from": 2002,
+    "to": 2005
+  },
+  {
+    "models": "Ktm SX Pro Senior LC 50",
+    "from": 2002,
+    "to": 2009
+  },
+  {
+    "models": "Ktm SX Senior Adventure 50",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM SXE 5",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "Lem CX2, CX3, RX2, RX3 50",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "Lem R2, R3, R3 XC 50",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "Lem RX 150",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "Lem RX 65",
+    "from": 2005,
+    "to": 2010
+  },
+  {
+    "models": "Polini X1 R 50",
     "from": 2004,
     "to": 2006
   },
   {
-    "models": "KTM Supermotard 50",
-    "from": 2006,
-    "to": 2007
-  },
-  {
-    "models": "KTM SX 50",
-    "from": 2010,
-    "to": 2023
-  },
-  {
-    "models": "KTM SX 50 Factory Edition",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "KTM SX 65",
+    "models": "Polini X3 R 50",
     "from": 2004,
-    "to": 2008
+    "to": 2006
   },
   {
-    "models": "KTM SX Junior 50",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "KTM SX Mini 50",
-    "from": 2007,
-    "to": 2023
-  },
-  {
-    "models": "KTM SX Pro Jr 50",
-    "from": 2002,
-    "to": 2003
-  },
-  {
-    "models": "KTM SX Pro Sr 50",
-    "from": 2002,
-    "to": 2009
-  },
-  {
-    "models": "KTM SX-E 5 Electric",
-    "from": 2020,
-    "to": 2023
-  },
-  {
-    "models": "KTM XC 65",
-    "from": 2008,
-    "to": 2008
+    "models": "Polini X5 RP 65",
+    "from": 2005,
+    "to": 2006
   }
 ]
