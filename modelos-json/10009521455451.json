@@ -1,327 +1,507 @@
 [
   {
-    "models": "Alta Motors Redshift Electric EXR (50HP)",
-    "from": 2019,
-    "to": 2019
-  },
-  {
-    "models": "Alta Motors Redshift Electric MX (42HP)",
-    "from": 2016,
-    "to": 2018
-  },
-  {
-    "models": "Alta Motors Redshift Electric MXR (50HP)",
-    "from": 2018,
-    "to": 2018
-  },
-  {
-    "models": "Alta Motors Redshift Electric SM (42HP)",
-    "from": 2016,
-    "to": 2018
-  },
-  {
-    "models": "Gas Gas Enducross 125",
-    "from": 1994,
+    "models": "Gasgas EC 125",
+    "from": 1997,
     "to": 1999
   },
   {
-    "models": "Gas Gas Enducross 250",
-    "from": 1995,
-    "to": 1999
-  },
-  {
-    "models": "Gas Gas ES 700 Enduro",
-    "from": 2022,
-    "to": 2023
-  },
-  {
-    "models": "Gas Gas SM 700 Supermoto",
-    "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "Husaberg EF 600 E (Quad)",
+    "models": "Gasgas EC 200",
     "from": 1999,
     "to": 1999
   },
   {
-    "models": "Husaberg FE 450 E",
-    "from": 2006,
-    "to": 2007
+    "models": "Gasgas EC 250",
+    "from": 1997,
+    "to": 1999
   },
   {
-    "models": "Husaberg FE 550 E",
-    "from": 2006,
-    "to": 2007
+    "models": "Gasgas EC 300",
+    "from": 1999,
+    "to": 1999
   },
   {
-    "models": "Husaberg FE 650 E",
-    "from": 2006,
-    "to": 2007
+    "models": "Gasgas MC 250",
+    "from": 1997,
+    "to": 1999
   },
   {
-    "models": "Husaberg FS 450 C/E",
-    "from": 2006,
-    "to": 2007
+    "models": "Husaberg FC 400",
+    "from": 1999,
+    "to": 2002
   },
   {
-    "models": "Husaberg FS 650 C/E",
-    "from": 2006,
-    "to": 2007
+    "models": "Husaberg FC 450",
+    "from": 2003,
+    "to": 2008
   },
   {
-    "models": "Husqvarna Enduro 701",
-    "from": 2016,
-    "to": 2024
+    "models": "Husaberg FC 470",
+    "from": 2001,
+    "to": 2002
   },
   {
-    "models": "Husqvarna Enduro 701 LR",
-    "from": 2020,
-    "to": 2020
-  },
-  {
-    "models": "Husqvarna Enduro models 95-05 ALL",
-    "from": 1995,
-    "to": 2005
-  },
-  {
-    "models": "Husqvarna LT/SM 610",
+    "models": "Husaberg FC 501",
     "from": 1999,
     "to": 2001
   },
   {
-    "models": "Husqvarna Nuda 900",
-    "from": 2012,
-    "to": 2013
-  },
-  {
-    "models": "Husqvarna SM 125 R",
-    "from": 2006,
-    "to": 2013
-  },
-  {
-    "models": "Husqvarna SMS 125",
-    "from": 2006,
-    "to": 2012
-  },
-  {
-    "models": "Husqvarna Supermoto 701",
-    "from": 2015,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna TE 125",
-    "from": 2006,
-    "to": 2013
-  },
-  {
-    "models": "Husqvarna TE 610",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "Husqvarna TE 630",
-    "from": 2010,
-    "to": 2012
-  },
-  {
-    "models": "Husqvarna TR 650 Strada",
-    "from": 2013,
-    "to": 2013
-  },
-  {
-    "models": "Husqvarna TR 650 Terra",
-    "from": 2013,
-    "to": 2013
-  },
-  {
-    "models": "Husqvarna WR 250",
-    "from": 2006,
-    "to": 2013
-  },
-  {
-    "models": "Husqvarna WR 300",
-    "from": 2009,
-    "to": 2013
-  },
-  {
-    "models": "Husqvarna WRE 125",
-    "from": 2006,
-    "to": 2013
-  },
-  {
-    "models": "Ktm Adventure 640",
-    "from": 2005,
-    "to": 2005
-  },
-  {
-    "models": "Ktm Adventure 640 LC4",
-    "from": 2006,
-    "to": 2007
-  },
-  {
-    "models": "Ktm Duke 620",
-    "from": 1994,
-    "to": 2000
-  },
-  {
-    "models": "Ktm Duke 640",
+    "models": "Husaberg FC 550",
     "from": 2001,
-    "to": 2007
-  },
-  {
-    "models": "Ktm Duke 690",
-    "from": 2012,
-    "to": 2019
-  },
-  {
-    "models": "Ktm EGS 125",
-    "from": 1994,
-    "to": 2003
-  },
-  {
-    "models": "Ktm EGS 250",
-    "from": 1994,
-    "to": 2003
-  },
-  {
-    "models": "Ktm EGS 300",
-    "from": 1994,
-    "to": 2003
-  },
-  {
-    "models": "Ktm Enduro 690",
-    "from": 2008,
-    "to": 2011
-  },
-  {
-    "models": "Ktm Enduro R 690",
-    "from": 2009,
-    "to": 2024
-  },
-  {
-    "models": "Ktm EXC 125",
-    "from": 1994,
-    "to": 2003
-  },
-  {
-    "models": "Ktm EXC 250",
-    "from": 1994,
-    "to": 2003
-  },
-  {
-    "models": "Ktm EXC 300",
-    "from": 1994,
-    "to": 2003
-  },
-  {
-    "models": "Ktm LC4 400",
-    "from": 1995,
-    "to": 1996
-  },
-  {
-    "models": "Ktm LC4 600",
-    "from": 1995,
-    "to": 1996
-  },
-  {
-    "models": "Ktm LC4 620",
-    "from": 1995,
-    "to": 1996
-  },
-  {
-    "models": "Ktm Rally 690 Factory Replica",
-    "from": 2007,
-    "to": 2010
-  },
-  {
-    "models": "Ktm Rallye 450 Rallye Factory Replica",
-    "from": 2005,
     "to": 2005
   },
   {
-    "models": "Ktm SMC 660",
-    "from": 2003,
-    "to": 2007
+    "models": "Husaberg FC 600",
+    "from": 1999,
+    "to": 2001
   },
   {
-    "models": "Ktm SMC-R 690 R",
-    "from": 2021,
-    "to": 2023
+    "models": "Husaberg FE 600",
+    "from": 1999,
+    "to": 2002
   },
   {
-    "models": "Ktm Superenduro 950",
-    "from": 2006,
+    "models": "Husaberg FE 400",
+    "from": 1999,
+    "to": 2003
+  },
+  {
+    "models": "Husaberg FE 501",
+    "from": 1999,
+    "to": 2004
+  },
+  {
+    "models": "Husaberg FE 450",
+    "from": 2004,
     "to": 2008
   },
   {
-    "models": "Ktm Supermotard 640 LC4",
-    "from": 2006,
-    "to": 2007
+    "models": "Husaberg FE 550",
+    "from": 2004,
+    "to": 2008
   },
   {
-    "models": "Ktm Supermoto 690 Ltd Edition",
-    "from": 2010,
-    "to": 2011
+    "models": "Husaberg FE 650",
+    "from": 2001,
+    "to": 2008
   },
   {
-    "models": "Ktm SX 125",
-    "from": 1994,
+    "models": "Husaberg FS 450",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FS 400",
+    "from": 2001,
     "to": 2003
   },
   {
-    "models": "Ktm SX 250",
-    "from": 1994,
-    "to": 2003
+    "models": "Husaberg FS 650",
+    "from": 2001,
+    "to": 2008
   },
   {
-    "models": "Ktm SX 300",
-    "from": 1994,
-    "to": 2003
+    "models": "Husaberg FX 450",
+    "from": 2003,
+    "to": 2008
   },
   {
-    "models": "Ktm SX 440",
-    "from": 1994,
-    "to": 2003
+    "models": "Husaberg FX 470",
+    "from": 2001,
+    "to": 2002
   },
   {
-    "models": "Ktm SX 500",
-    "from": 1994,
-    "to": 2003
+    "models": "Husaberg FX 650",
+    "from": 2001,
+    "to": 2005
   },
   {
-    "models": "Ktm SX 620",
-    "from": 1995,
-    "to": 1995
-  },
-  {
-    "models": "Yamaha MT-03 660",
-    "from": 2006,
-    "to": 2013
-  },
-  {
-    "models": "Yamaha TT 600 E/S/R",
+    "models": "Husqvarna CR 125",
     "from": 1996,
     "to": 2004
   },
   {
-    "models": "Yamaha XT 660 R",
-    "from": 2004,
-    "to": 2015
+    "models": "Husqvarna CR 250",
+    "from": 1996,
+    "to": 2004
   },
   {
-    "models": "Yamaha XT 660 X",
-    "from": 2004,
+    "models": "Husqvarna SM R 450",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "Husqvarna SM R 510",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "Husqvarna TC 450",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "Husqvarna TC 510",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "Husqvarna TC 570",
+    "from": 2001,
     "to": 2013
   },
   {
-    "models": "Yamaha XT 660 Z Tenere",
-    "from": 2008,
-    "to": 2015
+    "models": "Husqvarna TC 610",
+    "from": 1996,
+    "to": 2013
   },
   {
-    "models": "Yamaha XTZ 700 Tenere",
-    "from": 2020,
-    "to": 2025
+    "models": "Husqvarna TE 250",
+    "from": 2002,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE 350",
+    "from": 1996,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE 400",
+    "from": 2001,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE 410",
+    "from": 1996,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE 450",
+    "from": 2002,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TE 510",
+    "from": 2002,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TE 570",
+    "from": 2001,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE Centennial 510",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "Husqvarna TE Rally 610",
+    "from": 1996,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR 125",
+    "from": 1996,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR 250",
+    "from": 1996,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR 360",
+    "from": 1998,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WRE 125",
+    "from": 1996,
+    "to": 2013
+  },
+  {
+    "models": "Ktm EXC 200",
+    "from": 1999,
+    "to": 2003
+  },
+  {
+    "models": "Ktm EXC 125",
+    "from": 1999,
+    "to": 2003
+  },
+  {
+    "models": "Ktm EXC 250",
+    "from": 1999,
+    "to": 2003
+  },
+  {
+    "models": "Ktm EXC 300",
+    "from": 1999,
+    "to": 2003
+  },
+  {
+    "models": "Ktm EXC 380",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "Ktm EXC 250F",
+    "from": 1999,
+    "to": 2003
+  },
+  {
+    "models": "Ktm EXC Racing 400",
+    "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "Ktm EXC Racing 520",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Ktm EXC Racing 525",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "Ktm LC4 Competition 620",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "Ktm LC4 RXC 620",
+    "from": 1995,
+    "to": 1995
+  },
+  {
+    "models": "Ktm LC4 SM Factory Replica 660",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "Ktm LC4-E Enduro 400",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "Ktm MX 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "Ktm MX 380",
+    "from": 1998,
+    "to": 1998
+  },
+  {
+    "models": "Ktm Rally 450",
+    "from": 2011,
+    "to": 2017
+  },
+  {
+    "models": "Ktm SC 400",
+    "from": 1999,
+    "to": 2000
+  },
+  {
+    "models": "Ktm SC 620",
+    "from": 1999,
+    "to": 2000
+  },
+  {
+    "models": "Ktm SX 125",
+    "from": 1996,
+    "to": 2003
+  },
+  {
+    "models": "Ktm SX 250",
+    "from": 1996,
+    "to": 2002
+  },
+  {
+    "models": "Ktm SX 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "Ktm SX 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "Ktm SX 400",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Ktm SX 620",
+    "from": 1995,
+    "to": 1999
+  },
+  {
+    "models": "Ktm SXC 540",
+    "from": 1998,
+    "to": 1998
+  },
+  {
+    "models": "Ktm SXC Tiainen Replica 400",
+    "from": 1999,
+    "to": 2000
+  },
+  {
+    "models": "Ktm SXC Tiainen Replica 540",
+    "from": 1999,
+    "to": 2000
+  },
+  {
+    "models": "Ktm SX 520F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Ktm SX 525F",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "Ktm SXS 125",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Ktm SXS 540",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Ktm XC 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "Ktm XC 380",
+    "from": 1998,
+    "to": 2003
+  },
+  {
+    "models": "Maico MX/EX 250",
+    "from": 1999,
+    "to": 2001
+  },
+  {
+    "models": "Maico MX/EX 500",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "Tm - 320",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "Tm Cross 80",
+    "from": 1996,
+    "to": 2000
+  },
+  {
+    "models": "Tm E 250",
+    "from": 1995,
+    "to": 2000
+  },
+  {
+    "models": "Tm EN F Enduro 250",
+    "from": 2000,
+    "to": 2000
+  },
+  {
+    "models": "Tm F 400",
+    "from": 2000,
+    "to": 2000
+  },
+  {
+    "models": "Tm MX 125",
+    "from": 1996,
+    "to": 2000
+  },
+  {
+    "models": "Tm MX 300",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "Vor 492 Enduro 500",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "Vor 492 Super Motard 500",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "Vor 495 Cross 500",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "Vor Cross 400",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "Vor EN 400",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "Vor EN 450",
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "Vor EN 530",
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "Vor Enduro 400",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "Vor MX 400",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "Vor MX 450",
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "Vor MX 530",
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "Vor SM 400",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "Vor SM 450",
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "Vor SM 530",
+    "from": 2002,
+    "to": 2004
   }
 ]
