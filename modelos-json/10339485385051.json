@@ -1,0 +1,167 @@
+[
+  {
+    "models": "Gasgas EC 250",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 250F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EC 350F",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas ES 700",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas MC 125",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC 300",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 350F",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC 85",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Gasgas MC 85 17/14",
+    "from": 2022,
+    "to": 2022
+  },
+  {
+    "models": "Gasgas RX 450F REPLICA",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas SM 700",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FC 450F",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FE 250F",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FE 501F",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FR 450 Rally",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna FS 450F",
+    "from": 2015,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2006,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2006,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2006,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 400F",
+    "from": 2009,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2008,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2012,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 530F",
+    "from": 2009,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 530R",
+    "from": 2008,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2006,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2013,
+    "to": 2026
+  }
+]
