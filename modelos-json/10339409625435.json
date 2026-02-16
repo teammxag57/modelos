@@ -1,0 +1,167 @@
+[
+  {
+    "models": "KTM EXC 150",
+    "from": 2020,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 1999,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2001,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1999,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2012,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 400F",
+    "from": 2000,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2012,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 520F",
+    "from": 2001,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 525F",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 530F",
+    "from": 2009,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 530R",
+    "from": 2008,
+    "to": 2025
+  },
+  {
+    "models": "KTM Freeride",
+    "from": 2018,
+    "to": 2026
+  },
+  {
+    "models": "KTM Freeride 350",
+    "from": 2012,
+    "to": 2025
+  },
+  {
+    "models": "KTM SMR 525F",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "KTM SMR 560F",
+    "from": 2006,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 105",
+    "from": 2004,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2016,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2016,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 1999,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2011,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 380F",
+    "from": 1999,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 400F",
+    "from": 2000,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 520F",
+    "from": 2001,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 525",
+    "from": 2006,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 525F",
+    "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 65",
+    "from": 2002,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 450F",
+    "from": 2007,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC 65",
+    "from": 2009,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC-W 125",
+    "from": 2017,
+    "to": 2026
+  }
+]
