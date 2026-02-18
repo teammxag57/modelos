@@ -2,21 +2,21 @@
   {
     "models": "Yamaha WR 250F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Yamaha WR 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250FX",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 450FX",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   }
 ]
