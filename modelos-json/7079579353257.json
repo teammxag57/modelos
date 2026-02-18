@@ -10,8 +10,13 @@
     "to": 2019
   },
   {
-    "models": "Suzuki RM-Z 250",
+    "models": "Suzuki RM 250Z",
     "from": 2013,
     "to": 2015
+  },
+  {
+    "models": "Suzuki RM 450Z",
+    "from": 2013,
+    "to": 2014
   }
 ]
