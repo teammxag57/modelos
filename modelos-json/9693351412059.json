@@ -1,12 +1,12 @@
 [
   {
-    "models": "Triumph TF 250X",
-    "from": 2024,
-    "to": 2025
-  },
-  {
     "models": "Triumph TF 250E",
     "from": 2026,
     "to": ""
+  },
+  {
+    "models": "Triumph TF 250X",
+    "from": 2024,
+    "to": 2025
   }
 ]
