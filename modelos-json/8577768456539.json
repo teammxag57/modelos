@@ -7,16 +7,26 @@
   {
     "models": "Kawasaki KX 450F",
     "from": 2019,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Kawasaki KX 450 XC/X",
+    "models": "Kawasaki KX 450FX",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Kawasaki KX 250 XC/X",
+    "models": "Kawasaki KX 250FX",
     "from": 2021,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450XC",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 250XC",
+    "from": 2021,
+    "to": 2025
   }
 ]
