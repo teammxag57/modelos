@@ -2,6 +2,21 @@
   {
     "models": "Yamaha YZ 125",
     "from": 2005,
-    "to": 2024
+    "to": 2026
+  },
+  {
+    "models": "Yamaha TT-R 125",
+    "from": 2021,
+    "to": ""
+  },
+  {
+    "models": "Fantic XE 125",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Fantic XX 125",
+    "from": 2021,
+    "to": 2022
   }
 ]
