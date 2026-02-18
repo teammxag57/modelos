@@ -11,7 +11,12 @@
   },
   {
     "models": "Honda CRF 450RWE",
-    "from": 2023,
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Honda CRF 250RWE",
+    "from": 2022,
     "to": 2025
   }
 ]
