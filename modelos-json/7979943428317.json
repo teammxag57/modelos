@@ -1,15 +1,5 @@
 [
   {
-    "models": "Yamaha YZ 250F",
-    "from": 2014,
-    "to": 2018
-  },
-  {
-    "models": "Yamaha WR 250F",
-    "from": 2015,
-    "to": 2024
-  },
-  {
     "models": "Fantic XE 250F",
     "from": 2022,
     "to": 2024
@@ -18,6 +8,16 @@
     "models": "Fantic XX 250F",
     "from": 2022,
     "to": 2024
+  },
+  {
+    "models": "Yamaha WR 250F",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2014,
+    "to": 2018
   },
   {
     "models": "Yamaha YZ 250FX",
