@@ -1,13 +1,13 @@
 [
   {
-    "models": "Honda CR 500 R",
-    "from": 2097,
-    "to": 2001
+    "models": "Honda CR 250",
+    "from": 1997,
+    "to": 2007
   },
   {
-    "models": "Honda CRF 250 X",
-    "from": 2004,
-    "to": 2017
+    "models": "Honda CR 500",
+    "from": 1997,
+    "to": 2001
   },
   {
     "models": "Honda CRF 250R",
@@ -15,7 +15,12 @@
     "to": 2009
   },
   {
-    "models": "Honda CRF 450 R",
+    "models": "Honda CRF 250X",
+    "from": 2004,
+    "to": 2017
+  },
+  {
+    "models": "Honda CRF 450R",
     "from": 2002,
     "to": 2008
   },
@@ -25,7 +30,7 @@
     "to": 2017
   },
   {
-    "models": "Kawasaki KF 450 F",
+    "models": "Kawasaki KF 450F",
     "from": 2004,
     "to": 2005
   },
@@ -35,19 +40,9 @@
     "to": 2012
   },
   {
-    "models": "Suzuki DR - Z400SM",
+    "models": "Suzuki DR 400Z",
     "from": 2004,
     "to": 2008
-  },
-  {
-    "models": "Suzuki RM - Z 250",
-    "from": 2007,
-    "to": 2012
-  },
-  {
-    "models": "Suzuki RM - Z 450",
-    "from": 2004,
-    "to": 2012
   },
   {
     "models": "Suzuki RM 125",
@@ -58,5 +53,15 @@
     "models": "Suzuki RM 250",
     "from": 2004,
     "to": 2008
+  },
+  {
+    "models": "Suzuki RM 250Z",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "Suzuki RM 450Z",
+    "from": 2004,
+    "to": 2012
   }
 ]
