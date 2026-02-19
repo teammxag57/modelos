@@ -80,27 +80,27 @@
     "to": 2014
   },
   {
-    "models": "Husqvarna FC 250",
+    "models": "Husqvarna FC 250F",
     "from": 2016,
     "to": 2021
   },
   {
-    "models": "Husqvarna FC 350",
+    "models": "Husqvarna FC 350F",
     "from": 2016,
     "to": 2022
   },
   {
-    "models": "Husqvarna FC 450",
+    "models": "Husqvarna FC 450F",
     "from": 2016,
     "to": 2021
   },
   {
-    "models": "Husqvarna FE 250",
+    "models": "Husqvarna FE 250F",
     "from": 2017,
     "to": 2021
   },
   {
-    "models": "Husqvarna FE 350",
+    "models": "Husqvarna FE 350F",
     "from": 2017,
     "to": 2021
   },
@@ -110,12 +110,12 @@
     "to": 2021
   },
   {
-    "models": "Husqvarna FE 450",
+    "models": "Husqvarna FE 450F",
     "from": 2017,
     "to": 2021
   },
   {
-    "models": "Husqvarna FE 501",
+    "models": "Husqvarna FE 501F",
     "from": 2017,
     "to": 2021
   },
@@ -125,17 +125,17 @@
     "to": 2021
   },
   {
-    "models": "Husqvarna FS 450",
+    "models": "Husqvarna FS 450F",
     "from": 2016,
     "to": 2022
   },
   {
-    "models": "Husqvarna FX 350",
+    "models": "Husqvarna FX 350F",
     "from": 2017,
     "to": 2021
   },
   {
-    "models": "Husqvarna FX 450",
+    "models": "Husqvarna FX 450F",
     "from": 2017,
     "to": 2021
   },
@@ -180,42 +180,42 @@
     "to": 2021
   },
   {
-    "models": "KTM 125 EXC",
+    "models": "KTM EXC 125",
     "from": 2009,
     "to": 2017
   },
   {
-    "models": "KTM 125 SX",
+    "models": "KTM SX 125",
     "from": 2009,
     "to": 2015
   },
   {
-    "models": "KTM 150 SX",
+    "models": "KTM SX 150",
     "from": 2009,
     "to": 2015
   },
   {
-    "models": "KTM 150 XC",
+    "models": "KTM XC 150",
     "from": 2010,
     "to": 2014
   },
   {
-    "models": "KTM 200 EXC",
+    "models": "KTM EXC 200",
     "from": 2009,
     "to": 2016
   },
   {
-    "models": "KTM 200 XC",
+    "models": "KTM XC 200",
     "from": 2009,
     "to": 2009
   },
   {
-    "models": "KTM 200 XC-W",
+    "models": "KTM XC 200W",
     "from": 2009,
     "to": 2016
   },
   {
-    "models": "KTM 450 SMR",
+    "models": "KTM SMR 450",
     "from": 2009,
     "to": 2012
   },
@@ -225,7 +225,7 @@
     "to": 2010
   },
   {
-    "models": "KTM 450 SX-F",
+    "models": "KTM SX 450F",
     "from": 2009,
     "to": 2012
   },
@@ -235,7 +235,7 @@
     "to": 2010
   },
   {
-    "models": "KTM 450 XC-F",
+    "models": "KTM XC-F 450",
     "from": 2009,
     "to": 2009
   },
@@ -245,7 +245,7 @@
     "to": 2012
   },
   {
-    "models": "KTM 505 XC-F",
+    "models": "KTM XC-F 505",
     "from": 2009,
     "to": 2009
   },
