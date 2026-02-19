@@ -1,18 +1,23 @@
 [
   {
-    "models": "Honda CR 125 R",
+    "models": "Honda CR 125",
     "from": 1997,
     "to": 2007
   },
   {
-    "models": "Honda CR 250 R",
+    "models": "Honda CR 250",
     "from": 1996,
     "to": ""
   },
   {
-    "models": "Honda CR 500 R",
+    "models": "Honda CR 500",
     "from": 1996,
     "to": 2001
+  },
+  {
+    "models": "Honda XR 650R",
+    "from": 2000,
+    "to": 2007
   },
   {
     "models": "Kawasaki KDX 250",
@@ -20,12 +25,12 @@
     "to": 1994
   },
   {
-    "models": "Kawasaki KLX 250 SF",
+    "models": "Kawasaki KLX 250SF",
     "from": 2009,
     "to": 2010
   },
   {
-    "models": "Kawasaki KLX 300 R",
+    "models": "Kawasaki KLX 300R",
     "from": 1997,
     "to": 2007
   },
@@ -70,27 +75,27 @@
     "to": 2003
   },
   {
-    "models": "Yamaha WR 250 F",
+    "models": "Yamaha WR 250F",
     "from": 2001,
     "to": 2004
   },
   {
-    "models": "Yamaha WR 250 R",
+    "models": "Yamaha WR 250R",
     "from": 2008,
     "to": 2019
   },
   {
-    "models": "Yamaha WR 400 F",
+    "models": "Yamaha WR 400F",
     "from": 1998,
     "to": 2000
   },
   {
-    "models": "Yamaha WR 426 F",
+    "models": "Yamaha WR 426F",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "Yamaha WR 450 F",
+    "models": "Yamaha WR 450F",
     "from": 2003,
     "to": 2004
   },
@@ -105,22 +110,22 @@
     "to": 2003
   },
   {
-    "models": "Yamaha YZ 250 F",
+    "models": "Yamaha YZ 250F",
     "from": 2001,
     "to": 2003
   },
   {
-    "models": "Yamaha YZ 400 F",
+    "models": "Yamaha YZ 400F",
     "from": 1998,
-    "to": 2099
+    "to": 1999
   },
   {
-    "models": "Yamaha YZ 426 F",
+    "models": "Yamaha YZ 426F",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "Yamaha YZ 450 F",
+    "models": "Yamaha YZ 450F",
     "from": 2003,
     "to": ""
   }
