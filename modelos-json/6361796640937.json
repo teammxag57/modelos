@@ -35,6 +35,31 @@
     "to": 2026
   },
   {
+    "models": "Gasgas EX 250",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EX 250F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EX 300",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EX 350F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EX 450F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
     "models": "Gasgas MC 125",
     "from": 2021,
     "to": 2026
@@ -70,11 +95,6 @@
     "to": 2026
   },
   {
-    "models": "Husqvarna FC 250F",
-    "from": 2014,
-    "to": 2026
-  },
-  {
     "models": "Husqvarna FC 350F",
     "from": 2014,
     "to": 2026
@@ -106,13 +126,13 @@
   },
   {
     "models": "Husqvarna FX 350F",
-    "from": 2019,
-    "to": 2022
+    "from": 2017,
+    "to": 2026
   },
   {
     "models": "Husqvarna FX 450F",
-    "from": 2019,
-    "to": 2022
+    "from": 2017,
+    "to": 2025
   },
   {
     "models": "Husqvarna TC 125",
@@ -152,6 +172,16 @@
   {
     "models": "Husqvarna TE 300",
     "from": 2014,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
     "to": 2026
   },
   {
