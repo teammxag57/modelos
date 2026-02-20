@@ -1,282 +1,62 @@
 [
   {
-    "models": "Beta 250 Evo 4T",
+    "models": "Beta 250 Evo 4T�",
     "from": 2009,
     "to": 2016
   },
   {
-    "models": "Beta 250 Rev 4T",
+    "models": "Beta 250 Rev 4T�",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "Beta 300 Evo 4T",
+    "models": "Beta 300 Evo 4T�",
     "from": 2009,
-    "to": 2017
-  },
-  {
-    "models": "Beta 300 Evo 4T",
-    "from": 2019,
     "to": 2021
   },
   {
-    "models": "Beta 300 Evo Factory 4T",
+    "models": "Beta 300 Evo Factory 4T�",
     "from": 2016,
-    "to": 2017
-  },
-  {
-    "models": "Beta 300 Evo Factory 4T",
-    "from": 2019,
     "to": 2020
   },
   {
-    "models": "Kawasaki KX250 (KX252)",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX250 50th Anniversary Ed.",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX250 AKF,BLF (KX252) 4-Stoke",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "Kawasaki KX250 CMF (KX252)",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX250 CNF (KX252)",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX250 CPF (KX252)",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX250 CRF (KX252)",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX250 F-AHF,AJF (KX252)",
-    "from": 2017,
-    "to": 2018
-  },
-  {
-    "models": "Kawasaki KX250 F-N1,N2",
+    "models": "Kawasaki KX 250F",
     "from": 2004,
-    "to": 2005
+    "to": 2020
   },
   {
-    "models": "Kawasaki KX250 F-T6F,T7F,T8F,W9F,XAFB,YBF,YCF",
-    "from": 2006,
-    "to": 2012
-  },
-  {
-    "models": "Kawasaki KX250 F-ZDF,ZEF,ZFF,ZGF",
-    "from": 2013,
-    "to": 2016
-  },
-  {
-    "models": "Kawasaki KX250 X (KX252)",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX250 X DMF (KX252)",
+    "models": "Kawasaki KX 250FX",
     "from": 2021,
     "to": ""
   },
   {
-    "models": "Kawasaki KX250 X DNF (KX252)",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX250 X DPF (KX252)",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX250 X DRF (KX252)",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX450",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX450 F-HGF,HHF,HJF",
+    "models": "Kawasaki KX 450F",
     "from": 2016,
-    "to": 2018
+    "to": 2026
   },
   {
-    "models": "Kawasaki KX450 JKF 4-Stroke",
-    "from": 2019,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX450 JLF 4-Stroke",
-    "from": 2020,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX450 JMF",
+    "models": "Kawasaki KX 450FX",
     "from": 2021,
     "to": ""
   },
   {
-    "models": "Kawasaki KX450 JNF",
+    "models": "Kawasaki KX 450SR",
     "from": 2022,
     "to": ""
   },
   {
-    "models": "Kawasaki KX450 JPF",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX450 MRF",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX450 MRF 50th Anniversary Ed.",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX450 SR (KX450LNF)",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX450 SR (KX450LPF)",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX450 X",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX450 X (KX450KMF)",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX450 X (KX450KNF)",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX450 X (KX450KPF)",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KX450 X (KX450NRF)",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "LML 200 Star 4T",
-    "from": 2011,
-    "to": 2015
-  },
-  {
-    "models": "Suzuki FL125 Address",
-    "from": 2010,
-    "to": ""
-  },
-  {
-    "models": "Suzuki FL125 K7,K8,K9 SDW Address",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "Suzuki RMX450 Z L0,L1,L2,L3",
-    "from": 2010,
-    "to": 2013
-  },
-  {
-    "models": "Suzuki RMX450 Z L7,L8,L9",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "Suzuki RM-Z250 K4,K5,K6",
+    "models": "Suzuki RM 250Z",
     "from": 2004,
-    "to": 2006
+    "to": 2025
   },
   {
-    "models": "Suzuki RM-Z250 K7,K8,K9,L0,L1,L2,L3,L4,L5,L6,L7,L8",
-    "from": 2007,
-    "to": 2018
-  },
-  {
-    "models": "Suzuki RM-Z250 L9,M0",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "Suzuki RM-Z250 M1",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Suzuki RM-Z250 M2",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Suzuki RM-Z250 M3",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Suzuki RM-Z250 M4",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Suzuki RM-Z450 K5,K6,K7,K8,K9,L0,L1,L2,L3,L4,L5,L6,L7",
+    "models": "Suzuki RM 450Z",
     "from": 2005,
-    "to": 2017
+    "to": 2025
   },
   {
-    "models": "Suzuki RM-Z450 L8,L9,M0",
-    "from": 2018,
-    "to": 2020
-  },
-  {
-    "models": "Suzuki RM-Z450 M1",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Suzuki RM-Z450 M2",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Suzuki RM-Z450 M3",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Suzuki RM-Z450 M4",
-    "from": 2024,
-    "to": ""
+    "models": "Suzuki RMX 450Z",
+    "from": 2010,
+    "to": 2019
   }
 ]
