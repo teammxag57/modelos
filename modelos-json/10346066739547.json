@@ -1,0 +1,92 @@
+[
+  {
+    "models": "Fantic XE 250F",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Fantic XE 310F",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Fantic XE 450F",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Fantic XX 250F",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XX 450F",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 250FX",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450FX",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Suzuki RM 250Z",
+    "from": 2007,
+    "to": 2025
+  },
+  {
+    "models": "Suzuki RM 450Z",
+    "from": 2005,
+    "to": 2025
+  },
+  {
+    "models": "Suzuki RMX 450Z",
+    "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Yamaha WR 250F",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 250FX",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2016,
+    "to": 2025
+  }
+]
