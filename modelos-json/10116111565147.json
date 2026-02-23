@@ -1,331 +1,286 @@
 [
   {
-    "models": "Honda ATC250 ES Big Red",
+    "models": "Gasgas 400 FSE",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Gasgas 450 FSE",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Gasgas 450 FSR",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "Gasgas 450 Pampera�",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "Gasgas 510 EC",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "Honda ATC250 ES Big Red�",
     "from": 1985,
     "to": 1987
   },
   {
-    "models": "Honda ATC350 X",
+    "models": "Honda ATC350 X�",
     "from": 1985,
     "to": 1986
   },
   {
-    "models": "Honda TRX250",
-    "from": 1985,
-    "to": 1987
-  },
-  {
-    "models": "Honda TRX250 X Fourtrax",
-    "from": 1986,
-    "to": 1992
-  },
-  {
-    "models": "Honda TRX300 (2WD)",
-    "from": 1988,
-    "to": 2001
-  },
-  {
-    "models": "Honda TRX300 EX",
-    "from": 1993,
-    "to": 2002
-  },
-  {
-    "models": "Honda TRX300 EX Sportrax",
-    "from": 2003,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX300 EX Sportrax",
-    "from": 2004,
-    "to": 2008
-  },
-  {
-    "models": "Honda TRX300 FW Fourtrax (4WD)",
-    "from": 1987,
-    "to": 2001
-  },
-  {
-    "models": "Honda TRX300 X-9",
-    "from": 2009,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX400 X-9,A,B,C,D,E",
-    "from": 2009,
-    "to": 2014
-  },
-  {
-    "models": "Honda TRX700 XX-8,9",
-    "from": 2008,
-    "to": 2011
-  },
-  {
-    "models": "Honda CRF250 L-D,E,F,G",
+    "models": "Honda CRF250 L",
     "from": 2013,
     "to": 2016
   },
   {
-    "models": "Honda CRF250 M-E,F",
+    "models": "Honda CRF250 M",
     "from": 2014,
     "to": 2015
   },
   {
-    "models": "Honda NX250MD21/MD25",
-    "from": 1988,
-    "to": 1995
-  },
-  {
-    "models": "Honda TLR250",
-    "from": 1985,
-    "to": 1987
-  },
-  {
-    "models": "Honda XL250 RC,RD ProLinkMD03",
-    "from": 1982,
-    "to": 1983
-  },
-  {
-    "models": "Honda XL250 RE,RF,RH (XLX)ND11",
-    "from": 1984,
-    "to": 1987
-  },
-  {
-    "models": "Honda XL250 RL",
-    "from": 1990,
-    "to": ""
-  },
-  {
-    "models": "Honda XL-X250 RD,RE (Japan) Japan",
-    "from": 1983,
-    "to": 1984
-  },
-  {
-    "models": "Honda XL250 R Baja (Japan) Jap",
-    "from": 1991,
-    "to": ""
-  },
-  {
-    "models": "Honda XR250 L (HFF1015 Foam Filter to fit with HFF1015C filter cage)",
-    "from": 1991,
-    "to": 1999
-  },
-  {
-    "models": "Honda XR250 RC,RDME01",
-    "from": 1982,
-    "to": 1983
-  },
-  {
-    "models": "Honda XR250 RE,RFME06",
-    "from": 1984,
-    "to": 1985
-  },
-  {
-    "models": "Honda XR250 RG,RH (HFF1015 Foam Filter to fit with HFF1015C filter cage)ME06",
-    "from": 1986,
-    "to": 1987
-  },
-  {
-    "models": "Honda XR250 RJ,RK (HFF1015 Foam Filter to fit with HFF1015C filter cage)ME06",
-    "from": 1988,
-    "to": 1989
-  },
-  {
-    "models": "Honda XR250 R-L,M,N,P,R,S,T,V,W,X,Y,1,2,3,4 (HFF1015 Foam Filter to fit with HFF1015C filter cage)",
-    "from": 1990,
-    "to": 2004
-  },
-  {
-    "models": "Honda XR250 Super (HFF1015 Foam Filter to fit with HFF1015C filter cage)",
-    "from": 1997,
-    "to": 2004
-  },
-  {
-    "models": "Honda XL350 RF,RG,RHND03",
-    "from": 1985,
-    "to": 1987
-  },
-  {
-    "models": "Honda XR350 RD,RE,RF (HFF1015 Foam Filter to fit with HFF1015C filter cage)",
-    "from": 1983,
-    "to": 1985
-  },
-  {
-    "models": "Honda XR350 RG,RH",
-    "from": 1986,
-    "to": 1987
-  },
-  {
-    "models": "Honda XR400 R-V,W,X,Y,1,2,3,4 (HFF1015 Foam Filter to fit with HFF1015C filter cage)NE03",
-    "from": 1996,
-    "to": 2004
-  },
-  {
-    "models": "Honda XR440 R/SM-V,W,X,Y,1,2,3,4 (HFF1015 Foam Filter to fit with HFF1015C filter cage)",
-    "from": 1996,
-    "to": 2004
-  },
-  {
-    "models": "Honda XR500 RB,RC,RD,RE,RF",
-    "from": 1981,
-    "to": 1985
-  },
-  {
-    "models": "Honda XL600 RPD03",
-    "from": 1983,
-    "to": 1987
-  },
-  {
-    "models": "Honda XL600 LD,LE,LF",
-    "from": 1983,
-    "to": 1985
-  },
-  {
-    "models": "Honda XL600 RD,RE,RF",
-    "from": 1983,
-    "to": 1985
-  },
-  {
-    "models": "Honda XL600 LM-FPD04",
-    "from": 1985,
-    "to": 1987
-  },
-  {
-    "models": "Honda XL600 RM-GPD04",
-    "from": 1986,
-    "to": 1988
-  },
-  {
-    "models": "Honda XR600 RF,RG,RH (HFF1015 Foam Filter to fit with HFF1015C filter cage)PE04",
-    "from": 1985,
-    "to": 1987
-  },
-  {
-    "models": "Honda XR600 RJ,RK,RL,RM,RN,RP (HFF1015 Foam Filter to fit with HFF1015C filter cage)PE04",
-    "from": 1985,
-    "to": 1990
-  },
-  {
-    "models": "Honda XR600 RR,RS,RT,RV,RW,RX,RY,R-1,R-2 (HFF1015 Foam Filter to fit with HFF1015C filter cage)",
-    "from": 1994,
+    "models": "Honda FX650 Vigor",
+    "from": 1999,
     "to": 2002
   },
   {
-    "models": "Honda SLR650 V,W,X,Y VigorRD09",
-    "from": 1997,
-    "to": 2000
+    "models": "Honda TRX250 X Fourtrax�",
+    "from": 1986,
+    "to": 1992
   },
   {
-    "models": "Honda XR650 R-Y,1,2,3,4,5,6,7RE01",
-    "from": 2000,
-    "to": 2007
+    "models": "Honda TRX250�",
+    "from": 1985,
+    "to": 1987
   },
   {
-    "models": "Honda XR650 L (HFF1015 Foam Filter to fit with HFF1015C filter cage)",
-    "from": 1993,
-    "to": 2025
+    "models": "Honda TRX300 (2WD)�",
+    "from": 1988,
+    "to": 2001
   },
   {
-    "models": "Kawasaki KFX450R B8F,B9F,BAF,BBF,BCS,BDF,BEF (KSF450)",
-    "from": 2008,
-    "to": 2014
-  },
-  {
-    "models": "Kawasaki KFX450R B8FA,B9FB (KSF450) Monster Energy",
-    "from": 2008,
-    "to": 2009
-  },
-  {
-    "models": "Kawasaki KLX110 A1-A5, A6F-A9F,CAF-CMF,DAF-DLF",
-    "from": 2002,
-    "to": 2021
-  },
-  {
-    "models": "Kawasaki KLX110R CNF",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX110R CPF,CPS",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX110R CRF,CRS",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX110R CSF",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX110L DAF-DMF",
-    "from": 2010,
-    "to": 2021
-  },
-  {
-    "models": "Kawasaki KLX110RL DNF",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX110RL DPF,DPS",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX110RL DRF.DRS",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX110RL DSF",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KSR110",
+    "models": "Honda TRX300 EX Sportrax�",
     "from": 2003,
     "to": 2008
   },
   {
-    "models": "Kawasaki BN125 A1-A8, A6F-A9F Eliminator",
-    "from": 1998,
-    "to": 2009
+    "models": "Honda TRX300 EX�",
+    "from": 1993,
+    "to": 2002
   },
   {
-    "models": "Kawasaki KLX125 CAF-CGF",
+    "models": "Honda TRX300 FW Fourtrax (4WD)�",
+    "from": 1987,
+    "to": 2001
+  },
+  {
+    "models": "Honda TRX300 X",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "Honda TRX400 X",
+    "from": 2009,
+    "to": 2014
+  },
+  {
+    "models": "Honda TRX700 XX",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Honda XL250 R Baja",
+    "from": 1991,
+    "to": ""
+  },
+  {
+    "models": "Honda XL250 RC",
+    "from": 1982,
+    "to": 1983
+  },
+  {
+    "models": "Honda XL250 RE",
+    "from": 1984,
+    "to": 1987
+  },
+  {
+    "models": "Honda XL250 RL�",
+    "from": 1990,
+    "to": ""
+  },
+  {
+    "models": "Honda XL350 RF",
+    "from": 1985,
+    "to": 1987
+  },
+  {
+    "models": "Honda XL600",
+    "from": 1983,
+    "to": 1987
+  },
+  {
+    "models": "Honda XL600 LD",
+    "from": 1983,
+    "to": 1985
+  },
+  {
+    "models": "Honda XL600 LM",
+    "from": 1985,
+    "to": 1987
+  },
+  {
+    "models": "Honda XL600 RD",
+    "from": 1983,
+    "to": 1985
+  },
+  {
+    "models": "Honda XL600 RM",
+    "from": 1986,
+    "to": 1988
+  },
+  {
+    "models": "Honda XL-X250 RD",
+    "from": 1983,
+    "to": 1984
+  },
+  {
+    "models": "Honda XL-X350",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Honda XR250 Baja",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Honda XR250 L",
+    "from": 1991,
+    "to": 1999
+  },
+  {
+    "models": "Honda XR250 RC",
+    "from": 1982,
+    "to": 1983
+  },
+  {
+    "models": "Honda XR250 RE",
+    "from": 1984,
+    "to": 1985
+  },
+  {
+    "models": "Honda XR250 RG",
+    "from": 1986,
+    "to": 1987
+  },
+  {
+    "models": "Honda XR250 RJ",
+    "from": 1988,
+    "to": 1989
+  },
+  {
+    "models": "Honda XR250 R-L",
+    "from": 1990,
+    "to": 2004
+  },
+  {
+    "models": "Honda XR250 Super",
+    "from": 1997,
+    "to": 2004
+  },
+  {
+    "models": "Honda XR350 RD",
+    "from": 1983,
+    "to": 1985
+  },
+  {
+    "models": "Honda XR350 RG",
+    "from": 1986,
+    "to": 1987
+  },
+  {
+    "models": "Honda XR400 R",
+    "from": 1996,
+    "to": 2004
+  },
+  {
+    "models": "Honda XR440 R",
+    "from": 1996,
+    "to": 2004
+  },
+  {
+    "models": "Honda XR500 RB",
+    "from": 1981,
+    "to": 1985
+  },
+  {
+    "models": "Honda XR600 RF",
+    "from": 1985,
+    "to": 1987
+  },
+  {
+    "models": "Honda XR600 RJ",
+    "from": 1985,
+    "to": 1990
+  },
+  {
+    "models": "Honda XR600 RR",
+    "from": 1994,
+    "to": 2002
+  },
+  {
+    "models": "Honda XR650 L",
+    "from": 1993,
+    "to": 2025
+  },
+  {
+    "models": "Honda XR650 R",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "Kawasaki KFX450R",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "Kawasaki KLX110",
+    "from": 2002,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KLX110L",
+    "from": 2010,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KLX110R",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX110RL",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX125",
     "from": 2010,
     "to": 2016
   },
   {
-    "models": "Kawasaki KLX125 DAF,DBF,DDF D-Tracker",
-    "from": 2010,
-    "to": 2014
-  },
-  {
-    "models": "Kawasaki KLX140 A8F,A9F,AAF-ARF",
+    "models": "Kawasaki KLX140",
     "from": 2008,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KLX140L B8F,B9F,BAF-BRF",
-    "from": 2008,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KLX140G CHF-CRF",
-    "from": 2017,
     "to": 2024
   },
   {
     "models": "Kawasaki KLX140 R",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX140 RL",
     "from": 2025,
     "to": ""
   },
@@ -335,192 +290,107 @@
     "to": ""
   },
   {
-    "models": "Kawasaki KLX150L EEF",
+    "models": "Kawasaki KLX140 RL",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX140G",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX140L",
+    "from": 2008,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX150L EEF�",
     "from": 2014,
     "to": 2015
   },
   {
     "models": "Kawasaki KLX230 R",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX230 R�",
     "from": 2025,
     "to": ""
   },
   {
     "models": "Kawasaki KLX230 RS",
-    "from": 2025,
+    "from": 2024,
     "to": ""
   },
   {
-    "models": "Kawasaki BX250 AEF,AFF 250 Ninja SL",
-    "from": 2014,
-    "to": 2015
-  },
-  {
-    "models": "Kawasaki KL250 G4-G7 Super Sherpa",
-    "from": 2000,
-    "to": 2003
-  },
-  {
-    "models": "Kawasaki KL250 G9F Super Sherpa",
-    "from": 2009,
+    "models": "Kawasaki KLX230 S�",
+    "from": 2024,
     "to": ""
   },
   {
-    "models": "Kawasaki KLX250 R (LX250E)",
+    "models": "Kawasaki KLX230 SM�",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX250 R",
     "from": 1991,
     "to": 1997
   },
   {
-    "models": "Kawasaki KLX250",
-    "from": 1990,
-    "to": 1992
-  },
-  {
-    "models": "Kawasaki KLX250 D2-D4 (KLX250 R)",
-    "from": 1993,
-    "to": 1996
-  },
-  {
-    "models": "Kawasaki KLX250 S9F,SAF,SBF,SCF,SDF,SEF,SFF,SGF,SHF,SJF",
-    "from": 2009,
-    "to": 2018
-  },
-  {
-    "models": "Kawasaki KLX250 SKF,SLF",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "Kawasaki KLX250 SKFA,SLFA Camo",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "Kawasaki KLX250 S H6F,H7F",
+    "models": "Kawasaki KLX250 S",
     "from": 2006,
-    "to": 2007
-  },
-  {
-    "models": "Kawasaki KLX250 S T9F,TAF,TBF,TCF,TDF,TEF",
-    "from": 2009,
     "to": 2014
   },
   {
-    "models": "Kawasaki KLX250 SF W9F,WAF",
+    "models": "Kawasaki KLX250 SF",
     "from": 2009,
     "to": 2010
   },
   {
-    "models": "Kawasaki KLX300 A1-A10,A6F,A7F (KLX300R)",
-    "from": 1996,
-    "to": 2007
-  },
-  {
-    "models": "Kawasaki KLX300 DMF",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX300 DPF",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX300 FRF",
-    "from": 2024,
-    "to": ""
+    "models": "Kawasaki KLX250�",
+    "from": 1990,
+    "to": 2020
   },
   {
     "models": "Kawasaki KLX300",
-    "from": 2025,
-    "to": ""
+    "from": 1996,
+    "to": 2025
   },
   {
-    "models": "Kawasaki KLX300 R (KLX300CLF,CMF)",
+    "models": "Kawasaki KLX300 R",
     "from": 2020,
-    "to": 2021
+    "to": 2025
   },
   {
-    "models": "Kawasaki KLX300 R (KLX300CPF,CRF)",
-    "from": 2023,
-    "to": 2024
-  },
-  {
-    "models": "Kawasaki KLX300 R (KLX300)",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX300 SM (KLX300EMF)",
+    "models": "Kawasaki KLX300 SM",
     "from": 2021,
     "to": ""
   },
   {
-    "models": "Kawasaki KLX300 SM (KLX300EPF)",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX300 SM (KLX300GRF)",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX300 SM (KLX300)",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX450 R A8F,A9F,AAF,ABF,ACF,ADF,AEF,AFF,AGF,AJF,AKF,ALF",
+    "models": "Kawasaki KLX450 R",
     "from": 2008,
     "to": 2020
   },
   {
-    "models": "Kawasaki KX450 F-D6F, D7F,D8F,E9F,EAF,EBF,FCF,FDF,FEF,FFF",
+    "models": "Kawasaki KX450 F",
     "from": 2006,
     "to": 2015
   },
   {
-    "models": "Kawasaki KLX230 R ALF,BLF",
-    "from": 2020,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX230 R EMF, ENF, EPF",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Kawasaki KLX230 R ERF",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX230 RS FRF",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX230 S",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Polaris 500 Outlaw",
+    "models": "Polaris 500 Outlaw�",
     "from": 2006,
     "to": 2007
   },
   {
-    "models": "Polaris 500 Predator",
+    "models": "Polaris 500 Predator�",
     "from": 2003,
     "to": 2007
   },
   {
-    "models": "Polaris 500 Predator Troy Lee Edition",
-    "from": 2005,
-    "to": ""
-  },
-  {
-    "models": "Suzuki DR-Z110 K3,K4,K5",
+    "models": "Suzuki DR-Z110",
     "from": 2003,
     "to": 2005
   }
