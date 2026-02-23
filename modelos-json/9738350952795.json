@@ -7,7 +7,7 @@
   {
     "models": "Beta 125 RR Enduro / Motard LC 4T",
     "from": 2020,
-    "to": 2021
+    "to": ""
   },
   {
     "models": "Beta 125 RR Enduro R",
@@ -20,9 +20,34 @@
     "to": ""
   },
   {
-    "models": "Fantic 125 Caballero",
+    "models": "Fantic 125 Caballero Flat track",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Fantic 125 Caballero Motard LC",
     "from": 2008,
     "to": 2015
+  },
+  {
+    "models": "Fantic 125 Caballero R Competition LC",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "Fantic 125 Caballero R Competition Racing LC",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "Fantic 125 Caballero R Enduro LC",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "Fantic 125 Caballero Scrambler",
+    "from": "",
+    "to": ""
   },
   {
     "models": "Fantic 200 Caballero",
@@ -35,9 +60,84 @@
     "to": 2015
   },
   {
-    "models": "Gasgas EC250 F 4T",
+    "models": "Gasgas EC 250F",
     "from": 2010,
     "to": 2011
+  },
+  {
+    "models": "HM Moto 125 CRE-F Six 4T",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "HM Moto 125 CRE-F X 4T",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "HM Moto 125 CRE-F X Baja / RR 4T",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "HM Moto 125 CRM F-X 4T",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "HM Moto 125 CRM F-X Competition 4T",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "HM Moto 125 CRM F-X Derapage / RR 4T",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "HM Moto 125 Scrambler City 4T",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "HM Moto 125 Trail Locusta 4T",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "HM Moto 125 Urban City 4T",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "HM Moto 200 Scrambler City 4T",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "HM Moto 200 Trail Locusta 4T",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "HM Moto 200 Urban City 4T",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "MBK 125 Citycruiser",
+    "from": 2007,
+    "to": 2011
+  },
+  {
+    "models": "MBK 125 Cityliner",
+    "from": 2007,
+    "to": 2015
+  },
+  {
+    "models": "MBK 125 Skycruiser",
+    "from": 2006,
+    "to": 2015
   },
   {
     "models": "Rieju 125 Marathon Pro Enduro / Motard",
@@ -80,43 +180,93 @@
     "to": 2024
   },
   {
+    "models": "Yamaha 115 Crypton S",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Yamaha T135 Cypton X",
+    "from": 2007,
+    "to": 2018
+  },
+  {
+    "models": "Yamaha VP125 X",
+    "from": 2007,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha WR 125R",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "Yamaha WR 125X",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "Yamaha WR 250F",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "Yamaha XG250 Tricker",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Yamaha XT 250X",
+    "from": 2008,
+    "to": ""
+  },
+  {
     "models": "Yamaha YFZ 450",
     "from": 2004,
     "to": 2006
   },
   {
-    "models": "Yamaha WR 125",
-    "from": 2009,
-    "to": 2016
+    "models": "Yamaha YP125 R",
+    "from": 2006,
+    "to": 2014
   },
   {
-    "models": "Yamaha WR 125 X",
-    "from": 2009,
-    "to": 2016
+    "models": "Yamaha YP125 R",
+    "from": 2006,
+    "to": 2014
   },
   {
-    "models": "Yamaha WR 250 F",
-    "from": 2003,
-    "to": 2008
-  },
-  {
-    "models": "Yamaha XT 250",
-    "from": 2008,
+    "models": "Yamaha YP125 R X-Max Business ABS",
+    "from": 2011,
     "to": ""
   },
   {
-    "models": "Yamaha YZ 250 F",
+    "models": "Yamaha YP125 RA",
+    "from": 2011,
+    "to": 2017
+  },
+  {
+    "models": "Yamaha YZ 250F",
     "from": 2003,
     "to": 2008
   },
   {
-    "models": "Yamaha WR 450 F",
+    "models": "Yamaha YZ 450F",
     "from": 2003,
     "to": 2008
   },
   {
-    "models": "Yamaha YZ450 F",
-    "from": 2003,
-    "to": 2008
+    "models": "Yamaha YZF-R 125",
+    "from": 2008,
+    "to": 2014
   }
 ]
