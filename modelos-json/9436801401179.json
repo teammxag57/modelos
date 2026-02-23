@@ -1,217 +1,227 @@
 [
   {
-    "models": "Kawasaki KLT200 A-A4,A4A,B18",
-    "from": 1980,
-    "to": 1983
-  },
-  {
-    "models": "Kawasaki KLT200 C1,C28",
-    "from": 1983,
-    "to": 1984
-  },
-  {
-    "models": "Kawasaki KLT250 A1,A28",
-    "from": 1982,
-    "to": 1983
-  },
-  {
-    "models": "Kawasaki KLT250 C1,C2,C3 Prairie8",
-    "from": 1983,
-    "to": 1985
-  },
-  {
-    "models": "Kawasaki KLT250 P1 Police",
-    "from": 1984,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLF220 A1-A15 Bayou8",
-    "from": 1988,
-    "to": 2002
-  },
-  {
-    "models": "Kawasaki KLF250 A1",
-    "from": 2003,
-    "to": 2011
-  },
-  {
-    "models": "Kawasaki KSF250 A1-A4 Mojave8",
-    "from": 1987,
-    "to": 1990
-  },
-  {
-    "models": "Kawasaki KSF250 A5-A18 Mojave9",
-    "from": 1991,
-    "to": 2004
-  },
-  {
-    "models": "Kawasaki KEF300 A1-A6 Lakota9",
+    "models": "Kawasaki KEF300",
     "from": 1995,
     "to": 2000
   },
   {
-    "models": "Kawasaki KEF300 B1-B3 Lakota0",
+    "models": "Kawasaki KEF300",
     "from": 2001,
     "to": 2003
   },
   {
-    "models": "Kawasaki KLF300 A1,A2 Bayou8",
-    "from": 1986,
-    "to": 1987
-  },
-  {
-    "models": "Kawasaki KLF300 C1-C16 Bayou8",
-    "from": 1989,
-    "to": 2004
-  },
-  {
-    "models": "Kawasaki KLF300 A8,A9 Bayou9",
-    "from": 1996,
-    "to": 1997
-  },
-  {
-    "models": "Kawasaki KLF300 B1-B17 Bayou8",
-    "from": 1988,
-    "to": 2004
-  },
-  {
-    "models": "Kawasaki Z200 A1-A67",
-    "from": 1977,
-    "to": 1983
-  },
-  {
-    "models": "Kawasaki BJ250 A2,A3,C2 Estrella 2509",
-    "from": 1994,
-    "to": 2000
-  },
-  {
-    "models": "Kawasaki KL250 A1,A1A,A2,A3,A47",
+    "models": "Kawasaki KL250",
     "from": 1977,
     "to": 1981
   },
   {
-    "models": "Kawasaki KL250 C,C2,L18",
+    "models": "Kawasaki KL250",
     "from": 1982,
     "to": 1983
   },
   {
-    "models": "Kawasaki KL250 D2-D22 (KLR250)8",
+    "models": "Kawasaki KL250",
     "from": 1984,
     "to": 2005
   },
   {
-    "models": "Kawasaki KZ250 D1,D28",
-    "from": 1980,
-    "to": 1981
-  },
-  {
-    "models": "Kawasaki KZ250 W1,LTD",
-    "from": 1983,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki Z250 C1,C2,G1,G2,LTD8",
-    "from": 1981,
-    "to": 1983
-  },
-  {
-    "models": "Kawasaki KL600 A1,B1-B4 (KLR600)8",
+    "models": "Kawasaki KL600",
     "from": 1984,
     "to": 1990
   },
   {
-    "models": "Kawasaki KL650 A1-A19,A6F,A7F,E8F,E9F,EAF,EBF,ECF,EDF,EEF,EFF,EGF (KLR650)8",
+    "models": "Kawasaki KL650",
     "from": 1987,
     "to": 2016
   },
   {
-    "models": "Kawasaki KL650 EHF,EJF (KLR650)1",
+    "models": "Kawasaki KL650",
     "from": 2017,
     "to": 2018
   },
   {
-    "models": "Kawasaki KL650 EHFA,EJFA (KLR650) Camo1",
-    "from": 2017,
-    "to": 2018
-  },
-  {
-    "models": "Kawasaki KL650 FNF,HNF,JNF (KLR650)",
+    "models": "Kawasaki KL650",
     "from": 2022,
     "to": ""
   },
   {
-    "models": "Kawasaki KL650 FPF,GPF,LPF (KLR650)",
+    "models": "Kawasaki KL650",
     "from": 2023,
     "to": ""
   },
   {
-    "models": "Kawasaki KL650 FRF,GRF (KLR650)",
+    "models": "Kawasaki KL650",
     "from": 2024,
     "to": ""
   },
   {
-    "models": "Kawasaki KL650 Adventure (KL650 HNF)",
+    "models": "Kawasaki KL650",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KL650",
     "from": 2022,
     "to": ""
   },
   {
-    "models": "Kawasaki KL650 Adventure (KL650 HPF,LPF)",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KL650 Adventure (KL650 HRF)",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KL650 S KPF,MPF (KLR650 S",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KL650 S KRF,MRF (KLR650 S",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KL650 JNF KLR650 Traveler",
+    "models": "Kawasaki KL650",
     "from": 2022,
     "to": ""
   },
   {
-    "models": "Kawasaki KL650 JPF KLR650 Traveler ABS",
+    "models": "Kawasaki KL650",
     "from": 2023,
     "to": ""
   },
   {
-    "models": "Kawasaki KL650 EJS (KLR650)",
+    "models": "Kawasaki KL650",
     "from": 2018,
     "to": ""
   },
   {
-    "models": "Kawasaki KL650 B1,B2,B3 Tengai (KLR650)8",
+    "models": "Kawasaki KL650",
     "from": 1989,
     "to": 1992
   },
   {
-    "models": "Kawasaki KL650 C1-C9 (KLR650)9",
+    "models": "Kawasaki KL650",
     "from": 1995,
     "to": 2003
   },
   {
-    "models": "Kawasaki KLX650 C1-C59",
+    "models": "Kawasaki KL650",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki KL650 Adventure",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KL650 Adventure",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KL650 Adventure",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KL650 S",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KL650 S",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KL650 S",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLF220",
+    "from": 1988,
+    "to": 2002
+  },
+  {
+    "models": "Kawasaki KLF250",
+    "from": 2003,
+    "to": 2011
+  },
+  {
+    "models": "Kawasaki KLF300",
+    "from": 1986,
+    "to": 1987
+  },
+  {
+    "models": "Kawasaki KLF300",
+    "from": 1989,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki KLF300",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "Kawasaki KLF300",
+    "from": 1988,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki KLT200",
+    "from": 1980,
+    "to": 1983
+  },
+  {
+    "models": "Kawasaki KLT200",
+    "from": 1983,
+    "to": 1984
+  },
+  {
+    "models": "Kawasaki KLT250",
+    "from": 1982,
+    "to": 1983
+  },
+  {
+    "models": "Kawasaki KLT250",
+    "from": 1983,
+    "to": 1985
+  },
+  {
+    "models": "Kawasaki KLT250",
+    "from": 1984,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX 650",
     "from": 1993,
     "to": 1997
   },
   {
-    "models": "Kawasaki KLX650 A1-A3,D1 (KLX650 R)9",
+    "models": "Kawasaki KLX 650",
     "from": 1993,
     "to": 1996
   },
   {
-    "models": "Kawasaki KLX650 R9",
+    "models": "Kawasaki KLX 650R",
     "from": 1993,
     "to": 2001
+  },
+  {
+    "models": "Kawasaki KSF250",
+    "from": 1987,
+    "to": 1990
+  },
+  {
+    "models": "Kawasaki KSF250",
+    "from": 1991,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki KZ250",
+    "from": 1980,
+    "to": 1981
+  },
+  {
+    "models": "Kawasaki KZ250",
+    "from": 1983,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki Z200",
+    "from": 1977,
+    "to": 1983
+  },
+  {
+    "models": "Kawasaki Z250",
+    "from": 1981,
+    "to": 1983
   }
 ]
