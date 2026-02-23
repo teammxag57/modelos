@@ -1,0 +1,117 @@
+[
+  {
+    "models": "Gasgas EC 250F",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 250F Six Days",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 300F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 450F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna SMR 125 4T",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna SMS4 125 4T",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE 125 4T",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha MT 125",
+    "from": 2015,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha WR 250F",
+    "from": 2009,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha WR 250R",
+    "from": 2009,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2009,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha XT 250",
+    "from": 2009,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YBR 250",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "Yamaha YFM 250R Raptor",
+    "from": 2008,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YFZ 450",
+    "from": 2007,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YP125 DA X-Max",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "Yamaha YP125 R X-Max",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "Yamaha YP125 RA",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2009,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 250FX",
+    "from": 2015,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2009,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2015,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZF-R 125",
+    "from": 2015,
+    "to": 2020
+  }
+]
