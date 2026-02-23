@@ -1,106 +1,106 @@
 [
   {
-    "models": "Honda ATC250 ES Big Red 8",
+    "models": "Honda ATC250 ES Big Red",
     "from": 1985,
     "to": 1987
   },
   {
-    "models": "Honda ATC350 X 8",
+    "models": "Honda ATC350 X",
     "from": 1985,
     "to": 1986
   },
   {
-    "models": "Honda CBF125 1",
-    "from": 2014,
-    "to": 2015
-  },
-  {
-    "models": "Honda CBF250 0",
+    "models": "Honda CBF250",
     "from": 2004,
     "to": 2006
   },
   {
-    "models": "Honda CRF250 F-K,L 1",
+    "models": "Honda CRF 250F",
     "from": 2019,
     "to": 2021
   },
   {
-    "models": "Honda CRF250 F-M",
+    "models": "Honda CRF 250F",
     "from": 2022,
     "to": ""
   },
   {
-    "models": "Honda CRF250 F-P",
+    "models": "Honda CRF 250F",
     "from": 2023,
     "to": ""
   },
   {
-    "models": "Honda CRF250 F-R",
+    "models": "Honda CRF 250F",
     "from": 2024,
     "to": ""
   },
   {
-    "models": "Honda SXS500 M Pioneer 500 1",
+    "models": "Honda CRF 250F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Honda CRF 300F",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Honda HondaSide X S",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Honda SXS 500 M Pioneer",
     "from": 2015,
-    "to": 2020
-  },
-  {
-    "models": "Honda SXS500 M Pioneer 500 2",
-    "from": 2021,
     "to": 2022
   },
   {
-    "models": "Honda SXS520 M Pioneer 520 2",
+    "models": "Honda SXS 520 M Pioneer",
     "from": 2021,
-    "to": 2022
+    "to": 2025
   },
   {
-    "models": "Honda TRX250 8",
+    "models": "Honda TRX250",
     "from": 1985,
     "to": 1987
   },
   {
-    "models": "Honda TRX250 X Fourtrax 8",
+    "models": "Honda TRX250 X Fourtrax",
     "from": 1986,
     "to": 1992
   },
   {
-    "models": "Honda TRX300 (2WD) 8",
+    "models": "Honda TRX300 (2WD)",
     "from": 1988,
     "to": 2001
   },
   {
-    "models": "Honda TRX300 EX 9",
+    "models": "Honda TRX300 EX",
     "from": 1993,
     "to": 2002
   },
   {
     "models": "Honda TRX300 EX Sportrax",
     "from": 2003,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX300 EX Sportrax 0",
-    "from": 2004,
     "to": 2008
   },
   {
-    "models": "Honda TRX300 FW Fourtrax (4WD) 8",
+    "models": "Honda TRX300 FW Fourtrax (4WD)",
     "from": 1987,
     "to": 2001
   },
   {
-    "models": "Honda TRX300 X-9",
+    "models": "Honda TRX300 X",
     "from": 2009,
     "to": ""
   },
   {
-    "models": "Honda TRX350 8",
+    "models": "Honda TRX350",
     "from": 1986,
     "to": 1987
   },
   {
-    "models": "Honda TRX350 D Fourtrax Foreman 8",
+    "models": "Honda TRX350 D Fourtrax Foreman",
     "from": 1987,
     "to": 1989
   },
@@ -110,177 +110,77 @@
     "to": ""
   },
   {
-    "models": "Honda TRX350 FE Fourtrax Rancher 4x4 ES 0",
+    "models": "Honda TRX350 FE Fourtrax Rancher 4x4 ES",
     "from": 2000,
     "to": 2006
   },
   {
-    "models": "Honda TRX350 FM Fourtrax Rancher 4x4 0",
+    "models": "Honda TRX350 FM Fourtrax Rancher 4x4",
     "from": 2000,
     "to": 2006
   },
   {
-    "models": "Honda TRX350 TE Fourtrax Rancher ES 0",
+    "models": "Honda TRX350 TE Fourtrax Rancher ES",
     "from": 2000,
     "to": 2006
   },
   {
-    "models": "Honda TRX350 TM Fourtrax Rancher 0",
+    "models": "Honda TRX350 TM Fourtrax Rancher",
     "from": 2000,
     "to": 2006
   },
   {
-    "models": "Honda TRX400 EX 9",
+    "models": "Honda TRX400 EX",
     "from": 1999,
     "to": 2000
   },
   {
-    "models": "Honda TRX400 EX Sportrax 0",
+    "models": "Honda TRX400 EX Sportrax",
     "from": 2001,
     "to": 2008
   },
   {
-    "models": "Honda TRX400 FW Fourtrax Foreman 9",
+    "models": "Honda TRX400 FW Fourtrax Foreman",
     "from": 1995,
     "to": 2002
   },
   {
-    "models": "Honda TRX400 X-9,A,B,C,D,E 0",
+    "models": "Honda TRX400 X",
     "from": 2009,
     "to": 2014
   },
   {
     "models": "Honda TRX420 FE Fourtrax Rancher 4x4 ES",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX420 FE Fourtrax Rancher 4x4 ES",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX420 FE Fourtrax Rancher 4x4 ES",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX420 FE Fourtrax Rancher 4x4 ES",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX420 FE Fourtrax Rancher 4x4 ES 0",
     "from": 2007,
-    "to": 2013
-  },
-  {
-    "models": "Honda TRX420 FE Fourtrax Rancher 4x4 ES 1",
-    "from": 2014,
-    "to": 2020
+    "to": 2024
   },
   {
     "models": "Honda TRX420 FM Fourtrax Rancher 4x4",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX420 FM Fourtrax Rancher 4x4",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX420 FM Fourtrax Rancher 4x4",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX420 FM Fourtrax Rancher 4x4",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX420 FM Fourtrax Rancher 4x4 0",
     "from": 2007,
-    "to": 2013
+    "to": 2026
   },
   {
-    "models": "Honda TRX420 FM Fourtrax Rancher 4x4 1",
-    "from": 2014,
-    "to": 2020
-  },
-  {
-    "models": "Honda TRX420 FPE Fourtrax Rancher 4x4 ES (Power Steering) 0",
+    "models": "Honda TRX420 FPE Fourtrax Rancher 4x4 ES",
     "from": 2009,
     "to": 2013
   },
   {
-    "models": "Honda TRX420 FPM Fourtrax Rancher 4x4 (Power Steering) 0",
+    "models": "Honda TRX420 FPM Fourtrax Rancher 4x4",
     "from": 2009,
     "to": 2014
   },
   {
     "models": "Honda TRX420 TE Fourtrax Rancher ES",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX420 TE Fourtrax Rancher ES",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX420 TE Fourtrax Rancher ES",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX420 TE Fourtrax Rancher ES",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX420 TE Fourtrax Rancher ES 0",
     "from": 2007,
-    "to": 2013
-  },
-  {
-    "models": "Honda TRX420 TE Fourtrax Rancher ES 1",
-    "from": 2014,
-    "to": 2020
+    "to": 2024
   },
   {
     "models": "Honda TRX420 TM Fourtrax Rancher",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX420 TM Fourtrax Rancher",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX420 TM Fourtrax Rancher",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX420 TM Fourtrax Rancher",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX420 TM Fourtrax Rancher 0",
     "from": 2007,
-    "to": 2013
+    "to": 2026
   },
   {
-    "models": "Honda TRX420 TM Fourtrax Rancher 1",
-    "from": 2014,
-    "to": 2020
-  },
-  {
-    "models": "Honda TRX450 FE Foretrax Foreman ES 0",
+    "models": "Honda TRX450 FE Foretrax Foreman ES",
     "from": 2003,
     "to": 2004
   },
@@ -290,99 +190,54 @@
     "to": ""
   },
   {
-    "models": "Honda TRX450 FM Foretrax Foreman S 0",
+    "models": "Honda TRX450 FM Foretrax Foreman S",
     "from": 2003,
     "to": 2004
   },
   {
-    "models": "Honda TRX450 S/SE Fourtrax Foreman 9",
+    "models": "Honda TRX450 S/SE Fourtrax Foreman",
     "from": 1998,
     "to": 2002
   },
   {
-    "models": "Honda TRX500 FE Fourtrax Foreman 4 x 4 ES 0",
+    "models": "Honda TRX500 FE Fourtrax Foreman 4 x 4 ES",
     "from": 2005,
     "to": 2019
   },
   {
-    "models": "Honda TRX500 FM Fourtrax Foreman Rubicon 4 x 4 0",
+    "models": "Honda TRX500 FM Fourtrax Foreman Rubicon 4 x 4",
     "from": 2005,
     "to": 2019
   },
   {
-    "models": "Honda TRX500 FPE Fourtrax Foreman 4 x 4 ES (Power Steering) 0",
+    "models": "Honda TRX500 FPE Fourtrax Foreman 4 x 4 ES",
     "from": 2007,
     "to": 2014
   },
   {
-    "models": "Honda TRX500 FPM Fourtrax Foreman 4 x 4 ES (Power Steering) 0",
+    "models": "Honda TRX500 FPM Fourtrax Foreman 4 x 4 ES",
     "from": 2008,
     "to": 2014
   },
   {
-    "models": "Honda TRX500 TM Fourtrax Foreman 0",
+    "models": "Honda TRX500 TM Fourtrax Foreman",
     "from": 2005,
     "to": 2006
   },
   {
-    "models": "Honda TRX520 FE Fouttrax 4x4 ES EPS",
+    "models": "Honda TRX520 FE Fourtrax 4x4 ES EPS",
     "from": 2020,
-    "to": ""
+    "to": 2024
   },
   {
-    "models": "Honda TRX520 FE Fouttrax 4x4 ES EPS",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX520 FE Fouttrax 4x4 ES EPS",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX520 FE Fouttrax 4x4 ES EPS",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX520 FE Fouttrax 4x4 ES EPS",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX520 FM Fouttrax 4x4 ES",
+    "models": "Honda TRX520 FM Fourtrax 4x4 ES",
     "from": 2020,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Honda TRX520 FM Fouttrax 4x4 ES",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX520 FM Fouttrax 4x4 ES",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX520 FM Fouttrax 4x4 ES",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Honda TRX520 FM Fouttrax 4x4 ES",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Honda VT125 C,C2 Shadow 9",
-    "from": 1999,
-    "to": 2008
-  },
-  {
-    "models": "Honda XL125 V Varadero 0",
+    "models": "Honda XL125 V Varadero",
     "from": 2001,
-    "to": 2014
+    "to": 2016
   },
   {
     "models": "Honda XL125 V Varadero De Luxe",
