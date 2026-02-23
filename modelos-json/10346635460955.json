@@ -1,76 +1,81 @@
 [
   {
-    "models": "HM Moto 250 CRE-FR",
+    "models": "Honda 250 CRE-F R 4T",
     "from": 2004,
     "to": 2009
   },
   {
-    "models": "HM Moto 250 CRM-FX",
+    "models": "Honda 250 CRM-F X IE 4T",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "HM Moto 250 Montesa Cora",
+    "models": "Honda 250 Montesa Cora 4T",
     "from": 2005,
     "to": 2009
   },
   {
-    "models": "HM Moto 290 CRE-FX",
+    "models": "Honda 290 CRE-F X IE 4T",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "HM Moto 290 CRM-FX",
+    "models": "Honda 290 CRM-F X IE 4T",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "HM Moto 300 CRE-FX",
+    "models": "Honda 300 CRE-F X IE 4T",
     "from": 2008,
     "to": 2010
   },
   {
-    "models": "HM Moto 450 CRE-FR",
+    "models": "Honda 450 CRE-F R",
     "from": 2002,
     "to": 2013
   },
   {
-    "models": "HM Moto 450 CRE-FX",
+    "models": "Honda 450 CRE-F X",
     "from": 2005,
     "to": 2009
   },
   {
-    "models": "HM Moto 450 CRM-FR�",
+    "models": "Honda 450 CRE-F X IE",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "Honda 450 CRM-F R",
     "from": 2002,
     "to": 2013
   },
   {
-    "models": "HM Moto 450 CRM-FX",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "HM Moto 450 CRM-FX�",
+    "models": "Honda 450 CRM-F X",
     "from": 2005,
     "to": 2009
   },
   {
-    "models": "HM Moto 490 CRE-FX",
+    "models": "Honda 450 CRM-F X IE",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "Honda 490 CRE-F X IE",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "HM Moto 490 CRM-FX",
+    "models": "Honda 490 CRM-F X IE",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "HM Moto 500 CRE-X",
+    "models": "Honda 500 CRE-X",
     "from": 2008,
     "to": 2013
   },
   {
-    "models": "HM Moto 500 CRM-X",
+    "models": "Honda 500 CRM-X",
     "from": 2009,
     "to": 2013
   },
@@ -100,7 +105,7 @@
     "to": 2019
   },
   {
-    "models": "Honda CRF 250XRL�",
+    "models": "Honda CRF 250XRL",
     "from": 2015,
     "to": 2017
   },
@@ -135,7 +140,7 @@
     "to": 2026
   },
   {
-    "models": "Honda CRF 450XRL�",
+    "models": "Honda CRF 450XRL",
     "from": 2015,
     "to": 2016
   },
@@ -150,62 +155,62 @@
     "to": 2013
   },
   {
-    "models": "Husqvarna TC 250�",
+    "models": "Husqvarna TC 250",
     "from": 2009,
     "to": 2013
   },
   {
-    "models": "Husqvarna TC 250R�",
+    "models": "Husqvarna TC 250R",
     "from": 2013,
     "to": ""
   },
   {
-    "models": "Husqvarna TE 250�",
+    "models": "Husqvarna TE 250",
     "from": 2010,
     "to": 2014
   },
   {
-    "models": "Husqvarna TE 250R�",
+    "models": "Husqvarna TE 250R",
     "from": 2013,
     "to": ""
   },
   {
-    "models": "Husqvarna TE 310�",
+    "models": "Husqvarna TE 310",
     "from": 2011,
     "to": 2014
   },
   {
-    "models": "Husqvarna TE 310R�",
+    "models": "Husqvarna TE 310R",
     "from": 2013,
     "to": ""
   },
   {
-    "models": "Husqvarna TXC 250�",
+    "models": "Husqvarna TXC 250",
     "from": 2010,
     "to": 2014
   },
   {
-    "models": "Husqvarna TXC 250R�",
+    "models": "Husqvarna TXC 250R",
     "from": 2013,
     "to": ""
   },
   {
-    "models": "Husqvarna TXC 310R�",
+    "models": "Husqvarna TXC 310R",
     "from": 2011,
     "to": 2014
   },
   {
-    "models": "Polaris 325 Ace�",
+    "models": "Polaris 325 Ace",
     "from": 2015,
     "to": 2016
   },
   {
-    "models": "Polaris 325 Ranger ETX�",
+    "models": "Polaris 325 Ranger ETX",
     "from": 2015,
     "to": ""
   },
   {
-    "models": "Polaris 325 Sportsman ACE / ETX�",
+    "models": "Polaris 325 Sportsman ACE / ETX",
     "from": 2014,
     "to": 2015
   }
