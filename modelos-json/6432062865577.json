@@ -210,18 +210,28 @@
     "to": 2002
   },
   {
+    "models": "KTM SX 350F",
+    "from": 2011,
+    "to": 2015
+  },
+  {
     "models": "KTM SX 380",
     "from": 1998,
     "to": 2002
   },
   {
-    "models": "KTM SX 520",
-    "from": 1999,
+    "models": "KTM SX 400 Racing",
+    "from": 2000,
     "to": 2002
   },
   {
-    "models": "KTM SX 400 Racing",
-    "from": 2000,
+    "models": "KTM SX 505F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM SX 520",
+    "from": 1999,
     "to": 2002
   },
   {
@@ -233,16 +243,6 @@
     "models": "KTM SXC 4T Tiainen Replica 540",
     "from": 1999,
     "to": 2000
-  },
-  {
-    "models": "KTM SX 350F",
-    "from": 2011,
-    "to": 2015
-  },
-  {
-    "models": "KTM SX 505F",
-    "from": 2007,
-    "to": 2009
   },
   {
     "models": "KTM SXS 4T 540",
