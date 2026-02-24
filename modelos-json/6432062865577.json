@@ -100,87 +100,72 @@
     "to": 2020
   },
   {
-    "models": "KTM EXC 2T 200",
+    "models": "KTM EXC 200",
     "from": 1998,
     "to": 2012
   },
   {
-    "models": "KTM EXC 2T 250",
+    "models": "KTM EXC 250",
     "from": 2003,
-    "to": 2017
+    "to": 2020
   },
   {
-    "models": "KTM EXC 2T 300",
+    "models": "KTM EXC 300",
     "from": 1995,
-    "to": 2015
+    "to": 2026
   },
   {
-    "models": "KTM EXC 2T 380",
+    "models": "KTM EXC 380",
     "from": 1999,
     "to": 2001
   },
   {
-    "models": "KTM EXC 2T TPI 250",
-    "from": 2018,
-    "to": 2020
-  },
-  {
-    "models": "KTM EXC 2T TPI 300",
-    "from": 2018,
-    "to": 2020
-  },
-  {
-    "models": "KTM EXC 4T 450",
+    "models": "KTM EXC 450F",
     "from": 2003,
-    "to": 2007
+    "to": 2016
   },
   {
-    "models": "KTM EXC 4T 500",
+    "models": "KTM EXC 500F",
     "from": 2012,
     "to": 2017
   },
   {
-    "models": "KTM EXC 4T 520",
+    "models": "KTM EXC 520F",
     "from": 1999,
     "to": 2002
   },
   {
-    "models": "KTM EXC 4T 525",
+    "models": "KTM EXC 525F",
     "from": 2003,
     "to": 2007
   },
   {
-    "models": "KTM EXC F 4T 250",
+    "models": "KTM EXC 250F",
     "from": 2007,
     "to": 2020
   },
   {
-    "models": "KTM EXC F 4T 350",
+    "models": "KTM EXC 350F",
     "from": 2012,
     "to": 2019
   },
   {
-    "models": "KTM EXC R 4T 400",
+    "models": "KTM EXC 400F",
     "from": 2009,
     "to": 2011
   },
   {
-    "models": "KTM EXC R 4T 450",
-    "from": 2008,
-    "to": 2016
-  },
-  {
-    "models": "KTM EXC R 4T 530",
+    "models": "KTM EXC-R 530",
     "from": 2008,
     "to": 2011
   },
   {
-    "models": "KTM EXC TPI 150",
+    "models": "KTM EXC 150",
     "from": 2020,
     "to": 2020
   },
   {
-    "models": "KTM EXC-F 500",
+    "models": "KTM EXC 500F",
     "from": 2020,
     "to": 2020
   },
