@@ -35,37 +35,37 @@
     "to": 2014
   },
   {
-    "models": "Husqvarna FC 4T 350",
+    "models": "Husqvarna FC 350F",
     "from": 2014,
     "to": 2019
   },
   {
-    "models": "Husqvarna FC 4T 450",
+    "models": "Husqvarna FC 450F",
     "from": 2014,
     "to": 2020
   },
   {
-    "models": "Husqvarna FE 4T 250",
+    "models": "Husqvarna FE 250F",
     "from": 2014,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Husqvarna FE 4T 350",
+    "models": "Husqvarna FE 350F",
     "from": 2014,
-    "to": 2019
+    "to": 2026
   },
   {
-    "models": "Husqvarna FE 4T 450",
+    "models": "Husqvarna FE 450F",
     "from": 2014,
-    "to": 2020
+    "to": 2026
   },
   {
-    "models": "Husqvarna FE 4T 501",
+    "models": "Husqvarna FE 501F",
     "from": 2014,
-    "to": 2019
+    "to": 2026
   },
   {
-    "models": "Husqvarna FS 4T 450",
+    "models": "Husqvarna FS 450F",
     "from": 2016,
     "to": 2019
   },
@@ -75,29 +75,19 @@
     "to": 2019
   },
   {
-    "models": "Husqvarna TE 2T 250",
+    "models": "Husqvarna TE 250",
     "from": 2014,
-    "to": 2020
+    "to": 2026
   },
   {
-    "models": "Husqvarna TE I 150",
+    "models": "Husqvarna TE 150",
     "from": 2020,
     "to": 2020
   },
   {
-    "models": "Husqvarna TE Jarvis Edition (2020) 300",
-    "from": 2020,
-    "to": 2020
-  },
-  {
-    "models": "KTM Duke 4T 125",
-    "from": 2010,
-    "to": 2020
-  },
-  {
-    "models": "KTM Duke 4T 390",
-    "from": 2013,
-    "to": 2020
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2026
   },
   {
     "models": "KTM EXC 150",
