@@ -243,5 +243,40 @@
     "models": "Sherco SEF Factory 250",
     "from": 2019,
     "to": 2020
+  },
+  {
+    "models": "Gasgas EC 350F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EC 500F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EC 450F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 250F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 125",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 250",
+    "from": 2024,
+    "to": 2025
   }
 ]
