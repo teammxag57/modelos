@@ -127,17 +127,17 @@
   {
     "models": "KTM EXC 150",
     "from": 2020,
-    "to": 2020
+    "to": 2025
   },
   {
     "models": "KTM EXC 200",
     "from": 1998,
-    "to": 2012
+    "to": 2016
   },
   {
     "models": "KTM EXC 250",
     "from": 2003,
-    "to": 2020
+    "to": 2023
   },
   {
     "models": "KTM EXC 250F",
@@ -172,7 +172,7 @@
   {
     "models": "KTM EXC 500F",
     "from": 2012,
-    "to": 2017
+    "to": 2023
   },
   {
     "models": "KTM EXC 500F",
@@ -265,9 +265,9 @@
     "to": 1999
   },
   {
-    "models": "KTM SXC 4T Tiainen Replica 540",
-    "from": 1999,
-    "to": 2000
+    "models": "KTM Freeride 350",
+    "from": 2012,
+    "to": 2017
   },
   {
     "models": "KTM XC 125W",
