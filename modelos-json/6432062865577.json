@@ -35,6 +35,41 @@
     "to": 2026
   },
   {
+    "models": "Gasgas MC 125",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 150",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 250F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas MC 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 350F",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 450F",
+    "from": 2021,
+    "to": 2026
+  },
+  {
     "models": "Honda CRF 250X",
     "from": 2004,
     "to": 2018
@@ -70,14 +105,19 @@
     "to": 2014
   },
   {
+    "models": "Husqvarna FC 250F",
+    "from": 2014,
+    "to": 2026
+  },
+  {
     "models": "Husqvarna FC 350F",
     "from": 2014,
-    "to": 2019
+    "to": 2025
   },
   {
     "models": "Husqvarna FC 450F",
     "from": 2014,
-    "to": 2020
+    "to": 2026
   },
   {
     "models": "Husqvarna FE 250F",
@@ -90,6 +130,11 @@
     "to": 2026
   },
   {
+    "models": "Husqvarna FE 390",
+    "from": 2011,
+    "to": 2012
+  },
+  {
     "models": "Husqvarna FE 450F",
     "from": 2014,
     "to": 2026
@@ -100,6 +145,11 @@
     "to": 2026
   },
   {
+    "models": "Husqvarna FE 570",
+    "from": 2009,
+    "to": 2012
+  },
+  {
     "models": "Husqvarna FR 450 Rally",
     "from": 2017,
     "to": 2024
@@ -107,7 +157,12 @@
   {
     "models": "Husqvarna FS 450F",
     "from": 2016,
-    "to": 2019
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FS 570",
+    "from": 2010,
+    "to": ""
   },
   {
     "models": "Husqvarna FX 350F",
@@ -127,7 +182,22 @@
   {
     "models": "Husqvarna TC 125",
     "from": 2014,
-    "to": 2019
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 150",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 300",
+    "from": 2025,
+    "to": ""
   },
   {
     "models": "Husqvarna TE 125",
@@ -157,7 +227,7 @@
   {
     "models": "Husqvarna TX 300",
     "from": 2019,
-    "to": ""
+    "to": 2024
   },
   {
     "models": "KTM EXC 125",
