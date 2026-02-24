@@ -100,9 +100,29 @@
     "to": 2026
   },
   {
+    "models": "Husqvarna FR 450 Rally",
+    "from": 2017,
+    "to": 2024
+  },
+  {
     "models": "Husqvarna FS 450F",
     "from": 2016,
     "to": 2019
+  },
+  {
+    "models": "Husqvarna FX 350F",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FX 450F",
+    "from": 2010,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna NORDEN 901",
+    "from": 2022,
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 125",
@@ -110,9 +130,14 @@
     "to": 2019
   },
   {
+    "models": "Husqvarna TE 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
     "models": "Husqvarna TE 150",
     "from": 2020,
-    "to": 2020
+    "to": 2023
   },
   {
     "models": "Husqvarna TE 250",
@@ -123,6 +148,16 @@
     "models": "Husqvarna TE 300",
     "from": 2014,
     "to": 2026
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2019,
+    "to": ""
   },
   {
     "models": "KTM EXC 125",
