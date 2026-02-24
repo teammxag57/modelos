@@ -161,7 +161,7 @@
   },
   {
     "models": "KTM EXC 125",
-    "from": 2010,
+    "from": 2003,
     "to": 2016
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "models": "KTM EXC 250F",
-    "from": 2007,
+    "from": 2003,
     "to": 2026
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "models": "KTM EXC 400F",
-    "from": 2009,
+    "from": 2004,
     "to": 2011
   },
   {
@@ -212,11 +212,6 @@
   {
     "models": "KTM EXC 500F",
     "from": 2012,
-    "to": 2023
-  },
-  {
-    "models": "KTM EXC 500F",
-    "from": 2020,
     "to": 2026
   },
   {
@@ -230,6 +225,16 @@
     "to": 2007
   },
   {
+    "models": "KTM EXC 530F",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "KTM EXC 530R",
+    "from": 2008,
+    "to": ""
+  },
+  {
     "models": "KTM EXC-R 530",
     "from": 2008,
     "to": 2011
@@ -238,6 +243,21 @@
     "models": "KTM Freeride 350",
     "from": 2012,
     "to": 2017
+  },
+  {
+    "models": "KTM FREERIDE E-SM",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "KTM FREERIDE E-SX",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "KTM FREERIDE E-XC",
+    "from": 2015,
+    "to": 2023
   },
   {
     "models": "KTM GS / EGS 2T 300",
@@ -270,9 +290,29 @@
     "to": 2007
   },
   {
+    "models": "KTM SMR 525F",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM SMR 560F",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2003,
+    "to": 2026
+  },
+  {
     "models": "KTM SX 144",
     "from": 2007,
     "to": 2008
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2011,
+    "to": 2025
   },
   {
     "models": "KTM SX 250",
@@ -280,9 +320,19 @@
     "to": 2002
   },
   {
+    "models": "KTM SX 250F",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2026
+  },
+  {
     "models": "KTM SX 350F",
     "from": 2011,
-    "to": 2015
+    "to": 2026
   },
   {
     "models": "KTM SX 380",
@@ -295,6 +345,11 @@
     "to": 2002
   },
   {
+    "models": "KTM SX 450F",
+    "from": 2003,
+    "to": 2026
+  },
+  {
     "models": "KTM SX 505F",
     "from": 2007,
     "to": 2009
@@ -305,9 +360,24 @@
     "to": 2002
   },
   {
+    "models": "KTM SX 525",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 525F",
+    "from": 2003,
+    "to": 2005
+  },
+  {
     "models": "KTM XC 125W",
     "from": 2017,
     "to": 2026
+  },
+  {
+    "models": "KTM XC 450F",
+    "from": 2007,
+    "to": ""
   },
   {
     "models": "Sherco SEF 250",
