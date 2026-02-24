@@ -200,27 +200,27 @@
     "to": 2007
   },
   {
-    "models": "KTM SX 2T 144",
+    "models": "KTM SX 144",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "KTM SX 2T 250",
+    "models": "KTM SX 250",
     "from": 1995,
     "to": 2002
   },
   {
-    "models": "KTM SX 2T 380",
+    "models": "KTM SX 380",
     "from": 1998,
     "to": 2002
   },
   {
-    "models": "KTM SX 4T 520",
+    "models": "KTM SX 520",
     "from": 1999,
     "to": 2002
   },
   {
-    "models": "KTM SX Racing 4T 400",
+    "models": "KTM SX 400 Racing",
     "from": 2000,
     "to": 2002
   },
@@ -235,12 +235,12 @@
     "to": 2000
   },
   {
-    "models": "KTM SXF 4T 350",
+    "models": "KTM SX 350F",
     "from": 2011,
     "to": 2015
   },
   {
-    "models": "KTM SXF 4T 505",
+    "models": "KTM SX 505F",
     "from": 2007,
     "to": 2009
   },
