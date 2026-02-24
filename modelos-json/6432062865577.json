@@ -125,6 +125,11 @@
     "to": 2026
   },
   {
+    "models": "KTM EXC 125",
+    "from": 2010,
+    "to": 2016
+  },
+  {
     "models": "KTM EXC 150",
     "from": 2020,
     "to": 2025
@@ -195,6 +200,11 @@
     "to": 2011
   },
   {
+    "models": "KTM Freeride 350",
+    "from": 2012,
+    "to": 2017
+  },
+  {
     "models": "KTM GS / EGS 2T 300",
     "from": 1992,
     "to": 1999
@@ -258,16 +268,6 @@
     "models": "KTM SX 520",
     "from": 1999,
     "to": 2002
-  },
-  {
-    "models": "KTM EXC 125",
-    "from": 2010,
-    "to": 2016
-  },
-  {
-    "models": "KTM Freeride 350",
-    "from": 2012,
-    "to": 2017
   },
   {
     "models": "KTM XC 125W",
