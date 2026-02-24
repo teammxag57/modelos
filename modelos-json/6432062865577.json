@@ -75,14 +75,14 @@
     "to": 2019
   },
   {
-    "models": "Husqvarna TE 250",
-    "from": 2014,
-    "to": 2026
-  },
-  {
     "models": "Husqvarna TE 150",
     "from": 2020,
     "to": 2020
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 300",
