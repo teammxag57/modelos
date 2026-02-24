@@ -1,6 +1,6 @@
 [
   {
-    "models": "Honda CRF X 250",
+    "models": "Honda CRF 250X",
     "from": 2004,
     "to": 2018
   },
@@ -100,6 +100,11 @@
     "to": 2020
   },
   {
+    "models": "KTM EXC 150",
+    "from": 2020,
+    "to": 2020
+  },
+  {
     "models": "KTM EXC 200",
     "from": 1998,
     "to": 2012
@@ -110,14 +115,29 @@
     "to": 2020
   },
   {
+    "models": "KTM EXC 250F",
+    "from": 2007,
+    "to": 2020
+  },
+  {
     "models": "KTM EXC 300",
     "from": 1995,
     "to": 2026
   },
   {
+    "models": "KTM EXC 350F",
+    "from": 2012,
+    "to": 2019
+  },
+  {
     "models": "KTM EXC 380",
     "from": 1999,
     "to": 2001
+  },
+  {
+    "models": "KTM EXC 400F",
+    "from": 2009,
+    "to": 2011
   },
   {
     "models": "KTM EXC 450F",
@@ -130,6 +150,11 @@
     "to": 2017
   },
   {
+    "models": "KTM EXC 500F",
+    "from": 2020,
+    "to": 2020
+  },
+  {
     "models": "KTM EXC 520F",
     "from": 1999,
     "to": 2002
@@ -140,34 +165,9 @@
     "to": 2007
   },
   {
-    "models": "KTM EXC 250F",
-    "from": 2007,
-    "to": 2020
-  },
-  {
-    "models": "KTM EXC 350F",
-    "from": 2012,
-    "to": 2019
-  },
-  {
-    "models": "KTM EXC 400F",
-    "from": 2009,
-    "to": 2011
-  },
-  {
     "models": "KTM EXC-R 530",
     "from": 2008,
     "to": 2011
-  },
-  {
-    "models": "KTM EXC 150",
-    "from": 2020,
-    "to": 2020
-  },
-  {
-    "models": "KTM EXC 500F",
-    "from": 2020,
-    "to": 2020
   },
   {
     "models": "KTM GS / EGS 2T 300",
