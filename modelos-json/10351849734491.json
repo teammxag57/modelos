@@ -1,0 +1,162 @@
+[
+  {
+    "models": "BETA RR 250",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "BETA RR 250R",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "BETA RR 300",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "BETA RR 300R",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "GasGas EC 250",
+    "from": 1998,
+    "to": 2024
+  },
+  {
+    "models": "GasGas EC 250",
+    "from": 2008,
+    "to": 2019
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 1998,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2008,
+    "to": 2019
+  },
+  {
+    "models": "GASGAS MC 250",
+    "from": 2007,
+    "to": 2024
+  },
+  {
+    "models": "HUSABERG TE 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "HUSABERG TE 300",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "HUSQVARNA TE 250",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "HUSQVARNA TE 250i",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "HUSQVARNA TE 300",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "HUSQVARNA TE 300i",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "KTM XS 300",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Pro 200",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Pro 250",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Pro 300",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Racing 200",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Racing 250",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Racing 300",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Ranger 200",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Ranger 300",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Sherco SE 250",
+    "from": 2013,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SE 250",
+    "from": 2013,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SE 300",
+    "from": 2013,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SE 300",
+    "from": 2013,
+    "to": 2023
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 2002,
+    "to": 2006
+  }
+]
