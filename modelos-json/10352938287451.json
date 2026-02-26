@@ -1,0 +1,107 @@
+[
+  {
+    "models": "Chain Roller - Lower",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Honda CRF 250R",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 2005,
+    "to": 2015
+  },
+  {
+    "models": "Honda CRF 450X",
+    "from": 2005,
+    "to": 2017
+  },
+  {
+    "models": "Kawasaki KLX 450R",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki KLX450R",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2007,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 250FX",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2007,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450FX",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450SR",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Chain Roller - Upper",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Honda CRF 250R",
+    "from": 2010,
+    "to": 2017
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 2010,
+    "to": 2016
+  },
+  {
+    "models": "Kawasaki KLX 450R",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki KLX450R",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2007,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 250FX",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2007,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450FX",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 450SR",
+    "from": 2022,
+    "to": 2025
+  }
+]
