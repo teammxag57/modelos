@@ -240,6 +240,11 @@
     "to": 2025
   },
   {
+    "models": "Husqvarna TE 125",
+    "from": 2026,
+    "to": ""
+  },
+  {
     "models": "Husqvarna TE 150",
     "from": 2020,
     "to": 2025
@@ -343,10 +348,5 @@
     "models": "KTM SX 450F",
     "from": 2003,
     "to": 2026
-  },
-  {
-    "models": "Husqvarna TE 125",
-    "from": 2026,
-    "to": ""
   }
 ]
