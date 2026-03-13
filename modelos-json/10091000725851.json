@@ -107,7 +107,7 @@
   {
     "models": "Husqvarna FC 250F",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FC 350F",
@@ -117,7 +117,7 @@
   {
     "models": "Husqvarna FC 350F",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FC 350F",
@@ -157,7 +157,7 @@
   {
     "models": "Husqvarna TC 250",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 449",
@@ -407,6 +407,36 @@
   {
     "models": "Triumph TF 250X",
     "from": 2024,
-    "to": 2025
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FE 250F",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FE 350F",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FC 450F",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2026,
+    "to": ""
   }
 ]
