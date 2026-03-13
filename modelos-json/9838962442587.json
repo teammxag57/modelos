@@ -91,8 +91,8 @@
   },
   {
     "models": "Husqvarna TC 125",
-    "from": 2023,
-    "to": 2025
+    "from": 2016,
+    "to": 2022
   },
   {
     "models": "Husqvarna TC 250",
@@ -153,5 +153,40 @@
     "models": "KTM SX 85",
     "from": 2018,
     "to": 2024
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC 150W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2016,
+    "to": 2022
   }
 ]
