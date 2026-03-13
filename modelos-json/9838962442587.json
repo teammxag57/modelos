@@ -140,14 +140,14 @@
     "to": 2023
   },
   {
-    "models": "KTM SX 450F",
-    "from": 2016,
-    "to": 2022
-  },
-  {
     "models": "KTM EXC 500F",
     "from": 2017,
     "to": 2023
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2016,
+    "to": 2022
   },
   {
     "models": "KTM SX 85",
