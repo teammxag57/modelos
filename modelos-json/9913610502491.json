@@ -82,27 +82,27 @@
   {
     "models": "Beta RR RACE 200",
     "from": 2025,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Beta RR RACE 250",
     "from": 2025,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Beta RR RACE 300",
     "from": 2025,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Beta RR RACE 350F",
     "from": 2025,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Beta RR RACE 390F",
     "from": 2025,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Beta RR RACE 430F",
@@ -117,27 +117,27 @@
   {
     "models": "Beta RR X-PRO 200",
     "from": 2025,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Beta RR X-PRO 250",
     "from": 2025,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Beta RR X-PRO 300",
     "from": 2025,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Beta RR X-PRO 350F",
     "from": 2025,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Beta RR X-PRO 390F",
     "from": 2025,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Beta RR X-PRO 430F",
@@ -162,32 +162,32 @@
   {
     "models": "Gasgas EC 300",
     "from": 2021,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Gasgas EC 350F",
     "from": 2021,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Gasgas MC 125",
     "from": 2021,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Gasgas MC 250",
     "from": 2022,
-    "to": 2026
+    "to": 2024
   },
   {
     "models": "Gasgas MC 250F",
     "from": 2021,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Gasgas MC 450F",
     "from": 2021,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Husqvarna FC 250F",
@@ -347,11 +347,6 @@
   {
     "models": "KTM SX 450F",
     "from": 2003,
-    "to": 2026
-  },
-  {
-    "models": "Gasgas EC 500F",
-    "from": 2024,
     "to": 2026
   }
 ]
