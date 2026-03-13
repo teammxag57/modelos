@@ -120,53 +120,58 @@
     "to": 2025
   },
   {
-    "models": "KTM SX 125",
+    "models": "KTM 125 SX",
     "from": 2023,
-    "to": 2026
+    "to": 2025
   },
   {
-    "models": "KTM EXC 250",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "KTM SX 250",
-    "from": 2023,
-    "to": 2026
-  },
-  {
-    "models": "KTM SX 250F",
-    "from": 2023,
-    "to": 2026
-  },
-  {
-    "models": "KTM EXC 300",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "KTM EXC 350F",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "KTM SX 350F",
-    "from": 2023,
-    "to": 2026
-  },
-  {
-    "models": "KTM EXC 450F",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "KTM SX 450F",
-    "from": 2023,
-    "to": 2026
-  },
-  {
-    "models": "KTM EXC 500F",
+    "models": "KTM 250 EXC / TPI",
     "from": 2024,
     "to": 2025
+  },
+  {
+    "models": "KTM 250 SX",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 SX-F",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 EXC / TPI",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 EXC-F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 350 SX-F",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 EXC-F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 450 SX-F",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM 500 EXC-F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM 85 SX",
+    "from": 2025,
+    "to": ""
   }
 ]
