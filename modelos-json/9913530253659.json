@@ -5,29 +5,34 @@
     "to": 2026
   },
   {
+    "models": "Fantic XE 250",
+    "from": 2022,
+    "to": 2026
+  },
+  {
     "models": "Fantic XE 250F",
     "from": 2022,
     "to": 2026
   },
   {
-    "models": "Fantic XE 450F",
+    "models": "Fantic XEF 450",
     "from": 2022,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Fantic XX 125",
     "from": 2022,
-    "to": 2026
+    "to": 2025
   },
   {
-    "models": "Fantic XX 250F",
+    "models": "Fantic XXF 250",
     "from": 2022,
-    "to": 2026
+    "to": 2025
   },
   {
-    "models": "Fantic XX 450F",
+    "models": "Fantic XXF 450",
     "from": 2022,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "YAMAHA YZ 125",
@@ -48,10 +53,5 @@
     "models": "YAMAHA YZ 450F",
     "from": 2016,
     "to": 2025
-  },
-  {
-    "models": "Fantic XE 250",
-    "from": 2022,
-    "to": 2026
   }
 ]
