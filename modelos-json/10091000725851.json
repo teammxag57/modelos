@@ -130,14 +130,34 @@
     "to": 2015
   },
   {
+    "models": "Husqvarna FC 450F",
+    "from": 2022,
+    "to": 2026
+  },
+  {
     "models": "Husqvarna FE 250F",
     "from": 2014,
     "to": 2015
   },
   {
+    "models": "Husqvarna FE 250F",
+    "from": 2026,
+    "to": ""
+  },
+  {
     "models": "Husqvarna FE 350F",
     "from": 2014,
     "to": 2015
+  },
+  {
+    "models": "Husqvarna FE 350F",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2026,
+    "to": ""
   },
   {
     "models": "Husqvarna FE 501F",
@@ -175,9 +195,19 @@
     "to": ""
   },
   {
+    "models": "Husqvarna TE 250",
+    "from": 2026,
+    "to": ""
+  },
+  {
     "models": "Husqvarna TE 300",
     "from": 2014,
     "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2026,
+    "to": ""
   },
   {
     "models": "Husqvarna TE 310",
@@ -408,35 +438,5 @@
     "models": "Triumph TF 250X",
     "from": 2024,
     "to": 2026
-  },
-  {
-    "models": "Husqvarna FE 250F",
-    "from": 2026,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna TE 250",
-    "from": 2026,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna TE 300",
-    "from": 2026,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna FE 350F",
-    "from": 2026,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna FC 450F",
-    "from": 2022,
-    "to": 2026
-  },
-  {
-    "models": "Husqvarna FE 450F",
-    "from": 2026,
-    "to": ""
   }
 ]
