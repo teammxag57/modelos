@@ -37,7 +37,7 @@
   {
     "models": "Gasgas MC 125",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Gasgas EC 250",
@@ -57,17 +57,17 @@
   {
     "models": "Gasgas MC 250F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Gasgas EC 300",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Gasgas EC 350F",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Gasgas EC 450F",
@@ -77,11 +77,11 @@
   {
     "models": "Gasgas MC 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Gasgas EC 500F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   }
 ]
