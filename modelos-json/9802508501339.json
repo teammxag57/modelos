@@ -2,12 +2,7 @@
   {
     "models": "Fantic XXF 450",
     "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "Kawasaki KX 85",
-    "from": 2001,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 450F",
@@ -17,6 +12,6 @@
   {
     "models": "Yamaha YZ 85",
     "from": 2002,
-    "to": 2025
+    "to": 2026
   }
 ]
