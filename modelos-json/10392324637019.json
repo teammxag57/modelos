@@ -1,0 +1,37 @@
+[
+  {
+    "models": "Husaberg FE 350",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FC 350F",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 350F Six Days",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM XC 350F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM XC 350FW",
+    "from": 2013,
+    "to": 2016
+  }
+]
