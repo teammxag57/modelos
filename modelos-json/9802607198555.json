@@ -47,7 +47,7 @@
   {
     "models": "KTM SX 125",
     "from": 2003,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 144",
@@ -67,26 +67,26 @@
   {
     "models": "KTM SX 250",
     "from": 2003,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 300",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM SX-F 250",
+    "models": "KTM SX 250F",
     "from": 2006,
     "to": 2025
   },
   {
-    "models": "KTM SX-F 350",
+    "models": "KTM SX 350F",
     "from": 2011,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM SX-F 450",
+    "models": "KTM SX 450F",
     "from": 2003,
-    "to": 2025
+    "to": 2026
   }
 ]
