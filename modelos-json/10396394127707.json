@@ -1,0 +1,87 @@
+[
+  {
+    "models": "Honda CR 125",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "Honda CR 250",
+    "from": 1997,
+    "to": 1999
+  },
+  {
+    "models": "Kymco CK1 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Kymco Nexxon 50 4T",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Suzuki DR-Z 125 L",
+    "from": 2007,
+    "to": 2021
+  },
+  {
+    "models": "Suzuki LT-R 450 Quadracer",
+    "from": 2006,
+    "to": 2012
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 1996,
+    "to": 2012
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 1976,
+    "to": 2012
+  },
+  {
+    "models": "Suzuki RM 250Z",
+    "from": 2013,
+    "to": 2026
+  },
+  {
+    "models": "Suzuki RM 450Z",
+    "from": 2005,
+    "to": 2026
+  },
+  {
+    "models": "Suzuki RM 80",
+    "from": 1977,
+    "to": 1978
+  },
+  {
+    "models": "Suzuki RMX 450 Z",
+    "from": 2010,
+    "to": 2017
+  },
+  {
+    "models": "Suzuki RV 125 Van Van",
+    "from": 1973,
+    "to": 1981
+  },
+  {
+    "models": "Suzuki TS 125",
+    "from": 1973,
+    "to": 1977
+  },
+  {
+    "models": "Suzuki TS 250",
+    "from": 1978,
+    "to": 1978
+  },
+  {
+    "models": "Suzuki TS 250 ER",
+    "from": 1979,
+    "to": 1981
+  },
+  {
+    "models": "Suzuki UF 50 Estilete",
+    "from": 2000,
+    "to": 2001
+  }
+]
