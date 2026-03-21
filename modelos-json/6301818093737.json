@@ -1,12 +1,12 @@
 [
   {
-    "models": "KTM 250 EXC",
-    "from": 2004,
-    "to": ""
+    "models": "KTM EXC 125",
+    "from": 2002,
+    "to": 2006
   },
   {
-    "models": "KTM 250 SX",
-    "from": 2003,
-    "to": 2004
+    "models": "KTM SX 125",
+    "from": 2002,
+    "to": 2006
   }
 ]
