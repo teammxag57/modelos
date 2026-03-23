@@ -168,15 +168,5 @@
     "models": "KTM FREERIDE F 250",
     "from": 2018,
     "to": 2020
-  },
-  {
-    "models": "YAMAHA YZ 250F",
-    "from": 2019,
-    "to": 2023
-  },
-  {
-    "models": "YAMAHA YZ 450F",
-    "from": 2018,
-    "to": 2026
   }
 ]
