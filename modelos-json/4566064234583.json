@@ -265,24 +265,24 @@
     "to": 2025
   },
   {
-    "models": "KTM EXC 300",
-    "from": 1991,
+    "models": "KTM EXC 250F",
+    "from": 2001,
     "to": 2025
   },
   {
-    "models": "KTM EXC 400",
-    "from": 2009,
-    "to": 2011
-  },
-  {
-    "models": "KTM EXC 250F",
-    "from": 2001,
+    "models": "KTM EXC 300",
+    "from": 1991,
     "to": 2025
   },
   {
     "models": "KTM EXC 350F",
     "from": 2012,
     "to": 2025
+  },
+  {
+    "models": "KTM EXC 400",
+    "from": 2009,
+    "to": 2011
   },
   {
     "models": "KTM EXC 450F",
@@ -325,18 +325,13 @@
     "to": 2025
   },
   {
-    "models": "KTM SX 300",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM SX 85",
-    "from": 2021,
-    "to": 2025
-  },
-  {
     "models": "KTM SX 250F",
     "from": 2006,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2023,
     "to": 2025
   },
   {
@@ -347,6 +342,16 @@
   {
     "models": "KTM SX 450F",
     "from": 2003,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Stark Varg EX",
+    "from": 2023,
     "to": 2025
   },
   {
@@ -363,10 +368,5 @@
     "models": "Triumph TF 450RC",
     "from": 2025,
     "to": ""
-  },
-  {
-    "models": "Stark Varg EX",
-    "from": 2023,
-    "to": 2025
   }
 ]
