@@ -1,0 +1,172 @@
+[
+  {
+    "models": "BETA ALP 125 4T E3",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "BETA RR 125 4T",
+    "from": 2010,
+    "to": 2016
+  },
+  {
+    "models": "BETA RR 250",
+    "from": 2012,
+    "to": 2019
+  },
+  {
+    "models": "BETA RR 250F",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "BETA RR 300",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "BETA RR 350",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "BETA RR 400",
+    "from": 2006,
+    "to": 2014
+  },
+  {
+    "models": "BETA RR 430",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "BETA RR 450",
+    "from": 2006,
+    "to": 2014
+  },
+  {
+    "models": "BETA RR 498",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "BETA RR 520",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "BETA RR 525",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "BETA RR RACE 250",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "BETA RR X-PRO 250",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "BETA XTRAINER 250",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "BETA XTRAINER 300",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "GASGAS EC 350F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "GASGAS MC 350F",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "HONDA CRF 250X",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "HONDA XR 125",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "HUSABERG FE 250F",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "HUSQVARNA FC 250F",
+    "from": 2019,
+    "to": 2026
+  },
+  {
+    "models": "HUSQVARNA FC 350F",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "HUSQVARNA FC 450F",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "HUSQVARNA FE 250F",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "HUSQVARNA FE 350F",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "HUSQVARNA FE 450F",
+    "from": 2019,
+    "to": 2026
+  },
+  {
+    "models": "HUSQVARNA FE 501F",
+    "from": 2019,
+    "to": 2026
+  },
+  {
+    "models": "HUSQVARNA FR 450 RALLY",
+    "from": 2016,
+    "to": 2025
+  },
+  {
+    "models": "HUSQVARNA TE 250",
+    "from": 2019,
+    "to": 2026
+  },
+  {
+    "models": "KAWASAKI KLX 110R",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2008,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2019,
+    "to": 2026
+  },
+  {
+    "models": "KTM FREERIDE F 250",
+    "from": 2018,
+    "to": 2020
+  }
+]
