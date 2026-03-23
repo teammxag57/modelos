@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Gasgas EC 200",
+    "from": 2000,
+    "to": 2014
+  },
+  {
+    "models": "Gasgas EC 200R",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "Rieju MR Racing 200",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Rieju MR Ranger 200",
+    "from": 2021,
+    "to": 2023
+  }
+]
