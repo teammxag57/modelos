@@ -1,56 +1,56 @@
 [
   {
-    "models": "Gas Gas MC 125",
+    "models": "GasGas MC 125",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "Gas Gas EC 2T 200",
+    "models": "GasGas EC 200",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "Gas Gas MC 250",
+    "models": "GasGas MC 250",
     "from": 2002,
     "to": 2002
   },
   {
-    "models": "Gas Gas FSE EC 400",
+    "models": "GasGas FSE EC 400",
     "from": 2002,
     "to": 2009
   },
   {
-    "models": "Gas Gas FSE EC 450",
+    "models": "GasGas FSE EC 450",
     "from": 2003,
     "to": 2012
   },
   {
-    "models": "Gas Gas FSR EC 450",
+    "models": "GasGas FSR EC 450",
     "from": 2008,
     "to": 2009
   },
   {
-    "models": "Honda CR R 125",
+    "models": "Honda CR 125",
     "from": 2000,
     "to": 2001
   },
   {
-    "models": "Honda CR R 125",
+    "models": "Honda CR 125",
     "from": 2004,
     "to": 2007
   },
   {
-    "models": "Honda CR R 250",
+    "models": "Honda CR 250",
     "from": 1990,
     "to": 1991
   },
   {
-    "models": "Honda CR R 250",
+    "models": "Honda CR 250",
     "from": 1996,
     "to": 2001
   },
   {
-    "models": "Honda CR R 250",
+    "models": "Honda CR 250",
     "from": 2004,
     "to": 2004
   },
@@ -70,7 +70,7 @@
     "to": 2004
   },
   {
-    "models": "Honda CRF R 450",
+    "models": "Honda CRF 450R",
     "from": 2002,
     "to": 2016
   },
@@ -115,22 +115,17 @@
     "to": 2013
   },
   {
-    "models": "KTM SXF 4T 250",
+    "models": "KTM SX 250F",
     "from": 2006,
-    "to": 2016
-  },
-  {
-    "models": "KTM SXF 4T 250",
-    "from": 2017,
     "to": 2019
   },
   {
-    "models": "Suzuki RMZ 4T 250",
+    "models": "Suzuki RM 250Z",
     "from": 2004,
     "to": 2006
   },
   {
-    "models": "Suzuki RMZ 4T 450",
+    "models": "Suzuki RM 450Z",
     "from": 2005,
     "to": 2007
   },
