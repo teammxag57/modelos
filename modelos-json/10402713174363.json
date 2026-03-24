@@ -1,0 +1,142 @@
+[
+  {
+    "models": "Beta XTrainer 250",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "Beta XTrainer 300",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "GasGas EC 250",
+    "from": 2006,
+    "to": 2017
+  },
+  {
+    "models": "GasGas EC 300",
+    "from": 2006,
+    "to": 2017
+  },
+  {
+    "models": "GasGas EC 350F",
+    "from": 2006,
+    "to": 2017
+  },
+  {
+    "models": "GasGas EC 450F",
+    "from": 2006,
+    "to": 2017
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 250F",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 250FW",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 350F",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 350FW",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 450F",
+    "from": 2008,
+    "to": 2014
+  }
+]
