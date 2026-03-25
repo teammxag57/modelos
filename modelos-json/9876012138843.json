@@ -27,7 +27,7 @@
   {
     "models": "Honda CRF 150R",
     "from": 2007,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Honda CRF 250R",
@@ -42,7 +42,7 @@
   {
     "models": "Honda CRF 450L",
     "from": 2019,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Honda CRF 450R",
@@ -52,7 +52,7 @@
   {
     "models": "Honda CRF 450X",
     "from": 2005,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Honda XR 250R",
@@ -91,8 +91,8 @@
   },
   {
     "models": "Kawasaki KX 112",
-    "from": 2002,
-    "to": 2024
+    "from": 2022,
+    "to": 2025
   },
   {
     "models": "Kawasaki KX 125",
@@ -137,7 +137,7 @@
   {
     "models": "Kawasaki KX 85",
     "from": 2001,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Suzuki DR 350",
@@ -175,17 +175,17 @@
     "to": 2023
   },
   {
-    "models": "Suzuki RMX-Z 450",
+    "models": "Suzuki RMX 450Z",
     "from": 2010,
     "to": 2019
   },
   {
-    "models": "Suzuki RM-Z 250",
+    "models": "Suzuki RM 250Z",
     "from": 2004,
     "to": 2024
   },
   {
-    "models": "Suzuki RM-Z 450",
+    "models": "Suzuki RM 450Z",
     "from": 2005,
     "to": 2024
   },
