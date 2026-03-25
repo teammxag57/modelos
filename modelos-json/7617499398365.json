@@ -2,52 +2,52 @@
   {
     "models": "Fantic XE 125",
     "from": 2021,
-    "to": 2026
+    "to": 2024
   },
   {
     "models": "Fantic XE 300",
     "from": 2022,
-    "to": 2025
+    "to": 2024
   },
   {
-    "models": "Fantic XE 250F",
+    "models": "Fantic XEF 250",
     "from": 2021,
-    "to": 2025
+    "to": 2024
   },
   {
-    "models": "Fantic XE 310F",
+    "models": "Fantic XEF 310",
     "from": 2024,
-    "to": 2025
+    "to": ""
   },
   {
-    "models": "Fantic XE 450F",
+    "models": "Fantic XEF 450",
     "from": 2022,
-    "to": 2026
+    "to": 2024
   },
   {
     "models": "Fantic XX 125",
     "from": 2021,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Fantic XX 250",
     "from": 2022,
-    "to": 2026
+    "to": 2025
   },
   {
-    "models": "Fantic XX 250F",
-    "from": 2022,
-    "to": 2026
-  },
-  {
-    "models": "Fantic XX 450F",
+    "models": "Fantic XXF 250",
     "from": 2022,
     "to": 2025
   },
   {
+    "models": "Fantic XXF 450",
+    "from": 2022,
+    "to": 2024
+  },
+  {
     "models": "Yamaha WR 250F",
     "from": 2001,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Yamaha WR 426F",
@@ -57,37 +57,37 @@
   {
     "models": "Yamaha WR 450F",
     "from": 2003,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 125",
     "from": 2001,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 125X",
     "from": 2020,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250",
     "from": 2001,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250F",
     "from": 2001,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250FX",
     "from": 2015,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 426F",
@@ -97,16 +97,16 @@
   {
     "models": "Yamaha YZ 450F",
     "from": 2003,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 450FX",
     "from": 2016,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Yamaha YZ 85",
     "from": 2003,
-    "to": 2026
+    "to": 2025
   }
 ]
