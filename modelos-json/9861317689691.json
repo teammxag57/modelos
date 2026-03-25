@@ -10,6 +10,16 @@
     "to": 2025
   },
   {
+    "models": "Fantic XE 300",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XE 310F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
     "models": "Fantic XE 450F",
     "from": 2022,
     "to": 2025
@@ -118,15 +128,5 @@
     "models": "Yamaha YZ 450FX",
     "from": 2016,
     "to": 2026
-  },
-  {
-    "models": "Fantic XE 300",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Fantic XE 310F",
-    "from": 2024,
-    "to": 2025
   }
 ]
