@@ -2,37 +2,37 @@
   {
     "models": "Fantic XE 125",
     "from": 2021,
-    "to": 2022
+    "to": 2026
   },
   {
     "models": "Fantic XE 250F",
     "from": 2021,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "Fantic XE 450F",
     "from": 2022,
-    "to": 2023
+    "to": 2025
   },
   {
     "models": "Fantic XX 125",
     "from": 2021,
-    "to": 2023
+    "to": 2026
   },
   {
     "models": "Fantic XX 250",
     "from": 2022,
-    "to": 2023
+    "to": 2026
   },
   {
     "models": "Fantic XX 250F",
     "from": 2022,
-    "to": 2023
+    "to": 2026
   },
   {
     "models": "Fantic XX 450F",
     "from": 2022,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Suzuki RM 125",
@@ -52,7 +52,7 @@
   {
     "models": "Yamaha WR 250F",
     "from": 2001,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Yamaha WR 400F",
@@ -67,37 +67,37 @@
   {
     "models": "Yamaha WR 450F",
     "from": 2003,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 125",
     "from": 1996,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 125X",
     "from": 2020,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250",
     "from": 1996,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250F",
     "from": 2001,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250FX",
     "from": 2015,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 400F",
@@ -112,11 +112,21 @@
   {
     "models": "Yamaha YZ 450F",
     "from": 2003,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 450FX",
     "from": 2016,
-    "to": 2024
+    "to": 2026
+  },
+  {
+    "models": "Fantic XE 300",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Fantic XE 310F",
+    "from": 2024,
+    "to": 2025
   }
 ]
