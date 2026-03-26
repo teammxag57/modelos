@@ -307,7 +307,7 @@
   {
     "models": "Husqvarna FC 250F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FC 350F",
@@ -317,32 +317,32 @@
   {
     "models": "Husqvarna FC 450F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FE 250F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FE 350F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FE 450F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FE 501F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FX 350F",
     "from": 2017,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FX 450F",
@@ -352,7 +352,7 @@
   {
     "models": "Husqvarna TC 125",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 150",
@@ -362,7 +362,7 @@
   {
     "models": "Husqvarna TC 250",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 300",
@@ -377,17 +377,17 @@
   {
     "models": "Husqvarna TE 150",
     "from": 2017,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 250",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 300",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Ktm EXC 125",
@@ -478,5 +478,20 @@
     "models": "Ktm SX 450F",
     "from": 2003,
     "to": 2025
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FS 450F",
+    "from": 2015,
+    "to": 2026
   }
 ]
