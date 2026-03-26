@@ -405,19 +405,9 @@
     "to": 2026
   },
   {
-    "models": "KTM EXC 125",
-    "from": 2003,
-    "to": 2016
-  },
-  {
     "models": "KTM EXC 150",
     "from": 2020,
     "to": 2025
-  },
-  {
-    "models": "KTM EXC 200",
-    "from": 2003,
-    "to": 2016
   },
   {
     "models": "KTM EXC 250",
@@ -427,11 +417,6 @@
   {
     "models": "KTM EXC 250F",
     "from": 2004,
-    "to": 2026
-  },
-  {
-    "models": "KTM EXC 300",
-    "from": 2003,
     "to": 2026
   },
   {
@@ -450,24 +435,19 @@
     "to": 2026
   },
   {
+    "models": "KTM SMR 450",
+    "from": 2004,
+    "to": 2014
+  },
+  {
     "models": "KTM SX 125",
     "from": 2003,
     "to": 2026
   },
   {
-    "models": "KTM SX 144",
-    "from": 2008,
-    "to": ""
-  },
-  {
     "models": "KTM SX 150",
     "from": 2009,
     "to": 2025
-  },
-  {
-    "models": "KTM SX 200",
-    "from": 2003,
-    "to": 2005
   },
   {
     "models": "KTM SX 250",
@@ -480,11 +460,6 @@
     "to": 2026
   },
   {
-    "models": "KTM SX 300",
-    "from": 2023,
-    "to": 2026
-  },
-  {
     "models": "KTM SX 350F",
     "from": 2011,
     "to": 2026
@@ -493,6 +468,11 @@
     "models": "KTM SX 450F",
     "from": 2003,
     "to": 2026
+  },
+  {
+    "models": "KTM SX 505F",
+    "from": 2008,
+    "to": ""
   },
   {
     "models": "KTM XC 125W",
@@ -520,19 +500,24 @@
     "to": 2026
   },
   {
-    "models": "KTM XC 250W",
-    "from": 2006,
-    "to": 2026
-  },
-  {
     "models": "KTM XC 250F",
     "from": 2007,
     "to": 2026
   },
   {
+    "models": "KTM XC 250F",
+    "from": 2011,
+    "to": 2025
+  },
+  {
     "models": "KTM XC 250FW",
     "from": 2006,
     "to": 2016
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2006,
+    "to": 2026
   },
   {
     "models": "KTM XC 300",
@@ -545,19 +530,9 @@
     "to": 2026
   },
   {
-    "models": "KTM XC 250F",
-    "from": 2011,
-    "to": 2025
-  },
-  {
     "models": "KTM XC 350FW",
     "from": 2012,
     "to": 2022
-  },
-  {
-    "models": "KTM EXC 400F",
-    "from": 2009,
-    "to": 2011
   },
   {
     "models": "KTM XC 450F",
@@ -570,18 +545,43 @@
     "to": 2016
   },
   {
-    "models": "KTM SMR 450",
-    "from": 2004,
-    "to": 2014
-  },
-  {
     "models": "KTM XC 500FW",
     "from": 2012,
     "to": 2016
   },
   {
-    "models": "KTM SX 505F",
+    "models": "KTM EXC 125",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 400F",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM SX 144",
     "from": 2008,
     "to": ""
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2026
   }
 ]
