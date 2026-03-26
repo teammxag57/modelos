@@ -340,6 +340,11 @@
     "to": 2026
   },
   {
+    "models": "Husqvarna FS 450F",
+    "from": 2015,
+    "to": 2026
+  },
+  {
     "models": "Husqvarna FX 350F",
     "from": 2017,
     "to": 2026
@@ -387,6 +392,16 @@
   {
     "models": "Husqvarna TE 300",
     "from": 2014,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
     "to": 2026
   },
   {
@@ -478,20 +493,5 @@
     "models": "Ktm SX 450F",
     "from": 2003,
     "to": 2025
-  },
-  {
-    "models": "Husqvarna TX 125",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "Husqvarna TX 300",
-    "from": 2017,
-    "to": 2026
-  },
-  {
-    "models": "Husqvarna FS 450F",
-    "from": 2015,
-    "to": 2026
   }
 ]
