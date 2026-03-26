@@ -123,5 +123,10 @@
     "models": "Yamaha YZ 450FX",
     "from": 2024,
     "to": 2026
+  },
+  {
+    "models": "Ducati Desmo 450 MX",
+    "from": 2026,
+    "to": ""
   }
 ]
