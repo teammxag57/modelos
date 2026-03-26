@@ -7,12 +7,12 @@
   {
     "models": "Kawasaki KX 250F",
     "from": 2004,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Kawasaki KX 250X",
+    "models": "Kawasaki KX 250FX",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 450F",
@@ -20,17 +20,17 @@
     "to": 2023
   },
   {
-    "models": "Kawasaki KX 450X",
+    "models": "Kawasaki KX 450FX",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "Suzuki RM-Z 250",
+    "models": "Suzuki RM 250Z",
     "from": 2004,
     "to": 2007
   },
   {
-    "models": "Suzuki RM-Z 450",
+    "models": "Suzuki RM 450Z",
     "from": 2005,
     "to": 2007
   },
@@ -62,7 +62,7 @@
   {
     "models": "Yamaha YZ 250F",
     "from": 2004,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250FX",
@@ -77,7 +77,7 @@
   {
     "models": "Yamaha YZ 450F",
     "from": 2003,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 450FX",
