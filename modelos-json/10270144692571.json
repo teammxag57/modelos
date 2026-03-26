@@ -1,12 +1,12 @@
 [
   {
-    "models": "Fantic XE 310F",
-    "from": 2024,
+    "models": "Fantic XE 250F",
+    "from": 2021,
     "to": 2025
   },
   {
-    "models": "Fantic XE 250F",
-    "from": 2021,
+    "models": "Fantic XE 310F",
+    "from": 2024,
     "to": 2025
   },
   {
