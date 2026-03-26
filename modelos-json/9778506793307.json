@@ -405,7 +405,7 @@
     "to": 2026
   },
   {
-    "models": "Ktm EXC 125",
+    "models": "KTM EXC 125",
     "from": 2003,
     "to": 2016
   },
@@ -450,14 +450,14 @@
     "to": ""
   },
   {
-    "models": "Ktm SX 125",
+    "models": "KTM SX 125",
     "from": 2003,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Ktm SX 144",
+    "models": "KTM SX 144",
     "from": 2008,
-    "to": 2008
+    "to": ""
   },
   {
     "models": "Ktm SX 150",
@@ -493,5 +493,10 @@
     "models": "Ktm SX 450F",
     "from": 2003,
     "to": 2025
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2025,
+    "to": 2026
   }
 ]
