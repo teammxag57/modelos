@@ -1,5 +1,10 @@
 [
   {
+    "models": "Fantic XX 250",
+    "from": 2022,
+    "to": 2026
+  },
+  {
     "models": "Yamaha YZ 250",
     "from": 2002,
     "to": 2025
@@ -8,10 +13,5 @@
     "models": "Yamaha YZ 250X",
     "from": 2016,
     "to": 2022
-  },
-  {
-    "models": "Fantic XX 250",
-    "from": 2022,
-    "to": 2026
   }
 ]
