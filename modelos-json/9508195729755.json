@@ -1,11 +1,16 @@
 [
   {
-    "models": "Fantic XX 125",
+    "models": "Fantic XE 125",
     "from": 2021,
     "to": 2026
   },
   {
-    "models": "Fantic XE 125",
+    "models": "Fantic XE 250F",
+    "from": 2021,
+    "to": ""
+  },
+  {
+    "models": "Fantic XX 125",
     "from": 2021,
     "to": 2026
   },
@@ -15,11 +20,6 @@
     "to": 2026
   },
   {
-    "models": "Fantic XE 250F",
-    "from": 2021,
-    "to": ""
-  },
-  {
     "models": "Fantic XX 250F",
     "from": 2022,
     "to": 2026
@@ -27,6 +27,16 @@
   {
     "models": "Fantix XX 450F",
     "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha WR 250F",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2016,
     "to": 2026
   },
   {
@@ -45,11 +55,6 @@
     "to": 2026
   },
   {
-    "models": "Yamaha YZ 250X",
-    "from": 2017,
-    "to": 2026
-  },
-  {
     "models": "Yamaha YZ 250F",
     "from": 2016,
     "to": 2026
@@ -60,7 +65,7 @@
     "to": 2026
   },
   {
-    "models": "Yamaha WR 250F",
+    "models": "Yamaha YZ 250X",
     "from": 2017,
     "to": 2026
   },
@@ -71,11 +76,6 @@
   },
   {
     "models": "Yamaha YZ 450FX",
-    "from": 2016,
-    "to": 2026
-  },
-  {
-    "models": "Yamaha WR 450F",
     "from": 2016,
     "to": 2026
   }
