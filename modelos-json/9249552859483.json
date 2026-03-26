@@ -5,6 +5,11 @@
     "to": 2026
   },
   {
+    "models": "Fantic XE 300",
+    "from": 2024,
+    "to": 2025
+  },
+  {
     "models": "Fantic XX 125",
     "from": 2021,
     "to": 2026
@@ -33,10 +38,5 @@
     "models": "Yamaha YZ 250X",
     "from": 2016,
     "to": 2026
-  },
-  {
-    "models": "Fantic XE 300",
-    "from": 2024,
-    "to": 2025
   }
 ]
