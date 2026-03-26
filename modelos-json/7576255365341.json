@@ -1,23 +1,23 @@
 [
   {
-    "models": "Fantic XXF 250",
+    "models": "Fantic XX 250F",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Fantic XXF 450",
+    "models": "Fantic XX 450F",
     "from": 2022,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Gasgas MC 85",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 85",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KLX 450R",
@@ -37,22 +37,22 @@
   {
     "models": "Kawasaki KX 250F",
     "from": 2004,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 250FX",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 450F",
     "from": 2006,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 450FX",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM Freeride 250F",
@@ -75,19 +75,9 @@
     "to": 2023
   },
   {
-    "models": "KTM SX 250",
-    "from": 1990,
-    "to": 2025
-  },
-  {
-    "models": "KTM SX 300",
-    "from": 2023,
-    "to": 2025
-  },
-  {
     "models": "KTM SX 85",
     "from": 2012,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX/EXC 360",
@@ -100,38 +90,38 @@
     "to": 2002
   },
   {
-    "models": "Suzuki RM-Z 250",
+    "models": "Suzuki RM 250Z",
     "from": 2004,
     "to": 2006
   },
   {
     "models": "Yamaha WR 250F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Yamaha WR 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250F",
     "from": 2009,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250FX",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 450F",
     "from": 2009,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 450FX",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   }
 ]
