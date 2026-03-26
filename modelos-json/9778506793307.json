@@ -65,6 +65,11 @@
     "to": 2024
   },
   {
+    "models": "Beta RR 400",
+    "from": 2005,
+    "to": 2014
+  },
+  {
     "models": "Beta RR 430F",
     "from": 2015,
     "to": 2024
@@ -75,6 +80,11 @@
     "to": 2024
   },
   {
+    "models": "Beta RR 450",
+    "from": 2005,
+    "to": 2014
+  },
+  {
     "models": "Beta RR 480F",
     "from": 2015,
     "to": 2024
@@ -83,6 +93,21 @@
     "models": "Beta RR 480FR",
     "from": 2015,
     "to": 2024
+  },
+  {
+    "models": "Beta RR 498",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 520",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Beta RR 525",
+    "from": 2005,
+    "to": 2009
   },
   {
     "models": "Beta RR RACE 125",
@@ -168,6 +193,11 @@
     "models": "Beta RX 300",
     "from": 2021,
     "to": 2025
+  },
+  {
+    "models": "Beta RX 350",
+    "from": 2026,
+    "to": ""
   },
   {
     "models": "Beta RX 450F",
@@ -423,35 +453,5 @@
     "models": "Ktm SX 450F",
     "from": 2003,
     "to": 2025
-  },
-  {
-    "models": "Beta RX 350",
-    "from": 2026,
-    "to": ""
-  },
-  {
-    "models": "Beta RR 400",
-    "from": 2005,
-    "to": 2014
-  },
-  {
-    "models": "Beta RR 450",
-    "from": 2005,
-    "to": 2014
-  },
-  {
-    "models": "Beta RR 498",
-    "from": 2012,
-    "to": 2014
-  },
-  {
-    "models": "Beta RR 520",
-    "from": 2010,
-    "to": 2011
-  },
-  {
-    "models": "Beta RR 525",
-    "from": 2005,
-    "to": 2009
   }
 ]
