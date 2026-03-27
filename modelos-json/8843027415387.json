@@ -5,6 +5,21 @@
     "to": 2024
   },
   {
+    "models": "Beta RR 125R",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR RACE 125",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 125",
+    "from": 2025,
+    "to": 2026
+  },
+  {
     "models": "Gasgas MC 125",
     "from": 2021,
     "to": 2026
@@ -33,6 +48,11 @@
     "models": "Husqvarna TE 125",
     "from": 2014,
     "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2025,
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 150",
@@ -70,44 +90,14 @@
     "to": 2025
   },
   {
-    "models": "KTM XC 125W",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM XC 150W",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "Suzuki RM 125",
-    "from": 1988,
-    "to": 2011
-  },
-  {
-    "models": "Beta RR 125R",
-    "from": 2019,
-    "to": 2024
-  },
-  {
-    "models": "Beta RR RACE 125",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "Beta RR X-PRO 125",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "Husqvarna TE 125",
-    "from": 2025,
-    "to": 2026
-  },
-  {
     "models": "KTM XC 125",
     "from": 2021,
     "to": 2025
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2019
   },
   {
     "models": "KTM XC 125W",
@@ -121,7 +111,17 @@
   },
   {
     "models": "KTM XC 150W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 150W",
     "from": 2020,
     "to": 2026
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 1988,
+    "to": 2011
   }
 ]
