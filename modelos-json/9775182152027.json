@@ -1,8 +1,8 @@
 [
   {
-    "models": "Beta RR 125 Enduro",
+    "models": "Beta RR 125",
     "from": 2018,
-    "to": 2025
+    "to": 2024
   },
   {
     "models": "Gasgas MC 125",
@@ -43,5 +43,20 @@
     "models": "KTM XC-W 125",
     "from": 2017,
     "to": 2019
+  },
+  {
+    "models": "Beta RR 125R",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR RACE 125",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 125",
+    "from": 2025,
+    "to": 2026
   }
 ]
