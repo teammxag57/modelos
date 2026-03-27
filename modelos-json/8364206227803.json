@@ -1,5 +1,95 @@
 [
   {
+    "models": "Gasgas EC 250",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 250F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EC 350F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EC 350F",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Gasgas EC 450F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 500F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EX 250",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EX 250F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EX 300",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EX 350F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 125",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 150",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 250F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 350F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 450F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
     "models": "Gasgas MC 85",
     "from": 2025,
     "to": 2026
@@ -40,6 +130,11 @@
     "to": 2026
   },
   {
+    "models": "Husqvarna FS 450F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
     "models": "Husqvarna FX 350F",
     "from": 2023,
     "to": 2026
@@ -61,6 +156,11 @@
   },
   {
     "models": "Husqvarna TC 85",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TE 125",
     "from": 2025,
     "to": 2026
   },
@@ -95,9 +195,44 @@
     "to": 2025
   },
   {
+    "models": "KTM EXC 250F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM SMR 450F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
     "models": "KTM SX 125",
     "from": 2023,
     "to": 2026
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2025,
+    "to": ""
   },
   {
     "models": "KTM SX 250",
@@ -105,17 +240,12 @@
     "to": 2026
   },
   {
-    "models": "KTM SX 300",
+    "models": "KTM SX 250F",
     "from": 2023,
     "to": 2026
   },
   {
-    "models": "KTM SX 85",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "KTM SX 250F",
+    "models": "KTM SX 300",
     "from": 2023,
     "to": 2026
   },
@@ -130,102 +260,7 @@
     "to": 2026
   },
   {
-    "models": "Gasgas MC 125",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "Gasgas MC 150",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Gasgas MC 250",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "Gasgas EX 250",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EC 250",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas MC 250F",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EC 250F",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EX 250F",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas MC 300",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Gasgas EC 300",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "Gasgas EX 300",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "Gasgas MC 350F",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EC 350F",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "Gasgas EX 350F",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas MC 450F",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "Gasgas EC 350F",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Gasgas EC 450F",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EC 500F",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "Husqvarna TE 125",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "Husqvarna FS 450F",
+    "models": "KTM SX 85",
     "from": 2025,
     "to": 2026
   },
@@ -240,11 +275,6 @@
     "to": 2026
   },
   {
-    "models": "KTM SX 150",
-    "from": 2025,
-    "to": ""
-  },
-  {
     "models": "KTM XC 150W",
     "from": 2024,
     "to": 2026
@@ -255,24 +285,14 @@
     "to": 2026
   },
   {
-    "models": "KTM XC 250W",
-    "from": 2024,
-    "to": 2025
-  },
-  {
     "models": "KTM XC 250F",
     "from": 2023,
     "to": 2026
   },
   {
-    "models": "KTM EXC 250F",
+    "models": "KTM XC 250W",
     "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "KTM EXC 300",
-    "from": 2024,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "KTM XC 300",
@@ -290,32 +310,12 @@
     "to": 2025
   },
   {
-    "models": "KTM EXC 350F",
-    "from": 2024,
-    "to": 2026
-  },
-  {
     "models": "KTM XC 450F",
     "from": 2023,
     "to": 2026
   },
   {
-    "models": "KTM EXC 450F",
-    "from": 2024,
-    "to": 2026
-  },
-  {
     "models": "KTM XC 450FW",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "KTM SMR 450F",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "KTM EXC 500F",
     "from": 2024,
     "to": 2026
   }
