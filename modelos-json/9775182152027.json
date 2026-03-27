@@ -40,6 +40,11 @@
     "to": 2016
   },
   {
+    "models": "Husqvarna TE 125",
+    "from": 2025,
+    "to": 2026
+  },
+  {
     "models": "Husqvarna TX 125",
     "from": 2017,
     "to": 2019
@@ -58,10 +63,5 @@
     "models": "KTM XC 125W",
     "from": 2017,
     "to": 2019
-  },
-  {
-    "models": "Husqvarna TE 125",
-    "from": 2025,
-    "to": 2026
   }
 ]
