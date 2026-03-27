@@ -1,17 +1,7 @@
 [
   {
-    "models": "GasGas MC 50",
-    "from": 2021,
-    "to": 2024
-  },
-  {
-    "models": "GasGas MC-E5",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Husqvarna EE-5",
-    "from": 2020,
+    "models": "KTM SX 50",
+    "from": 2015,
     "to": 2023
   },
   {
@@ -20,13 +10,8 @@
     "to": 2023
   },
   {
-    "models": "KTM SX 50",
-    "from": 2015,
-    "to": 2023
-  },
-  {
-    "models": "KTM SX-E5",
-    "from": 2020,
+    "models": "GasGas MC 50",
+    "from": 2021,
     "to": 2023
   }
 ]
