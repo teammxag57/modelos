@@ -15,22 +15,22 @@
     "to": 2024
   },
   {
-    "models": "Gasgas MC-E3",
+    "models": "Gasgas MC-E 3",
     "from": 2023,
     "to": 2024
   },
   {
-    "models": "Gasgas MC-E5",
+    "models": "Gasgas MC-E 5",
     "from": 2021,
     "to": 2024
   },
   {
-    "models": "Husqvarna EE3",
+    "models": "Husqvarna EE 3",
     "from": 2023,
     "to": 2024
   },
   {
-    "models": "Husqvarna EE5",
+    "models": "Husqvarna EE 5",
     "from": 2020,
     "to": 2024
   },
@@ -75,12 +75,12 @@
     "to": 2024
   },
   {
-    "models": "KTM SX-E3",
+    "models": "KTM SXE 3",
     "from": 2023,
     "to": 2024
   },
   {
-    "models": "KTM SX-E5",
+    "models": "KTM SXE 5",
     "from": 2020,
     "to": 2024
   }
