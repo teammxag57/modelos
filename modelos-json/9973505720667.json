@@ -20,6 +20,11 @@
     "to": ""
   },
   {
+    "models": "Husqvarna TE 125",
+    "from": 2025,
+    "to": 2026
+  },
+  {
     "models": "Husqvarna TE 150",
     "from": 2019,
     "to": 2026
@@ -45,28 +50,23 @@
     "to": 2025
   },
   {
-    "models": "KTM XC 125W",
-    "from": 2019,
-    "to": ""
-  },
-  {
-    "models": "KTM XC 150W",
-    "from": 2019,
-    "to": 2026
-  },
-  {
-    "models": "Husqvarna TE 125",
-    "from": 2025,
-    "to": 2026
-  },
-  {
     "models": "KTM XC 125",
     "from": 2021,
     "to": 2025
   },
   {
     "models": "KTM XC 125W",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 125W",
     "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 150W",
+    "from": 2019,
     "to": 2026
   }
 ]
