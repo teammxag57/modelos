@@ -1,12 +1,7 @@
 [
   {
-    "models": "Honda CR-F 250R",
-    "from": 2018,
-    "to": 2019
-  },
-  {
-    "models": "Honda CR-F 250RX",
-    "from": 2019,
-    "to": ""
+    "models": "Suzuki RM 450Z",
+    "from": 2008,
+    "to": 2026
   }
 ]
