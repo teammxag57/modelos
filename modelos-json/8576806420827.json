@@ -250,7 +250,7 @@
     "to": 2016
   },
   {
-    "models": "KTM EXC 150 TPI",
+    "models": "KTM EXC 150",
     "from": 2020,
     "to": 2025
   },
@@ -272,7 +272,7 @@
   {
     "models": "KTM EXC 300",
     "from": 1991,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM EXC 400",
@@ -280,27 +280,27 @@
     "to": 2011
   },
   {
-    "models": "KTM EXC-F 250",
-    "from": 2007,
-    "to": 2025
+    "models": "KTM EXC 250F",
+    "from": 2001,
+    "to": 2026
   },
   {
-    "models": "KTM EXC-F 350",
+    "models": "KTM EXC 350F",
     "from": 2012,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM EXC-F 450",
+    "models": "KTM EXC 450F",
     "from": 2003,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM EXC-F 500",
+    "models": "KTM EXC 500F",
     "from": 2012,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM EXC-F 525",
+    "models": "KTM EXC 525F",
     "from": 2003,
     "to": 2007
   },
@@ -327,22 +327,22 @@
   {
     "models": "KTM SX 250",
     "from": 1990,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 250F",
     "from": 2006,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 300",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 350F",
     "from": 2011,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 380",
@@ -352,7 +352,7 @@
   {
     "models": "KTM SX 450F",
     "from": 2003,
-    "to": 2006
+    "to": 2026
   },
   {
     "models": "KTM XC 125W",
@@ -365,14 +365,14 @@
     "to": 2026
   },
   {
-    "models": "Stark Varg",
+    "models": "Stark Varg MX",
     "from": 2023,
     "to": 2025
   },
   {
     "models": "Triumph TF 250X",
     "from": 2024,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Triumph TF 450RC",
@@ -387,6 +387,31 @@
   {
     "models": "Husqvarna FS 450F",
     "from": 2015,
+    "to": 2026
+  },
+  {
+    "models": "Stark Varg EX",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 250E",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 250X",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 450X",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 450E",
+    "from": 2025,
     "to": 2026
   }
 ]
