@@ -1,22 +1,52 @@
 [
   {
-    "models": "Beta RR 250 Enduro",
-    "from": 2013,
-    "to": 2017
+    "models": "Beta RR 250",
+    "from": 2022,
+    "to": 2024
   },
   {
-    "models": "Beta RR 300 Enduro",
-    "from": 2013,
-    "to": 2017
+    "models": "Beta RR 250R",
+    "from": 2022,
+    "to": 2024
   },
   {
-    "models": "Beta RX 300",
-    "from": 2021,
-    "to": 2025
+    "models": "Beta RR 300",
+    "from": 2022,
+    "to": 2024
   },
   {
-    "models": "Beta Xtrainer 300",
-    "from": 2015,
-    "to": 2017
+    "models": "Beta RR 300R",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR RACE 250",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR RACE 300",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 250",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-PRO 300",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta XTRAINER 250",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Beta XTRAINER 300",
+    "from": 2022,
+    "to": 2026
   }
 ]
