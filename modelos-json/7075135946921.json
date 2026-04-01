@@ -5,17 +5,17 @@
     "to": 2012
   },
   {
-    "models": "KTM SX-F 450",
+    "models": "KTM SX 450F",
     "from": 2007,
     "to": 2012
   },
   {
-    "models": "KTM SX-F 505",
+    "models": "KTM SX 505F",
     "from": 2008,
     "to": ""
   },
   {
-    "models": "KTM XC-F 505",
+    "models": "KTM XC 505F",
     "from": 2009,
     "to": ""
   },
@@ -35,22 +35,22 @@
     "to": ""
   },
   {
-    "models": "Sherco SE-F 250",
+    "models": "Sherco SEF 250",
     "from": 2017,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Sherco SE-F 300",
+    "models": "Sherco SEF 300",
     "from": 2016,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Sherco SE-F 450",
+    "models": "Sherco SEF 450",
     "from": 2015,
     "to": 2021
   },
   {
-    "models": "Sherco SE-F 500",
+    "models": "Sherco SEF 500",
     "from": 2021,
     "to": 2022
   }
