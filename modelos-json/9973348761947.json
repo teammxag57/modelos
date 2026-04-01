@@ -53,5 +53,10 @@
     "models": "KTM XC 125W",
     "from": 2025,
     "to": 2026
+  },
+  {
+    "models": "KTM XC 150W",
+    "from": 2024,
+    "to": 2026
   }
 ]
