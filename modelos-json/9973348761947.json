@@ -20,6 +20,11 @@
     "to": ""
   },
   {
+    "models": "Husqvarna TE 125",
+    "from": 2025,
+    "to": 2026
+  },
+  {
     "models": "Husqvarna TE 150",
     "from": 2024,
     "to": 2026
@@ -38,11 +43,6 @@
     "models": "KTM SX 150",
     "from": 2025,
     "to": ""
-  },
-  {
-    "models": "Husqvarna TE 125",
-    "from": 2025,
-    "to": 2026
   },
   {
     "models": "KTM XC 125",
