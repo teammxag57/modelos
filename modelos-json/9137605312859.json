@@ -215,6 +215,56 @@
     "to": 2026
   },
   {
+    "models": "Gasgas EC 250",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 250F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EC 350F",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EC 450F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 500F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EX 250",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EX 250F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EX 300",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EX 450F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
     "models": "Gasgas MC 125",
     "from": 2021,
     "to": 2026
@@ -230,27 +280,7 @@
     "to": 2026
   },
   {
-    "models": "Gasgas EC 250",
-    "from": 2021,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EX 250",
-    "from": 2022,
-    "to": 2025
-  },
-  {
     "models": "Gasgas MC 250F",
-    "from": 2021,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EC 250F",
-    "from": 2021,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EX 250F",
     "from": 2021,
     "to": 2025
   },
@@ -260,43 +290,13 @@
     "to": ""
   },
   {
-    "models": "Gasgas EC 300",
-    "from": 2021,
-    "to": 2026
-  },
-  {
-    "models": "Gasgas EX 300",
-    "from": 2021,
-    "to": 2026
-  },
-  {
     "models": "Gasgas MC 350F",
     "from": 2023,
     "to": 2025
   },
   {
-    "models": "Gasgas EC 350F",
-    "from": 2021,
-    "to": 2026
-  },
-  {
     "models": "Gasgas MC 450F",
     "from": 2021,
-    "to": 2026
-  },
-  {
-    "models": "Gasgas EX 450F",
-    "from": 2021,
-    "to": 2024
-  },
-  {
-    "models": "Gasgas EC 450F",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Gasgas EC 500F",
-    "from": 2024,
     "to": 2026
   }
 ]
