@@ -45,11 +45,6 @@
     "to": 2023
   },
   {
-    "models": "Sherco SEF 250",
-    "from": 2008,
-    "to": 2023
-  },
-  {
     "models": "Sherco SE 3.0i",
     "from": 2010,
     "to": 2023
@@ -57,16 +52,6 @@
   {
     "models": "Sherco SE 300",
     "from": 2014,
-    "to": 2023
-  },
-  {
-    "models": "Sherco SEF 300",
-    "from": 2010,
-    "to": 2023
-  },
-  {
-    "models": "Sherco SEF 450",
-    "from": 2015,
     "to": 2023
   },
   {
@@ -78,6 +63,21 @@
     "models": "Sherco SE 5.1i",
     "from": 2007,
     "to": 2013
+  },
+  {
+    "models": "Sherco SEF 250",
+    "from": 2008,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SEF 300",
+    "from": 2010,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SEF 450",
+    "from": 2015,
+    "to": 2023
   },
   {
     "models": "Sherco SEF 500",
