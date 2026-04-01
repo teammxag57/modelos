@@ -45,7 +45,7 @@
     "to": 2023
   },
   {
-    "models": "Sherco SE 250F",
+    "models": "Sherco SEF 250",
     "from": 2008,
     "to": 2023
   },
@@ -60,12 +60,12 @@
     "to": 2023
   },
   {
-    "models": "Sherco SE 300F",
+    "models": "Sherco SEF 300",
     "from": 2010,
     "to": 2023
   },
   {
-    "models": "Sherco SE 450F",
+    "models": "Sherco SEF 450",
     "from": 2015,
     "to": 2023
   },
@@ -80,7 +80,7 @@
     "to": 2013
   },
   {
-    "models": "Sherco SE 500F",
+    "models": "Sherco SEF 500",
     "from": 2021,
     "to": 2023
   }
