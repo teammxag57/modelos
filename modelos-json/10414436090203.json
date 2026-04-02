@@ -1,0 +1,47 @@
+[
+  {
+    "models": "Husqvarna FC 250F",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna FC 350F",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna FE 250F",
+    "from": 2017,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FX 350F",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2016,
+    "to": 2020
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2016,
+    "to": 2020
+  },
+  {
+    "models": "KTM XC 250F",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC 350F",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC-W 350F",
+    "from": 2020,
+    "to": 2022
+  }
+]
