@@ -8,5 +8,15 @@
     "models": "Triumph TF 450X",
     "from": 2025,
     "to": ""
+  },
+  {
+    "models": "Triumph TF 250E",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Triumph TF 450E",
+    "from": 2025,
+    "to": ""
   }
 ]
