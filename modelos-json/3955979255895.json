@@ -1,7 +1,7 @@
 [
   {
-    "models": "KTM SX 65",
-    "from": 2009,
+    "models": "Gasgas MC 65",
+    "from": 2017,
     "to": 2026
   },
   {
@@ -10,8 +10,8 @@
     "to": 2026
   },
   {
-    "models": "Gasgas MC 65",
-    "from": 2017,
+    "models": "KTM SX 65",
+    "from": 2009,
     "to": 2026
   }
 ]
