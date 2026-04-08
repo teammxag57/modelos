@@ -5,11 +5,6 @@
     "to": 2024
   },
   {
-    "models": "Beta Xtrainer 300",
-    "from": 2022,
-    "to": 2025
-  },
-  {
     "models": "Beta RR 300R",
     "from": 2022,
     "to": 2024
@@ -18,5 +13,10 @@
     "models": "Beta RR X-PRO 300",
     "from": 2025,
     "to": 2026
+  },
+  {
+    "models": "Beta Xtrainer 300",
+    "from": 2022,
+    "to": 2025
   }
 ]
