@@ -65,13 +65,33 @@
     "to": 2026
   },
   {
+    "models": "KTM 300 MXC",
+    "from": 2004,
+    "to": 2020
+  },
+  {
     "models": "KTM EXC 250",
     "from": 2004,
     "to": 2025
   },
   {
+    "models": "KTM EXC 300",
+    "from": 2004,
+    "to": 2026
+  },
+  {
+    "models": "KTM Freeride 250R",
+    "from": 2014,
+    "to": 2017
+  },
+  {
     "models": "KTM SX 250",
     "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2023,
     "to": 2026
   },
   {
@@ -85,21 +105,6 @@
     "to": 2026
   },
   {
-    "models": "KTM EXC 300",
-    "from": 2004,
-    "to": 2026
-  },
-  {
-    "models": "KTM 300 MXC",
-    "from": 2004,
-    "to": 2020
-  },
-  {
-    "models": "KTM SX 300",
-    "from": 2023,
-    "to": 2026
-  },
-  {
     "models": "KTM XC 300",
     "from": 2006,
     "to": 2026
@@ -108,10 +113,5 @@
     "models": "KTM XC 300W",
     "from": 2006,
     "to": 2026
-  },
-  {
-    "models": "KTM Freeride 250R",
-    "from": 2014,
-    "to": 2017
   }
 ]
