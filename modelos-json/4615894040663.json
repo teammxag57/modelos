@@ -35,14 +35,14 @@
     "to": 2025
   },
   {
-    "models": "KTM SX 250",
-    "from": 2005,
-    "to": 2026
-  },
-  {
     "models": "KTM Freeride 250R",
     "from": 2014,
     "to": 2017
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2005,
+    "to": 2026
   },
   {
     "models": "KTM XC 250",
