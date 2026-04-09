@@ -35,14 +35,14 @@
     "to": 2025
   },
   {
-    "models": "Husqvarna TE 150 Heritage Edition",
-    "from": 2023,
-    "to": 2025
-  },
-  {
     "models": "Husqvarna TE 150",
     "from": 2020,
     "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 150 Heritage Edition",
+    "from": 2023,
+    "to": 2025
   },
   {
     "models": "KTM EGS 125",
@@ -115,14 +115,14 @@
     "to": 2014
   },
   {
-    "models": "KTM XC 200",
-    "from": 2006,
-    "to": 2009
-  },
-  {
     "models": "KTM XC 150W",
     "from": 2017,
     "to": 2023
+  },
+  {
+    "models": "KTM XC 200",
+    "from": 2006,
+    "to": 2009
   },
   {
     "models": "KTM XC 200W",
