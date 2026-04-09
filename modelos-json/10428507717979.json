@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Gasgas MC  65",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 65",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 1982,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 65",
+    "from": 2000,
+    "to": 2026
+  }
+]
