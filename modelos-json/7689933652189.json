@@ -11,7 +11,7 @@
   },
   {
     "models": "Husqvarna TE 125",
-    "from": 2014,
+    "from": 2012,
     "to": 2016
   },
   {
@@ -27,10 +27,25 @@
   {
     "models": "KTM XC 125",
     "from": 2021,
-    "to": 2022
+    "to": 2025
   },
   {
-    "models": "KTM XC-W 125",
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM SXS 125",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "Gasgas EC 125",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TX 125",
     "from": 2017,
     "to": 2019
   }
