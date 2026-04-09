@@ -1,5 +1,10 @@
 [
   {
+    "models": "Gasgas EC 125",
+    "from": 2025,
+    "to": ""
+  },
+  {
     "models": "Gasgas MC 125",
     "from": 2021,
     "to": 2025
@@ -15,6 +20,11 @@
     "to": 2016
   },
   {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
     "models": "KTM EXC 125",
     "from": 2001,
     "to": 2016
@@ -25,27 +35,17 @@
     "to": 2025
   },
   {
+    "models": "KTM SXS 125",
+    "from": 2004,
+    "to": ""
+  },
+  {
     "models": "KTM XC 125",
     "from": 2021,
     "to": 2025
   },
   {
     "models": "KTM XC 125W",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM SXS 125",
-    "from": 2004,
-    "to": ""
-  },
-  {
-    "models": "Gasgas EC 125",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna TX 125",
     "from": 2017,
     "to": 2019
   }
