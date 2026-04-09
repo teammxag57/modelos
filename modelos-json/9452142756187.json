@@ -13,5 +13,20 @@
     "models": "KTM EXC 300",
     "from": 2018,
     "to": 2023
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2020,
+    "to": 2021
   }
 ]
