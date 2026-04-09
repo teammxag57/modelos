@@ -27,15 +27,10 @@
   {
     "models": "KTM XC 125",
     "from": 2021,
-    "to": 2025
+    "to": 2022
   },
   {
-    "models": "KTM XC 125W",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "Husqvarna TX 125",
+    "models": "KTM XC-W 125",
     "from": 2017,
     "to": 2019
   }
