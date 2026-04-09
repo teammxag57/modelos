@@ -10,11 +10,6 @@
     "to": 2026
   },
   {
-    "models": "Yamaha YZ 125",
-    "from": 2005,
-    "to": 2026
-  },
-  {
     "models": "Yamaha WR 125R",
     "from": 2009,
     "to": 2014
@@ -23,5 +18,10 @@
     "models": "Yamaha WR 125X",
     "from": 2009,
     "to": 2014
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2005,
+    "to": 2026
   }
 ]
