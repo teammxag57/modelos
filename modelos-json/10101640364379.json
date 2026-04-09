@@ -1,6 +1,6 @@
 [
   {
-    "models": "Gas-Gas MC125",
+    "models": "Gasgas MC125",
     "from": 2021,
     "to": 2023
   },
@@ -40,7 +40,7 @@
     "to": 2025
   },
   {
-    "models": "Husqvarna TE 150i",
+    "models": "Husqvarna TE 150",
     "from": 2020,
     "to": 2022
   },
@@ -61,13 +61,8 @@
   },
   {
     "models": "KTM EXC 150",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "KTM EXC 150 TPI",
     "from": 2020,
-    "to": 2022
+    "to": 2023
   },
   {
     "models": "KTM EXC 200",
@@ -125,17 +120,12 @@
     "to": 2009
   },
   {
-    "models": "KTM XC-W 150",
+    "models": "KTM XC 150W",
     "from": 2017,
     "to": 2023
   },
   {
-    "models": "KTM XC-W 150 TPI",
-    "from": 2020,
-    "to": 2022
-  },
-  {
-    "models": "KTM XC-W 200",
+    "models": "KTM XC 200W",
     "from": 2006,
     "to": 2016
   }
