@@ -13,5 +13,15 @@
     "models": "KTM SX 65",
     "from": 2009,
     "to": 2025
+  },
+  {
+    "models": "KTM SXS 65",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 65",
+    "from": 2009,
+    "to": ""
   }
 ]
