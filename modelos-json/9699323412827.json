@@ -5,6 +5,11 @@
     "to": 2024
   },
   {
+    "models": "Beta RR 200R",
+    "from": 2021,
+    "to": 2024
+  },
+  {
     "models": "Beta RR Race 200",
     "from": 2025,
     "to": 2026
@@ -13,10 +18,5 @@
     "models": "Beta RR X-Pro 200",
     "from": 2025,
     "to": 2026
-  },
-  {
-    "models": "Beta RR 200R",
-    "from": 2021,
-    "to": 2024
   }
 ]
