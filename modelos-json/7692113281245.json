@@ -5,14 +5,14 @@
     "to": 2026
   },
   {
-    "models": "Yamaha YZ 250",
-    "from": 1999,
-    "to": 2026
-  },
-  {
     "models": "Yamaha WR 250R",
     "from": 2008,
     "to": 2016
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1999,
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250X",
