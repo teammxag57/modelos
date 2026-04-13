@@ -248,5 +248,15 @@
     "models": "KTM XC-F 450",
     "from": 2023,
     "to": 2026
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2026,
+    "to": ""
   }
 ]
