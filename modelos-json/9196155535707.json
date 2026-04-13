@@ -2,41 +2,36 @@
   {
     "models": "Gasgas EC 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Gasgas EC 500F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FE 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FE 501F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM EXC 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM EXC 500F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM XC-F 450W",
     "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC-F 500W",
-    "from": 2024,
-    "to": 2025
+    "to": 2026
   }
 ]
