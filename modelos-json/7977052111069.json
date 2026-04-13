@@ -60,6 +60,11 @@
     "to": 2026
   },
   {
+    "models": "GasGas MC 125",
+    "from": 2025,
+    "to": ""
+  },
+  {
     "models": "GasGas MC 250",
     "from": 2024,
     "to": 2026
@@ -263,10 +268,5 @@
     "models": "KTM XC-F 450",
     "from": 2023,
     "to": 2026
-  },
-  {
-    "models": "GasGas MC 125",
-    "from": 2025,
-    "to": ""
   }
 ]
