@@ -22,7 +22,7 @@
   {
     "models": "GasGas EC 500F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "GasGas EX 250",
@@ -57,7 +57,7 @@
   {
     "models": "GasGas MC 250",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "GasGas MC 250F",
@@ -72,82 +72,82 @@
   {
     "models": "GasGas MC 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FC 250F",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FC 350F",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FC 450F",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FE 250F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FE 350F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FE 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FE 501F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FX 350",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FX 450",
     "from": 2023,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 125",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 250",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 150",
     "from": 2024,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 250",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 300",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TX 300",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM EXC 150",
@@ -225,9 +225,19 @@
     "to": 2026
   },
   {
+    "models": "KTM XC 125W",
+    "from": 2025,
+    "to": 2026
+  },
+  {
     "models": "KTM XC 250",
     "from": 2023,
     "to": 2026
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2026,
+    "to": ""
   },
   {
     "models": "KTM XC 300",
@@ -250,13 +260,8 @@
     "to": 2026
   },
   {
-    "models": "KTM XC 125W",
-    "from": 2025,
+    "models": "GasGas EC 300",
+    "from": 2024,
     "to": 2026
-  },
-  {
-    "models": "KTM XC 250W",
-    "from": 2026,
-    "to": ""
   }
 ]
