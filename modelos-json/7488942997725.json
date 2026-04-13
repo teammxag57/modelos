@@ -2,17 +2,17 @@
   {
     "models": "Yamaha YZ 125",
     "from": 2008,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250",
     "from": 2008,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250F",
     "from": 2008,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 450F",
@@ -22,11 +22,11 @@
   {
     "models": "Yamaha YZ 450FX",
     "from": 2020,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250FX",
     "from": 2019,
-    "to": 2025
+    "to": 2026
   }
 ]
