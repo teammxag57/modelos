@@ -1,52 +1,62 @@
 [
   {
-    "models": "Gasgas EC-F 450",
+    "models": "Gasgas EC 450F",
     "from": 2024,
     "to": 2025
   },
   {
-    "models": "Gasgas EX-F 450",
+    "models": "Gasgas EX 450F",
     "from": 2024,
     "to": ""
   },
   {
-    "models": "Gasgas MC-F 450",
+    "models": "Gasgas MC 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Husqvarna FC 450",
+    "models": "Husqvarna FC 450F",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Husqvarna FE 450",
+    "models": "Husqvarna FE 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Husqvarna FS 450",
+    "models": "Husqvarna FS 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Husqvarna FX 450",
+    "models": "Husqvarna FX 450F",
     "from": 2023,
     "to": 2025
   },
   {
     "models": "KTM EXC 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SMR 450F",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 450F",
     "from": 2023,
-    "to": 2025
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 450F",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "KTM XCF 450W",
+    "from": 2024,
+    "to": 2026
   }
 ]
