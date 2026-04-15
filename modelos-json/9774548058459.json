@@ -48,5 +48,10 @@
     "models": "Beta X-Trainer 300",
     "from": 2018,
     "to": 2025
+  },
+  {
+    "models": "Beta RX 250",
+    "from": 2026,
+    "to": ""
   }
 ]
