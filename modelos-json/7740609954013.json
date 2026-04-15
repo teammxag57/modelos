@@ -1,16 +1,16 @@
 [
   {
-    "models": "GasGas EX 450F",
+    "models": "Gasgas EX 450F",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "GasGas MC 450F",
+    "models": "Gasgas MC 450F",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "Honda CRF 250",
+    "models": "Honda CRF 250R",
     "from": 2004,
     "to": 2009
   },
@@ -20,27 +20,27 @@
     "to": 2017
   },
   {
-    "models": "Husqvarna FC 450",
+    "models": "Husqvarna FC 450F",
     "from": 2019,
     "to": 2022
   },
   {
-    "models": "Husqvarna FE 450",
+    "models": "Husqvarna FE 450F",
     "from": 2020,
     "to": 2023
   },
   {
-    "models": "Husqvarna FS 450",
+    "models": "Husqvarna FS 450F",
     "from": 2019,
     "to": 2023
   },
   {
-    "models": "Husqvarna FX 450",
+    "models": "Husqvarna FX 450F",
     "from": 2019,
     "to": 2022
   },
   {
-    "models": "KTM EXC-F 450",
+    "models": "KTM EXC 450F",
     "from": 2020,
     "to": 2023
   },
@@ -50,28 +50,28 @@
     "to": 2022
   },
   {
-    "models": "KTM SX-F 450",
+    "models": "KTM SX 450F",
     "from": 2019,
     "to": 2022
   },
   {
-    "models": "Sherco SC-F 250",
+    "models": "Sherco SCF 250",
     "from": 2019,
     "to": ""
   },
   {
-    "models": "Sherco SC-F 300",
+    "models": "Sherco SCF 300",
     "from": 2019,
     "to": ""
   },
   {
-    "models": "Sherco SE-F 250",
+    "models": "Sherco SEF 250",
     "from": 2008,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Sherco SE-F 300",
+    "models": "Sherco SEF 300",
     "from": 2010,
-    "to": 2025
+    "to": 2026
   }
 ]
