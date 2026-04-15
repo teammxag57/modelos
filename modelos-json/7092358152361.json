@@ -7,7 +7,7 @@
   {
     "models": "Gasgas EC 300",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Gasgas EX 250",
@@ -17,12 +17,12 @@
   {
     "models": "Gasgas EX 300",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Gasgas MC 250",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Gasgas MC 300",
@@ -42,7 +42,7 @@
   {
     "models": "Husqvarna TC 250",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 300",
@@ -52,37 +52,27 @@
   {
     "models": "Husqvarna TE 250",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 300",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TX 300",
     "from": 2017,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM EXC 250",
     "from": 2004,
-    "to": 2017
-  },
-  {
-    "models": "KTM EXC 250 TPI",
-    "from": 2018,
     "to": 2025
   },
   {
     "models": "KTM EXC 300",
     "from": 2004,
-    "to": 2017
-  },
-  {
-    "models": "KTM EXC 300 TPI",
-    "from": 2018,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM Freeride 250R",
@@ -92,11 +82,11 @@
   {
     "models": "KTM SX 250",
     "from": 2003,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 300",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   }
 ]
