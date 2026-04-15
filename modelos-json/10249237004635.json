@@ -38,5 +38,15 @@
     "models": "KTM SX 250F",
     "from": 2016,
     "to": 2022
+  },
+  {
+    "models": "Triumph TF 250X",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 250E",
+    "from": 2025,
+    "to": 2026
   }
 ]
