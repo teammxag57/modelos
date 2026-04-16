@@ -25,24 +25,19 @@
     "to": 2023
   },
   {
-    "models": "Husqvarna TC 125",
+    "models": "Husqvarna FC 250F",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FC 350F",
     "from": 2022,
     "to": 2024
   },
   {
-    "models": "Husqvarna TC 150",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna TE 150",
-    "from": 2019,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna TX 125",
-    "from": 2019,
-    "to": ""
+    "models": "Husqvarna TC 125",
+    "from": 2022,
+    "to": 2024
   },
   {
     "models": "KTM EXC 150",
@@ -113,15 +108,5 @@
     "models": "KTM XC-W 150",
     "from": 2019,
     "to": ""
-  },
-  {
-    "models": "Husqvarna FC 250F",
-    "from": 2023,
-    "to": 2024
-  },
-  {
-    "models": "Husqvarna FC 350F",
-    "from": 2022,
-    "to": 2024
   }
 ]
