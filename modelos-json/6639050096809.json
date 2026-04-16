@@ -148,5 +148,10 @@
     "models": "KTM SX 450F",
     "from": 2011,
     "to": 2020
+  },
+  {
+    "models": "KTM XC-F 450",
+    "from": 2013,
+    "to": 2026
   }
 ]
