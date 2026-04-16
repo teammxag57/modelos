@@ -35,7 +35,7 @@
     "to": 2016
   },
   {
-    "models": "KTM EXC 150 TPI",
+    "models": "KTM EXC 150",
     "from": 2020,
     "to": 2023
   },
@@ -65,13 +65,28 @@
     "to": 2005
   },
   {
-    "models": "KTM XC-W 125",
+    "models": "KTM XC 125W",
     "from": 2017,
     "to": 2019
   },
   {
-    "models": "KTM XC-W 150",
+    "models": "KTM XC 150W",
     "from": 2017,
-    "to": 2019
+    "to": 2023
+  },
+  {
+    "models": "KTM XC 125",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC 150",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 200W",
+    "from": 2006,
+    "to": 2016
   }
 ]
