@@ -11,8 +11,8 @@
   },
   {
     "models": "KTM EXC 525",
-    "from": 2003,
-    "to": 2007
+    "from": 2007,
+    "to": ""
   },
   {
     "models": "KTM SMR 450F",
@@ -21,8 +21,8 @@
   },
   {
     "models": "KTM SX 250F",
-    "from": 2005,
-    "to": 2006
+    "from": 2006,
+    "to": ""
   },
   {
     "models": "KTM SX 450F",
@@ -33,5 +33,15 @@
     "models": "KTM SX 525",
     "from": 2003,
     "to": 2006
+  },
+  {
+    "models": "KTM XC 450W",
+    "from": 207,
+    "to": ""
+  },
+  {
+    "models": "Husaberg FE 390",
+    "from": 2010,
+    "to": 2011
   }
 ]
