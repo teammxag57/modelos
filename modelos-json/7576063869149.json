@@ -255,8 +255,18 @@
     "to": 2023
   },
   {
+    "models": "KTM EXC 250F",
+    "from": 2001,
+    "to": 2023
+  },
+  {
     "models": "KTM EXC 300",
     "from": 1994,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2012,
     "to": 2023
   },
   {
@@ -270,24 +280,14 @@
     "to": 2016
   },
   {
-    "models": "KTM EXC 500",
-    "from": 2012,
-    "to": 2016
-  },
-  {
-    "models": "KTM EXC 250F",
-    "from": 2001,
-    "to": 2023
-  },
-  {
-    "models": "KTM EXC 350F",
-    "from": 2012,
-    "to": 2023
-  },
-  {
     "models": "KTM EXC 450F",
     "from": 2003,
     "to": 2023
+  },
+  {
+    "models": "KTM EXC 500",
+    "from": 2012,
+    "to": 2016
   },
   {
     "models": "KTM EXC 500F",
@@ -320,11 +320,6 @@
     "to": 2023
   },
   {
-    "models": "KTM SMR 450",
-    "from": 2021,
-    "to": 2023
-  },
-  {
     "models": "KTM SM-R 450",
     "from": 2004,
     "to": 2014
@@ -338,6 +333,11 @@
     "models": "KTM SM-R 560",
     "from": 2006,
     "to": 2007
+  },
+  {
+    "models": "KTM SMR 450",
+    "from": 2021,
+    "to": 2023
   },
   {
     "models": "KTM SX 105",
@@ -370,9 +370,29 @@
     "to": 2022
   },
   {
+    "models": "KTM SX 250F",
+    "from": 2006,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2011,
+    "to": 2022
+  },
+  {
     "models": "KTM SX 450 Racing",
     "from": 2003,
     "to": 2006
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2007,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 505F",
+    "from": 2008,
+    "to": ""
   },
   {
     "models": "KTM SX 85",
@@ -400,31 +420,6 @@
     "to": 2007
   },
   {
-    "models": "KTM SX 250F",
-    "from": 2006,
-    "to": 2022
-  },
-  {
-    "models": "KTM SX 350F",
-    "from": 2011,
-    "to": 2022
-  },
-  {
-    "models": "KTM SX 450F",
-    "from": 2007,
-    "to": 2022
-  },
-  {
-    "models": "KTM SX 505F",
-    "from": 2008,
-    "to": ""
-  },
-  {
-    "models": "KTM XC-F 505",
-    "from": 2009,
-    "to": ""
-  },
-  {
     "models": "KTM XC 125W",
     "from": 2017,
     "to": 2019
@@ -435,12 +430,17 @@
     "to": 2019
   },
   {
-    "models": "Stark Varg MX",
+    "models": "KTM XC-F 505",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "Stark Varg EX",
     "from": 2023,
     "to": 2025
   },
   {
-    "models": "Stark Varg EX",
+    "models": "Stark Varg MX",
     "from": 2023,
     "to": 2025
   }
