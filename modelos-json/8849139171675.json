@@ -75,12 +75,27 @@
     "to": 2015
   },
   {
-    "models": "KTM SX-F 450",
+    "models": "KTM SX 450F",
     "from": 2012,
     "to": ""
   },
   {
-    "models": "Riejiu MR 300",
+    "models": "Rieju MR Pro 300",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 150",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 200W",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "Rieju MR Racing 300",
     "from": 2021,
     "to": 2024
   }
