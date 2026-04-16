@@ -80,11 +80,6 @@
     "to": ""
   },
   {
-    "models": "Rieju MR Pro 300",
-    "from": 2024,
-    "to": ""
-  },
-  {
     "models": "KTM XC 150",
     "from": 2010,
     "to": 2014
@@ -93,6 +88,11 @@
     "models": "KTM XC 200W",
     "from": 2009,
     "to": 2016
+  },
+  {
+    "models": "Rieju MR Pro 300",
+    "from": 2024,
+    "to": ""
   },
   {
     "models": "Rieju MR Racing 300",
