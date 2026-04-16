@@ -1,5 +1,20 @@
 [
   {
+    "models": "Gasgas EX 250F",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Gasgas EX 350F",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Gasgas EX 450F",
+    "from": 2021,
+    "to": 2022
+  },
+  {
     "models": "Gasgas MC 125",
     "from": 2021,
     "to": 2025
@@ -8,6 +23,11 @@
     "models": "Gasgas MC 150",
     "from": 2025,
     "to": ""
+  },
+  {
+    "models": "Gasgas MC 250F",
+    "from": 2021,
+    "to": 2023
   },
   {
     "models": "Husqvarna TC 125",
@@ -35,6 +55,16 @@
     "to": 2025
   },
   {
+    "models": "KTM EXC 250",
+    "from": 2017,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2017,
+    "to": 2018
+  },
+  {
     "models": "KTM SX 125",
     "from": 2016,
     "to": 2025
@@ -45,14 +75,19 @@
     "to": 2025
   },
   {
-    "models": "KTM XC-W 125",
-    "from": 2019,
-    "to": ""
+    "models": "KTM SX 250F",
+    "from": 2016,
+    "to": 2024
   },
   {
-    "models": "KTM XC-W 150",
-    "from": 2019,
-    "to": ""
+    "models": "KTM SX 350F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2021,
+    "to": 2024
   },
   {
     "models": "KTM XC 125",
@@ -65,34 +100,9 @@
     "to": ""
   },
   {
-    "models": "KTM EXC 250",
-    "from": 2017,
-    "to": ""
-  },
-  {
-    "models": "KTM SX 250F",
-    "from": 2016,
-    "to": 2024
-  },
-  {
     "models": "KTM XC-F 250",
     "from": 2016,
     "to": 2025
-  },
-  {
-    "models": "KTM EXC 300",
-    "from": 2017,
-    "to": 2018
-  },
-  {
-    "models": "KTM SX 350F",
-    "from": 2016,
-    "to": 2018
-  },
-  {
-    "models": "KTM SX 350F",
-    "from": 2021,
-    "to": 2024
   },
   {
     "models": "KTM XC-F 350",
@@ -100,23 +110,13 @@
     "to": 2025
   },
   {
-    "models": "Gasgas MC 250F",
-    "from": 2021,
-    "to": 2023
+    "models": "KTM XC-W 125",
+    "from": 2019,
+    "to": ""
   },
   {
-    "models": "Gasgas EX 250F",
-    "from": 2021,
-    "to": 2022
-  },
-  {
-    "models": "Gasgas EX 350F",
-    "from": 2021,
-    "to": 2022
-  },
-  {
-    "models": "Gasgas EX 450F",
-    "from": 2021,
-    "to": 2022
+    "models": "KTM XC-W 150",
+    "from": 2019,
+    "to": ""
   }
 ]
