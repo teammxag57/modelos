@@ -96,8 +96,8 @@
   },
   {
     "models": "Husaberg 650F",
-    "from": "",
-    "to": 2008
+    "from": 2008,
+    "to": ""
   },
   {
     "models": "Husaberg FE250",
