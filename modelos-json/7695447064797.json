@@ -11,23 +11,23 @@
   },
   {
     "models": "Gasgas EC 250F",
-    "from": 2023,
+    "from": 2021,
     "to": 2025
   },
   {
     "models": "Gasgas EC 300",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Gasgas EC 300 GP",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Gasgas EC 350F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Gasgas EC 450F",
@@ -37,15 +37,15 @@
   {
     "models": "Gasgas EC 500F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Gasgas ES350",
+    "models": "Gasgas ES 350",
     "from": 2025,
     "to": ""
   },
   {
-    "models": "Gasgas ES500",
+    "models": "Gasgas ES 500",
     "from": 2025,
     "to": ""
   },
@@ -62,7 +62,7 @@
   {
     "models": "Gasgas EX 300",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Gasgas EX 350F",
@@ -77,7 +77,7 @@
   {
     "models": "Gasgas MC 125",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Gasgas MC 150",
@@ -86,13 +86,13 @@
   },
   {
     "models": "Gasgas MC 250",
-    "from": 2023,
-    "to": 2025
+    "from": 2022,
+    "to": 2026
   },
   {
     "models": "Gasgas MC 250F",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Gasgas MC 250F Factory Edition",
@@ -106,13 +106,13 @@
   },
   {
     "models": "Gasgas MC 350F",
-    "from": 2023,
+    "from": 2022,
     "to": 2025
   },
   {
     "models": "Gasgas MC 450F",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Gasgas MC 450F Factory Edition",
@@ -125,23 +125,38 @@
     "to": ""
   },
   {
-    "models": "Husqvarna FC 250F",
-    "from": 2014,
-    "to": 2025
+    "models": "Gasgas MC450F Troy Lee Designs",
+    "from": 2022,
+    "to": ""
   },
   {
-    "models": "Husqvarna FC 250F (EURO)",
+    "models": "Husqvarna FC 250",
     "from": 2015,
     "to": ""
   },
   {
-    "models": "Husqvarna FC 250F Heritage Edition",
+    "models": "Husqvarna FC 250 Heritage Edition",
     "from": 2025,
     "to": ""
   },
   {
-    "models": "Husqvarna FC 250F Rockstar Edition",
+    "models": "Husqvarna FC 250 Rockstar Edition",
     "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FC 250F",
+    "from": 2014,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FC 250F Factory Edition",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FC 350 Heritage Edition",
+    "from": 2025,
     "to": ""
   },
   {
@@ -150,69 +165,64 @@
     "to": 2025
   },
   {
-    "models": "Husqvarna FC 350F Heritage Edition",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna FC 450F",
-    "from": 2014,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna FC 450F (EURO)",
+    "models": "Husqvarna FC 450",
     "from": 2015,
     "to": ""
   },
   {
-    "models": "Husqvarna FC 450F Factory Edition",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna FC 450F Rockstar Edition",
+    "models": "Husqvarna FC 450 Rockstar Edition",
     "from": 2018,
     "to": 2024
   },
   {
-    "models": "Husqvarna FE 250F",
+    "models": "Husqvarna FC 450F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Husqvarna FE 250F Heritage Edition",
+    "models": "Husqvarna FC 450F Factory Edition",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FE 250 Heritage Edition",
     "from": 2025,
     "to": ""
   },
   {
-    "models": "Husqvarna FE 350F",
+    "models": "Husqvarna FE 250F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Husqvarna FE 350F Heritage Edition",
+    "models": "Husqvarna FE 350 Heritage Edition",
     "from": 2023,
     "to": 2025
   },
   {
-    "models": "Husqvarna FE 350F Pro",
+    "models": "Husqvarna FE 350 Pro",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Husqvarna FE 350Fs",
+    "models": "Husqvarna FE 350F",
+    "from": 2014,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FE 350s",
     "from": 2015,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Husqvarna FE 350Fs Heritage Edition",
+    "models": "Husqvarna FE 350s Heritage Edition",
     "from": 2025,
     "to": ""
   },
   {
     "models": "Husqvarna FE 450F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FE 450F Heritage Edition",
@@ -227,12 +237,12 @@
   {
     "models": "Husqvarna FE 501F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Husqvarna FE 501Fs",
+    "models": "Husqvarna FE 501s",
     "from": 2015,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FE 501s Heritage Edition",
@@ -242,7 +252,7 @@
   {
     "models": "Husqvarna FS 450F",
     "from": 2020,
-    "to": 2021
+    "to": 2026
   },
   {
     "models": "Husqvarna FX 350 Heritage Edition",
@@ -252,7 +262,7 @@
   {
     "models": "Husqvarna FX 350F",
     "from": 2017,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna FX 450 Heritage Edition",
@@ -267,7 +277,7 @@
   {
     "models": "Husqvarna TC 125",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 125 Heritage Edition",
@@ -287,7 +297,7 @@
   {
     "models": "Husqvarna TC 250",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 250 Heritage Edition",
@@ -307,12 +317,17 @@
   {
     "models": "Husqvarna TE 125",
     "from": 2015,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 150",
     "from": 2017,
-    "to": 2025
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2020,
+    "to": 2022
   },
   {
     "models": "Husqvarna TE 150 Heritage Edition",
@@ -320,14 +335,14 @@
     "to": 2025
   },
   {
-    "models": "Husqvarna TE 150i",
-    "from": 2020,
-    "to": 2022
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 250",
-    "from": 2014,
-    "to": 2025
+    "from": 2018,
+    "to": 2022
   },
   {
     "models": "Husqvarna TE 250 Heritage Edition",
@@ -335,14 +350,14 @@
     "to": 2025
   },
   {
-    "models": "Husqvarna TE 250i",
-    "from": 2018,
-    "to": 2022
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 300",
-    "from": 2014,
-    "to": 2025
+    "from": 2019,
+    "to": 2023
   },
   {
     "models": "Husqvarna TE 300 Heritage Edition",
@@ -352,12 +367,7 @@
   {
     "models": "Husqvarna TE 300 Pro",
     "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna TE 300i",
-    "from": 2019,
-    "to": 2023
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 300i Rockstar Edition",
@@ -367,7 +377,7 @@
   {
     "models": "Husqvarna TX 300",
     "from": 2017,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TX 300 Heritage Edition",
@@ -380,24 +390,29 @@
     "to": ""
   },
   {
+    "models": "KTM SMR 450",
+    "from": 2026,
+    "to": ""
+  },
+  {
     "models": "KTM SX 125",
     "from": 2012,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 150",
     "from": 2012,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 250",
     "from": 2012,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 250F",
     "from": 2011,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 250F Adamo Edition",
@@ -405,29 +420,34 @@
     "to": ""
   },
   {
-    "models": "KTM SX 250F Factory Edition",
-    "from": 2015,
-    "to": 2025
-  },
-  {
     "models": "KTM SX 300",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "KTM SX 350F",
     "from": 2011,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 450F",
     "from": 2011,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM SX 450F Factory Edition",
+    "models": "KTM SX-F 250 Factory Edition",
+    "from": 2015,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX-F 450 Factory Edition",
     "from": 2012,
-    "to": 2025
+    "to": 2026
+  },
+  {
+    "models": "KTM SX-F 450 Herlings",
+    "from": 2019,
+    "to": ""
   },
   {
     "models": "KTM XC 125",
@@ -445,24 +465,24 @@
     "to": 2019
   },
   {
-    "models": "KTM XC 250 TPI",
+    "models": "KTM XC 250",
     "from": 2020,
     "to": 2022
   },
   {
     "models": "KTM XC 300",
     "from": 2012,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM XC 300 TPI",
+    "models": "KTM XC 300",
     "from": 2020,
     "to": 2022
   },
   {
     "models": "KTM XC-F 250",
     "from": 2011,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM XC-F 350",
@@ -472,11 +492,11 @@
   {
     "models": "KTM XC-F 350 Factory Edition",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "KTM XC-F 450",
     "from": 2013,
-    "to": 2025
+    "to": 2026
   }
 ]
