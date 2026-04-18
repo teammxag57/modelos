@@ -1,0 +1,97 @@
+[
+  {
+    "models": "Beta RR 125",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 200",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 250",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Beta RR 300",
+    "from": 2013,
+    "to": 2025
+  },
+  {
+    "models": "Beta RX 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta Xtrainer 250",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Beta XTrainer 300",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "GasGas MC 50",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "GasGas MC 65",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "GasGas MC 85",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Husaberg FE 450",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FE 550",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FE 650",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FS 450",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FS 550",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "Husaberg FS 650",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg TE 125",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 300",
+    "from": 2011,
+    "to": 2014
+  }
+]
