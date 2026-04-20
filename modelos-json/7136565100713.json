@@ -1,23 +1,23 @@
 [
   {
-    "models": "Gasgas MC85 17/14",
-    "from": 2022,
-    "to": 2025
+    "models": "Gasgas MC 85",
+    "from": 2021,
+    "to": 2026
   },
   {
-    "models": "Gasgas MC85 19/16",
-    "from": 2021,
-    "to": 2025
+    "models": "Gasgas MC 85 17/14",
+    "from": 2022,
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 85",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 85 BW",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM Adventure 640",
@@ -125,7 +125,7 @@
     "to": 1995
   },
   {
-    "models": "KTM EXC 450",
+    "models": "KTM EXC 450F",
     "from": 2003,
     "to": ""
   },
@@ -151,7 +151,7 @@
   },
   {
     "models": "KTM FREERIDE 250 F",
-    "from": 2019,
+    "from": 2018,
     "to": 2020
   },
   {
@@ -170,8 +170,23 @@
     "to": ""
   },
   {
+    "models": "KTM Freeride E",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM Freeride E-SM",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "KTM Freeride E-SX",
+    "from": 2014,
+    "to": 2016
+  },
+  {
     "models": "KTM Freeride E-XC",
-    "from": 2020,
+    "from": 2015,
     "to": 2023
   },
   {
@@ -347,12 +362,12 @@
   {
     "models": "KTM SX 85",
     "from": 2003,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 85 BW",
     "from": 2011,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SXC 400",
