@@ -1,21 +1,21 @@
 [
   {
-    "models": "Embraiagem/Clutch/Embrague/Embrayage",
+    "models": "Master Cylinder Kit - Clutch",
     "from": "",
     "to": ""
   },
   {
     "models": "Gasgas EC 250",
-    "from": 2000,
-    "to": 2019
+    "from": 2012,
+    "to": 2013
   },
   {
     "models": "Gasgas EC 300",
-    "from": 2000,
-    "to": 2019
+    "from": 2012,
+    "to": 2013
   },
   {
-    "models": "Trav�o/Brake/Freno/Frein",
+    "models": "Master Cylinder Kit - Front brake",
     "from": "",
     "to": ""
   },
@@ -35,6 +35,11 @@
     "to": 2025
   },
   {
+    "models": "Beta RR X-PRO 125",
+    "from": 2025,
+    "to": ""
+  },
+  {
     "models": "Beta RR 200",
     "from": 2019,
     "to": 2024
@@ -45,19 +50,24 @@
     "to": 2025
   },
   {
+    "models": "Beta RR X-PRO 200",
+    "from": 2025,
+    "to": ""
+  },
+  {
     "models": "Beta RR 250",
     "from": 2013,
     "to": 2024
   },
   {
-    "models": "Beta RR 250F",
-    "from": 2005,
-    "to": 2007
-  },
-  {
     "models": "Beta RR 250R",
     "from": 2022,
     "to": 2025
+  },
+  {
+    "models": "Beta RR X-PRO 250",
+    "from": 2025,
+    "to": ""
   },
   {
     "models": "Beta RR 300",
@@ -70,6 +80,16 @@
     "to": 2025
   },
   {
+    "models": "Beta RR X-PRO 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR 250F",
+    "from": 2005,
+    "to": 2007
+  },
+  {
     "models": "Beta RR 350F",
     "from": 2011,
     "to": 2024
@@ -78,6 +98,11 @@
     "models": "Beta RR 350FR",
     "from": 2022,
     "to": 2025
+  },
+  {
+    "models": "Beta RR X-PRO 350F",
+    "from": 2025,
+    "to": ""
   },
   {
     "models": "Beta RR 390F",
@@ -90,8 +115,8 @@
     "to": 2025
   },
   {
-    "models": "Beta RR 390S",
-    "from": 2024,
+    "models": "Beta RR X-PRO 390F",
+    "from": 2025,
     "to": ""
   },
   {
@@ -110,6 +135,11 @@
     "to": 2025
   },
   {
+    "models": "Beta RR X-PRO 430F",
+    "from": 2025,
+    "to": ""
+  },
+  {
     "models": "Beta RR 450F",
     "from": 2005,
     "to": 2014
@@ -125,14 +155,14 @@
     "to": 2025
   },
   {
+    "models": "Beta RR X-PRO 480F",
+    "from": 2025,
+    "to": ""
+  },
+  {
     "models": "Beta RR 498F",
     "from": 2012,
     "to": 2014
-  },
-  {
-    "models": "Beta RR 500S",
-    "from": 2024,
-    "to": ""
   },
   {
     "models": "Beta RR 520F",
@@ -145,46 +175,6 @@
     "to": 2009
   },
   {
-    "models": "Beta RR X-PRO 125",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Beta RR X-PRO 200",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Beta RR X-PRO 250",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Beta RR X-PRO 300",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Beta RR X-PRO 350F",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Beta RR X-PRO 390F",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Beta RR X-PRO 430F",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Beta RR X-PRO 480F",
-    "from": 2025,
-    "to": ""
-  },
-  {
     "models": "Beta RR-S 350",
     "from": 2017,
     "to": 2024
@@ -195,6 +185,11 @@
     "to": 2024
   },
   {
+    "models": "Beta RR 390S",
+    "from": 2024,
+    "to": ""
+  },
+  {
     "models": "Beta RR-S 430",
     "from": 2017,
     "to": 2024
@@ -203,6 +198,11 @@
     "models": "Beta RR-S 500",
     "from": 2017,
     "to": 2024
+  },
+  {
+    "models": "Beta RR 500S",
+    "from": 2024,
+    "to": ""
   },
   {
     "models": "Beta RS 390",
@@ -260,6 +260,11 @@
     "to": 2019
   },
   {
+    "models": "Gasgas EC 250",
+    "from": 2000,
+    "to": 2019
+  },
+  {
     "models": "Gasgas EC 250 4T",
     "from": 2010,
     "to": 2012
@@ -273,6 +278,11 @@
     "models": "Gasgas EC 250 Six Days",
     "from": 2019,
     "to": ""
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2000,
+    "to": 2019
   },
   {
     "models": "Gasgas EC 300 Replica",
@@ -375,12 +385,12 @@
     "to": 2007
   },
   {
-    "models": "Honda CRF 150 RB",
+    "models": "Honda CRF 150R",
     "from": 2007,
     "to": 2025
   },
   {
-    "models": "Honda CRF 150R",
+    "models": "Honda CRF 150 RB",
     "from": 2007,
     "to": 2025
   },
@@ -415,12 +425,12 @@
     "to": 2025
   },
   {
-    "models": "Honda XR 400R",
+    "models": "Honda XR250R",
     "from": 2000,
     "to": 2004
   },
   {
-    "models": "Honda XR250R",
+    "models": "Honda XR 400R",
     "from": 2000,
     "to": 2004
   },
@@ -445,16 +455,6 @@
     "to": 1996
   },
   {
-    "models": "Kawasaki KLX 400R",
-    "from": 2003,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KLX 400R NON CA MODELS PUMPER CARB",
-    "from": 2004,
-    "to": ""
-  },
-  {
     "models": "Kawasaki KLX300",
     "from": 2022,
     "to": 2024
@@ -463,6 +463,16 @@
     "models": "Kawasaki KLX300(R)",
     "from": 1997,
     "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX 400R",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX 400R NON CA MODELS PUMPER CARB",
+    "from": 2004,
+    "to": ""
   },
   {
     "models": "Kawasaki KLX450R",
@@ -605,16 +615,6 @@
     "to": 2008
   },
   {
-    "models": "Suzuki RM 250Z",
-    "from": 2004,
-    "to": 2025
-  },
-  {
-    "models": "Suzuki RM 450Z",
-    "from": 2005,
-    "to": 2025
-  },
-  {
     "models": "Suzuki RM 85",
     "from": 2005,
     "to": 2023
@@ -628,6 +628,16 @@
     "models": "Suzuki RMX 450",
     "from": 2010,
     "to": 2019
+  },
+  {
+    "models": "Suzuki RM 250Z",
+    "from": 2004,
+    "to": 2025
+  },
+  {
+    "models": "Suzuki RM 450Z",
+    "from": 2005,
+    "to": 2025
   },
   {
     "models": "Yamaha TT-R 230",
