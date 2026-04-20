@@ -1,5 +1,10 @@
 [
   {
+    "models": "Ducati DESMO 450 MX",
+    "from": 2026,
+    "to": ""
+  },
+  {
     "models": "Honda CR 125",
     "from": 1995,
     "to": 2007
@@ -45,7 +50,7 @@
     "to": 2025
   },
   {
-    "models": "Honda CRF 450R-S",
+    "models": "Honda CRF 450RS",
     "from": 2022,
     "to": 2024
   },
@@ -73,16 +78,6 @@
     "models": "KTM Enduro 640 LC4",
     "from": 2003,
     "to": 2004
-  },
-  {
-    "models": "KTM SR 300S",
-    "from": 2020,
-    "to": 2023
-  },
-  {
-    "models": "KTM SSR SR 250S",
-    "from": 2016,
-    "to": 2023
   },
   {
     "models": "KTM SX 125",
@@ -128,5 +123,15 @@
     "models": "KTM SXS 540",
     "from": 2001,
     "to": 2002
+  },
+  {
+    "models": "SSR SR 250S",
+    "from": 2016,
+    "to": 2023
+  },
+  {
+    "models": "SSR SR 300S",
+    "from": 2020,
+    "to": 2023
   }
 ]
