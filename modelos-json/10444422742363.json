@@ -1,0 +1,382 @@
+[
+  {
+    "models": "Lower Rear Shock Bearing",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 85 17/14",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 85",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 85 BW",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 250 Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 250 Six Days",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 300 Champion Edition",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 300 HARDENDURO",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 300 Six Days",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 250F Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 250 Six Days",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 350F Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 350 Six Days",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 450F Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 450 Six Days",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC-F 500 Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 500 Six Days",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM Freeride E",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 85 BW",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM XCF-W 450",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 150W",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC-W 300 Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-W 300 Factory Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-W 300 HARDENDURO",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM XW-F 350",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "KTM XW-F 500",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Upper Rear Shock Bearing",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 85 17/14",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 85",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 85 BW",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 250 Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 250 Six Days",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 300 Champion Edition",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 300 HARDENDURO",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 300 Six Days",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 250F Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 250 Six Days",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 350F Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 350 Six Days",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 450F Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 450 Six Days",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC-F 500 Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 500 Six Days",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM Freeride E",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 85 BW",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM XCF-W 450",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 150W",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC-W 300 Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-W 300 Factory Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-W 300 HARDENDURO",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM XW-F 350",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "KTM XW-F 500",
+    "from": 2024,
+    "to": ""
+  }
+]
