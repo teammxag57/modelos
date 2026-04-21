@@ -1,22 +1,37 @@
 [
   {
-    "models": "Yamaha YZ125",
+    "models": "Yamaha YZ 125",
     "from": 2015,
     "to": 2020
   },
   {
-    "models": "Yamaha YZ250",
+    "models": "Yamaha YZ 250",
     "from": 2015,
     "to": 2020
   },
   {
-    "models": "Yamaha YZ65",
+    "models": "Yamaha YZ 65",
     "from": 2020,
     "to": 2020
   },
   {
-    "models": "Yamaha YZ85LW",
+    "models": "Yamaha YZ 85",
     "from": 2015,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2009,
     "to": 2020
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2009,
+    "to": 2019
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2016,
+    "to": 2017
   }
 ]
