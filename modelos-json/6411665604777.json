@@ -1,133 +1,8 @@
 [
   {
-    "models": "KTM 125 EXC",
-    "from": 2008,
-    "to": 2010
-  },
-  {
-    "models": "KTM 125 SX",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "KTM 144 SX",
-    "from": 2007,
-    "to": 2008
-  },
-  {
-    "models": "KTM 150 SX",
-    "from": 2009,
-    "to": ""
-  },
-  {
-    "models": "KTM 150 XC",
-    "from": 2009,
-    "to": ""
-  },
-  {
-    "models": "KTM 200 EXC",
-    "from": 2008,
-    "to": 2009
-  },
-  {
-    "models": "KTM 200 XC",
-    "from": 2008,
-    "to": 2009
-  },
-  {
-    "models": "KTM 200 XC-W",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "KTM 250 EXC",
-    "from": 2008,
-    "to": 2009
-  },
-  {
-    "models": "KTM 250 EXC-F",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "KTM 250 SX",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "KTM 250 SX-F",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "KTM 250 XC",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "KTM 250 XC-F",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "KTM 250 XCF-W",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "KTM 250 XC-W",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "KTM 300 EXC",
-    "from": 2008,
-    "to": 2010
-  },
-  {
-    "models": "KTM 300 XC-W",
-    "from": 2008,
-    "to": 2010
-  },
-  {
-    "models": "KTM 450 EXC",
-    "from": 2008,
-    "to": 2010
-  },
-  {
-    "models": "KTM 450 EXC-F",
-    "from": 2008,
-    "to": 2010
-  },
-  {
-    "models": "KTM 450 SMR",
-    "from": 2008,
-    "to": 2009
-  },
-  {
     "models": "KTM 450 SX ATV",
     "from": 2008,
     "to": 2009
-  },
-  {
-    "models": "KTM 450 SX-F",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "KTM 450 XC ATV",
-    "from": 2008,
-    "to": 2009
-  },
-  {
-    "models": "KTM 450 XC-F",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "KTM 450 XC-W",
-    "from": 2008,
-    "to": 2010
   },
   {
     "models": "KTM 505 SX ATV",
@@ -135,38 +10,148 @@
     "to": ""
   },
   {
-    "models": "KTM 505 SX-F",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "KTM 505 XC-F",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "KTM 525 XC",
-    "from": 2008,
-    "to": 2009
-  },
-  {
-    "models": "KTM 525 XC ATV",
-    "from": 2008,
-    "to": 2009
-  },
-  {
-    "models": "KTM 530 EXC",
+    "models": "KTM EXC 125",
     "from": 2008,
     "to": 2010
   },
   {
-    "models": "KTM 530 XC-W",
+    "models": "KTM EXC 200",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 300",
     "from": 2008,
     "to": 2010
   },
   {
-    "models": "KTM 560 SMR",
+    "models": "KTM EXC 450F",
     "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM EXC 530",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM SMR 450F",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM SMR 560",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM SX 144",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM SX 505F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 150",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 200",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 200W",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM XC 450W",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM XC 525",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-F 250",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-F 250W",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-F 450",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-F 505",
+    "from": 2007,
     "to": 2009
   }
 ]
