@@ -185,7 +185,7 @@
     "to": 2023
   },
   {
-    "models": "KTM EXC 250",
+    "models": "KTM EXC 250F",
     "from": 2017,
     "to": 2023
   },
@@ -195,8 +195,18 @@
     "to": 2023
   },
   {
+    "models": "KTM EXC 250F",
+    "from": 2018,
+    "to": 2023
+  },
+  {
     "models": "KTM EXC 300",
     "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2019,
     "to": 2023
   },
   {
@@ -210,13 +220,13 @@
     "to": 2022
   },
   {
-    "models": "KTM SX 250",
-    "from": 2017,
+    "models": "KTM SX 250F",
+    "from": 2016,
     "to": 2022
   },
   {
     "models": "KTM SX 250F",
-    "from": 2016,
+    "from": 2017,
     "to": 2022
   },
   {
@@ -230,14 +240,39 @@
     "to": 2022
   },
   {
+    "models": "KTM XC 150W",
+    "from": 2017,
+    "to": 2023
+  },
+  {
     "models": "KTM XC 250",
     "from": 2017,
     "to": 2023
   },
   {
-    "models": "KTM XC 300",
+    "models": "KTM XC 250W",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2019,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC 300W",
     "from": 2019,
     "to": 2022
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2019,
+    "to": 2023
   },
   {
     "models": "KTM XC-F 250",
@@ -245,32 +280,7 @@
     "to": 2022
   },
   {
-    "models": "KTM XCF-W 250",
-    "from": 2017,
-    "to": 2022
-  },
-  {
-    "models": "KTM XC-W 150",
-    "from": 2017,
-    "to": 2023
-  },
-  {
-    "models": "KTM XC-W 250",
-    "from": 2019,
-    "to": 2023
-  },
-  {
-    "models": "KTM XC-W 300",
-    "from": 2017,
-    "to": 2023
-  },
-  {
-    "models": "KTM XC-W 300",
-    "from": 2019,
-    "to": 2023
-  },
-  {
-    "models": "KTM XC-W250",
+    "models": "KTM XC-F 250W",
     "from": 2017,
     "to": 2022
   }
