@@ -1,5 +1,15 @@
 [
   {
+    "models": "Beta RR 125",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "Beta RR 125R",
+    "from": 2018,
+    "to": 2023
+  },
+  {
     "models": "Gasgas MC 125",
     "from": 2020,
     "to": 2023
@@ -20,6 +30,11 @@
     "to": 2021
   },
   {
+    "models": "KTM EXC 150",
+    "from": 2020,
+    "to": 2023
+  },
+  {
     "models": "KTM SX 125",
     "from": 2016,
     "to": 2022
@@ -30,29 +45,14 @@
     "to": 2022
   },
   {
-    "models": "KTM XC 125W",
-    "from": 2017,
-    "to": 2022
-  },
-  {
-    "models": "Beta RR 125",
-    "from": 2018,
-    "to": 2023
-  },
-  {
-    "models": "Beta RR 125R",
-    "from": 2018,
-    "to": 2023
-  },
-  {
     "models": "KTM XC 125",
     "from": 2021,
     "to": 2022
   },
   {
-    "models": "KTM EXC 150",
-    "from": 2020,
-    "to": 2023
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2022
   },
   {
     "models": "KTM XC 150W",
