@@ -10,6 +10,11 @@
     "to": 2021
   },
   {
+    "models": "Beta Xtrainer 250",
+    "from": 2018,
+    "to": 2021
+  },
+  {
     "models": "Gasgas EC 250",
     "from": 1997,
     "to": 2013
@@ -17,17 +22,17 @@
   {
     "models": "Gasgas EC 250",
     "from": 2021,
-    "to": 2022
+    "to": 2025
   },
   {
     "models": "Gasgas EX 250",
     "from": 2021,
-    "to": 2022
+    "to": 2023
   },
   {
     "models": "Gasgas MC 250",
-    "from": 2021,
-    "to": 2022
+    "from": 2022,
+    "to": 2025
   },
   {
     "models": "Husaberg TE 250",
@@ -37,17 +42,17 @@
   {
     "models": "Husqvarna TC 250",
     "from": 2014,
-    "to": 2022
+    "to": 2025
   },
   {
     "models": "Husqvarna TE 250",
     "from": 2014,
-    "to": 2022
+    "to": 2025
   },
   {
     "models": "KTM EXC 250",
     "from": 2006,
-    "to": 2021
+    "to": 2025
   },
   {
     "models": "KTM Freeride 250",
@@ -57,7 +62,7 @@
   {
     "models": "KTM SX 250",
     "from": 2003,
-    "to": 2020
+    "to": 2025
   },
   {
     "models": "KTM SXS 250",
@@ -65,13 +70,13 @@
     "to": 2016
   },
   {
-    "models": "KTM XC/XC-W 250",
+    "models": "KTM XC 250",
     "from": 2006,
-    "to": 2021
+    "to": 2025
   },
   {
-    "models": "Beta Xtrainer 250",
-    "from": 2018,
-    "to": 2021
+    "models": "KTM XC 250W",
+    "from": 2006,
+    "to": 2025
   }
 ]
