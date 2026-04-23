@@ -2,11 +2,11 @@
   {
     "models": "Beta RR 250",
     "from": 2013,
-    "to": 2015
+    "to": 2021
   },
   {
-    "models": "Beta RR 250",
-    "from": 2018,
+    "models": "Beta RR 250R",
+    "from": 2013,
     "to": 2021
   },
   {
@@ -67,6 +67,11 @@
   {
     "models": "KTM XC/XC-W 250",
     "from": 2006,
+    "to": 2021
+  },
+  {
+    "models": "Beta Xtrainer 250",
+    "from": 2018,
     "to": 2021
   }
 ]
