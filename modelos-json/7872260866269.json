@@ -1,38 +1,38 @@
 [
   {
-    "models": "Gasgas 450FE",
+    "models": "Husaberg 450FC",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "Husaberg 450FE",
     "from": 2004,
     "to": 2008
   },
   {
-    "models": "Gasgas 450FE-E",
+    "models": "Husaberg 450FE-E",
     "from": 2001,
     "to": 2003
   },
   {
-    "models": "Gasgas 450FS-E",
+    "models": "Husaberg 450FS-E",
     "from": 2006,
     "to": 2008
   },
   {
-    "models": "Gasgas 550FC",
+    "models": "Husaberg 550FC",
     "from": 2004,
     "to": 2005
   },
   {
-    "models": "Gasgas 550FE",
+    "models": "Husaberg 550FE",
     "from": 2004,
     "to": 2008
   },
   {
-    "models": "Gasgas 650FE",
+    "models": "Husaberg 650FE",
     "from": 2004,
     "to": 2008
-  },
-  {
-    "models": "Husaberg 450FC",
-    "from": 2001,
-    "to": 2005
   },
   {
     "models": "KTM Adventure 640",
@@ -40,9 +40,19 @@
     "to": 2003
   },
   {
+    "models": "KTM COMP Limited 620",
+    "from": 1997,
+    "to": ""
+  },
+  {
     "models": "KTM Comp. 400",
     "from": 1995,
     "to": 1997
+  },
+  {
+    "models": "KTM Comp. 620",
+    "from": 1997,
+    "to": 1999
   },
   {
     "models": "KTM EGS 125",
@@ -75,7 +85,17 @@
     "to": ""
   },
   {
+    "models": "KTM EGS 620",
+    "from": 1997,
+    "to": ""
+  },
+  {
     "models": "KTM EGS-E 400",
+    "from": 1997,
+    "to": ""
+  },
+  {
+    "models": "KTM EGS-E 620",
     "from": 1997,
     "to": ""
   },
@@ -92,17 +112,52 @@
   {
     "models": "KTM EXC 200",
     "from": 1998,
-    "to": 2005
+    "to": 2016
   },
   {
     "models": "KTM EXC 250",
     "from": 1996,
-    "to": 2008
+    "to": 2010
+  },
+  {
+    "models": "KTM EXC 250 Racing Six Days",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 250 Six Days",
+    "from": 2005,
+    "to": 2010
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2006,
+    "to": 2010
   },
   {
     "models": "KTM EXC 300",
     "from": 1996,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 300 E",
+    "from": 2007,
     "to": 2008
+  },
+  {
+    "models": "KTM EXC 300 E Six Days",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 300 Six Days",
+    "from": 2008,
+    "to": 2013
   },
   {
     "models": "KTM EXC 380",
@@ -112,12 +167,27 @@
   {
     "models": "KTM EXC 400",
     "from": 2000,
-    "to": 2002
+    "to": 2009
   },
   {
-    "models": "KTM EXC 450",
+    "models": "KTM EXC 400 Racing",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 450 Six Days",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 450F",
     "from": 2003,
     "to": 2009
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2008,
+    "to": ""
   },
   {
     "models": "KTM EXC 520",
@@ -135,6 +205,16 @@
     "to": ""
   },
   {
+    "models": "KTM EXC 530R",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 250 Six Days",
+    "from": 2008,
+    "to": 2010
+  },
+  {
     "models": "KTM EXC-G 250 Racing",
     "from": 2002,
     "to": 2005
@@ -148,16 +228,6 @@
     "models": "KTM EXC-G 450",
     "from": 2003,
     "to": 2007
-  },
-  {
-    "models": "KTM EXC-R 450",
-    "from": 2008,
-    "to": ""
-  },
-  {
-    "models": "KTM EXC-R 530",
-    "from": 2008,
-    "to": ""
   },
   {
     "models": "KTM EXE 125",
@@ -185,7 +255,12 @@
     "to": 2001
   },
   {
-    "models": "KTM LSE 400",
+    "models": "KTM LS-E 400",
+    "from": 1997,
+    "to": 2005
+  },
+  {
+    "models": "KTM LSE 620",
     "from": 1997,
     "to": ""
   },
@@ -245,9 +320,19 @@
     "to": 1998
   },
   {
+    "models": "KTM RXC 620",
+    "from": 1997,
+    "to": ""
+  },
+  {
     "models": "KTM SC 400",
     "from": 2000,
     "to": ""
+  },
+  {
+    "models": "KTM Super Moto 620",
+    "from": 1998,
+    "to": 1999
   },
   {
     "models": "KTM Supermoto 640 LC4",
@@ -275,6 +360,11 @@
     "to": 2008
   },
   {
+    "models": "KTM SX 250F",
+    "from": 2005,
+    "to": 2008
+  },
+  {
     "models": "KTM SX 380",
     "from": 1998,
     "to": 2002
@@ -288,6 +378,11 @@
     "models": "KTM SX 450",
     "from": 2003,
     "to": 2006
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2007,
+    "to": 2008
   },
   {
     "models": "KTM SX 520",
@@ -320,16 +415,6 @@
     "to": 2006
   },
   {
-    "models": "KTM SX-F 250",
-    "from": 2005,
-    "to": 2008
-  },
-  {
-    "models": "KTM SX-F 450",
-    "from": 2007,
-    "to": 2008
-  },
-  {
     "models": "KTM SX-F 505",
     "from": 2008,
     "to": ""
@@ -355,6 +440,11 @@
     "to": 2006
   },
   {
+    "models": "KTM SXS-F 450",
+    "from": 2007,
+    "to": 2008
+  },
+  {
     "models": "KTM TXC 400",
     "from": 1998,
     "to": ""
@@ -370,12 +460,27 @@
     "to": 2009
   },
   {
+    "models": "KTM XC 200W",
+    "from": 2006,
+    "to": 2009
+  },
+  {
     "models": "KTM XC 250",
     "from": 2006,
     "to": 2009
   },
   {
+    "models": "KTM XC 250W",
+    "from": 2006,
+    "to": 2009
+  },
+  {
     "models": "KTM XC 300",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 300W",
     "from": 2006,
     "to": 2009
   },
@@ -418,21 +523,6 @@
     "models": "KTM XCR-W 530",
     "from": 2008,
     "to": ""
-  },
-  {
-    "models": "KTM XC-W 200",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM XC-W 250",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM XC-W 300",
-    "from": 2006,
-    "to": 2009
   },
   {
     "models": "KTM XC-W 400",
