@@ -5,12 +5,12 @@
     "to": ""
   },
   {
-    "models": "Husaberg TE 300",
+    "models": "Husaberg TE 250",
     "from": 2014,
     "to": ""
   },
   {
-    "models": "Husaberg TE250",
+    "models": "Husaberg TE 300",
     "from": 2014,
     "to": ""
   },
@@ -20,9 +20,24 @@
     "to": 2008
   },
   {
-    "models": "KTM EXC 450",
+    "models": "KTM EXC 400",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 450 Six Days",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 450F",
     "from": 2007,
     "to": 2009
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2008,
+    "to": ""
   },
   {
     "models": "KTM EXC 525",
@@ -32,6 +47,11 @@
   {
     "models": "KTM EXC 530",
     "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 530R",
+    "from": 2008,
     "to": ""
   },
   {
@@ -45,16 +65,6 @@
     "to": 2007
   },
   {
-    "models": "KTM EXC-R 450",
-    "from": 2008,
-    "to": ""
-  },
-  {
-    "models": "KTM EXC-R 530",
-    "from": 2008,
-    "to": ""
-  },
-  {
     "models": "KTM SMR 450",
     "from": 2006,
     "to": ""
@@ -62,7 +72,7 @@
   {
     "models": "KTM SX 125",
     "from": 2006,
-    "to": 2009
+    "to": 2008
   },
   {
     "models": "KTM SX 144",
@@ -75,24 +85,24 @@
     "to": 2008
   },
   {
+    "models": "KTM SX 250F",
+    "from": 2005,
+    "to": 2008
+  },
+  {
     "models": "KTM SX 450",
     "from": 2006,
     "to": ""
   },
   {
+    "models": "KTM SX 450F",
+    "from": 2007,
+    "to": 2008
+  },
+  {
     "models": "KTM SX 525",
     "from": 2006,
     "to": ""
-  },
-  {
-    "models": "KTM SX-F 250",
-    "from": 2005,
-    "to": 2008
-  },
-  {
-    "models": "KTM SX-F 450",
-    "from": 2007,
-    "to": 2008
   },
   {
     "models": "KTM SX-F 505",
@@ -110,12 +120,27 @@
     "to": 2009
   },
   {
+    "models": "KTM XC 200W",
+    "from": 2006,
+    "to": 2009
+  },
+  {
     "models": "KTM XC 250",
     "from": 2006,
     "to": 2009
   },
   {
+    "models": "KTM XC 250W",
+    "from": 2006,
+    "to": 2009
+  },
+  {
     "models": "KTM XC 300",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 300W",
     "from": 2006,
     "to": 2009
   },
@@ -160,21 +185,6 @@
     "to": ""
   },
   {
-    "models": "KTM XC-W 200",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM XC-W 250",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM XC-W 300",
-    "from": 2006,
-    "to": 2009
-  },
-  {
     "models": "KTM XC-W 400",
     "from": 2007,
     "to": 2009
@@ -195,8 +205,53 @@
     "to": ""
   },
   {
-    "models": "Sherco SE 2.5i-F",
+    "models": "Sherco SE 2.5",
+    "from": "",
+    "to": 2013
+  },
+  {
+    "models": "Sherco SE 2.5i-F Racing",
     "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE 250",
+    "from": 2013,
+    "to": 2012
+  },
+  {
+    "models": "Sherco SE 250",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE 3.0",
+    "from": "",
+    "to": 2013
+  },
+  {
+    "models": "Sherco SE 3.0i-F Racing",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "Sherco SE 300",
+    "from": 2013,
+    "to": 2012
+  },
+  {
+    "models": "Sherco SE 300",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Sherco SEF 250",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Sherco SEF 300",
+    "from": 2014,
     "to": ""
   }
 ]
