@@ -1,5 +1,65 @@
 [
   {
+    "models": "Beta RR 350F",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 390F",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "Beta RR 400F",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 430F",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "Beta RR 450F",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 498F",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 520F",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Beta RR 525F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "Beta RS 390",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "Beta RS 400",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Beta RS 430",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "Beta RS 520",
+    "from": 2014,
+    "to": ""
+  },
+  {
     "models": "Honda CRF 250R",
     "from": 2007,
     "to": 2009
@@ -16,13 +76,28 @@
   },
   {
     "models": "Honda CRF 450X",
-    "from": 2007,
+    "from": 2008,
     "to": 2017
   },
   {
-    "models": "KTM EXC 450",
+    "models": "KTM EXC 400",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 450 Six Days",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 450F",
     "from": 2007,
     "to": 2011
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2008,
+    "to": ""
   },
   {
     "models": "KTM EXC 525",
@@ -35,6 +110,11 @@
     "to": 2011
   },
   {
+    "models": "KTM EXC 530R",
+    "from": 2008,
+    "to": ""
+  },
+  {
     "models": "KTM EXC-G 400",
     "from": 2006,
     "to": ""
@@ -45,19 +125,14 @@
     "to": 2007
   },
   {
-    "models": "KTM EXC-R 450",
-    "from": 2008,
-    "to": ""
-  },
-  {
-    "models": "KTM EXC-R 530",
-    "from": 2008,
-    "to": ""
-  },
-  {
     "models": "KTM SMR 450",
     "from": 2006,
     "to": 2007
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2005,
+    "to": 2010
   },
   {
     "models": "KTM SX 450",
@@ -70,6 +145,11 @@
     "to": 2010
   },
   {
+    "models": "KTM SX 450F",
+    "from": 2007,
+    "to": 2012
+  },
+  {
     "models": "KTM SX 505 ATV",
     "from": 2009,
     "to": 2010
@@ -78,16 +158,6 @@
     "models": "KTM SX 525",
     "from": 2006,
     "to": ""
-  },
-  {
-    "models": "KTM SX-F 250",
-    "from": 2005,
-    "to": 2010
-  },
-  {
-    "models": "KTM SX-F 450",
-    "from": 2007,
-    "to": 2012
   },
   {
     "models": "KTM SX-F 505",
@@ -160,6 +230,11 @@
     "to": 2011
   },
   {
+    "models": "KTM XC-W 450 Six Days",
+    "from": 2010,
+    "to": 2011
+  },
+  {
     "models": "KTM XC-W 525",
     "from": 2007,
     "to": ""
@@ -167,15 +242,20 @@
   {
     "models": "KTM XC-W 530",
     "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-W 530 Six Days",
+    "from": 2010,
     "to": 2011
   },
   {
-    "models": "Suzuki RMZ 250",
+    "models": "Suzuki RM 250Z",
     "from": 2007,
     "to": 2009
   },
   {
-    "models": "Suzuki RMZ 450",
+    "models": "Suzuki RM 450Z",
     "from": 2005,
     "to": 2007
   },
