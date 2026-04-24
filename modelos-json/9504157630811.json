@@ -1,62 +1,62 @@
 [
   {
-    "models": "Yamaha WR250F",
+    "models": "Yamaha WR 250F",
     "from": 2002,
-    "to": 2021
+    "to": 2025
   },
   {
-    "models": "Yamaha WR426F",
+    "models": "Yamaha WR 426F",
     "from": 2002,
     "to": ""
   },
   {
-    "models": "Yamaha WR450F",
+    "models": "Yamaha WR 450F",
     "from": 2003,
-    "to": 2021
+    "to": 2023
   },
   {
-    "models": "Yamaha YZ125",
+    "models": "Yamaha YZ 125",
     "from": 2002,
-    "to": 2022
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ125X",
+    "models": "Yamaha YZ 125X",
     "from": 2020,
-    "to": 2022
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ250",
+    "models": "Yamaha YZ 250",
     "from": 2002,
-    "to": 2022
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ250F",
+    "models": "Yamaha YZ 250F",
     "from": 2002,
     "to": 2008
   },
   {
-    "models": "Yamaha YZ250FX",
+    "models": "Yamaha YZ 250FX",
     "from": 2015,
-    "to": 2022
+    "to": 2024
   },
   {
-    "models": "Yamaha YZ250X",
+    "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2022
+    "to": 2025
   },
   {
-    "models": "Yamaha YZ426F",
+    "models": "Yamaha YZ 426F",
     "from": 2002,
     "to": ""
   },
   {
-    "models": "Yamaha YZ450F",
+    "models": "Yamaha YZ 450F",
     "from": 2003,
     "to": 2008
   },
   {
-    "models": "Yamaha YZ450FX",
+    "models": "Yamaha YZ 450FX",
     "from": 2016,
-    "to": 2022
+    "to": 2023
   }
 ]
