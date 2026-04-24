@@ -2,15 +2,15 @@
   {
     "models": "Kawasaki KX 250F",
     "from": 2004,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Kawasaki KX 250X",
+    "models": "Kawasaki KX 250FX",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Suzuki RMZ 250",
+    "models": "Suzuki RM 250Z",
     "from": 2004,
     "to": 2006
   }
