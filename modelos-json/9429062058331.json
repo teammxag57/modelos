@@ -10,22 +10,22 @@
     "to": 2018
   },
   {
-    "models": "Husqvarna FC 450",
+    "models": "Husqvarna FC 450 Rockstar Edition",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna FC 450F",
     "from": 2016,
     "to": 2021
   },
   {
-    "models": "Husqvarna FC 450 Rockstar Edition",
-    "from": 2018,
-    "to": 2019
-  },
-  {
-    "models": "Husqvarna FE 450",
+    "models": "Husqvarna FE 450F",
     "from": 2017,
-    "to": 2020
+    "to": 2021
   },
   {
-    "models": "Husqvarna FE 501",
+    "models": "Husqvarna FE 501F",
     "from": 2017,
     "to": 2021
   },
@@ -35,13 +35,18 @@
     "to": 2021
   },
   {
-    "models": "Husqvarna FS 450",
+    "models": "Husqvarna FS 450F",
     "from": 2018,
-    "to": 2020
+    "to": 2024
   },
   {
-    "models": "Husqvarna FX 450",
+    "models": "Husqvarna FX 450F",
     "from": 2017,
-    "to": 2020
+    "to": 2021
+  },
+  {
+    "models": "KTM SMR 450",
+    "from": 2013,
+    "to": 2021
   }
 ]
