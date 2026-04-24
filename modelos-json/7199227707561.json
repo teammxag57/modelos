@@ -1,10 +1,5 @@
 [
   {
-    "models": "Husaberg FE 250",
-    "from": 2013,
-    "to": 2014
-  },
-  {
     "models": "Husaberg FE 350",
     "from": 2013,
     "to": 2014
@@ -15,32 +10,42 @@
     "to": ""
   },
   {
-    "models": "Husaberg TE 250",
+    "models": "Husaberg FE250",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE250",
     "from": 2011,
     "to": 2014
   },
   {
-    "models": "Husaberg TE 300",
+    "models": "Husaberg TE300",
     "from": 2011,
     "to": 2014
   },
   {
     "models": "Husqvarna FC 250",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FC 250F",
     "from": 2014,
     "to": 2015
   },
   {
-    "models": "Husqvarna FC 350",
+    "models": "Husqvarna FC 350F",
     "from": 2014,
     "to": 2015
   },
   {
-    "models": "Husqvarna FE 250",
+    "models": "Husqvarna FE 250F",
     "from": 2014,
     "to": 2016
   },
   {
-    "models": "Husqvarna FE 350",
+    "models": "Husqvarna FE 350F",
     "from": 2014,
     "to": 2016
   },
@@ -77,25 +82,85 @@
   {
     "models": "KTM EXC 125",
     "from": 2004,
-    "to": 2009
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 125 Factory Edition",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 125 Six Days",
+    "from": 2014,
+    "to": 2016
   },
   {
     "models": "KTM EXC 200",
     "from": 2004,
-    "to": 2005
+    "to": 2016
   },
   {
     "models": "KTM EXC 250",
     "from": 2004,
-    "to": 2008
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250 Factory Edition",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 250 Six Days",
+    "from": 2005,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2006,
+    "to": 2016
   },
   {
     "models": "KTM EXC 300",
     "from": 2004,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 300 E",
+    "from": 2007,
     "to": 2008
   },
   {
-    "models": "KTM EXC-F 350",
+    "models": "KTM EXC 300 E Six Days",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 300 Factory Edition",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 300 Six Days",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 350F Champion Edition",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-F 250 Six Days",
+    "from": 2008,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC-F 350 Six Days",
     "from": 2012,
     "to": 2016
   },
@@ -107,7 +172,7 @@
   {
     "models": "KTM SMR 450",
     "from": 2008,
-    "to": 2009
+    "to": 2012
   },
   {
     "models": "KTM SX 125",
@@ -135,19 +200,34 @@
     "to": 2016
   },
   {
-    "models": "KTM SX-F 250",
+    "models": "KTM SX 250F",
     "from": 2005,
     "to": 2015
   },
   {
-    "models": "KTM SX-F 350",
+    "models": "KTM SX 350F",
     "from": 2011,
     "to": 2015
   },
   {
-    "models": "KTM SX-F 450",
+    "models": "KTM SX 450 ATV",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "KTM SX 450F",
     "from": 2007,
     "to": 2012
+  },
+  {
+    "models": "KTM SX 505 ATV",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "KTM SX-F 450 Factory Edition",
+    "from": 2012,
+    "to": 2013
   },
   {
     "models": "KTM SX-F 505",
@@ -175,12 +255,27 @@
     "to": 2009
   },
   {
+    "models": "KTM XC 200W",
+    "from": 2006,
+    "to": 2016
+  },
+  {
     "models": "KTM XC 250",
     "from": 2006,
     "to": 2016
   },
   {
+    "models": "KTM XC 250W",
+    "from": 2006,
+    "to": 2016
+  },
+  {
     "models": "KTM XC 300",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 300W",
     "from": 2006,
     "to": 2016
   },
@@ -225,18 +320,13 @@
     "to": 2016
   },
   {
-    "models": "KTM XC-W 200",
-    "from": 2006,
+    "models": "KTM XC-FW 350 Six Days",
+    "from": 2014,
     "to": 2016
   },
   {
-    "models": "KTM XC-W 250",
-    "from": 2006,
-    "to": 2016
-  },
-  {
-    "models": "KTM XC-W 300",
-    "from": 2006,
+    "models": "KTM XC-W 300 Six Days",
+    "from": 2014,
     "to": 2016
   }
 ]
