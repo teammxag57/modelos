@@ -1,46 +1,46 @@
 [
   {
-    "models": "KTM 400 EXC-F",
+    "models": "KTM EXC 400F",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "KTM 400 EXC-F",
+    "models": "KTM EXC 400F",
     "from": 2004,
     "to": 2006
   },
   {
-    "models": "KTM 400 MXC Racing",
+    "models": "KTM MXC 400 Racing",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "KTM 400 SX-F",
+    "models": "KTM SX 400F",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "KTM 400 XC-W",
+    "models": "KTM XC 400W",
     "from": 2007,
     "to": ""
   },
   {
-    "models": "KTM 450 EXC-F",
+    "models": "KTM EXC 450F",
     "from": 2003,
     "to": 2007
   },
   {
-    "models": "KTM 450 MXC-G Racing",
+    "models": "KTM MXC-G 450 Racing",
     "from": 2005,
     "to": ""
   },
   {
-    "models": "KTM 450 SMS",
+    "models": "KTM SMS 450",
     "from": 2004,
     "to": ""
   },
   {
-    "models": "KTM 450 XC-W",
+    "models": "KTM XC 450W",
     "from": 2007,
     "to": ""
   }
