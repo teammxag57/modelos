@@ -10,7 +10,12 @@
     "to": 2006
   },
   {
-    "models": "KTM XC/XC-W 250",
+    "models": "KTM XC 250",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 250W",
     "from": 2006,
     "to": 2007
   }
