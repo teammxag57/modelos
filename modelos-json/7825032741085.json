@@ -1,5 +1,25 @@
 [
   {
+    "models": "Husaberg 390FE",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg 450FE",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg 450FX",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg 570FE",
+    "from": 2009,
+    "to": 2011
+  },
+  {
     "models": "Husaberg FE 250",
     "from": 2013,
     "to": ""
@@ -10,24 +30,9 @@
     "to": ""
   },
   {
-    "models": "Husaberg FE 390",
-    "from": 2010,
-    "to": 2011
-  },
-  {
-    "models": "Husaberg FE 450",
-    "from": 2009,
-    "to": 2011
-  },
-  {
-    "models": "Husaberg FE 570",
-    "from": 2009,
-    "to": 2011
-  },
-  {
-    "models": "Husaberg FX 450",
-    "from": 2010,
-    "to": 2011
+    "models": "Husaberg FE 501",
+    "from": 2013,
+    "to": ""
   },
   {
     "models": "Husaberg TE 250",
@@ -40,19 +45,54 @@
     "to": 2013
   },
   {
-    "models": "KTM EXC 125",
-    "from": 2009,
-    "to": 2012
+    "models": "KTM EXC 200",
+    "from": 2013,
+    "to": ""
   },
   {
-    "models": "KTM EXC 300",
+    "models": "KTM EXC 250",
     "from": 2010,
     "to": 2013
   },
   {
-    "models": "KTM EXC 500",
+    "models": "KTM EXC 250 Six Days",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 350F",
     "from": 2012,
-    "to": ""
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 400",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 450 Six Days",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 500 Six Days",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2012,
+    "to": 2013
   },
   {
     "models": "KTM EXC 530",
@@ -60,19 +100,19 @@
     "to": 2011
   },
   {
-    "models": "KTM EXC-F 250",
-    "from": 2011,
+    "models": "KTM EXC-F 250 Six Days",
+    "from": 2009,
     "to": 2013
   },
   {
-    "models": "KTM EXC-F 350",
-    "from": 2013,
-    "to": ""
+    "models": "KTM EXC-F 350 Six Days",
+    "from": 2012,
+    "to": 2016
   },
   {
-    "models": "KTM EXC-F 450",
-    "from": 2010,
-    "to": 2011
+    "models": "KTM SX 125",
+    "from": 2009,
+    "to": 2012
   },
   {
     "models": "KTM SX 150",
@@ -85,18 +125,103 @@
     "to": 2013
   },
   {
-    "models": "KTM SX-F 250",
+    "models": "KTM SX 250F",
     "from": 2009,
     "to": 2013
   },
   {
-    "models": "KTM SX-F 350",
+    "models": "KTM SX 350F",
     "from": 2011,
     "to": 2013
   },
   {
-    "models": "KTM SX-F 450",
+    "models": "KTM SX 450F",
     "from": 2009,
-    "to": 2012
+    "to": 2013
+  },
+  {
+    "models": "KTM SX-F 450 Factory Edition",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 150",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 200W",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC-F 250",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC-F 350",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC-F 450",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-FW 250",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC-FW 350",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC-W 400",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-W 450",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC-W 450 Six Days",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM XC-W 500",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC-W 530 Six Days",
+    "from": 2010,
+    "to": 2011
   }
 ]
