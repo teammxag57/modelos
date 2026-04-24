@@ -21,8 +21,8 @@
   },
   {
     "models": "Husaberg 550F",
-    "from": "",
-    "to": 2007
+    "from": 2007,
+    "to": ""
   },
   {
     "models": "Husaberg 550FE",
