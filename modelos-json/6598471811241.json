@@ -1,48 +1,68 @@
 [
   {
-    "models": "Beta RR 2T 125",
+    "models": "Beta RR 125",
     "from": 2019,
     "to": 2024
   },
   {
-    "models": "Beta RR 2T 125 Race",
+    "models": "Beta RR 125R",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Beta RR 2T 200",
+    "models": "Beta RR 200",
     "from": 2019,
     "to": 2024
   },
   {
-    "models": "Beta RR 2T 200 Race",
+    "models": "Beta RR 200R",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Beta RR 2T 250",
+    "models": "Beta RR 250",
     "from": 2013,
     "to": 2024
   },
   {
-    "models": "Beta RR 2T 250 Race",
+    "models": "Beta RR 250R",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Beta RR 2T 300",
+    "models": "Beta RR 300",
     "from": 2013,
     "to": 2024
   },
   {
-    "models": "Beta RR 2T 300 Race",
+    "models": "Beta RR 300R",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Beta RX 2T 300",
+    "models": "Beta RR X-PRO 125",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-PRO 200",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-PRO 250",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-PRO 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RX 300",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Husaberg TE250",
@@ -107,7 +127,17 @@
   {
     "models": "KTM EXC 125",
     "from": 1998,
-    "to": 2009
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 125 Factory Edition",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 125 Six Days",
+    "from": 2014,
+    "to": 2016
   },
   {
     "models": "KTM EXC 200",
@@ -120,9 +150,9 @@
     "to": 2016
   },
   {
-    "models": "KTM EXC 250 Racing",
-    "from": 2001,
-    "to": 2006
+    "models": "KTM EXC 250 Factory Edition",
+    "from": 2015,
+    "to": ""
   },
   {
     "models": "KTM EXC 250 Racing Six Days",
@@ -133,6 +163,11 @@
     "models": "KTM EXC 250 Six Days",
     "from": 2005,
     "to": 2008
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2001,
+    "to": 2006
   },
   {
     "models": "KTM EXC 300",
@@ -260,7 +295,17 @@
     "to": 2009
   },
   {
+    "models": "KTM XC 200W",
+    "from": 2006,
+    "to": 2016
+  },
+  {
     "models": "KTM XC 250",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 250W",
     "from": 2006,
     "to": 2016
   },
@@ -270,24 +315,14 @@
     "to": 2016
   },
   {
+    "models": "KTM XC 300W",
+    "from": 2006,
+    "to": 2016
+  },
+  {
     "models": "KTM XC 85",
     "from": 2008,
     "to": 2009
-  },
-  {
-    "models": "KTM XC-W 200",
-    "from": 2006,
-    "to": 2016
-  },
-  {
-    "models": "KTM XC-W 250",
-    "from": 2006,
-    "to": 2016
-  },
-  {
-    "models": "KTM XC-W 300",
-    "from": 2006,
-    "to": 2016
   },
   {
     "models": "KTM XC-W 300 Six Days",
