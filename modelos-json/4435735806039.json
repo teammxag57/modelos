@@ -33,5 +33,10 @@
     "models": "KTM XC-F 250",
     "from": 2016,
     "to": 2022
+  },
+  {
+    "models": "KTM Freeride 250F",
+    "from": 2018,
+    "to": 2019
   }
 ]
