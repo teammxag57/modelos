@@ -1,31 +1,51 @@
 [
   {
-    "models": "Husaberg FC 450",
+    "models": "Husaberg 450FC",
     "from": 2005,
     "to": ""
   },
   {
-    "models": "Husaberg FE 450",
+    "models": "Husaberg 450FE",
     "from": 2005,
     "to": 2008
   },
   {
-    "models": "Husaberg FE 550",
-    "from": 2007,
-    "to": 2008
-  },
-  {
-    "models": "Husaberg FE 650",
-    "from": 2005,
-    "to": 2008
-  },
-  {
-    "models": "Husaberg FS 450",
+    "models": "Husaberg 450FS-C",
     "from": 2005,
     "to": 2006
   },
   {
-    "models": "Husaberg FS-E 450",
+    "models": "Husaberg 450FS-E",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg 550F",
+    "from": "",
+    "to": 2007
+  },
+  {
+    "models": "Husaberg 550FE",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg 650FC",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "Husaberg 650FE",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg 650FS-C",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg 650FS-E",
     "from": 2005,
     "to": 2008
   },
@@ -42,12 +62,22 @@
   {
     "models": "KTM EXC 200",
     "from": 2005,
-    "to": ""
+    "to": 2016
   },
   {
     "models": "KTM EXC 250",
-    "from": 2008,
-    "to": ""
+    "from": 2006,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 250 Six Days",
+    "from": 2006,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 400",
+    "from": 2009,
+    "to": 2011
   },
   {
     "models": "KTM EXC 525",
@@ -55,7 +85,7 @@
     "to": 2007
   },
   {
-    "models": "KTM EXC-G 250 R",
+    "models": "KTM EXC-G 250 Racing",
     "from": 2005,
     "to": ""
   },
@@ -75,6 +105,46 @@
     "to": ""
   },
   {
+    "models": "KTM MXC-G 450",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM MXC-G 525",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM SMC 625",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM SMR 450",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "KTM SMR 525",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM SMR 560",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM Super Enduro 950 R",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM Supermoto 950",
+    "from": 2005,
+    "to": 2006
+  },
+  {
     "models": "KTM SX 125",
     "from": 2005,
     "to": 2007
@@ -85,18 +155,108 @@
     "to": 2007
   },
   {
+    "models": "KTM SX 250F",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX 450",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2007,
+    "to": ""
+  },
+  {
     "models": "KTM SX 525",
     "from": 2005,
     "to": 2006
   },
   {
-    "models": "KTM SX-F 250",
+    "models": "KTM SXC 625",
     "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM SXS 540",
+    "from": 2005,
+    "to": 2006
+  },
+  {
+    "models": "KTM XC 200",
+    "from": 2006,
     "to": 2007
   },
   {
-    "models": "KTM SX-F 450",
-    "from": 2005,
+    "models": "KTM XC 200W",
+    "from": 2006,
     "to": 2007
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "KTM XC 450",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 525",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC-F 250",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-FW 250",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "KTM XC-W 300 Six Days",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC-W 400",
+    "from": 2007,
+    "to": 2010
+  },
+  {
+    "models": "KTM XC-W 450",
+    "from": 2007,
+    "to": 2011
+  },
+  {
+    "models": "KTM XC-W 450 Six Days",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM XC-W 525",
+    "from": 2007,
+    "to": ""
   }
 ]
