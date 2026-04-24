@@ -7,12 +7,12 @@
   {
     "models": "Gasgas EC 300",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Gasgas EC 300 GP",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Gasgas EX 250",
@@ -22,12 +22,12 @@
   {
     "models": "Gasgas EX 300",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Gasgas MC 250",
-    "from": 2023,
-    "to": 2025
+    "from": 2022,
+    "to": 2026
   },
   {
     "models": "Gasgas MC 300",
@@ -35,19 +35,19 @@
     "to": ""
   },
   {
-    "models": "Husaberg TE 250",
+    "models": "Husaberg TE250",
     "from": 2011,
     "to": 2014
   },
   {
-    "models": "Husaberg TE 300",
+    "models": "Husaberg TE300",
     "from": 2011,
     "to": 2014
   },
   {
     "models": "Husqvarna TC 250",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 250 Heritage Edition",
@@ -67,7 +67,12 @@
   {
     "models": "Husqvarna TE 250",
     "from": 2014,
-    "to": 2025
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2018,
+    "to": 2022
   },
   {
     "models": "Husqvarna TE 250 Heritage Edition",
@@ -75,14 +80,14 @@
     "to": 2025
   },
   {
-    "models": "Husqvarna TE 250i",
-    "from": 2018,
-    "to": 2022
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 300",
-    "from": 2014,
-    "to": 2025
+    "from": 2019,
+    "to": 2023
   },
   {
     "models": "Husqvarna TE 300 Heritage Edition",
@@ -92,12 +97,7 @@
   {
     "models": "Husqvarna TE 300 Pro",
     "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna TE 300i",
-    "from": 2019,
-    "to": 2023
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 300i Rockstar Edition",
@@ -107,7 +107,7 @@
   {
     "models": "Husqvarna TX 300",
     "from": 2017,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TX 300 Heritage Edition",
@@ -125,6 +125,11 @@
     "to": 2025
   },
   {
+    "models": "KTM EXC 250",
+    "from": 2020,
+    "to": 2021
+  },
+  {
     "models": "KTM EXC 250 Champion Edition",
     "from": 2025,
     "to": ""
@@ -135,24 +140,24 @@
     "to": 2025
   },
   {
-    "models": "KTM EXC 250 TPI",
-    "from": 2020,
-    "to": 2021
-  },
-  {
     "models": "KTM EXC 250 TPI Six Days",
-    "from": 2020,
+    "from": 2019,
     "to": 2021
   },
   {
     "models": "KTM EXC 300",
     "from": 2004,
-    "to": 2025
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2018,
+    "to": 2022
   },
   {
     "models": "KTM EXC 300 Champion Edition",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "KTM EXC 300 ERZBERGRODEO",
@@ -162,17 +167,12 @@
   {
     "models": "KTM EXC 300 HARDENDURO",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM EXC 300 Six Days",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "KTM EXC 300 TPI",
-    "from": 2018,
-    "to": 2022
+    "from": 2017,
+    "to": 2026
   },
   {
     "models": "KTM EXC 300 TPI ERZBERGRODEO",
@@ -181,7 +181,7 @@
   },
   {
     "models": "KTM EXC 300 TPI Six Days",
-    "from": 2020,
+    "from": 2018,
     "to": 2022
   },
   {
@@ -197,12 +197,12 @@
   {
     "models": "KTM SX 250",
     "from": 2003,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SX 300",
     "from": 2023,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM SXS 250",
@@ -212,47 +212,42 @@
   {
     "models": "KTM XC 250",
     "from": 2006,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM XC 250 TPI",
+    "models": "KTM XC 250",
     "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2006,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2018,
     "to": 2022
   },
   {
     "models": "KTM XC 300",
     "from": 2006,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM XC 300 TPI",
+    "models": "KTM XC 300",
     "from": 2020,
     "to": 2022
   },
   {
-    "models": "KTM XC-W 250",
+    "models": "KTM XC 300W",
     "from": 2006,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM XC-W 250",
-    "from": 2006,
-    "to": 2016
-  },
-  {
-    "models": "KTM XC-W 250 TPI",
-    "from": 2018,
-    "to": 2022
-  },
-  {
-    "models": "KTM XC-W 300",
-    "from": 2006,
-    "to": 2025
-  },
-  {
-    "models": "KTM XC-W 300",
-    "from": 2006,
-    "to": 2016
+    "models": "KTM XC 300W",
+    "from": 2019,
+    "to": 2023
   },
   {
     "models": "KTM XC-W 300 Champion Edition",
@@ -267,22 +262,12 @@
   {
     "models": "KTM XC-W 300 HARDENDURO",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM XC-W 300 Six Days",
     "from": 2014,
     "to": 2018
-  },
-  {
-    "models": "KTM XC-W 300 Six Days",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "KTM XC-W 300 TPI",
-    "from": 2019,
-    "to": 2023
   },
   {
     "models": "KTM XC-W 300 TPI ERZBERGRODEO",
