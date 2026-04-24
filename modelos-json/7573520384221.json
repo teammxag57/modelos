@@ -1,7 +1,22 @@
 [
   {
+    "models": "Gasgas HALLEY 450 EH",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "Gasgas HALLEY 450 SM",
+    "from": 2009,
+    "to": ""
+  },
+  {
     "models": "Kawasaki KLX 400R",
     "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX 400R NON CA MODELS PUMPER CARB",
+    "from": 2004,
     "to": ""
   },
   {
@@ -35,6 +50,16 @@
     "to": 2004
   },
   {
+    "models": "Suzuki DRZ 400S",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Suzuki DRZ 400SM",
+    "from": 2025,
+    "to": ""
+  },
+  {
     "models": "Suzuki RM 125",
     "from": 1996,
     "to": 2000
@@ -45,18 +70,28 @@
     "to": 2000
   },
   {
-    "models": "Suzuki RMZ 250",
+    "models": "Suzuki RM 250Z",
     "from": 2004,
     "to": 2006
   },
   {
-    "models": "Yamaha YFM 90 Grizzly",
-    "from": 2019,
-    "to": 2022
+    "models": "Yamaha YFM110 Grizzly",
+    "from": 2025,
+    "to": ""
   },
   {
-    "models": "Yamaha YFM 90 Raptor",
+    "models": "Yamaha YFM110 Raptor",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha YFM90 Grizzly",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YFM90 Raptor",
     "from": 2016,
-    "to": 2022
+    "to": 2023
   }
 ]
