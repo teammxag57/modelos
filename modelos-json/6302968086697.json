@@ -1,21 +1,21 @@
 [
   {
-    "models": "Husqvarna FC 250",
+    "models": "Husqvarna FC 250F",
     "from": 2014,
     "to": 2015
   },
   {
-    "models": "KTM 250 EXC-F SIX DAYS",
+    "models": "KTM EXC 250F SIX DAYS",
     "from": 2014,
     "to": ""
   },
   {
-    "models": "KTM 250 SX-F",
+    "models": "KTM SX 250F",
     "from": 2013,
     "to": 2015
   },
   {
-    "models": "KTM 250 XC-F",
+    "models": "KTM XC-F 250",
     "from": 2013,
     "to": 2015
   }
