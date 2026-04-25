@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Husqvarna FC 450F",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 450",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 500",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM XC 450F",
+    "from": 2013,
+    "to": 2015
+  }
+]
