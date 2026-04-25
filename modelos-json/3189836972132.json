@@ -1,51 +1,61 @@
 [
   {
-    "models": "Fantic XE 125 2T Enduro",
+    "models": "Fantic XE 125",
     "from": 2020,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Fantic XE 300 2T/Enduro",
+    "models": "Fantic XE 300",
     "from": 2024,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Fantic XEF 250 4T",
+    "models": "Fantic XEF 250",
     "from": 2021,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Fantic XEF 300 4T Enduro",
+    "models": "Fantic XEF 310",
     "from": 2024,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Fantic XEF 450 4T",
+    "models": "Fantic XEF 450",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Fantic XEF 450 Rally",
     "from": 2023,
-    "to": 2024
+    "to": 2025
   },
   {
-    "models": "Fantic XEF 450 4T Enduro",
-    "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "Fantic XX 125 2T",
+    "models": "Fantic XX 125",
     "from": 2020,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Fantic XXF 450 4T",
+    "models": "Fantic XX 250",
+    "from": 2020,
+    "to": 2026
+  },
+  {
+    "models": "Fantic XXF 250",
     "from": 2022,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Yamaha WR 250 F",
+    "models": "Fantic XXF 450",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha WR 250F",
     "from": 2018,
     "to": 2021
   },
   {
-    "models": "Yamaha WR 450 F",
+    "models": "Yamaha WR 450F",
     "from": 2017,
     "to": 2020
   },
@@ -55,7 +65,7 @@
     "to": 2021
   },
   {
-    "models": "Yamaha YZ 125 X",
+    "models": "Yamaha YZ 125X",
     "from": 2020,
     "to": 2022
   },
@@ -65,27 +75,27 @@
     "to": 2021
   },
   {
-    "models": "Yamaha YZ 250 F",
+    "models": "Yamaha YZ 250F",
     "from": 2007,
     "to": 2020
   },
   {
-    "models": "Yamaha YZ 250 FX",
+    "models": "Yamaha YZ 250FX",
     "from": 2015,
     "to": 2021
   },
   {
-    "models": "Yamaha YZ 250 X",
+    "models": "Yamaha YZ 250X",
     "from": 2016,
     "to": 2022
   },
   {
-    "models": "Yamaha YZ 450 F",
+    "models": "Yamaha YZ 450F",
     "from": 2008,
     "to": 2019
   },
   {
-    "models": "Yamaha YZ 450 FX",
+    "models": "Yamaha YZ 450FX",
     "from": 2016,
     "to": 2020
   }
