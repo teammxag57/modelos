@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Gasgas EC 250",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EC 350",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "Gasgas EX 300",
+    "from": 2021,
+    "to": 2023
+  }
+]
