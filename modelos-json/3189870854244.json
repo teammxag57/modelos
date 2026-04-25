@@ -280,7 +280,7 @@
     "to": 2025
   },
   {
-    "models": "Gasgas EX 300 2T",
+    "models": "Gasgas EX 300",
     "from": 2021,
     "to": 2025
   },
@@ -335,9 +335,9 @@
     "to": 2025
   },
   {
-    "models": "Gasgas MC 300 2T",
+    "models": "Gasgas MC 300",
     "from": 2025,
-    "to": 2025
+    "to": ""
   },
   {
     "models": "Gasgas MC 350F",
