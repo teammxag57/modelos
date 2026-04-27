@@ -1,16 +1,16 @@
 [
   {
-    "models": "Gas Gas 125 MC",
+    "models": "Gasgas MC 125",
     "from": 2020,
     "to": 2021
   },
   {
-    "models": "Gas Gas 250 EC",
+    "models": "Gasgas EC 250",
     "from": 2018,
     "to": 2024
   },
   {
-    "models": "Gas Gas 250 EC (F)",
+    "models": "Gasgas EC 250F",
     "from": 2020,
     "to": 2024
   },
@@ -20,7 +20,7 @@
     "to": 2024
   },
   {
-    "models": "Gas Gas 450 MC F",
+    "models": "Gasgas MC 450F",
     "from": 2020,
     "to": 2024
   },
