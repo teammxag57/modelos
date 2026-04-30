@@ -1,0 +1,82 @@
+[
+  {
+    "models": "KTM 125 EGS 6KW",
+    "from": 1998,
+    "to": ""
+  },
+  {
+    "models": "KTM 200 EGS 8kW",
+    "from": 1998,
+    "to": ""
+  },
+  {
+    "models": "KTM 200 EXC - GS",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM 250 EGS",
+    "from": 1998,
+    "to": ""
+  },
+  {
+    "models": "KTM 300 EGS",
+    "from": 1998,
+    "to": ""
+  },
+  {
+    "models": "KTM 380 EGS 8kW",
+    "from": 1998,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 1998,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 1998,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 1998,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1998,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 380",
+    "from": 1998,
+    "to": 2001
+  },
+  {
+    "models": "KTM EXC 400F",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 520F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 525F",
+    "from": 2003,
+    "to": 2007
+  }
+]
