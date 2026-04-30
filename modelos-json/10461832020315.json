@@ -1,0 +1,117 @@
+[
+  {
+    "models": "Husqvarna FE 250F",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FE 350F",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FE 390",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FE 501F",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FE 570",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna FX 450F",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 400F",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 530F",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 530R",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2011,
+    "to": 2013
+  }
+]
