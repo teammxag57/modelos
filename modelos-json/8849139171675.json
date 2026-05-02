@@ -98,5 +98,10 @@
     "models": "Rieju MR Racing 300",
     "from": 2021,
     "to": 2024
+  },
+  {
+    "models": "Gasgas EC 250",
+    "from": 2012,
+    "to": 2019
   }
 ]
