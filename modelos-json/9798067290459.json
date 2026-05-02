@@ -10,22 +10,62 @@
     "to": 2026
   },
   {
+    "models": "KTM EXC 125",
+    "from": 1993,
+    "to": 1997
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 520F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 520F",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM Freeride 250R",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "KTM Freeride 350F",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "KTM Freeride E-SX",
+    "from": 2015,
+    "to": 2023
+  },
+  {
+    "models": "KTM LC4 400",
+    "from": 1998,
+    "to": 2001
+  },
+  {
+    "models": "KTM LC4 640",
+    "from": 1994,
+    "to": 2007
+  },
+  {
     "models": "KTM SX 105",
     "from": 2004,
     "to": 2011
   },
   {
-    "models": "KTM SX 85",
-    "from": 2003,
-    "to": 2026
-  },
-  {
     "models": "KTM SX 125",
-    "from": 1993,
-    "to": 1997
-  },
-  {
-    "models": "KTM EXC 125",
     "from": 1993,
     "to": 1997
   },
@@ -35,37 +75,7 @@
     "to": 1995
   },
   {
-    "models": "KTM Freeride E-SX",
-    "from": 2015,
-    "to": 2023
-  },
-  {
-    "models": "KTM Freeride 250R",
-    "from": 2015,
-    "to": 2017
-  },
-  {
-    "models": "KTM EXC 300",
-    "from": 1994,
-    "to": 1995
-  },
-  {
-    "models": "KTM Freeride 350F",
-    "from": 2015,
-    "to": ""
-  },
-  {
-    "models": "KTM LC4 400",
-    "from": 1998,
-    "to": 2001
-  },
-  {
     "models": "KTM SX 450F",
-    "from": 2003,
-    "to": ""
-  },
-  {
-    "models": "KTM EXC 450F",
     "from": 2003,
     "to": ""
   },
@@ -75,23 +85,13 @@
     "to": 2002
   },
   {
-    "models": "KTM EXC 520F",
-    "from": 2000,
-    "to": 2002
-  },
-  {
     "models": "KTM SX 525F",
     "from": 2003,
     "to": ""
   },
   {
-    "models": "KTM EXC 520F",
+    "models": "KTM SX 85",
     "from": 2003,
-    "to": ""
-  },
-  {
-    "models": "KTM LC4 640",
-    "from": 1994,
-    "to": 2007
+    "to": 2026
   }
 ]
