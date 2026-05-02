@@ -33,5 +33,25 @@
     "models": "KTM SX 250",
     "from": 2003,
     "to": 2016
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2006,
+    "to": 2016
   }
 ]
