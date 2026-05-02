@@ -10,6 +10,11 @@
     "to": ""
   },
   {
+    "models": "Gasgas EX 250",
+    "from": 2012,
+    "to": 2019
+  },
+  {
     "models": "Gasgas EX 300",
     "from": 2019,
     "to": ""
@@ -98,10 +103,5 @@
     "models": "Rieju MR Racing 300",
     "from": 2021,
     "to": 2024
-  },
-  {
-    "models": "Gasgas EX 250",
-    "from": 2012,
-    "to": 2019
   }
 ]
