@@ -5,8 +5,18 @@
     "to": 2022
   },
   {
+    "models": "Beta RR 125R",
+    "from": 2019,
+    "to": 2022
+  },
+  {
     "models": "Beta RR 200",
     "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "Beta RR 200R",
+    "from": 2021,
     "to": 2022
   },
   {
@@ -15,9 +25,14 @@
     "to": 2022
   },
   {
-    "models": "Beta RR 250 4T",
+    "models": "Beta RR 250F",
     "from": 2005,
     "to": 2007
+  },
+  {
+    "models": "Beta RR 250R",
+    "from": 2015,
+    "to": 2022
   },
   {
     "models": "Beta RR 300",
@@ -25,48 +40,73 @@
     "to": 2022
   },
   {
-    "models": "Beta RR 350",
+    "models": "Beta RR 300R",
+    "from": 2015,
+    "to": 2022
+  },
+  {
+    "models": "Beta RR 350F",
     "from": 2011,
     "to": 2022
   },
   {
-    "models": "Beta RR 390",
+    "models": "Beta RR 350FR",
     "from": 2015,
     "to": 2022
   },
   {
-    "models": "Beta RR 400",
+    "models": "Beta RR 390F",
+    "from": 2015,
+    "to": 2022
+  },
+  {
+    "models": "Beta RR 390FR",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Beta RR 400F",
     "from": 2005,
     "to": 2014
   },
   {
-    "models": "Beta RR 430",
+    "models": "Beta RR 430F",
     "from": 2015,
     "to": 2022
   },
   {
-    "models": "Beta RR 450",
-    "from": 2005,
-    "to": 2014
-  },
-  {
-    "models": "Beta RR 480",
+    "models": "Beta RR 430FR",
     "from": 2015,
     "to": 2022
   },
   {
-    "models": "Beta RR 498",
+    "models": "Beta RR 480F",
+    "from": 2015,
+    "to": 2022
+  },
+  {
+    "models": "Beta RR 480FR",
+    "from": 2015,
+    "to": 2022
+  },
+  {
+    "models": "Beta RR 498F",
     "from": 2012,
     "to": 2014
   },
   {
-    "models": "Beta RR 520",
+    "models": "Beta RR 500F",
+    "from": 2017,
+    "to": 2022
+  },
+  {
+    "models": "Beta RR 520F",
     "from": 2010,
     "to": 2011
   },
   {
-    "models": "Beta RR 525",
-    "from": 2005,
+    "models": "Beta RR 525F",
+    "from": 2006,
     "to": 2009
   },
   {
