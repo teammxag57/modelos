@@ -32,7 +32,12 @@
   {
     "models": "KTM EXC 250",
     "from": 2004,
-    "to": 2005
+    "to": 2010
+  },
+  {
+    "models": "KTM EXC 250 Six Days",
+    "from": 2005,
+    "to": 2010
   },
   {
     "models": "KTM EXC 300",
@@ -40,8 +45,13 @@
     "to": 2005
   },
   {
+    "models": "KTM EXC-F 250 Six Days",
+    "from": 2014,
+    "to": 2016
+  },
+  {
     "models": "KTM FREERIDE 250 R",
-    "from": 2015,
+    "from": 2014,
     "to": 2017
   },
   {
@@ -65,23 +75,23 @@
     "to": 2016
   },
   {
+    "models": "KTM XC 250W",
+    "from": 2006,
+    "to": 2016
+  },
+  {
     "models": "KTM XC 300",
     "from": 2006,
     "to": 2016
   },
   {
-    "models": "KTM XC-W 250",
-    "from": 2006,
-    "to": 2016
-  },
-  {
-    "models": "KTM XC-W 300",
+    "models": "KTM XC 300W",
     "from": 2006,
     "to": 2016
   },
   {
     "models": "KTM XC-W 300 Six Days",
-    "from": 2015,
+    "from": 2014,
     "to": 2016
   }
 ]
