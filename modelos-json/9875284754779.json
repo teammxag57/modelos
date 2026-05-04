@@ -5,7 +5,7 @@
     "to": 2014
   },
   {
-    "models": "Husaberg TE 125",
+    "models": "Husaberg TE 250",
     "from": 2011,
     "to": 2014
   },
@@ -30,18 +30,38 @@
     "to": 2016
   },
   {
-    "models": "KTM EXC 250",
-    "from": 2006,
-    "to": 2016
-  },
-  {
     "models": "KTM EXC 300",
     "from": 2006,
-    "to": 2016
+    "to": 2008
   },
   {
     "models": "KTM SX 250",
     "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 300 Six Days",
+    "from": 2014,
     "to": 2016
   }
 ]
