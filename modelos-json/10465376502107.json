@@ -1,7 +1,32 @@
 [
   {
-    "models": "AJP PR7 650",
-    "from": 2025,
-    "to": 2026
+    "models": "AJP PR4 125",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "AJP PR4 200",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "AJP PR4 240",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Husaberg FC 400",
+    "from": 1997,
+    "to": 1999
+  },
+  {
+    "models": "Husaberg FC 501",
+    "from": 1997,
+    "to": 1999
+  },
+  {
+    "models": "Husaberg FC 600",
+    "from": 1997,
+    "to": 1999
   }
 ]
