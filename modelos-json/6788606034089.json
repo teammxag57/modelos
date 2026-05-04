@@ -230,16 +230,6 @@
     "to": 2025
   },
   {
-    "models": "CF-Moto 800 NK",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "CF-Moto IBEX 80",
-    "from": "",
-    "to": 2025
-  },
-  {
     "models": "Gasgas EC 125",
     "from": 2025,
     "to": ""
@@ -385,21 +375,6 @@
     "to": 2024
   },
   {
-    "models": "Husaberg 390FE",
-    "from": 2010,
-    "to": 2011
-  },
-  {
-    "models": "Husaberg 450FC",
-    "from": 2004,
-    "to": 2005
-  },
-  {
-    "models": "Husaberg 450FE",
-    "from": 2004,
-    "to": 2011
-  },
-  {
     "models": "Husaberg 450FS-C",
     "from": 2004,
     "to": 2006
@@ -410,44 +385,9 @@
     "to": 2008
   },
   {
-    "models": "Husaberg 450FX",
-    "from": 2010,
-    "to": 2011
-  },
-  {
     "models": "Husaberg 550F",
     "from": "",
     "to": 2007
-  },
-  {
-    "models": "Husaberg 550FC",
-    "from": 2004,
-    "to": 2005
-  },
-  {
-    "models": "Husaberg 550FE",
-    "from": 2004,
-    "to": 2008
-  },
-  {
-    "models": "Husaberg 570FE",
-    "from": 2009,
-    "to": 2011
-  },
-  {
-    "models": "Husaberg 570FS",
-    "from": 2010,
-    "to": 2011
-  },
-  {
-    "models": "Husaberg 650FC",
-    "from": 2004,
-    "to": 2005
-  },
-  {
-    "models": "Husaberg 650FE",
-    "from": 2004,
-    "to": 2008
   },
   {
     "models": "Husaberg 650FS-C",
@@ -460,9 +400,39 @@
     "to": 2008
   },
   {
+    "models": "Husaberg FC 450",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "Husaberg FC 550",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "Husaberg FC 650",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "Husaberg FE 250",
+    "from": 2013,
+    "to": 2014
+  },
+  {
     "models": "Husaberg FE 350",
     "from": 2013,
     "to": 2014
+  },
+  {
+    "models": "Husaberg FE 390",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg FE 450",
+    "from": 2004,
+    "to": 2011
   },
   {
     "models": "Husaberg FE 450",
@@ -475,17 +445,37 @@
     "to": 2014
   },
   {
-    "models": "Husaberg FE250",
-    "from": 2013,
-    "to": 2014
+    "models": "Husaberg FE 550",
+    "from": 2004,
+    "to": 2008
   },
   {
-    "models": "Husaberg TE250",
+    "models": "Husaberg FE 570",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg FE 650",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FS 570",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg FX 450",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg TE 250",
     "from": 2011,
     "to": 2014
   },
   {
-    "models": "Husaberg TE300",
+    "models": "Husaberg TE 300",
     "from": 2011,
     "to": 2014
   },
@@ -795,14 +785,14 @@
     "to": 2026
   },
   {
+    "models": "Husqvarna TX 300",
+    "from": 2020,
+    "to": 2022
+  },
+  {
     "models": "Husqvarna TX 300 Heritage Edition",
     "from": 2023,
     "to": 2025
-  },
-  {
-    "models": "Husqvarna TX 300i",
-    "from": 2020,
-    "to": 2022
   },
   {
     "models": "Husqvarna Vitpilen 701",
