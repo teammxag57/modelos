@@ -70,32 +70,7 @@
     "to": ""
   },
   {
-    "models": "Husaberg 390FE",
-    "from": 2010,
-    "to": 2011
-  },
-  {
-    "models": "Husaberg 450FE",
-    "from": 2009,
-    "to": 2011
-  },
-  {
-    "models": "Husaberg 450FX",
-    "from": 2010,
-    "to": 2011
-  },
-  {
-    "models": "Husaberg 570FE",
-    "from": 2009,
-    "to": 2011
-  },
-  {
-    "models": "Husaberg 570FS",
-    "from": 2010,
-    "to": 2011
-  },
-  {
-    "models": "Husaberg FE250",
+    "models": "Husaberg FE 250",
     "from": 2013,
     "to": 2014
   },
@@ -103,6 +78,16 @@
     "models": "Husaberg FE 350",
     "from": 2013,
     "to": 2014
+  },
+  {
+    "models": "Husaberg FE 390",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg FE 450",
+    "from": 2009,
+    "to": 2011
   },
   {
     "models": "Husaberg FE 450",
@@ -115,12 +100,27 @@
     "to": 2014
   },
   {
-    "models": "Husaberg TE250",
+    "models": "Husaberg FE 570",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg FS 570",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg FX 450",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg TE 250",
     "from": 2011,
     "to": 2014
   },
   {
-    "models": "Husaberg TE300",
+    "models": "Husaberg TE 300",
     "from": 2011,
     "to": 2014
   },
@@ -128,16 +128,6 @@
     "models": "Husqvarna FC 250",
     "from": 2015,
     "to": ""
-  },
-  {
-    "models": "Husqvarna FC 250F",
-    "from": 2014,
-    "to": 2026
-  },
-  {
-    "models": "Husqvarna FC 250F Factory Edition",
-    "from": 2025,
-    "to": 2026
   },
   {
     "models": "Husqvarna FC 250 Heritage Edition",
@@ -150,9 +140,14 @@
     "to": 2024
   },
   {
-    "models": "Husqvarna FC 350F",
+    "models": "Husqvarna FC 250F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FC 250F Factory Edition",
+    "from": 2025,
+    "to": 2026
   },
   {
     "models": "Husqvarna FC 350 Heritage Edition",
@@ -160,19 +155,14 @@
     "to": 2025
   },
   {
+    "models": "Husqvarna FC 350F",
+    "from": 2014,
+    "to": 2025
+  },
+  {
     "models": "Husqvarna FC 450",
     "from": 2015,
     "to": ""
-  },
-  {
-    "models": "Husqvarna FC 450F",
-    "from": 2014,
-    "to": 2026
-  },
-  {
-    "models": "Husqvarna FC 450F Factory Edition",
-    "from": 2025,
-    "to": 2026
   },
   {
     "models": "Husqvarna FC 450 Heritage Edition",
@@ -185,18 +175,28 @@
     "to": 2024
   },
   {
-    "models": "Husqvarna FE 250F",
+    "models": "Husqvarna FC 450F",
     "from": 2014,
     "to": 2026
   },
   {
-    "models": "Husqvarna FE 350F",
+    "models": "Husqvarna FC 450F Factory Edition",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FE 250F",
     "from": 2014,
     "to": 2026
   },
   {
     "models": "Husqvarna FE 350 Pro",
     "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FE 350F",
+    "from": 2014,
     "to": 2026
   },
   {
@@ -220,14 +220,14 @@
     "to": ""
   },
   {
-    "models": "Husqvarna FE 501F",
-    "from": 2014,
-    "to": 2026
-  },
-  {
     "models": "Husqvarna FE 501 Heritage Edition",
     "from": 2025,
     "to": ""
+  },
+  {
+    "models": "Husqvarna FE 501F",
+    "from": 2014,
+    "to": 2026
   },
   {
     "models": "Husqvarna FE 501s",
@@ -250,24 +250,24 @@
     "to": 2026
   },
   {
-    "models": "Husqvarna FX 350F",
-    "from": 2022,
-    "to": 2026
-  },
-  {
     "models": "Husqvarna FX 350 Heritage Edition",
     "from": 2023,
     "to": 2025
   },
   {
-    "models": "Husqvarna FX 450F",
-    "from": 2017,
-    "to": 2025
+    "models": "Husqvarna FX 350F",
+    "from": 2022,
+    "to": 2026
   },
   {
     "models": "Husqvarna FX 450 Heritage Edition",
     "from": 2025,
     "to": ""
+  },
+  {
+    "models": "Husqvarna FX 450F",
+    "from": 2017,
+    "to": 2025
   },
   {
     "models": "Husqvarna TC 125",
@@ -335,14 +335,14 @@
     "to": 2026
   },
   {
+    "models": "Husqvarna TX 300",
+    "from": 2022,
+    "to": ""
+  },
+  {
     "models": "Husqvarna TX 300 Heritage Edition",
     "from": 2023,
     "to": 2025
-  },
-  {
-    "models": "Husqvarna TX 300i",
-    "from": 2022,
-    "to": ""
   },
   {
     "models": "KTM EXC 125",
@@ -385,6 +385,16 @@
     "to": 2025
   },
   {
+    "models": "KTM EXC 250F",
+    "from": 2006,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 250F Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
     "models": "KTM EXC 300",
     "from": 2004,
     "to": 2026
@@ -395,12 +405,12 @@
     "to": 2026
   },
   {
-    "models": "#N/D",
+    "models": "KTM EXC 300 E",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "#N/D",
+    "models": "KTM EXC 300 E Six Days",
     "from": 2010,
     "to": 2011
   },
@@ -420,14 +430,19 @@
     "to": 2026
   },
   {
+    "models": "KTM EXC 350F",
+    "from": 2012,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 350F Champion Edition",
+    "from": 2015,
+    "to": 2025
+  },
+  {
     "models": "KTM EXC 400",
     "from": 2009,
     "to": 2011
-  },
-  {
-    "models": "KTM EXC 450F",
-    "from": 2003,
-    "to": 2016
   },
   {
     "models": "KTM EXC 450 Factory Edition",
@@ -440,14 +455,39 @@
     "to": 2016
   },
   {
-    "models": "KTM EXC 500F",
-    "from": 2012,
+    "models": "KTM EXC 450F",
+    "from": 2003,
     "to": 2016
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 450F Champion Edition",
+    "from": 2025,
+    "to": ""
   },
   {
     "models": "KTM EXC 500 Six Days",
     "from": 2012,
     "to": 2016
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2024,
+    "to": 2026
   },
   {
     "models": "KTM EXC 525",
@@ -460,13 +500,8 @@
     "to": 2011
   },
   {
-    "models": "KTM EXC 250F",
-    "from": 2006,
-    "to": 2026
-  },
-  {
-    "models": "KTM EXC 250F Champion Edition",
-    "from": 2025,
+    "models": "KTM EXC 530R",
+    "from": 2008,
     "to": ""
   },
   {
@@ -475,37 +510,12 @@
     "to": 2026
   },
   {
-    "models": "KTM EXC 350F",
-    "from": 2012,
-    "to": 2026
-  },
-  {
-    "models": "KTM EXC 350F Champion Edition",
-    "from": 2015,
-    "to": 2025
-  },
-  {
     "models": "KTM EXC-F 350 Six Days",
     "from": 2012,
     "to": 2026
   },
   {
-    "models": "KTM EXC 450F",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "KTM EXC 450F Champion Edition",
-    "from": 2025,
-    "to": ""
-  },
-  {
     "models": "KTM EXC-F 450 Six Days",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "KTM EXC 500F",
     "from": 2024,
     "to": 2026
   },
@@ -533,16 +543,6 @@
     "models": "KTM EXC-G 450",
     "from": 2003,
     "to": 2007
-  },
-  {
-    "models": "KTM EXC 450F",
-    "from": 2008,
-    "to": ""
-  },
-  {
-    "models": "KTM EXC 530R",
-    "from": 2008,
-    "to": ""
   },
   {
     "models": "KTM MXC 300",
@@ -605,21 +605,6 @@
     "to": 2026
   },
   {
-    "models": "KTM SX 300",
-    "from": 2023,
-    "to": 2026
-  },
-  {
-    "models": "KTM SX 450",
-    "from": 2003,
-    "to": 2006
-  },
-  {
-    "models": "KTM SX 525",
-    "from": 2004,
-    "to": 2006
-  },
-  {
     "models": "KTM SX 250F",
     "from": 2005,
     "to": 2026
@@ -628,6 +613,31 @@
     "models": "KTM SX 250F Adamo Edition",
     "from": 2025,
     "to": ""
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2011,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 450",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2007,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 525",
+    "from": 2004,
+    "to": 2006
   },
   {
     "models": "KTM SX-F 250 Factory Edition",
@@ -643,16 +653,6 @@
     "models": "KTM SX-F 250 Troy Lee Designs",
     "from": 2021,
     "to": ""
-  },
-  {
-    "models": "KTM SX 350F",
-    "from": 2011,
-    "to": 2026
-  },
-  {
-    "models": "KTM SX 450F",
-    "from": 2007,
-    "to": 2026
   },
   {
     "models": "KTM SX-F 450 Cairoli",
@@ -705,9 +705,19 @@
     "to": 2025
   },
   {
+    "models": "KTM XC 125W",
+    "from": 2025,
+    "to": 2026
+  },
+  {
     "models": "KTM XC 150",
     "from": 2010,
     "to": 2014
+  },
+  {
+    "models": "KTM XC 150W",
+    "from": 2024,
+    "to": 2026
   },
   {
     "models": "KTM XC 200",
@@ -715,6 +725,11 @@
     "to": 2009
   },
   {
+    "models": "KTM XC 200W",
+    "from": 2006,
+    "to": 2016
+  },
+  {
     "models": "KTM XC 250",
     "from": 2006,
     "to": 2026
@@ -725,6 +740,11 @@
     "to": 2022
   },
   {
+    "models": "KTM XC 250W",
+    "from": 2006,
+    "to": 2026
+  },
+  {
     "models": "KTM XC 300",
     "from": 2006,
     "to": 2026
@@ -733,6 +753,11 @@
     "models": "KTM XC 300",
     "from": 2020,
     "to": 2022
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2006,
+    "to": 2026
   },
   {
     "models": "KTM XC 450",
@@ -803,31 +828,6 @@
     "models": "KTM XCR-W 530",
     "from": 2008,
     "to": ""
-  },
-  {
-    "models": "KTM XC 125W",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "KTM XC 150W",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "KTM XC 200W",
-    "from": 2006,
-    "to": 2016
-  },
-  {
-    "models": "KTM XC 250W",
-    "from": 2006,
-    "to": 2026
-  },
-  {
-    "models": "KTM XC 300W",
-    "from": 2006,
-    "to": 2026
   },
   {
     "models": "KTM XC-W 300 Champion Edition",
@@ -925,6 +925,11 @@
     "to": ""
   },
   {
+    "models": "Sherco SE 125",
+    "from": 2018,
+    "to": 2021
+  },
+  {
     "models": "Sherco SE 125 Factory",
     "from": 2021,
     "to": 2025
@@ -943,6 +948,11 @@
     "models": "Sherco SE 250",
     "from": 2013,
     "to": 2012
+  },
+  {
+    "models": "Sherco SE 250",
+    "from": 2014,
+    "to": 2022
   },
   {
     "models": "Sherco SE 250 Factory",
@@ -965,29 +975,14 @@
     "to": 2012
   },
   {
+    "models": "Sherco SE 300",
+    "from": 2014,
+    "to": 2022
+  },
+  {
     "models": "Sherco SE 300 Factory",
     "from": 2021,
     "to": 2025
-  },
-  {
-    "models": "Sherco SEF 250 Factory",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Sherco SEF 300 Factory",
-    "from": 2024,
-    "to": 2025
-  },
-  {
-    "models": "Sherco SEF 450 Factory",
-    "from": 2023,
-    "to": 2025
-  },
-  {
-    "models": "Sherco SEF 250",
-    "from": 2014,
-    "to": 2018
   },
   {
     "models": "Sherco SE F-R 250 Factory",
@@ -1000,11 +995,6 @@
     "to": ""
   },
   {
-    "models": "Sherco SEF 300",
-    "from": 2014,
-    "to": 2018
-  },
-  {
     "models": "Sherco SE F-R 300 Factory",
     "from": 2016,
     "to": 2023
@@ -1013,11 +1003,6 @@
     "models": "Sherco SE F-R 300 Six Days",
     "from": 2018,
     "to": ""
-  },
-  {
-    "models": "Sherco SEF 450",
-    "from": 2015,
-    "to": 2021
   },
   {
     "models": "Sherco SE F-R 450 Factory",
@@ -1030,24 +1015,44 @@
     "to": ""
   },
   {
+    "models": "Sherco SEF 250",
+    "from": 2014,
+    "to": 2018
+  },
+  {
+    "models": "Sherco SEF 250 Factory",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SEF 300",
+    "from": 2014,
+    "to": 2018
+  },
+  {
+    "models": "Sherco SEF 300 Factory",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Sherco SEF 450",
+    "from": 2015,
+    "to": 2021
+  },
+  {
+    "models": "Sherco SEF 450 Factory",
+    "from": 2023,
+    "to": 2025
+  },
+  {
     "models": "Sherco SEF 500 Factory",
     "from": 2021,
     "to": 2025
   },
   {
-    "models": "Sherco SE 125",
-    "from": 2018,
-    "to": 2021
-  },
-  {
     "models": "Sherco SE-R 125 Six Days",
     "from": 2018,
     "to": ""
-  },
-  {
-    "models": "Sherco SE 250",
-    "from": 2014,
-    "to": 2022
   },
   {
     "models": "Sherco SE-R 250 Factory",
@@ -1058,11 +1063,6 @@
     "models": "Sherco SE-R 250 Six Days",
     "from": 2018,
     "to": ""
-  },
-  {
-    "models": "Sherco SE 300",
-    "from": 2014,
-    "to": 2022
   },
   {
     "models": "Sherco SE-R 300 Factory",
