@@ -1,6 +1,6 @@
 [
   {
-    "models": "Lower Rear Shock Bearing",
+    "models": "Inferior/Lower/Inferior/Inf�rieur",
     "from": "",
     "to": ""
   },
@@ -150,32 +150,32 @@
     "to": 2009
   },
   {
-    "models": "Upper Rear Shock Bearing",
+    "models": "Superior/Upper/Superior/Sup�rieur",
     "from": "",
     "to": ""
   },
   {
-    "models": "Husaberg 390FE",
+    "models": "Husaberg FE 390",
     "from": 2010,
     "to": 2011
   },
   {
-    "models": "Husaberg 450FE",
+    "models": "Husaberg FE 450",
     "from": 2009,
     "to": 2011
   },
   {
-    "models": "Husaberg 450FX",
+    "models": "Husaberg FX 450",
     "from": 2010,
     "to": 2011
   },
   {
-    "models": "Husaberg 570FE",
+    "models": "Husaberg FE 570",
     "from": 2009,
     "to": 2011
   },
   {
-    "models": "Husaberg 570FS",
+    "models": "Husaberg FS 570",
     "from": 2010,
     "to": 2011
   },
