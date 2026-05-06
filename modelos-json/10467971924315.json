@@ -1,0 +1,177 @@
+[
+  {
+    "models": "Husqvarna FC 350 Heritage Edition",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 350F",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 450 Rockstar Edition",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FC 450F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FC 450F Factory Edition",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FE 350s",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FE 350s Heritage Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FE 450F Heritage Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FE 501 Heritage Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FE 501F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FE 501s",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FE 501s Heritage Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FX 450 Heritage Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FX 450F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TE 300 Heritage Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 300 Pro",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "KTM SMR 450",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 250F Adamo Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM SX-F 250 Factory Edition",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX-F 450 Factory Edition",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC-F 250",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC-F 350",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-F 350 Factory Edition",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-F 450",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 250C",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Triumph TF 250E",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Triumph TF 250X",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 450C",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Triumph TF 450E",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Triumph TF 450X",
+    "from": 2025,
+    "to": ""
+  }
+]
