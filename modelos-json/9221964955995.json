@@ -30,6 +30,11 @@
     "to": ""
   },
   {
+    "models": "KTM LC4 640",
+    "from": 2004,
+    "to": ""
+  },
+  {
     "models": "KTM SX 125",
     "from": 1998,
     "to": 2003
@@ -57,11 +62,6 @@
   {
     "models": "KTM XC-F 450",
     "from": 2008,
-    "to": ""
-  },
-  {
-    "models": "KTM LC4 640",
-    "from": 2004,
     "to": ""
   }
 ]
