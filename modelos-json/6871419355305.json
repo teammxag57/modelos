@@ -60,21 +60,6 @@
     "to": 2009
   },
   {
-    "models": "Gasgas ENDURO GP 250",
-    "from": 2018,
-    "to": 2019
-  },
-  {
-    "models": "Gasgas ENDURO GP 300",
-    "from": 2018,
-    "to": 2019
-  },
-  {
-    "models": "Gasgas FSE 450F",
-    "from": 2004,
-    "to": 2009
-  },
-  {
     "models": "Gasgas FSE 450F",
     "from": 2004,
     "to": 2009
@@ -83,16 +68,6 @@
     "models": "Gasgas MC 125",
     "from": 2002,
     "to": 2005
-  },
-  {
-    "models": "Gasgas MC 125",
-    "from": 2002,
-    "to": 2005
-  },
-  {
-    "models": "Gasgas MC 250",
-    "from": 2002,
-    "to": 2008
   },
   {
     "models": "Gasgas MC 250",
@@ -110,28 +85,13 @@
     "to": 2001
   },
   {
-    "models": "Honda CR 125",
-    "from": 1996,
-    "to": 2008
-  },
-  {
     "models": "Honda CR 250",
     "from": 1987,
     "to": 2001
   },
   {
-    "models": "Honda CR 250",
-    "from": 1996,
-    "to": 2008
-  },
-  {
     "models": "Honda CR 500",
     "from": 1987,
-    "to": 2001
-  },
-  {
-    "models": "Honda CR 500",
-    "from": 1996,
     "to": 2001
   },
   {
@@ -150,22 +110,7 @@
     "to": 2001
   },
   {
-    "models": "Honda CRE 125",
-    "from": 1996,
-    "to": 2008
-  },
-  {
     "models": "Honda CRE 250",
-    "from": 1996,
-    "to": 2001
-  },
-  {
-    "models": "Honda CRE 250",
-    "from": 1996,
-    "to": 2008
-  },
-  {
-    "models": "Honda CRE 500",
     "from": 1996,
     "to": 2001
   },
@@ -180,182 +125,12 @@
     "to": 1998
   },
   {
-    "models": "Honda CRF 150F",
-    "from": 2003,
-    "to": 2017
-  },
-  {
-    "models": "Honda CRF 230F",
-    "from": 2003,
-    "to": 2019
-  },
-  {
-    "models": "Honda CRF 230L",
-    "from": 2008,
-    "to": 2010
-  },
-  {
-    "models": "Honda CRF 230M",
-    "from": 2009,
-    "to": 2009
-  },
-  {
-    "models": "Honda CRF 250F",
-    "from": 2019,
-    "to": 2025
-  },
-  {
-    "models": "Honda CRF 250R",
-    "from": 2003,
-    "to": 2026
-  },
-  {
-    "models": "Honda CRF 250RE",
-    "from": 2016,
-    "to": 2016
-  },
-  {
-    "models": "Honda CRF 250RWE",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "Honda CRF 250RX",
-    "from": 2019,
-    "to": 2026
-  },
-  {
-    "models": "Honda CRF 250X",
-    "from": 2004,
-    "to": 2019
-  },
-  {
-    "models": "Honda CRF 250XRL",
-    "from": 2013,
-    "to": 2016
-  },
-  {
-    "models": "Honda CRF 300F",
-    "from": 2026,
-    "to": 2026
-  },
-  {
-    "models": "Honda CRF 450 Rally",
-    "from": 2013,
-    "to": 2015
-  },
-  {
-    "models": "Honda CRF 450L",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "Honda CRF 450R",
-    "from": 2002,
-    "to": 2026
-  },
-  {
-    "models": "Honda CRF 450R - 50th Anniversay Edition",
-    "from": 2023,
-    "to": 2023
-  },
-  {
-    "models": "Honda CRF 450RE",
-    "from": 2016,
-    "to": 2016
-  },
-  {
-    "models": "Honda CRF 450RL",
-    "from": 2021,
-    "to": 2026
-  },
-  {
-    "models": "Honda CRF 450R-S",
-    "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "Honda CRF 450RWE",
-    "from": 2019,
-    "to": 2026
-  },
-  {
-    "models": "Honda CRF 450RX",
-    "from": 2017,
-    "to": 2026
-  },
-  {
-    "models": "Honda CRF 450X",
-    "from": 2005,
-    "to": 2026
-  },
-  {
-    "models": "Honda CRF 450XRL",
-    "from": 2013,
-    "to": 2016
-  },
-  {
-    "models": "Honda CRM 250",
-    "from": 1994,
-    "to": 1998
-  },
-  {
-    "models": "Honda TRX 450R Sportrax",
-    "from": 2004,
-    "to": 2014
-  },
-  {
-    "models": "Honda TRX 700 XX",
-    "from": 2008,
-    "to": 2009
-  },
-  {
-    "models": "Honda XL 600V Transalp",
-    "from": 1997,
-    "to": 1999
-  },
-  {
-    "models": "Honda XL 700 V Transalp",
-    "from": 2008,
-    "to": 2011
-  },
-  {
-    "models": "Honda XLR 125",
-    "from": 1998,
-    "to": 2001
-  },
-  {
-    "models": "Honda XLV 650 Transalp",
-    "from": 2000,
-    "to": 2007
-  },
-  {
-    "models": "Honda XR 125L",
-    "from": 2003,
-    "to": 2009
-  },
-  {
-    "models": "Honda XR 250L",
-    "from": 1996,
-    "to": 1997
-  },
-  {
     "models": "Honda XR 250L",
     "from": 1996,
     "to": 1997
   },
   {
     "models": "Honda XR 250R",
-    "from": 1996,
-    "to": 2004
-  },
-  {
-    "models": "Honda XR 250R",
-    "from": 1996,
-    "to": 2004
-  },
-  {
-    "models": "Honda XR 400R",
     "from": 1996,
     "to": 2004
   },
@@ -370,24 +145,9 @@
     "to": 2000
   },
   {
-    "models": "Honda XR 600R",
-    "from": 1996,
-    "to": 2000
-  },
-  {
     "models": "Honda XR 650 SM",
     "from": 2006,
     "to": 2009
-  },
-  {
-    "models": "Honda XR 650 SM",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "Honda XR 650L",
-    "from": 1993,
-    "to": 2025
   },
   {
     "models": "Honda XR 650L",
@@ -400,39 +160,9 @@
     "to": 2009
   },
   {
-    "models": "Honda XR 650R",
-    "from": 2001,
-    "to": 2009
-  },
-  {
-    "models": "Honda XRV 750 Africa Twin",
-    "from": 1994,
-    "to": 2003
-  },
-  {
-    "models": "Kawasaki KDX 200",
-    "from": 1995,
-    "to": 2006
-  },
-  {
-    "models": "Kawasaki KDX 220R",
-    "from": 1997,
-    "to": 2005
-  },
-  {
-    "models": "Kawasaki KLX 250",
-    "from": 1993,
-    "to": 1996
-  },
-  {
     "models": "Kawasaki KLX 250S",
     "from": 2008,
     "to": 2020
-  },
-  {
-    "models": "Kawasaki KLX 250S",
-    "from": 2008,
-    "to": 2008
   },
   {
     "models": "Kawasaki KLX 300R",
@@ -440,34 +170,9 @@
     "to": 2025
   },
   {
-    "models": "Kawasaki KLX 300R",
-    "from": 1997,
-    "to": 2007
-  },
-  {
     "models": "Kawasaki KLX 400R",
     "from": 2003,
     "to": 2004
-  },
-  {
-    "models": "Kawasaki KLX 400R",
-    "from": 2003,
-    "to": 2004
-  },
-  {
-    "models": "Kawasaki KLX 450R",
-    "from": 2007,
-    "to": 2021
-  },
-  {
-    "models": "Kawasaki KLX 650",
-    "from": 1993,
-    "to": 1998
-  },
-  {
-    "models": "Kawasaki KLX 650R",
-    "from": 1994,
-    "to": 1997
   },
   {
     "models": "Kawasaki KX 125",
@@ -475,214 +180,14 @@
     "to": 2008
   },
   {
-    "models": "Kawasaki KX 125",
-    "from": 1994,
-    "to": 2008
-  },
-  {
     "models": "Kawasaki KX 250",
     "from": 1995,
     "to": 2008
-  },
-  {
-    "models": "Kawasaki KX 250",
-    "from": 1994,
-    "to": 2008
-  },
-  {
-    "models": "Kawasaki KX 250F",
-    "from": 2004,
-    "to": 2026
-  },
-  {
-    "models": "Kawasaki KX 250FX",
-    "from": 2021,
-    "to": 2026
-  },
-  {
-    "models": "Kawasaki KX 300X",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "Kawasaki KX 450F",
-    "from": 2006,
-    "to": 2023
-  },
-  {
-    "models": "Kawasaki KX 450FX",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Kawasaki KX 450SR",
-    "from": 2022,
-    "to": 2023
   },
   {
     "models": "Kawasaki KX 500",
     "from": 1996,
     "to": 2004
-  },
-  {
-    "models": "Kawasaki KX 500",
-    "from": 1994,
-    "to": 2004
-  },
-  {
-    "models": "Kove E-MX Electric",
-    "from": 2024,
-    "to": 2024
-  },
-  {
-    "models": "Kove Enduro RE 450",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "Kove MX 450 Motocross",
-    "from": 2023,
-    "to": 2026
-  },
-  {
-    "models": "Kove Rally 450 Factory Edition",
-    "from": 2023,
-    "to": 2026
-  },
-  {
-    "models": "Kove Rally EX 450 EX Edition",
-    "from": 2023,
-    "to": 2026
-  },
-  {
-    "models": "Kove Rally RE 450 RE - Standard Edition",
-    "from": 2023,
-    "to": 2026
-  },
-  {
-    "models": "Redmoto CRF 125FA - 17/14",
-    "from": 2026,
-    "to": 2026
-  },
-  {
-    "models": "Redmoto CRF 125FB - 19/16",
-    "from": 2026,
-    "to": 2026
-  },
-  {
-    "models": "Redmoto CRF 250R",
-    "from": 2014,
-    "to": 2026
-  },
-  {
-    "models": "Redmoto CRF 250RWE",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "Redmoto CRF 250RX",
-    "from": 2019,
-    "to": 2026
-  },
-  {
-    "models": "Redmoto CRF 250X",
-    "from": 2014,
-    "to": 2017
-  },
-  {
-    "models": "Redmoto CRF 300R",
-    "from": 2014,
-    "to": 2017
-  },
-  {
-    "models": "Redmoto CRF 300RX",
-    "from": 2019,
-    "to": 2026
-  },
-  {
-    "models": "Redmoto CRF 300X",
-    "from": 2014,
-    "to": 2017
-  },
-  {
-    "models": "Redmoto CRF 450R",
-    "from": 2014,
-    "to": 2026
-  },
-  {
-    "models": "Redmoto CRF 450RWE",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "Redmoto CRF 450RX",
-    "from": 2017,
-    "to": 2026
-  },
-  {
-    "models": "Redmoto CRF 450RX - Rally",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "Redmoto CRF 450X",
-    "from": 2014,
-    "to": 2017
-  },
-  {
-    "models": "Redmoto CRF 450XR",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "Redmoto CRF 500R",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "Redmoto CRF 500X",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "Rieju MR 300",
-    "from": 2025,
-    "to": 2025
-  },
-  {
-    "models": "Rieju MR 300 Six Days",
-    "from": 2021,
-    "to": 2025
-  },
-  {
-    "models": "Rieju MR Pro 200",
-    "from": 2022,
-    "to": 2022
-  },
-  {
-    "models": "Rieju MR PRO 300i",
-    "from": 2025,
-    "to": 2025
-  },
-  {
-    "models": "Rieju MR Racing 200",
-    "from": 2022,
-    "to": 2022
-  },
-  {
-    "models": "Rieju MR Racing 250",
-    "from": 2020,
-    "to": 2024
-  },
-  {
-    "models": "Rieju MR Racing 300",
-    "from": 2020,
-    "to": 2024
-  },
-  {
-    "models": "Rieju MR RACING 300i",
-    "from": 2026,
-    "to": 2026
   },
   {
     "models": "Sherco Enduro 2.5i 250 F/R",
@@ -710,39 +215,9 @@
     "to": 2010
   },
   {
-    "models": "Suzuki DR 125 SM",
-    "from": 2008,
-    "to": 2011
-  },
-  {
-    "models": "Suzuki DR 350",
-    "from": 1999,
-    "to": 1999
-  },
-  {
-    "models": "Suzuki DR 650",
-    "from": 1996,
-    "to": 2026
-  },
-  {
-    "models": "Suzuki DR-Z 250",
-    "from": 2001,
-    "to": 2007
-  },
-  {
     "models": "Suzuki DR-Z 400",
     "from": 2000,
     "to": 2007
-  },
-  {
-    "models": "Suzuki DR-Z 400",
-    "from": 2000,
-    "to": 2007
-  },
-  {
-    "models": "Suzuki DR-Z 400S",
-    "from": 2000,
-    "to": 2024
   },
   {
     "models": "Suzuki DR-Z 400S",
@@ -755,22 +230,7 @@
     "to": 2024
   },
   {
-    "models": "Suzuki DR-Z 400SM",
-    "from": 2005,
-    "to": 2024
-  },
-  {
     "models": "Suzuki DR-Z4 400S",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "Suzuki DR-Z4 400S",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "Suzuki DR-Z4 SM 400",
     "from": 2025,
     "to": 2026
   },
@@ -785,39 +245,9 @@
     "to": 2012
   },
   {
-    "models": "Suzuki RM 125",
-    "from": 1996,
-    "to": 2012
-  },
-  {
     "models": "Suzuki RM 250",
     "from": 1996,
     "to": 2008
-  },
-  {
-    "models": "Suzuki RM 250",
-    "from": 1996,
-    "to": 2008
-  },
-  {
-    "models": "Suzuki RM 250Z",
-    "from": 2004,
-    "to": 2026
-  },
-  {
-    "models": "Suzuki RM 450Z",
-    "from": 2005,
-    "to": 2026
-  },
-  {
-    "models": "Suzuki RMX 250",
-    "from": 1996,
-    "to": 1998
-  },
-  {
-    "models": "Suzuki RMX 450 Z",
-    "from": 2010,
-    "to": 2019
   },
   {
     "models": "TM MX 125 2T",
@@ -860,16 +290,6 @@
     "to": 1998
   },
   {
-    "models": "Yamaha WR 125",
-    "from": 1998,
-    "to": 1998
-  },
-  {
-    "models": "Yamaha WR 250",
-    "from": 1998,
-    "to": 2002
-  },
-  {
     "models": "Yamaha WR 250",
     "from": 1998,
     "to": 2002
@@ -880,23 +300,8 @@
     "to": 2002
   },
   {
-    "models": "Yamaha WR 250F",
-    "from": 2001,
-    "to": 2017
-  },
-  {
-    "models": "Yamaha WR 250R",
-    "from": 2008,
-    "to": 2020
-  },
-  {
     "models": "Yamaha WR 400F",
     "from": 1999,
-    "to": 2000
-  },
-  {
-    "models": "Yamaha WR 400F",
-    "from": 1998,
     "to": 2000
   },
   {
@@ -905,24 +310,9 @@
     "to": 2002
   },
   {
-    "models": "Yamaha WR 426F",
-    "from": 2001,
-    "to": 2002
-  },
-  {
-    "models": "Yamaha WR 450F",
-    "from": 2003,
-    "to": 2015
-  },
-  {
     "models": "Yamaha YZ 125",
     "from": 1998,
     "to": 2002
-  },
-  {
-    "models": "Yamaha YZ 125",
-    "from": 1998,
-    "to": 2007
   },
   {
     "models": "Yamaha YZ 250",
@@ -930,19 +320,9 @@
     "to": 2002
   },
   {
-    "models": "Yamaha YZ 250",
-    "from": 1998,
-    "to": 2007
-  },
-  {
     "models": "Yamaha YZ 250F",
     "from": 2001,
     "to": 2002
-  },
-  {
-    "models": "Yamaha YZ 250F",
-    "from": 2001,
-    "to": 2006
   },
   {
     "models": "Yamaha YZ 400F",
@@ -950,23 +330,8 @@
     "to": 1999
   },
   {
-    "models": "Yamaha YZ 400F",
-    "from": 1998,
-    "to": 1999
-  },
-  {
     "models": "Yamaha YZ 426F",
     "from": 2000,
     "to": 2002
-  },
-  {
-    "models": "Yamaha YZ 426F",
-    "from": 2000,
-    "to": 2002
-  },
-  {
-    "models": "Yamaha YZ 450F",
-    "from": 2003,
-    "to": 2007
   }
 ]
