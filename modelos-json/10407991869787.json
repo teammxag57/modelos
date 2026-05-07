@@ -63,5 +63,15 @@
     "models": "KTM XC 150W",
     "from": 2017,
     "to": 2018
+  },
+  {
+    "models": "KTM XC 150",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 200W",
+    "from": 2006,
+    "to": 2016
   }
 ]
