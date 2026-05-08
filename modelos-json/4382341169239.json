@@ -175,11 +175,6 @@
     "to": 2024
   },
   {
-    "models": "Honda EXC 300 2T -Champions Edition",
-    "from": 2024,
-    "to": 2025
-  },
-  {
     "models": "Husaberg FE 250",
     "from": 2010,
     "to": 2014
@@ -628,6 +623,11 @@
     "models": "KTM EXC 300",
     "from": 1998,
     "to": 2026
+  },
+  {
+    "models": "KTM EXC 300 - Champions Edition",
+    "from": 2024,
+    "to": 2025
   },
   {
     "models": "KTM EXC 300 Erzbergrodeo Edition",
