@@ -1,0 +1,57 @@
+[
+  {
+    "models": "Frente/Front/Delantero/Avant",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC  65",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 65",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 65",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "Tr�s/Rear/Trasero/Arri�re",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 85 17/14",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 85",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 85 BW",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 85 BW",
+    "from": 2021,
+    "to": 2026
+  }
+]
