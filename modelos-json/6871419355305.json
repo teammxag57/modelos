@@ -80,6 +80,26 @@
     "to": 2009
   },
   {
+    "models": "Gasgas SM 125",
+    "from": 2002,
+    "to": 2006
+  },
+  {
+    "models": "Gasgas SM 250",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "Gasgas SM 400 FSE",
+    "from": 2002,
+    "to": 2009
+  },
+  {
+    "models": "Gasgas SM 450",
+    "from": 2004,
+    "to": 2009
+  },
+  {
     "models": "Honda CR 125",
     "from": 1987,
     "to": 2001
@@ -110,9 +130,19 @@
     "to": 2001
   },
   {
+    "models": "Honda CRE 125R",
+    "from": 1990,
+    "to": 1995
+  },
+  {
     "models": "Honda CRE 250",
     "from": 1996,
     "to": 2001
+  },
+  {
+    "models": "Honda CRE 250R",
+    "from": 1990,
+    "to": 1995
   },
   {
     "models": "Honda CRE 500",
@@ -120,9 +150,19 @@
     "to": 2001
   },
   {
+    "models": "Honda CRE 500R",
+    "from": 1990,
+    "to": 1995
+  },
+  {
     "models": "Honda CRE 80",
     "from": 1994,
     "to": 1998
+  },
+  {
+    "models": "Honda CRM 250",
+    "from": 1991,
+    "to": 1993
   },
   {
     "models": "Honda XR 250L",
@@ -131,8 +171,13 @@
   },
   {
     "models": "Honda XR 250R",
-    "from": 1996,
+    "from": 1991,
     "to": 2004
+  },
+  {
+    "models": "Honda XR 400 SM",
+    "from": 2006,
+    "to": 2008
   },
   {
     "models": "Honda XR 400R",
@@ -160,9 +205,29 @@
     "to": 2009
   },
   {
+    "models": "Husqvarna WXE 125",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KLX 250 S",
+    "from": 2009,
+    "to": 2014
+  },
+  {
     "models": "Kawasaki KLX 250S",
     "from": 2008,
     "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX 300",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLX 300 SM",
+    "from": 2021,
+    "to": 2026
   },
   {
     "models": "Kawasaki KLX 300R",
@@ -278,6 +343,21 @@
     "models": "TM MX 85 2T/Junior",
     "from": 2005,
     "to": 2010
+  },
+  {
+    "models": "Tm SMR 125",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "Tm SMR 450F",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "Tm SMR 530F",
+    "from": 2005,
+    "to": 2005
   },
   {
     "models": "TM SMX 85 Junior",
