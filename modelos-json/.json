@@ -1,72 +1,57 @@
 [
   {
-    "models": "GasGas EC 250",
-    "from": 2024,
-    "to": 2026
+    "models": "Frente/Front/Delantero/Avant",
+    "from": "",
+    "to": ""
   },
   {
-    "models": "GasGas EC 300",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "GasGas EX 250",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "GasGas EX 300",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "GasGas MC 250",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "Husqvarna TC 250",
+    "models": "Gasgas MC  65",
     "from": 2023,
     "to": 2026
   },
   {
-    "models": "Husqvarna TE 250",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "Husqvarna TE 300",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "KTM EXC 250",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "KTM EXC 300",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "KTM SX 250",
+    "models": "Husqvarna TC 65",
     "from": 2023,
     "to": 2026
   },
   {
-    "models": "KTM SX 300",
+    "models": "KTM SX 65",
     "from": 2023,
     "to": 2026
   },
   {
-    "models": "KTM XC 250",
-    "from": 2023,
+    "models": "Tr�s/Rear/Trasero/Arri�re",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 85 17/14",
+    "from": 2022,
     "to": 2026
   },
   {
-    "models": "KTM XC 300",
-    "from": 2023,
+    "models": "Gasgas MC 85",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 85 BW",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 85 BW",
+    "from": 2021,
     "to": 2026
   }
 ]
