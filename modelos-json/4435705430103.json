@@ -5,38 +5,33 @@
     "to": 2020
   },
   {
-    "models": "Ktm Freeride 250 F",
+    "models": "KTM Freeride 250F",
     "from": 2018,
     "to": 2020
   },
   {
-    "models": "Ktm Freeride 250 R",
+    "models": "KTM Freeride 250R",
     "from": 2014,
     "to": 2017
   },
   {
-    "models": "Ktm Freeride 350",
+    "models": "KTM Freeride 350F",
     "from": 2012,
     "to": 2017
   },
   {
-    "models": "Ktm Freeride Electric E-SX",
-    "from": 2012,
-    "to": 2017
-  },
-  {
-    "models": "Ktm Freeride Electric E-XC",
+    "models": "KTM Freeride E-XC",
     "from": 2012,
     "to": 2020
   },
   {
-    "models": "Ktm SX 85",
+    "models": "KTM SX 85",
     "from": 2012,
     "to": 2020
   },
   {
-    "models": "Redmoto CRF 150",
+    "models": "Redmoto CRF 150R",
     "from": 2023,
-    "to": 2024
+    "to": 2026
   }
 ]
