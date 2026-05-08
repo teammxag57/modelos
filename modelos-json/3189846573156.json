@@ -117,7 +117,7 @@
   {
     "models": "Beta RR 430FR",
     "from": 2015,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Beta RR 450 Cross Country",
@@ -156,11 +156,6 @@
   },
   {
     "models": "Beta RR Race 200",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "Beta RR Race 430",
     "from": 2025,
     "to": 2026
   },
@@ -265,7 +260,7 @@
     "to": 2026
   },
   {
-    "models": "Beta RX 450",
+    "models": "Beta RX 450F",
     "from": 2024,
     "to": 2026
   },
@@ -295,13 +290,13 @@
     "to": 2026
   },
   {
-    "models": "Fantic XE 300",
-    "from": 2024,
+    "models": "Fantic XE 250F",
+    "from": 2021,
     "to": 2026
   },
   {
-    "models": "Fantic XE 250F",
-    "from": 2021,
+    "models": "Fantic XE 300",
+    "from": 2024,
     "to": 2026
   },
   {
@@ -313,6 +308,11 @@
     "models": "Fantic XE 450F",
     "from": 2022,
     "to": 2026
+  },
+  {
+    "models": "Fantic XE 450F Rally",
+    "from": 2023,
+    "to": 2025
   },
   {
     "models": "Fantic XX 125",
@@ -342,11 +342,6 @@
   {
     "models": "Gasgas EC 200",
     "from": 2010,
-    "to": 2015
-  },
-  {
-    "models": "Gasgas EC 200",
-    "from": 2019,
     "to": 2019
   },
   {
@@ -380,11 +375,6 @@
     "to": 2015
   },
   {
-    "models": "Gasgas EC 300 F Racing",
-    "from": 2014,
-    "to": 2015
-  },
-  {
     "models": "Gasgas EC 300 Racing /Six Days",
     "from": 2019,
     "to": 2019
@@ -393,6 +383,11 @@
     "models": "Gasgas EC 300 Ranger",
     "from": 2019,
     "to": 2020
+  },
+  {
+    "models": "Gasgas EC 300F",
+    "from": 2014,
+    "to": 2015
   },
   {
     "models": "Gasgas EC 450 F Racing",
@@ -450,12 +445,12 @@
     "to": 2026
   },
   {
-    "models": "Rieju MR 300 Alffredo Gomez Edition- Nissin Calipers",
+    "models": "Rieju MR 300",
     "from": 2025,
     "to": 2025
   },
   {
-    "models": "Rieju MR 300 Six Days Argentina/France/Italy/Spain - Nissin Calipers",
+    "models": "Rieju MR 300 Six Days",
     "from": 2021,
     "to": 2025
   },
@@ -475,7 +470,7 @@
     "to": 2022
   },
   {
-    "models": "Rieju MR Racing 250 Racing",
+    "models": "Rieju MR Racing 250",
     "from": 2020,
     "to": 2024
   },
@@ -716,7 +711,7 @@
   },
   {
     "models": "Yamaha YZ 125",
-    "from": 2022,
+    "from": 2003,
     "to": 2026
   },
   {
@@ -731,7 +726,7 @@
   },
   {
     "models": "Yamaha YZ 250",
-    "from": 2022,
+    "from": 2003,
     "to": 2026
   },
   {
@@ -741,7 +736,7 @@
   },
   {
     "models": "Yamaha YZ 250F",
-    "from": 2021,
+    "from": 2003,
     "to": 2026
   },
   {
@@ -761,7 +756,7 @@
   },
   {
     "models": "Yamaha YZ 450F",
-    "from": 2020,
+    "from": 2003,
     "to": 2026
   },
   {
