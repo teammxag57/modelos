@@ -1,18 +1,163 @@
 [
   {
-    "models": "Gas Gas ES 700 Enduro",
+    "models": "Alta Motors Redshift Electric EXR (50HP)",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "Alta Motors Redshift Electric MX (42HP)",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "Alta Motors Redshift Electric MXR (50HP)",
+    "from": 2018,
+    "to": 2018
+  },
+  {
+    "models": "Alta Motors Redshift Electric SM (42HP)",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "Aprilia Caponord 1200",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Aprilia Dorsoduro 1200",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Aprilia Dorsoduro 750",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "Aprilia Dorsoduro 750 Factory",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "Aprilia Dorsoduro 900",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Aprilia Mana 850",
+    "from": 2007,
+    "to": 2014
+  },
+  {
+    "models": "Aprilia Pegaso 650",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "Aprilia Pegaso 650 Factory",
+    "from": 2007,
+    "to": 2010
+  },
+  {
+    "models": "Aprilia Pegaso 650 Strada",
+    "from": 2005,
+    "to": 2010
+  },
+  {
+    "models": "Aprilia Pegaso 650 Trail",
+    "from": 2006,
+    "to": 2010
+  },
+  {
+    "models": "Aprilia Shiver 750 SL",
+    "from": 2007,
+    "to": 2016
+  },
+  {
+    "models": "Aprilia Shiver 900",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "Aprilia Tuareg 660",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Aprilia Tuareg 660 Rally",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas Enducross 125",
+    "from": 1994,
+    "to": 1999
+  },
+  {
+    "models": "Gasgas Enducross 250",
+    "from": 1995,
+    "to": 1999
+  },
+  {
+    "models": "Gasgas ES 700 Enduro",
     "from": 2022,
     "to": 2023
   },
   {
-    "models": "Gas Gas SM 700 Supermoto",
+    "models": "Gasgas SM 700 Supermoto",
     "from": 2022,
     "to": 2024
   },
   {
+    "models": "Honda CB 500 S",
+    "from": 1997,
+    "to": 2003
+  },
+  {
+    "models": "Honda NX 650 Dominator",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "Honda SLR 650 Vigor",
+    "from": 1997,
+    "to": 1998
+  },
+  {
+    "models": "Husaberg EF 600 E (Quad)",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "Husaberg FE 450",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "Husaberg FE 550",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "Husaberg FE 650",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "Husaberg FS 450",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "Husaberg FS 650",
+    "from": 2006,
+    "to": 2007
+  },
+  {
     "models": "Husqvarna Enduro 701",
     "from": 2016,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Husqvarna Enduro 701 LR",
@@ -20,7 +165,17 @@
     "to": 2020
   },
   {
-    "models": "Husqvarna SM 125 R",
+    "models": "Husqvarna LT/SM 610",
+    "from": 1999,
+    "to": 2001
+  },
+  {
+    "models": "Husqvarna Nuda 900",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna SM 125R",
     "from": 2006,
     "to": 2013
   },
@@ -32,7 +187,7 @@
   {
     "models": "Husqvarna Supermoto 701",
     "from": 2015,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 125",
@@ -50,6 +205,11 @@
     "to": 2012
   },
   {
+    "models": "Husqvarna TR 650",
+    "from": 2013,
+    "to": 2013
+  },
+  {
     "models": "Husqvarna WR 250",
     "from": 2006,
     "to": 2013
@@ -65,139 +225,189 @@
     "to": 2013
   },
   {
-    "models": "Ktm Adventure 640",
+    "models": "KTM Adventure 640",
     "from": 2005,
     "to": 2005
   },
   {
-    "models": "Ktm Adventure 640 LC4",
+    "models": "KTM Adventure 640 LC4",
     "from": 2006,
     "to": 2007
   },
   {
-    "models": "Ktm Duke 640",
+    "models": "KTM Duke 620",
+    "from": 1994,
+    "to": 2000
+  },
+  {
+    "models": "KTM Duke 640",
     "from": 2001,
     "to": 2007
   },
   {
-    "models": "Ktm Duke 690",
+    "models": "KTM Duke 690",
     "from": 2012,
     "to": 2019
   },
   {
-    "models": "Ktm EGS 125",
+    "models": "KTM EGS 125",
     "from": 1994,
     "to": 2003
   },
   {
-    "models": "Ktm EGS 250",
+    "models": "KTM EGS 250",
     "from": 1994,
     "to": 2003
   },
   {
-    "models": "Ktm EGS 300",
+    "models": "KTM EGS 300",
     "from": 1994,
     "to": 2003
   },
   {
-    "models": "Ktm Enduro 690",
+    "models": "KTM Enduro 690",
     "from": 2008,
     "to": 2011
   },
   {
-    "models": "Ktm Enduro R 690",
+    "models": "KTM Enduro R 690",
     "from": 2009,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Ktm EXC 125",
+    "models": "KTM EXC 125",
     "from": 1994,
     "to": 2003
   },
   {
-    "models": "Ktm EXC 250",
+    "models": "KTM EXC 250",
     "from": 1994,
     "to": 2003
   },
   {
-    "models": "Ktm EXC 300",
+    "models": "KTM EXC 300",
     "from": 1994,
     "to": 2003
   },
   {
-    "models": "Ktm Rally 690",
+    "models": "KTM LC4 400",
+    "from": 1995,
+    "to": 1996
+  },
+  {
+    "models": "KTM LC4 600",
+    "from": 1995,
+    "to": 1996
+  },
+  {
+    "models": "KTM LC4 620",
+    "from": 1995,
+    "to": 1996
+  },
+  {
+    "models": "KTM Rally 690 Factory Replica",
     "from": 2007,
     "to": 2010
   },
   {
-    "models": "Ktm Rallye 450",
+    "models": "KTM Rallye 450 Rallye Factory Replica",
     "from": 2005,
     "to": 2005
   },
   {
-    "models": "Ktm SMC 660",
+    "models": "KTM SMC 660",
     "from": 2003,
     "to": 2007
   },
   {
-    "models": "Ktm SMC-R 690",
+    "models": "KTM SMC-R 690 R",
     "from": 2021,
-    "to": 2023
+    "to": 2026
   },
   {
-    "models": "Ktm Sting 125",
-    "from": 1997,
-    "to": 2000
-  },
-  {
-    "models": "Ktm Superenduro 950",
+    "models": "KTM Superenduro 950",
     "from": 2006,
     "to": 2008
   },
   {
-    "models": "Ktm Supermotard 640 LC4",
+    "models": "KTM Supermotard 640 LC4",
     "from": 2006,
     "to": 2007
   },
   {
-    "models": "Ktm Supermoto 690",
+    "models": "KTM Supermoto 690 Ltd Edition",
     "from": 2010,
     "to": 2011
   },
   {
-    "models": "Ktm SX 125",
+    "models": "KTM SX 125",
     "from": 1994,
     "to": 2003
   },
   {
-    "models": "Ktm SX 250",
+    "models": "KTM SX 250",
     "from": 1994,
     "to": 2003
   },
   {
-    "models": "Yamaha TT 600",
+    "models": "KTM SX 440",
+    "from": 1994,
+    "to": 2003
+  },
+  {
+    "models": "KTM SX 525 Racing",
+    "from": 1994,
+    "to": 2003
+  },
+  {
+    "models": "KTM SX 620",
+    "from": 1994,
+    "to": 2003
+  },
+  {
+    "models": "KTM SX-F 250 Prado Edition",
+    "from": 1995,
+    "to": 1995
+  },
+  {
+    "models": "Swm RS 650 R",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "TM MX 125 2T",
+    "from": 1994,
+    "to": 2000
+  },
+  {
+    "models": "TM TM 125 /250 MX/E",
+    "from": 1994,
+    "to": 2000
+  },
+  {
+    "models": "TM TM 80 MX/E",
+    "from": 1994,
+    "to": 2000
+  },
+  {
+    "models": "Yamaha MT-03 660",
+    "from": 2006,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha TT 600 E/S/R",
     "from": 1996,
     "to": 2004
   },
   {
-    "models": "Yamaha WR 125 R",
+    "models": "Yamaha WR 125R",
     "from": 2009,
     "to": 2015
   },
   {
-    "models": "Yamaha WR 125 X",
+    "models": "Yamaha WR 125X",
     "from": 2009,
     "to": 2014
-  },
-  {
-    "models": "Yamaha XT 660 R",
-    "from": 2004,
-    "to": 2015
-  },
-  {
-    "models": "Yamaha XT 660 X",
-    "from": 2004,
-    "to": 2013
   },
   {
     "models": "Yamaha XT 660 Z Tenere",
@@ -205,8 +415,18 @@
     "to": 2015
   },
   {
-    "models": "Yamaha XTZ 700 Tenere/Extreme/Rally Edition/World Raid Edition",
+    "models": "Yamaha XT 660R",
+    "from": 2004,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha XT 660X",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha XTZ 700 Tenere",
     "from": 2020,
-    "to": 2024
+    "to": 2026
   }
 ]
