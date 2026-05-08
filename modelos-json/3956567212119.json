@@ -1,13 +1,58 @@
 [
   {
+    "models": "Cobra CX 50",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Cobra CX 50 JR",
+    "from": 2007,
+    "to": 2017
+  },
+  {
+    "models": "Cobra CX 50 P3",
+    "from": 2016,
+    "to": 2017
+  },
+  {
+    "models": "Cobra CX 50 SR King",
+    "from": 2003,
+    "to": 2017
+  },
+  {
+    "models": "Cobra CX 65",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "Cobra CX FWE King",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "Drr DB 50 Big Wheel",
+    "from": 2016,
+    "to": 2020
+  },
+  {
+    "models": "Drr DB 50 Jr",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Drr DB 50 SR",
+    "from": 2014,
+    "to": 2020
+  },
+  {
     "models": "Gasgas MC 50",
     "from": 2021,
     "to": 2024
   },
   {
-    "models": "Gasgas MC-E 5 Electric",
+    "models": "Gasgas MC-E 5",
     "from": 2021,
-    "to": 2024
+    "to": 2023
   },
   {
     "models": "Husqvarna CR 50",
@@ -15,7 +60,7 @@
     "to": 2012
   },
   {
-    "models": "Husqvarna EE 5 Electric",
+    "models": "Husqvarna EE 5",
     "from": 2020,
     "to": 2023
   },
@@ -45,6 +90,11 @@
     "to": 2023
   },
   {
+    "models": "KTM SX 50 Factory Edition",
+    "from": 2021,
+    "to": 2023
+  },
+  {
     "models": "KTM SX 65",
     "from": 2004,
     "to": 2008
@@ -70,7 +120,7 @@
     "to": 2009
   },
   {
-    "models": "KTM SX-E 5 Electric",
+    "models": "KTM SXE 5",
     "from": 2020,
     "to": 2023
   },
