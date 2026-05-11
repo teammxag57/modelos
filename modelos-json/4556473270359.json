@@ -1,66 +1,66 @@
 [
   {
-    "models": "KTM 125 EXC",
+    "models": "KTM EXC 125",
     "from": 2004,
     "to": 2007
   },
   {
-    "models": "KTM 125 SX",
+    "models": "KTM EXC 200",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 400F",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX 125",
     "from": 2003,
     "to": 2006
   },
   {
-    "models": "KTM 144 SX",
+    "models": "KTM SX 144",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "KTM 200 EXC",
-    "from": 2004,
-    "to": 2007
-  },
-  {
-    "models": "KTM 250 EXC",
-    "from": 2004,
-    "to": 2007
-  },
-  {
-    "models": "KTM 250 EXC-F",
-    "from": 2004,
-    "to": 2007
-  },
-  {
-    "models": "KTM 250 SX",
+    "models": "KTM SX 250",
     "from": 2003,
     "to": 2006
   },
   {
-    "models": "KTM 250 SX-F",
+    "models": "KTM SX 250F",
     "from": 2005,
     "to": 2006
   },
   {
-    "models": "KTM 300 EXC",
-    "from": 2004,
-    "to": 2007
-  },
-  {
-    "models": "KTM 400 EXC-F",
-    "from": 2004,
-    "to": 2007
-  },
-  {
-    "models": "KTM 450 EXC-F",
-    "from": 2004,
-    "to": 2007
-  },
-  {
-    "models": "KTM 450 SX-F",
+    "models": "KTM SX 450F",
     "from": 2003,
     "to": 2006
   },
   {
-    "models": "KTM 525 SX-F",
+    "models": "KTM SX 525F",
     "from": 2003,
     "to": 2006
   }
