@@ -107,17 +107,17 @@
   {
     "models": "Beta RX 250",
     "from": 2025,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RX 300",
     "from": 2025,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RX 450",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Fantic XE 125",
@@ -275,7 +275,7 @@
     "to": 2026
   },
   {
-    "models": "Suzuki RMX 450",
+    "models": "Suzuki RMX 450Z",
     "from": 2010,
     "to": 2018
   },
