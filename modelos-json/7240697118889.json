@@ -100,7 +100,7 @@
     "to": 2005
   },
   {
-    "models": "Kawasaki KFX 450",
+    "models": "Kawasaki KFX 450R",
     "from": 2007,
     "to": 2015
   },
@@ -155,7 +155,7 @@
     "to": 1990
   },
   {
-    "models": "Suzuki LT-Z Quad Sport 400",
+    "models": "Suzuki LT-Z 400",
     "from": 2002,
     "to": 2019
   },
@@ -173,6 +173,16 @@
     "models": "Tm Junior 80",
     "from": 1996,
     "to": 2000
+  },
+  {
+    "models": "Yamaha YFM 250 Raptor",
+    "from": 2009,
+    "to": 2014
+  },
+  {
+    "models": "Yamaha YFM 350 Warrior",
+    "from": 1987,
+    "to": 1996
   },
   {
     "models": "Yamaha YFM 4x4 Grizzly 600",
@@ -195,24 +205,9 @@
     "to": 2014
   },
   {
-    "models": "Yamaha YFM Raptor 250",
-    "from": 2009,
-    "to": 2014
-  },
-  {
     "models": "Yamaha YFM RN Raptor 660",
     "from": 2001,
     "to": 2009
-  },
-  {
-    "models": "Yamaha YFM XG,XH Warrior 350",
-    "from": 1995,
-    "to": 1996
-  },
-  {
-    "models": "Yamaha YFM XT, XU Warrior 350",
-    "from": 1987,
-    "to": 1988
   },
   {
     "models": "Yamaha YFS R Blaster 200",
@@ -220,7 +215,7 @@
     "to": 2006
   },
   {
-    "models": "Yamaha YFZ Banshee 350",
+    "models": "Yamaha YFZ 350 Banshee",
     "from": 1987,
     "to": 2006
   },
