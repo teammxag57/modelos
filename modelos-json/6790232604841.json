@@ -90,12 +90,12 @@
     "to": 2007
   },
   {
-    "models": "Honda CRE F 250",
+    "models": "Honda CRE 250F",
     "from": 2004,
     "to": 2004
   },
   {
-    "models": "Honda CRE F 450",
+    "models": "Honda CRE 450F",
     "from": 2002,
     "to": 2006
   },
@@ -108,6 +108,11 @@
     "models": "Honda CRF 150R",
     "from": 2007,
     "to": 2026
+  },
+  {
+    "models": "Honda CRF 250F",
+    "from": 2019,
+    "to": 2024
   },
   {
     "models": "Honda CRF 250R",
@@ -123,6 +128,11 @@
     "models": "Honda CRF 250X",
     "from": 2004,
     "to": 2019
+  },
+  {
+    "models": "Honda CRF 450L",
+    "from": 2019,
+    "to": 2021
   },
   {
     "models": "Honda CRF 450R",
@@ -143,16 +153,6 @@
     "models": "Honda CRF 450X",
     "from": 2005,
     "to": 2024
-  },
-  {
-    "models": "Honda CRF F 250",
-    "from": 2019,
-    "to": 2024
-  },
-  {
-    "models": "Honda CRF L 450",
-    "from": 2019,
-    "to": 2021
   },
   {
     "models": "Kove MX 250",
