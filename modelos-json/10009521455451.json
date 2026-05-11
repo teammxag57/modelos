@@ -55,19 +55,9 @@
     "to": 2001
   },
   {
-    "models": "Husaberg FE 600",
-    "from": 1999,
-    "to": 2002
-  },
-  {
     "models": "Husaberg FE 400",
     "from": 1999,
     "to": 2003
-  },
-  {
-    "models": "Husaberg FE 501",
-    "from": 1999,
-    "to": 2004
   },
   {
     "models": "Husaberg FE 450",
@@ -75,9 +65,19 @@
     "to": 2008
   },
   {
+    "models": "Husaberg FE 501",
+    "from": 1999,
+    "to": 2004
+  },
+  {
     "models": "Husaberg FE 550",
     "from": 2004,
     "to": 2008
+  },
+  {
+    "models": "Husaberg FE 600",
+    "from": 1999,
+    "to": 2002
   },
   {
     "models": "Husaberg FE 650",
@@ -85,14 +85,14 @@
     "to": 2008
   },
   {
-    "models": "Husaberg FS 450",
-    "from": 2003,
-    "to": 2008
-  },
-  {
     "models": "Husaberg FS 400",
     "from": 2001,
     "to": 2003
+  },
+  {
+    "models": "Husaberg FS 450",
+    "from": 2003,
+    "to": 2008
   },
   {
     "models": "Husaberg FS 650",
@@ -225,167 +225,167 @@
     "to": 2013
   },
   {
-    "models": "Ktm EXC 200",
+    "models": "KTM EXC 125",
     "from": 1999,
     "to": 2003
   },
   {
-    "models": "Ktm EXC 125",
+    "models": "KTM EXC 200",
     "from": 1999,
     "to": 2003
   },
   {
-    "models": "Ktm EXC 250",
+    "models": "KTM EXC 250",
     "from": 1999,
     "to": 2003
   },
   {
-    "models": "Ktm EXC 300",
+    "models": "KTM EXC 250F",
     "from": 1999,
     "to": 2003
   },
   {
-    "models": "Ktm EXC 380",
+    "models": "KTM EXC 300",
+    "from": 1999,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 380",
     "from": 1999,
     "to": 1999
   },
   {
-    "models": "Ktm EXC 250F",
-    "from": 1999,
-    "to": 2003
-  },
-  {
-    "models": "Ktm EXC Racing 400",
+    "models": "KTM EXC Racing 400",
     "from": 2000,
     "to": 2003
   },
   {
-    "models": "Ktm EXC Racing 520",
+    "models": "KTM EXC Racing 520",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "Ktm EXC Racing 525",
+    "models": "KTM EXC Racing 525",
     "from": 2003,
     "to": 2003
   },
   {
-    "models": "Ktm LC4 Competition 620",
+    "models": "KTM LC4 Competition 620",
     "from": 1999,
     "to": 2002
   },
   {
-    "models": "Ktm LC4 RXC 620",
+    "models": "KTM LC4 RXC 620",
     "from": 1995,
     "to": 1995
   },
   {
-    "models": "Ktm LC4 SM Factory Replica 660",
+    "models": "KTM LC4 SM Factory Replica 660",
     "from": 2002,
     "to": 2002
   },
   {
-    "models": "Ktm LC4-E Enduro 400",
+    "models": "KTM LC4-E Enduro 400",
     "from": 1999,
     "to": 2002
   },
   {
-    "models": "Ktm MX 360",
+    "models": "KTM MX 360",
     "from": 1996,
     "to": 1997
   },
   {
-    "models": "Ktm MX 380",
+    "models": "KTM MX 380",
     "from": 1998,
     "to": 1998
   },
   {
-    "models": "Ktm Rally 450",
+    "models": "KTM Rally 450",
     "from": 2011,
     "to": 2017
   },
   {
-    "models": "Ktm SC 400",
+    "models": "KTM SC 400",
     "from": 1999,
     "to": 2000
   },
   {
-    "models": "Ktm SC 620",
+    "models": "KTM SC 620",
     "from": 1999,
     "to": 2000
   },
   {
-    "models": "Ktm SX 125",
+    "models": "KTM SX 125",
     "from": 1996,
     "to": 2003
   },
   {
-    "models": "Ktm SX 250",
+    "models": "KTM SX 250",
     "from": 1996,
     "to": 2002
   },
   {
-    "models": "Ktm SX 360",
+    "models": "KTM SX 360",
     "from": 1996,
     "to": 1997
   },
   {
-    "models": "Ktm SX 380",
+    "models": "KTM SX 380",
     "from": 1998,
     "to": 2002
   },
   {
-    "models": "Ktm SX 400",
+    "models": "KTM SX 400",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "Ktm SX 620",
-    "from": 1995,
-    "to": 1999
-  },
-  {
-    "models": "Ktm SXC 540",
-    "from": 1998,
-    "to": 1998
-  },
-  {
-    "models": "Ktm SXC Tiainen Replica 400",
-    "from": 1999,
-    "to": 2000
-  },
-  {
-    "models": "Ktm SXC Tiainen Replica 540",
-    "from": 1999,
-    "to": 2000
-  },
-  {
-    "models": "Ktm SX 520F",
+    "models": "KTM SX 520F",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "Ktm SX 525F",
+    "models": "KTM SX 525F",
     "from": 2003,
     "to": 2003
   },
   {
-    "models": "Ktm SXS 125",
+    "models": "KTM SX 620",
+    "from": 1995,
+    "to": 1999
+  },
+  {
+    "models": "KTM SXC 540",
+    "from": 1998,
+    "to": 1998
+  },
+  {
+    "models": "KTM SXC Tiainen Replica 400",
+    "from": 1999,
+    "to": 2000
+  },
+  {
+    "models": "KTM SXC Tiainen Replica 540",
+    "from": 1999,
+    "to": 2000
+  },
+  {
+    "models": "KTM SXS 125",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "Ktm SXS 540",
+    "models": "KTM SXS 540",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "Ktm XC 360",
+    "models": "KTM XC 360",
     "from": 1996,
     "to": 1997
   },
   {
-    "models": "Ktm XC 380",
+    "models": "KTM XC 380",
     "from": 1998,
     "to": 2003
   },
