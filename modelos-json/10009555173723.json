@@ -10,37 +10,37 @@
     "to": 2020
   },
   {
-    "models": "Ktm E-SM Freeride",
-    "from": 2015,
-    "to": 2016
-  },
-  {
-    "models": "Ktm E-SX Freeride",
-    "from": 2015,
-    "to": 2016
-  },
-  {
-    "models": "Ktm E-XC Freeride",
-    "from": 2015,
-    "to": 2023
-  },
-  {
-    "models": "Ktm Freeride 250R",
+    "models": "KTM Freeride 250R",
     "from": 2014,
     "to": 2019
   },
   {
-    "models": "Ktm Freeride 350",
+    "models": "KTM Freeride 350F",
     "from": 2012,
     "to": 2017
   },
   {
-    "models": "Ktm Freeride Electric",
+    "models": "KTM Freeride Electric",
     "from": 2012,
     "to": 2014
   },
   {
-    "models": "Ktm SX 85",
+    "models": "KTM Freeride E-SM",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "KTM Freeride E-SX",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "KTM Freeride E-XC",
+    "from": 2015,
+    "to": 2023
+  },
+  {
+    "models": "KTM SX 85",
     "from": 2011,
     "to": 2020
   }
