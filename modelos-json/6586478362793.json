@@ -1,11 +1,6 @@
 [
   {
-    "models": "Ajp PR5 Enduro 250",
-    "from": 2009,
-    "to": 2009
-  },
-  {
-    "models": "Ajp PR5 Supermotard 250",
+    "models": "Ajp PR5 250",
     "from": 2009,
     "to": 2009
   },
@@ -107,30 +102,30 @@
   {
     "models": "Beta RX 250",
     "from": 2025,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RX 300",
     "from": 2025,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RX 450",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Fantic MX Regolarna Competizione 50",
+    "models": "Fantic MX Regolarna 50",
     "from": 2008,
     "to": 2008
   },
   {
-    "models": "Fantic MX Regolarna Competizione 65",
+    "models": "Fantic MX Regolarna 65",
     "from": 2008,
     "to": 2008
   },
   {
-    "models": "Fantic MX Regolarna Competizione 85",
+    "models": "Fantic MX Regolarna 85",
     "from": 2008,
     "to": 2008
   },
@@ -225,6 +220,11 @@
     "to": 2019
   },
   {
+    "models": "Hm CR Supermotard 125",
+    "from": 2004,
+    "to": 2006
+  },
+  {
     "models": "Hm CRE Enduro 125",
     "from": 1995,
     "to": 2006
@@ -295,19 +295,34 @@
     "to": 2007
   },
   {
-    "models": "Honda CRE F 250",
+    "models": "Honda CRE 250F",
     "from": 2004,
     "to": 2004
   },
   {
-    "models": "Honda CRE F 450",
+    "models": "Honda CRE 450F",
     "from": 2002,
+    "to": 2006
+  },
+  {
+    "models": "Honda CRF 150F",
+    "from": 2003,
     "to": 2006
   },
   {
     "models": "Honda CRF 230",
     "from": 2004,
     "to": 2009
+  },
+  {
+    "models": "Honda CRF 230L",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Honda CRF 250F",
+    "from": 2019,
+    "to": 2024
   },
   {
     "models": "Honda CRF 250R",
@@ -323,6 +338,11 @@
     "models": "Honda CRF 250X",
     "from": 2004,
     "to": 2019
+  },
+  {
+    "models": "Honda CRF 450L",
+    "from": 2019,
+    "to": 2021
   },
   {
     "models": "Honda CRF 450R",
@@ -350,26 +370,6 @@
     "to": 2026
   },
   {
-    "models": "Honda CRF F 150",
-    "from": 2003,
-    "to": 2006
-  },
-  {
-    "models": "Honda CRF F 250",
-    "from": 2019,
-    "to": 2024
-  },
-  {
-    "models": "Honda CRF L 230",
-    "from": 2008,
-    "to": 2010
-  },
-  {
-    "models": "Honda CRF L 450",
-    "from": 2019,
-    "to": 2021
-  },
-  {
     "models": "Honda CRF M 230",
     "from": 2009,
     "to": 2012
@@ -380,14 +380,14 @@
     "to": 2006
   },
   {
+    "models": "Honda TRX 700",
+    "from": 2008,
+    "to": 2012
+  },
+  {
     "models": "Honda TRX R 450",
     "from": 2004,
     "to": 2009
-  },
-  {
-    "models": "Honda TRX XX 700",
-    "from": 2008,
-    "to": 2012
   },
   {
     "models": "Honda XLR R SPL 250",
@@ -525,7 +525,7 @@
     "to": 2023
   },
   {
-    "models": "Suzuki DR V, W, X 350",
+    "models": "Suzuki DR 350",
     "from": 1997,
     "to": 1999
   },
@@ -561,7 +561,7 @@
   },
   {
     "models": "Suzuki RMX 250",
-    "from": 1999,
+    "from": 1996,
     "to": 1999
   },
   {
