@@ -1,26 +1,21 @@
 [
   {
-    "models": "Ajp PR5 Enduro 250",
+    "models": "Ajp PR5 250",
     "from": 2009,
     "to": 2009
   },
   {
-    "models": "Ajp PR5 Supermotard 250",
-    "from": 2009,
-    "to": 2009
-  },
-  {
-    "models": "Fantic MX 50",
+    "models": "Fantic MX Regolarna 50",
     "from": 2008,
     "to": 2008
   },
   {
-    "models": "Fantic MX 65",
+    "models": "Fantic MX Regolarna 65",
     "from": 2008,
     "to": 2008
   },
   {
-    "models": "Fantic MX 85",
+    "models": "Fantic MX Regolarna 85",
     "from": 2008,
     "to": 2008
   },
@@ -130,7 +125,7 @@
     "to": 2012
   },
   {
-    "models": "Honda CRF L 230",
+    "models": "Honda CRF 230L",
     "from": 2008,
     "to": 2010
   },
