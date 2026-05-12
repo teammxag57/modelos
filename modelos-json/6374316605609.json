@@ -15,32 +15,32 @@
     "to": 2016
   },
   {
-    "models": "KTM 125 EXC",
+    "models": "KTM EXC 125",
     "from": 1998,
     "to": 2016
   },
   {
-    "models": "KTM 125 SX",
+    "models": "KTM EXC 200",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM SX 125",
     "from": 1998,
     "to": 2015
   },
   {
-    "models": "KTM 144 SX",
+    "models": "KTM SX 144",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "KTM 150 SX",
+    "models": "KTM SX 150",
     "from": 2009,
     "to": 2015
   },
   {
-    "models": "KTM 200 EXC",
-    "from": 1998,
-    "to": 2016
-  },
-  {
-    "models": "KTM 200 SX",
+    "models": "KTM SX 200",
     "from": 2003,
     "to": 2004
   }
