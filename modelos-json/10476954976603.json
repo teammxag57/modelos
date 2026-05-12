@@ -1,0 +1,37 @@
+[
+  {
+    "models": "Gasgas EC 450F",
+    "from": 2003,
+    "to": 2009
+  },
+  {
+    "models": "Gasgas SM 450F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "Kawasaki KFX 400",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "Kawasaki KLX 400R",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "Suzuki DR-Z 400",
+    "from": 2000,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki DR-Z 4S",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Suzuki LT-Z 400",
+    "from": 2009,
+    "to": 2014
+  }
+]
