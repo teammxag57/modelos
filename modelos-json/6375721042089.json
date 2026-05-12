@@ -1,21 +1,21 @@
 [
   {
-    "models": "Husaberg FE 250F",
+    "models": "Husaberg FE 250",
     "from": 2013,
     "to": ""
   },
   {
-    "models": "Husaberg FE 350F",
+    "models": "Husaberg FE 350",
     "from": 2013,
     "to": ""
   },
   {
-    "models": "Husaberg FE 450F",
+    "models": "Husaberg FE 450",
     "from": 2013,
     "to": ""
   },
   {
-    "models": "Husaberg FE 501F",
+    "models": "Husaberg FE 501",
     "from": 2013,
     "to": ""
   },
@@ -105,6 +105,11 @@
     "to": 2016
   },
   {
+    "models": "KTM EXC 125",
+    "from": 2012,
+    "to": 2016
+  },
+  {
     "models": "KTM EXC 200",
     "from": 2012,
     "to": 2016
@@ -115,7 +120,72 @@
     "to": 2016
   },
   {
+    "models": "KTM EXC 250F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 525F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 530F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2011,
+    "to": 2015
+  },
+  {
     "models": "KTM SX 150",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 450F",
     "from": 2011,
     "to": 2015
   },
@@ -146,7 +216,42 @@
   },
   {
     "models": "KTM XC 300W",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 300W",
     "from": 2011,
     "to": 2016
+  },
+  {
+    "models": "KTM XC 450W",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-F 250",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM XC-F 250W",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-F 350",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM XC-F 350W",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-F 450",
+    "from": 2011,
+    "to": 2015
   }
 ]
