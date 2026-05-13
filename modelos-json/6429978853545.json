@@ -1,11 +1,11 @@
 [
   {
-    "models": "Fantic XE 2T 125",
+    "models": "Fantic XE 125",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "Fantic XX 2T 125",
+    "models": "Fantic XX 125",
     "from": 2021,
     "to": ""
   },
@@ -20,7 +20,7 @@
     "to": 1988
   },
   {
-    "models": "Yamaha YFZ-BANSHEE 350",
+    "models": "Yamaha YFZ 350 BANSHEE",
     "from": 1987,
     "to": 2002
   },
