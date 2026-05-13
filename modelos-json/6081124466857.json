@@ -5,6 +5,11 @@
     "to": 2011
   },
   {
+    "models": "KTM EXC 150",
+    "from": 2008,
+    "to": 2011
+  },
+  {
     "models": "KTM EXC 200",
     "from": 2008,
     "to": 2011
@@ -15,17 +20,17 @@
     "to": 2011
   },
   {
+    "models": "KTM EXC 250F",
+    "from": 2008,
+    "to": 2011
+  },
+  {
     "models": "KTM EXC 300",
     "from": 2008,
     "to": 2011
   },
   {
-    "models": "KTM EXCF 250",
-    "from": 2008,
-    "to": 2011
-  },
-  {
-    "models": "KTM EXCF 450",
+    "models": "KTM EXC 450F",
     "from": 2008,
     "to": 2011
   },
@@ -55,13 +60,43 @@
     "to": 2010
   },
   {
-    "models": "KTM SXF 250",
+    "models": "KTM SX 250F",
     "from": 2007,
     "to": 2010
   },
   {
-    "models": "KTM SXF 450",
+    "models": "KTM SX 450F",
     "from": 2007,
     "to": 2010
+  },
+  {
+    "models": "TM MX 125",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "TM MX 144",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "TM MX 250",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "TM MX 250F",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "TM MX 300",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "TM MX 450F",
+    "from": 2008,
+    "to": 2012
   }
 ]
