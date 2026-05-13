@@ -1,5 +1,20 @@
 [
   {
+    "models": "Fantic XE 125",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Fantic XE 250F",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Fantic XE 450F",
+    "from": 2022,
+    "to": 2026
+  },
+  {
     "models": "Yamaha WR 125",
     "from": 2003,
     "to": 2004
@@ -10,13 +25,13 @@
     "to": 2004
   },
   {
-    "models": "Yamaha WRF 250",
+    "models": "Yamaha WR 250F",
     "from": 2003,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Yamaha WRF 450",
+    "models": "Yamaha WR 450F",
     "from": 2003,
-    "to": 2025
+    "to": 2026
   }
 ]
