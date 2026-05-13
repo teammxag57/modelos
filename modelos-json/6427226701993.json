@@ -1,17 +1,22 @@
 [
   {
     "models": "KTM EXC 125",
-    "from": 2012,
+    "from": 2011,
     "to": 2016
   },
   {
-    "models": "KTM EXC 200",
+    "models": "KTM EXC 150",
     "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2011,
     "to": 2016
   },
   {
     "models": "KTM EXC 250",
-    "from": 2012,
+    "from": 2011,
     "to": 2016
   },
   {
@@ -21,7 +26,7 @@
   },
   {
     "models": "KTM EXC 300",
-    "from": 2012,
+    "from": 2011,
     "to": 2016
   },
   {
@@ -75,6 +80,46 @@
     "to": 2015
   },
   {
+    "models": "KTM SX 505F",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "TM EN 125",
+    "from": 2008,
+    "to": 2026
+  },
+  {
+    "models": "TM EN 144",
+    "from": 2008,
+    "to": 2026
+  },
+  {
+    "models": "TM EN 250",
+    "from": 2008,
+    "to": 2026
+  },
+  {
+    "models": "TM EN 300",
+    "from": 2008,
+    "to": 2026
+  },
+  {
+    "models": "TM EN 450F",
+    "from": 2008,
+    "to": 2026
+  },
+  {
+    "models": "TM EN 530F",
+    "from": 2008,
+    "to": 2026
+  },
+  {
+    "models": "TM ENF 250",
+    "from": 2008,
+    "to": 2026
+  },
+  {
     "models": "TM MX 125",
     "from": 2008,
     "to": 2026
@@ -97,11 +142,16 @@
   {
     "models": "TM MX 300",
     "from": 2008,
-    "to": 2012
+    "to": 2026
   },
   {
     "models": "TM MX 450F",
     "from": 2008,
+    "to": 2026
+  },
+  {
+    "models": "TM MXF 530",
+    "from": 2013,
     "to": 2026
   }
 ]
