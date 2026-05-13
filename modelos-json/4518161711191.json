@@ -1,36 +1,36 @@
 [
   {
-    "models": "Husqvarna FC 250",
+    "models": "Husqvarna FC 250F",
     "from": 2014,
     "to": ""
   },
   {
-    "models": "Husqvarna FC 350",
+    "models": "Husqvarna FC 350F",
     "from": 2014,
     "to": ""
   },
   {
-    "models": "Husqvarna FC 450",
+    "models": "Husqvarna FC 450F",
     "from": 2014,
     "to": ""
   },
   {
-    "models": "Husqvarna FE 250",
+    "models": "Husqvarna FE 250F",
     "from": 2014,
     "to": 2015
   },
   {
-    "models": "Husqvarna FE 350",
+    "models": "Husqvarna FE 350F",
     "from": 2014,
     "to": 2015
   },
   {
-    "models": "Husqvarna FE 450",
+    "models": "Husqvarna FE 450F",
     "from": 2014,
     "to": 2015
   },
   {
-    "models": "Husqvarna FE 501",
+    "models": "Husqvarna FE 501F",
     "from": 2014,
     "to": 2015
   },
@@ -85,22 +85,22 @@
     "to": 2015
   },
   {
+    "models": "KTM EXC 250F",
+    "from": 2003,
+    "to": 2015
+  },
+  {
     "models": "KTM EXC 300",
     "from": 2003,
     "to": 2015
   },
   {
-    "models": "KTM EXCF 250",
-    "from": 2003,
-    "to": 2015
-  },
-  {
-    "models": "KTM EXCF 350",
+    "models": "KTM EXC 350F",
     "from": 2012,
     "to": 2015
   },
   {
-    "models": "KTM EXCF 450",
+    "models": "KTM EXC 450F",
     "from": 2003,
     "to": 2015
   },
@@ -130,28 +130,28 @@
     "to": 2014
   },
   {
-    "models": "KTM SX 525",
-    "from": 2003,
-    "to": 2006
-  },
-  {
-    "models": "KTM SXF 250",
+    "models": "KTM SX 250F",
     "from": 2005,
     "to": 2014
   },
   {
-    "models": "KTM SXF 350",
+    "models": "KTM SX 350F",
     "from": 2011,
     "to": 2014
   },
   {
-    "models": "KTM SXF 450",
+    "models": "KTM SX 450F",
     "from": 2003,
     "to": 2014
   },
   {
-    "models": "KTM SXF 505",
+    "models": "KTM SX 505F",
     "from": 2005,
     "to": 2011
+  },
+  {
+    "models": "KTM SX 525F",
+    "from": 2003,
+    "to": 2006
   }
 ]
