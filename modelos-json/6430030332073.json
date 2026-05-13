@@ -15,14 +15,14 @@
     "to": 2016
   },
   {
+    "models": "KTM EXC 200",
+    "from": 1998,
+    "to": 2016
+  },
+  {
     "models": "KTM SX 125",
     "from": 1998,
     "to": 2015
-  },
-  {
-    "models": "KTM SXS 125",
-    "from": 2001,
-    "to": 2008
   },
   {
     "models": "KTM SX 150",
@@ -30,13 +30,13 @@
     "to": 2015
   },
   {
-    "models": "KTM EXC 200",
-    "from": 1998,
-    "to": 2016
-  },
-  {
     "models": "KTM SX 200",
     "from": 2003,
     "to": 2003
+  },
+  {
+    "models": "KTM SXS 125",
+    "from": 2001,
+    "to": 2008
   }
 ]
