@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Gasgas MC 85",
+    "from": 2021,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2018,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna TC 85 BW",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "KTM FREERIDE 250 F",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "KTM SX 85 BW",
+    "from": 2018,
+    "to": 2020
+  }
+]
