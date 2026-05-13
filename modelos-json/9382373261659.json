@@ -1,91 +1,76 @@
 [
   {
-    "models": "GASGAS MC 125",
-    "from": 2021,
+    "models": "Husqvarna FE 250F",
+    "from": 2016,
     "to": 2026
   },
   {
-    "models": "GASGAS MC 250",
-    "from": 2022,
+    "models": "Husqvarna FE 350F",
+    "from": 2016,
     "to": 2026
   },
   {
-    "models": "GASGAS MC 250F",
-    "from": 2021,
+    "models": "Husqvarna FE 450F",
+    "from": 2016,
     "to": 2026
   },
   {
-    "models": "GASGAS MC 350F",
-    "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "GASGAS MC 450F",
-    "from": 2021,
+    "models": "Husqvarna FE 501F",
+    "from": 2016,
     "to": 2026
   },
   {
-    "models": "Husqvarna FC 250F",
-    "from": 2015,
+    "models": "Husqvarna TE 125",
+    "from": 2016,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2016,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2016,
     "to": 2026
   },
   {
-    "models": "Husqvarna FC 350F",
-    "from": 2015,
+    "models": "KTM EXC 300",
+    "from": 2016,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2016,
     "to": 2026
   },
   {
-    "models": "Husqvarna FC 450F",
-    "from": 2015,
+    "models": "KTM EXC 450F",
+    "from": 2016,
     "to": 2026
   },
   {
-    "models": "Husqvarna TC 125",
-    "from": 2015,
-    "to": 2026
-  },
-  {
-    "models": "Husqvarna TC 250",
-    "from": 2015,
-    "to": 2026
-  },
-  {
-    "models": "KTM SX 125",
-    "from": 2015,
-    "to": 2026
-  },
-  {
-    "models": "KTM SX 150",
-    "from": 2015,
-    "to": 2022
-  },
-  {
-    "models": "KTM SX 250",
-    "from": 2015,
-    "to": 2026
-  },
-  {
-    "models": "KTM SX 250F",
-    "from": 2015,
-    "to": 2026
-  },
-  {
-    "models": "KTM SX 300",
-    "from": 2023,
-    "to": 2024
-  },
-  {
-    "models": "KTM SX 350F",
-    "from": 2015,
-    "to": 2026
-  },
-  {
-    "models": "KTM SX 450F",
-    "from": 2015,
-    "to": 2026
-  },
-  {
-    "models": "STARK VARG MX",
+    "models": "STARK VARG EX",
     "from": 2024,
     "to": 2026
   }
