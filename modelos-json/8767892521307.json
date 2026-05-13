@@ -35,6 +35,11 @@
     "to": 2023
   },
   {
+    "models": "Yamaha YZ 400F",
+    "from": 1999,
+    "to": ""
+  },
+  {
     "models": "Yamaha YZ 426F",
     "from": 2000,
     "to": 2002
@@ -58,10 +63,5 @@
     "models": "Yamaha YZ 85",
     "from": 2002,
     "to": 2026
-  },
-  {
-    "models": "Yamaha YZF 400",
-    "from": 1999,
-    "to": ""
   }
 ]
