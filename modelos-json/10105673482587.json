@@ -1,27 +1,22 @@
 [
   {
     "models": "Beta RR 250",
-    "from": 2013,
+    "from": 2020,
     "to": 2024
   },
   {
-    "models": "Beta RR 250F",
-    "from": 2005,
-    "to": 2007
-  },
-  {
     "models": "Beta RR 250R",
-    "from": 2015,
+    "from": 2020,
     "to": 2024
   },
   {
     "models": "Beta RR 300",
-    "from": 2013,
+    "from": 2020,
     "to": 2024
   },
   {
     "models": "Beta RR 300R",
-    "from": 2015,
+    "from": 2020,
     "to": 2024
   }
 ]
