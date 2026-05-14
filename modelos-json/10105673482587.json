@@ -1,11 +1,11 @@
 [
   {
-    "models": "Beta RR 2T 300",
+    "models": "Beta RR 250",
     "from": 2020,
     "to": 2024
   },
   {
-    "models": "Beta RR 2T 250",
+    "models": "Beta RR 300",
     "from": 2020,
     "to": 2024
   }
