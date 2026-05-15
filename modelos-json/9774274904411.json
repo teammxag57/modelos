@@ -35,24 +35,9 @@
     "to": 2018
   },
   {
-    "models": "KTM EXC-E 250",
-    "from": 2010,
-    "to": ""
-  },
-  {
     "models": "KTM EXC 250F",
     "from": 2006,
     "to": 2016
-  },
-  {
-    "models": "KTM SX 250",
-    "from": 2002,
-    "to": 2020
-  },
-  {
-    "models": "KTM SX 250F",
-    "from": 2006,
-    "to": 2011
   },
   {
     "models": "KTM EXC 300",
@@ -60,18 +45,8 @@
     "to": 2019
   },
   {
-    "models": "KTM XC 300",
-    "from": 2011,
-    "to": 2016
-  },
-  {
     "models": "KTM EXC 350F",
     "from": 2012,
-    "to": 2016
-  },
-  {
-    "models": "Ktm XC-F 350",
-    "from": 2011,
     "to": 2016
   },
   {
@@ -98,5 +73,30 @@
     "models": "KTM EXC 530",
     "from": 2008,
     "to": 2011
+  },
+  {
+    "models": "KTM EXC-E 250",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2002,
+    "to": 2020
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2011,
+    "to": 2016
+  },
+  {
+    "models": "Ktm XC-F 350",
+    "from": 2011,
+    "to": 2016
   }
 ]
