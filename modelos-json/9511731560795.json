@@ -33,5 +33,10 @@
     "models": "Yamaha YZ 450F",
     "from": 2008,
     "to": 2012
+  },
+  {
+    "models": "Yamaha YZ 125X",
+    "from": 2020,
+    "to": 2025
   }
 ]
