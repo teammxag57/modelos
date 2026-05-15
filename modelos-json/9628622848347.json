@@ -5,14 +5,14 @@
     "to": 2023
   },
   {
-    "models": "Gasgas MC 85 17/14",
-    "from": 2022,
-    "to": 2023
+    "models": "Gasgas MC 85",
+    "from": 2021,
+    "to": 2026
   },
   {
-    "models": "Gasgas MC 85 19/16",
-    "from": 2021,
-    "to": 2023
+    "models": "Gasgas MC 85 17/14",
+    "from": 2022,
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 125",
@@ -20,24 +20,19 @@
     "to": 2022
   },
   {
-    "models": "Husqvarna TC 85 17/14",
+    "models": "Husqvarna TC 85",
     "from": 2018,
-    "to": 2025
+    "to": 2027
   },
   {
-    "models": "Husqvarna TC 85 19/16",
+    "models": "Husqvarna TC 85 17/14",
     "from": 2018,
-    "to": 2025
+    "to": 2027
   },
   {
     "models": "Husqvarna TE 150",
-    "from": 2017,
-    "to": 2023
-  },
-  {
-    "models": "Husqvarna TE 150i",
     "from": 2020,
-    "to": 2022
+    "to": 2023
   },
   {
     "models": "Husqvarna TX 125",
@@ -45,38 +40,28 @@
     "to": 2019
   },
   {
-    "models": "KTM 125 SX",
-    "from": 2017,
-    "to": 2022
-  },
-  {
-    "models": "KTM 125 XC-W",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM 150 EXC",
-    "from": 2023,
+    "models": "KTM EXC 150",
+    "from": 2020,
     "to": 2023
   },
   {
-    "models": "KTM 150 EXC TPI",
-    "from": 2020,
-    "to": 2022
-  },
-  {
-    "models": "KTM 150 SX",
+    "models": "KTM SX 125",
     "from": 2017,
     "to": 2022
   },
   {
-    "models": "KTM 85 SX 17/14",
-    "from": 2018,
-    "to": 2024
+    "models": "KTM SX 150",
+    "from": 2017,
+    "to": 2022
   },
   {
-    "models": "KTM 85 SX 19/16",
+    "models": "KTM SX 85",
     "from": 2018,
-    "to": 2024
+    "to": 2027
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2019
   }
 ]
