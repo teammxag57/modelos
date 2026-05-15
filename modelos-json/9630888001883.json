@@ -35,13 +35,13 @@
     "to": 2023
   },
   {
-    "models": "KTM SX 250",
-    "from": 2017,
-    "to": 2022
-  },
-  {
     "models": "KTM EXC 300",
     "from": 2017,
     "to": 2023
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2017,
+    "to": 2022
   }
 ]
