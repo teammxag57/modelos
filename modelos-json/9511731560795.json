@@ -11,42 +11,27 @@
   },
   {
     "models": "Yamaha YZ 125",
-    "from": 2010,
-    "to": 2025
-  },
-  {
-    "models": "Yamaha YZ 125 50th Anniversary Edition",
-    "from": 2024,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha YZ 125 Monster Energy",
-    "from": 2022,
-    "to": 2025
-  },
-  {
-    "models": "Yamaha YZ 125X",
-    "from": 2020,
-    "to": 2025
+    "from": 2005,
+    "to": 2021
   },
   {
     "models": "Yamaha YZ 250",
-    "from": 2010,
-    "to": 2025
+    "from": 2005,
+    "to": 2021
   },
   {
-    "models": "Yamaha YZ 250 50th Anniversary Edition",
-    "from": 2024,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha YZ 250 Monster Energy",
-    "from": 2022,
-    "to": 2025
+    "models": "Yamaha YZ 250F",
+    "from": 2007,
+    "to": 2013
   },
   {
     "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2025
+    "to": 2019
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2008,
+    "to": 2012
   }
 ]
