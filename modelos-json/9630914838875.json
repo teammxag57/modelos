@@ -20,13 +20,23 @@
     "to": 2016
   },
   {
+    "models": "KTM EXC 250F",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2005,
+    "to": 2016
+  },
+  {
     "models": "KTM EXC-E 250",
     "from": 2010,
     "to": 2010
   },
   {
-    "models": "KTM EXC 250F",
-    "from": 2006,
+    "models": "KTM EXC-E 300",
+    "from": 2007,
     "to": 2008
   },
   {
@@ -46,16 +56,6 @@
   },
   {
     "models": "KTM SXS 250F",
-    "from": 2007,
-    "to": 2008
-  },
-  {
-    "models": "KTM EXC 300",
-    "from": 2005,
-    "to": 2016
-  },
-  {
-    "models": "KTM EXC-E 300",
     "from": 2007,
     "to": 2008
   }
