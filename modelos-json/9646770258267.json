@@ -65,16 +65,6 @@
     "to": 2014
   },
   {
-    "models": "KTM SX 125",
-    "from": 2011,
-    "to": 2015
-  },
-  {
-    "models": "KTM SX 150",
-    "from": 2011,
-    "to": 2015
-  },
-  {
     "models": "KTM EXC 200",
     "from": 2012,
     "to": 2014
@@ -90,16 +80,6 @@
     "to": 2016
   },
   {
-    "models": "KTM SX 250",
-    "from": 2011,
-    "to": 2016
-  },
-  {
-    "models": "KTM SX 250F",
-    "from": 2011,
-    "to": 2015
-  },
-  {
     "models": "KTM EXC 300",
     "from": 2012,
     "to": 2015
@@ -110,12 +90,12 @@
     "to": 2016
   },
   {
-    "models": "KTM SX 350F",
-    "from": 2011,
-    "to": 2015
+    "models": "KTM EXC 450F",
+    "from": 2012,
+    "to": 2016
   },
   {
-    "models": "KTM EXC 450F",
+    "models": "KTM EXC 500F",
     "from": 2012,
     "to": 2016
   },
@@ -125,13 +105,33 @@
     "to": 2014
   },
   {
-    "models": "KTM SX 450F",
+    "models": "KTM SX 125",
     "from": 2011,
     "to": 2015
   },
   {
-    "models": "KTM EXC 500F",
-    "from": 2012,
+    "models": "KTM SX 150",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2011,
     "to": 2016
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2011,
+    "to": 2015
   }
 ]
