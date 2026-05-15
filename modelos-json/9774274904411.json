@@ -16,27 +16,12 @@
   },
   {
     "models": "Husqvarna TE 250",
-    "from": 2015,
-    "to": 2017
-  },
-  {
-    "models": "Husqvarna TE 250 2T",
     "from": 2014,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna TE 250 I",
-    "from": 2018,
     "to": 2019
   },
   {
     "models": "Husqvarna TE 300",
     "from": 2014,
-    "to": 2017
-  },
-  {
-    "models": "Husqvarna TE 300 I",
-    "from": 2018,
     "to": 2019
   },
   {
@@ -45,88 +30,73 @@
     "to": ""
   },
   {
-    "models": "Ktm 250 EXC",
+    "models": "KTM EXC 250",
     "from": 1998,
-    "to": 2017
+    "to": 2018
   },
   {
-    "models": "Ktm 250 EXC E-STARTER",
+    "models": "KTM EXC-E 250",
     "from": 2010,
     "to": ""
   },
   {
-    "models": "Ktm 250 EXC TPI",
-    "from": 2018,
-    "to": ""
-  },
-  {
-    "models": "Ktm 250 EXC-F",
+    "models": "KTM EXC 250F",
     "from": 2006,
     "to": 2016
   },
   {
-    "models": "Ktm 250 SX",
+    "models": "KTM SX 250",
     "from": 2002,
     "to": 2020
   },
   {
-    "models": "Ktm 250 SX-F",
+    "models": "KTM SX 250F",
     "from": 2006,
     "to": 2011
   },
   {
-    "models": "Ktm 300 EXC",
+    "models": "KTM EXC 300",
     "from": 2004,
-    "to": 2017
-  },
-  {
-    "models": "Ktm 300 EXC TPI",
-    "from": 2018,
     "to": 2019
   },
   {
-    "models": "Ktm 300 XC",
+    "models": "KTM XC 300",
     "from": 2011,
     "to": 2016
   },
   {
-    "models": "Ktm 350 EXC-F",
+    "models": "KTM EXC 350F",
     "from": 2012,
     "to": 2016
   },
   {
-    "models": "Ktm 350 XC-F",
+    "models": "Ktm XC-F 350",
     "from": 2011,
     "to": 2016
   },
   {
-    "models": "Ktm 400 EXC",
+    "models": "KTM EXC 400F",
     "from": 2009,
     "to": 2011
   },
   {
-    "models": "Ktm 450 EXC",
+    "models": "KTM EXC 450F",
     "from": 2009,
     "to": 2016
   },
   {
-    "models": "Ktm 500 EXC",
+    "models": "KTM EXC 500F",
     "from": 2012,
     "to": 2016
   },
   {
-    "models": "Ktm 525 EXC RACING",
+    "models": "KTM EXC 525 RACING",
     "from": 2007,
     "to": ""
   },
   {
-    "models": "Ktm 530 EXC",
-    "from": 2009,
-    "to": 2011
-  },
-  {
-    "models": "Ktm 530 EXC RACING",
+    "models": "KTM EXC 530",
     "from": 2008,
-    "to": ""
+    "to": 2011
   }
 ]
