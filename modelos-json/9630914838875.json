@@ -1,13 +1,8 @@
 [
   {
     "models": "Husqvarna TC 250",
-    "from": 2015,
-    "to": 2016
-  },
-  {
-    "models": "Husqvarna TC 250 HQV",
     "from": 2014,
-    "to": 2014
+    "to": 2016
   },
   {
     "models": "Husqvarna TE 250",
@@ -15,62 +10,52 @@
     "to": 2016
   },
   {
-    "models": "Husqvarna TE 250 HQV",
-    "from": 2014,
-    "to": 2014
-  },
-  {
     "models": "Husqvarna TE 300",
     "from": 2011,
     "to": 2016
   },
   {
-    "models": "Husqvarna TE 300 HQV",
-    "from": 2014,
-    "to": 2014
-  },
-  {
-    "models": "KTM 250 EXC",
+    "models": "KTM EXC 250",
     "from": 2005,
     "to": 2016
   },
   {
-    "models": "KTM 250 EXC E-STARTER",
+    "models": "KTM EXC-E 250",
     "from": 2010,
     "to": 2010
   },
   {
-    "models": "KTM 250 EXC-F",
+    "models": "KTM EXC 250F",
     "from": 2006,
     "to": 2008
   },
   {
-    "models": "KTM 250 SX",
+    "models": "KTM SX 250",
     "from": 2005,
     "to": 2016
   },
   {
-    "models": "KTM 250 SX-F",
+    "models": "KTM SX 250F",
     "from": 2005,
     "to": 2010
   },
   {
-    "models": "KTM 250 SXS",
+    "models": "KTM SXS 250",
     "from": 2005,
     "to": 2007
   },
   {
-    "models": "KTM 250 SXS-F",
+    "models": "KTM SXS 250F",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "KTM 300 EXC",
+    "models": "KTM EXC 300",
     "from": 2005,
     "to": 2016
   },
   {
-    "models": "KTM 300 EXC-E",
+    "models": "KTM EXC-E 300",
     "from": 2007,
     "to": 2008
   }
