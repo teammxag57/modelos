@@ -1,5 +1,25 @@
 [
   {
+    "models": "Fantic XX 125",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Fantic XX 250",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Fantic XX 250F",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Fantic XX 450F",
+    "from": 2022,
+    "to": ""
+  },
+  {
     "models": "Husqvarna CR 125",
     "from": 2010,
     "to": 2013
@@ -98,25 +118,5 @@
     "models": "Yamaha YZ 450FX",
     "from": 2016,
     "to": 2020
-  },
-  {
-    "models": "Fantic XX 125",
-    "from": 2022,
-    "to": 2026
-  },
-  {
-    "models": "Fantic XX 250",
-    "from": 2022,
-    "to": 2026
-  },
-  {
-    "models": "Fantic XX 250F",
-    "from": 2022,
-    "to": 2026
-  },
-  {
-    "models": "Fantic XX 450F",
-    "from": 2022,
-    "to": ""
   }
 ]
