@@ -22,65 +22,65 @@
   {
     "models": "GasGas EX 250",
     "from": 2023,
-    "to": 2023
+    "to": ""
   },
   {
     "models": "GasGas EX 250F",
     "from": 2023,
-    "to": 2023
+    "to": ""
   },
   {
     "models": "GasGas EX 300",
     "from": 2023,
-    "to": 2023
+    "to": ""
   },
   {
     "models": "GasGas EX 350F",
     "from": 2023,
-    "to": 2023
+    "to": ""
   },
   {
     "models": "GasGas EX 450F",
     "from": 2023,
-    "to": 2023
+    "to": ""
   },
   {
     "models": "GasGas MC 125",
     "from": 2023,
-    "to": 2023
+    "to": ""
   },
   {
     "models": "GasGas MC 250",
     "from": 2023,
-    "to": 2023
+    "to": ""
   },
   {
     "models": "GasGas MC 250F",
     "from": 2023,
-    "to": 2023
+    "to": ""
   },
   {
     "models": "GasGas MC 350F",
     "from": 2023,
-    "to": 2023
+    "to": ""
   },
   {
     "models": "GasGas MC 450F",
     "from": 2023,
-    "to": 2023
+    "to": ""
   },
   {
-    "models": "Husqvarna FC 450",
+    "models": "Husqvarna FC 450F",
     "from": 2023,
-    "to": 2023
+    "to": ""
   },
   {
-    "models": "Husqvarna FE 250",
+    "models": "Husqvarna FE 250F",
     "from": 2022,
     "to": 2023
   },
   {
-    "models": "Husqvarna FE 350",
+    "models": "Husqvarna FE 350F",
     "from": 2022,
     "to": 2023
   },
@@ -90,12 +90,12 @@
     "to": 2023
   },
   {
-    "models": "Husqvarna FE 450",
+    "models": "Husqvarna FE 450F",
     "from": 2022,
     "to": 2023
   },
   {
-    "models": "Husqvarna FE 501",
+    "models": "Husqvarna FE 501F",
     "from": 2022,
     "to": 2023
   },
@@ -105,14 +105,14 @@
     "to": 2023
   },
   {
-    "models": "Husqvarna FX 350",
+    "models": "Husqvarna FX 350F",
     "from": 2023,
-    "to": 2023
+    "to": ""
   },
   {
-    "models": "Husqvarna FX 450",
+    "models": "Husqvarna FX 450F",
     "from": 2023,
-    "to": 2023
+    "to": ""
   },
   {
     "models": "Husqvarna TE 150",
@@ -135,8 +135,8 @@
     "to": 2024
   },
   {
-    "models": "KTM 250 EXC-F",
+    "models": "KTM EXC 250F",
     "from": 2023,
-    "to": 2023
+    "to": ""
   }
 ]
