@@ -2,7 +2,7 @@
   {
     "models": "KTM SX 85",
     "from": 2021,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "KTM Freeride E-XC",
@@ -12,6 +12,11 @@
   {
     "models": "Husqvarna TC 85",
     "from": 2021,
-    "to": 2026
+    "to": 2027
+  },
+  {
+    "models": "Gasgas MC 85",
+    "from": 2021,
+    "to": 2027
   }
 ]
