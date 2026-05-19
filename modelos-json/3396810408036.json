@@ -1,13 +1,18 @@
 [
   {
-    "models": "GasGas MC 65",
+    "models": "Gasgas MC 65",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "GasGas MC 85",
+    "models": "Gasgas MC 85",
     "from": 2021,
-    "to": 2025
+    "to": 2027
+  },
+  {
+    "models": "Gasgas MC 85 17/14",
+    "from": 2022,
+    "to": 2027
   },
   {
     "models": "Husqvarna TC 65",
@@ -17,37 +22,17 @@
   {
     "models": "Husqvarna TC 85",
     "from": 2014,
-    "to": 2025
+    "to": 2027
   },
   {
-    "models": "KTM SX 65",
+    "models": "Husqvarna TC 85 17/14",
     "from": 2014,
-    "to": 2023
+    "to": 2027
   },
   {
-    "models": "KTM SXS 65",
+    "models": "KTM Freeride 250F",
     "from": 2014,
-    "to": 2015
-  },
-  {
-    "models": "KTM 85 SX",
-    "from": 2014,
-    "to": 2025
-  },
-  {
-    "models": "KTM 85 SXS",
-    "from": 2014,
-    "to": 2015
-  },
-  {
-    "models": "KTM Freeride 250 F",
-    "from": 2018,
     "to": 2020
-  },
-  {
-    "models": "KTM Freeride 250 R",
-    "from": 2014,
-    "to": 2017
   },
   {
     "models": "KTM Freeride 350",
@@ -55,18 +40,33 @@
     "to": 2017
   },
   {
-    "models": "KTM Freeride E-SM",
+    "models": "KTM FREERIDE E-SM",
     "from": 2015,
-    "to": 2017
+    "to": 2016
   },
   {
-    "models": "KTM Freeride E-SX",
+    "models": "KTM FREERIDE E-SX",
     "from": 2014,
-    "to": 2017
+    "to": 2016
   },
   {
-    "models": "KTM Freeride E-XC",
+    "models": "KTM FREERIDE E-XC",
     "from": 2015,
     "to": 2023
+  },
+  {
+    "models": "KTM Freeride E-XC NG",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 65",
+    "from": 2014,
+    "to": 2023
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2014,
+    "to": 2027
   }
 ]
