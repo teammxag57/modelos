@@ -1,77 +1,62 @@
 [
   {
-    "models": "Husqvarna FC 250",
+    "models": "Husqvarna FC 250F",
     "from": 2018,
-    "to": 2018
+    "to": ""
   },
   {
-    "models": "Husqvarna FC 350",
+    "models": "Husqvarna FC 350F",
     "from": 2018,
-    "to": 2018
+    "to": ""
   },
   {
-    "models": "Husqvarna FC 450",
+    "models": "Husqvarna FC 450F",
     "from": 2018,
-    "to": 2018
+    "to": ""
   },
   {
-    "models": "Husqvarna FE 250",
-    "from": 2018,
-    "to": 2021
-  },
-  {
-    "models": "Husqvarna FE 350",
+    "models": "Husqvarna FE 250F",
     "from": 2018,
     "to": 2021
   },
   {
-    "models": "Husqvarna FE 350 Rockstar Edition",
+    "models": "Husqvarna FE 350 ROCKSTAR EDITION",
     "from": 2021,
-    "to": 2021
+    "to": ""
   },
   {
-    "models": "Husqvarna FE 350S",
-    "from": 2020,
-    "to": 2021
-  },
-  {
-    "models": "Husqvarna FE 450",
+    "models": "Husqvarna FE 350F",
     "from": 2018,
     "to": 2021
   },
   {
-    "models": "Husqvarna FE 501",
+    "models": "Husqvarna FE 450F",
     "from": 2018,
     "to": 2021
   },
   {
-    "models": "Husqvarna FE 501S",
-    "from": 2020,
-    "to": 2021
-  },
-  {
-    "models": "Husqvarna FX 350",
+    "models": "Husqvarna FE 501F",
     "from": 2018,
     "to": 2021
   },
   {
-    "models": "Husqvarna FX 450",
-    "from": 2018,
-    "to": 2021
+    "models": "Husqvarna FX 350F",
+    "from": 2019,
+    "to": ""
   },
   {
     "models": "Husqvarna TC 125",
     "from": 2018,
-    "to": 2018
+    "to": ""
   },
   {
     "models": "Husqvarna TC 250",
     "from": 2018,
-    "to": 2018
+    "to": ""
   },
   {
     "models": "Husqvarna TE 150",
-    "from": 2018,
+    "from": 2020,
     "to": 2021
   },
   {
@@ -85,14 +70,14 @@
     "to": 2021
   },
   {
-    "models": "Husqvarna TE 300 Jarvis Edition",
+    "models": "Husqvarna TE 300i JARVIS EDITION",
     "from": 2020,
-    "to": 2020
+    "to": ""
   },
   {
-    "models": "Husqvarna TE 300 RockStar Edition",
+    "models": "Husqvarna TE 300i ROCKSTAR EDITION",
     "from": 2021,
-    "to": 2021
+    "to": ""
   },
   {
     "models": "Husqvarna TX 125",
@@ -101,7 +86,7 @@
   },
   {
     "models": "Husqvarna TX 300",
-    "from": 2018,
-    "to": 2021
+    "from": 2019,
+    "to": ""
   }
 ]
