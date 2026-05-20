@@ -732,7 +732,7 @@
   {
     "models": "KTM BRABUS 1300 R",
     "from": 2022,
-    "to": ""
+    "to": 2023
   },
   {
     "models": "KTM BRABUS 1300 R gold",
@@ -746,16 +746,6 @@
   },
   {
     "models": "KTM BRABUS 1300 R����������������",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "KTM BRABUS 1300 R, red",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "KTM BRABUS 1300 R, white gold",
     "from": 2023,
     "to": ""
   },
