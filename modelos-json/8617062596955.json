@@ -270,6 +270,11 @@
     "to": 2027
   },
   {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2027
+  },
+  {
     "models": "KTM SX 350F",
     "from": 2011,
     "to": 2027
@@ -418,10 +423,5 @@
     "models": "Triumph TF 450X",
     "from": 2025,
     "to": 2026
-  },
-  {
-    "models": "KTM SX 300",
-    "from": 2023,
-    "to": 2027
   }
 ]
