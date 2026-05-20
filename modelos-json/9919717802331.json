@@ -12,27 +12,37 @@
   {
     "models": "Gasgas MC 50",
     "from": 2021,
-    "to": 2025
+    "to": 2027
   },
   {
     "models": "Gasgas MC 65",
     "from": 2021,
-    "to": 2025
+    "to": 2027
+  },
+  {
+    "models": "Gasgas MC 85",
+    "from": 2025,
+    "to": 2027
   },
   {
     "models": "Gasgas MC 85 17/14",
     "from": 2025,
-    "to": 2025
+    "to": 2027
   },
   {
-    "models": "Gasgas MC 85 19/16",
-    "from": 2025,
-    "to": 2025
+    "models": "Husqvarna NORDEN 901",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna NORDEN 901 EXPEDITION",
+    "from": 2023,
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 50",
     "from": 2017,
-    "to": 2025
+    "to": 2027
   },
   {
     "models": "Husqvarna TC 50 MINI",
@@ -42,46 +52,126 @@
   {
     "models": "Husqvarna TC 65",
     "from": 2017,
-    "to": 2025
+    "to": 2027
+  },
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2025,
+    "to": 2027
   },
   {
     "models": "Husqvarna TC 85 17/14",
     "from": 2025,
-    "to": 2025
+    "to": 2027
   },
   {
-    "models": "Husqvarna TC 85 19/16",
-    "from": 2025,
-    "to": 2025
+    "models": "KTM 1290 SUPER ADVENTURE R",
+    "from": 2017,
+    "to": 2024
   },
   {
-    "models": "KTM 50 SX",
+    "models": "KTM 1290 SUPER ADVENTURE R OT",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "KTM 1290 SUPER ADVENTURE S",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "KTM 1290 SUPER DUKE GT",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "KTM 1390 SUPER ADVENTURE R",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM 1390 SUPER ADVENTURE R OT",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM 1390 SUPER ADVENTURE S",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM 1390 SUPER ADVENTURE S EVO",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "KTM 790 Adventure",
+    "from": 2019,
+    "to": 2026
+  },
+  {
+    "models": "KTM 790 Adventure R",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "KTM 790 Adventure R Rally",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "KTM 790 Adventure, white",
+    "from": 2019,
+    "to": 2026
+  },
+  {
+    "models": "KTM 890 ADVENTURE",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "KTM 890 ADVENTURE L",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "KTM 890 ADVENTURE R",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "KTM 890 ADVENTURE R RALLY",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "KTM 890 SMT",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "KTM 990 ADVENTURE ORANGE ABS",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 50",
     "from": 2012,
-    "to": 2025
+    "to": 2027
   },
   {
-    "models": "KTM 50 SX FACTORY EDITION",
+    "models": "KTM SX 50 FACTORY EDITION",
     "from": 2025,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "KTM 50 SX MINI",
-    "from": 2012,
-    "to": 2023
-  },
-  {
-    "models": "KTM 65 SX",
+    "models": "KTM SX 65",
     "from": 2013,
-    "to": 2025
+    "to": 2027
   },
   {
-    "models": "KTM 85 SX 17/14",
+    "models": "KTM SX 85",
     "from": 2025,
-    "to": 2025
-  },
-  {
-    "models": "KTM 85 SX 19/16",
-    "from": 2025,
-    "to": 2025
+    "to": 2027
   }
 ]
