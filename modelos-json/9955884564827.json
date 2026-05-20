@@ -50,6 +50,11 @@
     "to": 2027
   },
   {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2027
+  },
+  {
     "models": "KTM SX 350F",
     "from": 2023,
     "to": 2027
@@ -108,10 +113,5 @@
     "models": "KTM XCF-W 450",
     "from": 2024,
     "to": 2026
-  },
-  {
-    "models": "KTM SX 300",
-    "from": 2023,
-    "to": 2027
   }
 ]
