@@ -1,8 +1,13 @@
 [
   {
-    "models": "KTM 250 EXC-F",
-    "from": 2008,
-    "to": 2013
+    "models": "KTM 250 EXC-F CHAMPION EDIT.",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC-F FACTORY EDIT.",
+    "from": 2011,
+    "to": ""
   },
   {
     "models": "KTM 250 EXC-F SIX DAYS",
@@ -10,13 +15,23 @@
     "to": 2013
   },
   {
-    "models": "KTM 250 SX-F",
-    "from": 2008,
-    "to": 2010
+    "models": "KTM 250 SX-F FACT.REPL.MUSQ. ED",
+    "from": 2010,
+    "to": ""
   },
   {
     "models": "KTM 250 SXS-F",
     "from": 2008,
-    "to": 2008
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2008,
+    "to": 2013
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2008,
+    "to": 2010
   }
 ]
