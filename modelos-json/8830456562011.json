@@ -10,6 +10,11 @@
     "to": 2026
   },
   {
+    "models": "Gasgas MC 300",
+    "from": 2025,
+    "to": 2026
+  },
+  {
     "models": "Husqvarna TC 300",
     "from": 2025,
     "to": 2026
@@ -38,10 +43,5 @@
     "models": "KTM XC 300W",
     "from": 2024,
     "to": 2025
-  },
-  {
-    "models": "Gasgas MC 300",
-    "from": 2025,
-    "to": 2026
   }
 ]
