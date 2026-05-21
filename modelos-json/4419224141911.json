@@ -42,11 +42,31 @@
   {
     "models": "KTM SX 125",
     "from": 2007,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "KTM XC 125W",
     "from": 2017,
-    "to": 2022
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 125",
+    "from": 2021,
+    "to": 2027
+  },
+  {
+    "models": "KTM XC 150W",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2016,
+    "to": 2025
   }
 ]
