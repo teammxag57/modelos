@@ -17,7 +17,7 @@
   {
     "models": "Husqvarna TC 250",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 250",
@@ -27,12 +27,12 @@
   {
     "models": "KTM EXC 250",
     "from": 2006,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM SX 250",
     "from": 2006,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "KTM XC 250",
@@ -42,6 +42,6 @@
   {
     "models": "KTM XC 250W",
     "from": 2018,
-    "to": 2024
+    "to": 2026
   }
 ]
