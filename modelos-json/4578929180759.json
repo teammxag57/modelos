@@ -2,27 +2,32 @@
   {
     "models": "GasGas EC 250",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "GasGas EC 300",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "GasGas EX 250",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "GasGas EX 300",
     "from": 2021,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "GasGas MC 250",
     "from": 2022,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "GasGas MC 300",
+    "from": 2025,
+    "to": ""
   },
   {
     "models": "Husaberg FE 350",
@@ -57,27 +62,57 @@
   {
     "models": "Husqvarna TC 250",
     "from": 2014,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 300",
+    "from": 2025,
+    "to": ""
   },
   {
     "models": "Husqvarna TE 250",
     "from": 2014,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Husqvarna TE 300",
     "from": 2014,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 300 Jarvis Edition",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 300 RockStar Edition",
+    "from": 2021,
+    "to": 2022
   },
   {
     "models": "Husqvarna TX 300",
     "from": 2017,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM 250 EXC",
     "from": 2013,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "KTM 250 EXC Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC Factory Edition",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC Six Days",
+    "from": 2013,
+    "to": 2025
   },
   {
     "models": "KTM 250 EXC-F",
@@ -87,55 +122,105 @@
   {
     "models": "KTM 250 SX",
     "from": 2013,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM 250 XC",
     "from": 2013,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM 250 XCF-W",
     "from": 2014,
-    "to": 2014
+    "to": ""
   },
   {
     "models": "KTM 250 XC-W",
     "from": 2013,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM 300 EXC",
     "from": 2013,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 EXC Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM 300 EXC Erzberg Edition",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM 300 EXC Factory Edition",
+    "from": 2015,
+    "to": ""
   },
   {
     "models": "KTM 300 EXC Hard Enduro",
     "from": 2024,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 EXC Six Days",
+    "from": 2013,
+    "to": 2025
   },
   {
     "models": "KTM 300 SX",
     "from": 2023,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM 300 XC",
     "from": 2013,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "KTM 300 XC-W",
     "from": 2013,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 XC-W Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM 300 XC-W Erzberg Edition",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM 300 XC-W Factory Edition",
+    "from": 2025,
+    "to": ""
   },
   {
     "models": "KTM 300 XC-W Hard Enduro",
     "from": 2024,
-    "to": 2024
+    "to": 2025
+  },
+  {
+    "models": "KTM 300 XC-W Six Days",
+    "from": 2014,
+    "to": 2020
   },
   {
     "models": "KTM 350 EXC-F",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "KTM 350 EXC-F Factory Edition",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "KTM 350 EXC-F Six Days",
     "from": 2012,
     "to": 2017
   },
@@ -145,9 +230,19 @@
     "to": 2019
   },
   {
+    "models": "KTM 350 XCF-W Six Days",
+    "from": 2014,
+    "to": 2016
+  },
+  {
     "models": "KTM 450 EXC-F",
     "from": 2012,
     "to": 2015
+  },
+  {
+    "models": "KTM 450 EXC-F Six Days",
+    "from": 2012,
+    "to": ""
   },
   {
     "models": "KTM 450 SX-F",
@@ -157,17 +252,22 @@
   {
     "models": "KTM 450 XC-F",
     "from": 2013,
-    "to": 2013
+    "to": ""
   },
   {
     "models": "KTM 450 XCF-W",
     "from": 2012,
-    "to": 2012
+    "to": ""
   },
   {
     "models": "KTM 500 EXC-F",
     "from": 2012,
     "to": 2015
+  },
+  {
+    "models": "KTM 500 EXC-F Six Days",
+    "from": 2012,
+    "to": ""
   },
   {
     "models": "KTM 500 XCF-W",
