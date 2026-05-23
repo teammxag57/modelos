@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2017,
+    "to": 2019
+  }
+]
