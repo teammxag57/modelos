@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Gasgas 125 Enduro",
+    "from": 2008,
+    "to": 2017
+  },
+  {
+    "models": "Gasgas EC 125",
+    "from": 2007,
+    "to": 2017
+  },
+  {
+    "models": "Gasgas EC 200",
+    "from": 2007,
+    "to": 2017
+  },
+  {
+    "models": "GasGas EC 250",
+    "from": 2007,
+    "to": 2017
+  },
+  {
+    "models": "GasGas EC 300",
+    "from": 2007,
+    "to": 2017
+  }
+]
