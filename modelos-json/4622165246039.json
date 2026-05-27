@@ -1,33 +1,33 @@
 [
   {
-    "models": "Honda CR 125R",
+    "models": "Honda CR 125",
     "from": 1995,
     "to": 2007
   },
   {
-    "models": "Honda CR 250R",
+    "models": "Honda CR 250",
     "from": 1995,
     "to": 2007
   },
   {
-    "models": "Honda CR 500R",
+    "models": "Honda CR 500",
     "from": 1995,
     "to": 2001
   },
   {
     "models": "Honda CRF 250R",
     "from": 2004,
-    "to": 2018
+    "to": 2026
   },
   {
     "models": "Honda CRF 450R",
     "from": 2002,
-    "to": 2018
+    "to": 2026
   },
   {
     "models": "Honda CRF 450RX",
     "from": 2017,
-    "to": 2018
+    "to": 2026
   },
   {
     "models": "Kawasaki KLX 140",
@@ -63,5 +63,25 @@
     "models": "KTM 520 SX-F",
     "from": 2000,
     "to": 2002
+  },
+  {
+    "models": "Honda CRF 250RX",
+    "from": 2019,
+    "to": 2026
+  },
+  {
+    "models": "Honda CRF 450X",
+    "from": 2019,
+    "to": 2026
+  },
+  {
+    "models": "Ducati Desmo 450 MX",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Ducati Desmo 450 EDS",
+    "from": 2026,
+    "to": ""
   }
 ]
