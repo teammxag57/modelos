@@ -1,117 +1,32 @@
 [
   {
-    "models": "Husqvarna CR 125",
-    "from": 1992,
-    "to": 2013
+    "models": "Honda CRF 250R",
+    "from": 2022,
+    "to": 2026
   },
   {
-    "models": "Husqvarna CR 250",
-    "from": 1992,
-    "to": 2013
+    "models": "Honda CRF 250RWE",
+    "from": 2025,
+    "to": 2026
   },
   {
-    "models": "Husqvarna TC 250",
-    "from": 2002,
-    "to": 2013
+    "models": "Honda CRF 250RX",
+    "from": 2022,
+    "to": 2026
   },
   {
-    "models": "Husqvarna TC 450",
-    "from": 2007,
-    "to": 2012
+    "models": "Honda CRF 450R",
+    "from": 2021,
+    "to": 2026
   },
   {
-    "models": "Husqvarna TC 510",
-    "from": 2005,
-    "to": 2011
+    "models": "Honda CRF 450RWE",
+    "from": 2021,
+    "to": 2026
   },
   {
-    "models": "Husqvarna TC 570",
-    "from": 2001,
-    "to": 2003
-  },
-  {
-    "models": "Husqvarna TC 610",
-    "from": 1993,
-    "to": 2006
-  },
-  {
-    "models": "Husqvarna TE 250",
-    "from": 2002,
-    "to": 2013
-  },
-  {
-    "models": "Husqvarna TE 310",
-    "from": 2009,
-    "to": 2013
-  },
-  {
-    "models": "Husqvarna TE 350",
-    "from": 1992,
-    "to": 1995
-  },
-  {
-    "models": "Husqvarna TE 450",
-    "from": 2008,
-    "to": 2010
-  },
-  {
-    "models": "Husqvarna TE 510",
-    "from": 2004,
-    "to": 2010
-  },
-  {
-    "models": "Husqvarna TXC 250",
-    "from": 2002,
-    "to": 2013
-  },
-  {
-    "models": "Husqvarna TXC 450",
-    "from": 2002,
-    "to": 2013
-  },
-  {
-    "models": "Husqvarna WR 125",
-    "from": 1992,
-    "to": 2013
-  },
-  {
-    "models": "Husqvarna WR 250",
-    "from": 1992,
-    "to": 2013
-  },
-  {
-    "models": "Husqvarna WR 300",
-    "from": 2009,
-    "to": 2012
-  },
-  {
-    "models": "Husqvarna WR 360",
-    "from": 1992,
-    "to": 2003
-  },
-  {
-    "models": "Husqvarna WRE 125",
-    "from": 1995,
-    "to": 1999
-  },
-  {
-    "models": "SWM RS 300R",
-    "from": 2015,
-    "to": 2021
-  },
-  {
-    "models": "SWM RS 500R",
-    "from": 2015,
-    "to": 2021
-  },
-  {
-    "models": "SWM SM 300",
-    "from": 2015,
-    "to": 2021
-  },
-  {
-    "models": "SWM SM 500R",
-    "from": 2015,
-    "to": 2021
+    "models": "Honda CRF 450RX",
+    "from": 2021,
+    "to": 2026
   }
 ]
