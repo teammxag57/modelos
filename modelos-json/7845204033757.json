@@ -1,16 +1,16 @@
 [
   {
-    "models": "Yamaha WRF 250",
+    "models": "Yamaha WR 250F",
     "from": 2004,
     "to": 2005
   },
   {
-    "models": "Yamaha WRF 426",
+    "models": "Yamaha WR 426F",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "Yamaha WRF 450",
+    "models": "Yamaha WR 450F",
     "from": 2003,
     "to": 2004
   },
@@ -25,17 +25,17 @@
     "to": 2004
   },
   {
-    "models": "Yamaha YZF 250",
+    "models": "Yamaha YZ 250F",
     "from": 2001,
     "to": 2004
   },
   {
-    "models": "Yamaha YZF 426",
+    "models": "Yamaha YZ 426F",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "Yamaha YZF 450",
+    "models": "Yamaha YZ 450F",
     "from": 2003,
     "to": 2004
   }
