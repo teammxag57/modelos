@@ -1,22 +1,47 @@
 [
   {
-    "models": "Suzuki RM 125",
-    "from": 1989,
-    "to": 1991
-  },
-  {
-    "models": "Suzuki RM 80",
-    "from": 1986,
-    "to": 2001
-  },
-  {
-    "models": "Suzuki RM 85",
-    "from": 2002,
-    "to": 2012
-  },
-  {
     "models": "Yamaha YZ 125",
-    "from": 2000,
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "Yamaha YFM 660 Raptor",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "Yamaha XT 600",
+    "from": 1989,
+    "to": 1995
+  },
+  {
+    "models": "Yamaha TT 600",
+    "from": 1983,
+    "to": 1986
+  },
+  {
+    "models": "Yamaha DT-R 200",
+    "from": 2008,
     "to": 2020
+  },
+  {
+    "models": "Yamaha IT 200",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Yamaha YFM 250 Raptor",
+    "from": 2008,
+    "to": 2013
+  },
+  {
+    "models": "Yamaha YFM 350 Warrior",
+    "from": 1987,
+    "to": 2004
+  },
+  {
+    "models": "Yamaha YFM 350 Raptor",
+    "from": 2005,
+    "to": 2013
   }
 ]
