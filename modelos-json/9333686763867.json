@@ -10,9 +10,19 @@
     "to": 2022
   },
   {
+    "models": "Fantic XX 250",
+    "from": 2022,
+    "to": 2026
+  },
+  {
     "models": "Yamaha YZ 125",
     "from": 1999,
     "to": 2021
+  },
+  {
+    "models": "Yamaha YZ 125X",
+    "from": 2020,
+    "to": 2022
   },
   {
     "models": "Yamaha YZ 250",
@@ -25,18 +35,8 @@
     "to": 2026
   },
   {
-    "models": "Yamaha YZ 125X",
-    "from": 2020,
-    "to": 2022
-  },
-  {
     "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2026
-  },
-  {
-    "models": "Fantic XX 250",
-    "from": 2022,
     "to": 2026
   }
 ]
