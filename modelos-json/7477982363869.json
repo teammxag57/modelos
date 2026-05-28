@@ -17,7 +17,7 @@
   {
     "models": "Husqvarna TC 125",
     "from": 2014,
-    "to": 2019
+    "to": 2018
   },
   {
     "models": "Husqvarna TC 4T 250",
@@ -25,7 +25,7 @@
     "to": 2013
   },
   {
-    "models": "Husqvarna TE 2T 125",
+    "models": "Husqvarna TE 125",
     "from": 2014,
     "to": 2016
   },
@@ -35,19 +35,9 @@
     "to": 2013
   },
   {
-    "models": "Husqvarna TX 2T 125",
+    "models": "Husqvarna TX 125",
     "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "Husqvarna TXC Cross Country 250",
-    "from": 2010,
-    "to": 2013
-  },
-  {
-    "models": "Husqvarna TXC Cross Country 310",
-    "from": 2012,
-    "to": 2013
+    "to": 2018
   },
   {
     "models": "Husqvarna WRE 125",
@@ -55,12 +45,12 @@
     "to": 2012
   },
   {
-    "models": "KTM EXC 2T 125",
+    "models": "KTM EXC 125",
     "from": 1998,
-    "to": 2013
+    "to": 2016
   },
   {
-    "models": "KTM EXC 2T 200",
+    "models": "KTM EXC 200",
     "from": 1998,
     "to": 2016
   },
@@ -70,23 +60,53 @@
     "to": 2001
   },
   {
-    "models": "KTM SX 2T 125",
+    "models": "KTM SX 125",
     "from": 1998,
     "to": 2018
   },
   {
-    "models": "KTM SX 2T 150",
+    "models": "KTM SX 200",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM XC 150",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 125",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "KTM SX 144",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 150",
     "from": 2009,
-    "to": 2017
+    "to": 2018
   },
   {
-    "models": "KTM SX 2T 200",
-    "from": 1900,
-    "to": 2004
+    "models": "KTM XC 150W",
+    "from": 2017,
+    "to": 2018
   },
   {
-    "models": "KTM XC 2T (USA) 150",
-    "from": 2011,
-    "to": 2013
+    "models": "KTM XC 200W",
+    "from": 2006,
+    "to": 2016
   }
 ]
