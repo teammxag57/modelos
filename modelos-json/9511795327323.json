@@ -10,19 +10,19 @@
     "to": 2012
   },
   {
-    "models": "Yamaha TT-R125 LW",
+    "models": "Yamaha TT-R 125LW",
     "from": 2013,
     "to": 2016
   },
   {
-    "models": "Yamaha TT-R125 LWE",
+    "models": "Yamaha TT-R 125LWE",
     "from": 2013,
     "to": 2017
   },
   {
     "models": "Yamaha TY 250R",
     "from": 1991,
-    "to": 1991
+    "to": ""
   },
   {
     "models": "Yamaha TY 250Z",
@@ -87,27 +87,17 @@
   {
     "models": "Yamaha YZ 490",
     "from": 1987,
-    "to": 1987
+    "to": ""
+  },
+  {
+    "models": "Yamaha YZ 8",
+    "from": 2002,
+    "to": 2003
   },
   {
     "models": "Yamaha YZ 80",
     "from": 1986,
-    "to": 1996
-  },
-  {
-    "models": "Yamaha YZ 80",
-    "from": 2001,
-    "to": ""
-  },
-  {
-    "models": "Yamaha YZ125LC",
-    "from": 1990,
-    "to": 1995
-  },
-  {
-    "models": "Yamaha YZ85",
-    "from": 2002,
-    "to": 2003
+    "to": 2001
   },
   {
     "models": "Yamaha YZF 250",
