@@ -80,13 +80,13 @@
     "to": 1993
   },
   {
-    "models": "Yamaha TT R 125",
-    "from": 1900,
-    "to": 2004
+    "models": "Yamaha TT-R 125",
+    "from": 2001,
+    "to": 2012
   },
   {
-    "models": "Yamaha TT R LW Big Wheels 125",
-    "from": 1900,
+    "models": "Yamaha TT-R 125LW",
+    "from": 2013,
     "to": 2016
   },
   {
@@ -105,28 +105,28 @@
     "to": 1996
   },
   {
-    "models": "Yamaha XT R Enduro Euro3 125",
+    "models": "Yamaha XT-R 125",
     "from": 2005,
     "to": 2012
   },
   {
-    "models": "Yamaha XT X SM Euro3 125",
+    "models": "Yamaha XT-X 125",
     "from": 2005,
     "to": 2012
   },
   {
-    "models": "Yamaha YBR Euro3 125",
+    "models": "Yamaha YBR 125",
     "from": 2006,
     "to": 2016
   },
   {
-    "models": "Yamaha YFS Blaster 2WD 200",
+    "models": "Yamaha YFS 200 Blaster",
     "from": 1988,
     "to": 2006
   },
   {
     "models": "Yamaha YZ 80",
-    "from": 1981,
+    "from": 1986,
     "to": 2001
   }
 ]
