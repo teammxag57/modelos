@@ -1,16 +1,11 @@
 [
   {
-    "models": "KTM EXE 2T 125",
+    "models": "KTM EXE 125",
     "from": 1900,
     "to": 2001
   },
   {
-    "models": "KTM SX (17/14) 85",
-    "from": 2003,
-    "to": 2017
-  },
-  {
-    "models": "KTM SX (19/16)  85",
+    "models": "KTM SX 85",
     "from": 2003,
     "to": 2017
   },
