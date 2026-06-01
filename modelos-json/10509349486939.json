@@ -25,29 +25,9 @@
     "to": 2026
   },
   {
-    "models": "Yamaha WR25R",
-    "from": 2014,
-    "to": 2018
-  },
-  {
-    "models": "Yamaha WR25RB",
-    "from": 2012,
-    "to": ""
-  },
-  {
     "models": "Yamaha YZ 125",
     "from": 2004,
     "to": 2026
-  },
-  {
-    "models": "Yamaha YZ 125 50TH",
-    "from": 2023,
-    "to": 2026
-  },
-  {
-    "models": "Yamaha YZ 125 70TH ANNIVERSA",
-    "from": 2025,
-    "to": ""
   },
   {
     "models": "Yamaha YZ 125 Monster Energy",
@@ -55,24 +35,9 @@
     "to": ""
   },
   {
-    "models": "Yamaha YZ 125G",
-    "from": 2016,
-    "to": ""
-  },
-  {
     "models": "Yamaha YZ 250",
     "from": 2004,
     "to": 2026
-  },
-  {
-    "models": "Yamaha YZ 250 50TH",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Yamaha YZ 250 70TH ANNIVERSA",
-    "from": 2026,
-    "to": ""
   },
   {
     "models": "Yamaha YZ 250 Monster Energy",
@@ -85,49 +50,14 @@
     "to": 2026
   },
   {
-    "models": "Yamaha YZ 250F 50TH",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Yamaha YZ 250F 50TH Anniversary",
-    "from": 2006,
-    "to": ""
-  },
-  {
-    "models": "Yamaha YZ 250F 60TH Anniversary",
-    "from": 2016,
-    "to": ""
-  },
-  {
-    "models": "Yamaha YZ 250F 70TH ANNIVERS",
-    "from": 2026,
-    "to": ""
-  },
-  {
     "models": "Yamaha YZ 250F Monster Energy",
     "from": 2020,
     "to": 2026
   },
   {
-    "models": "Yamaha YZ 250FB",
-    "from": 2012,
-    "to": ""
-  },
-  {
-    "models": "Yamaha YZ 250FE",
-    "from": 2014,
-    "to": ""
-  },
-  {
     "models": "Yamaha YZ 250FX",
     "from": 2015,
     "to": 2026
-  },
-  {
-    "models": "Yamaha YZ 250G",
-    "from": 2016,
-    "to": ""
   },
   {
     "models": "Yamaha YZ 250X",
@@ -138,26 +68,6 @@
     "models": "Yamaha YZ 450F",
     "from": 2004,
     "to": 2026
-  },
-  {
-    "models": "Yamaha YZ 450F 50TH",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Yamaha YZ 450F 50TH Anniversary",
-    "from": 2006,
-    "to": ""
-  },
-  {
-    "models": "Yamaha YZ 450F 60TH Anniversary",
-    "from": 2016,
-    "to": ""
-  },
-  {
-    "models": "Yamaha YZ 450F 70TH ANNIVERS",
-    "from": 2026,
-    "to": ""
   },
   {
     "models": "Yamaha YZ 450F Monster Energy",
@@ -172,16 +82,6 @@
   {
     "models": "Yamaha YZ 450FX",
     "from": 2016,
-    "to": 2026
-  },
-  {
-    "models": "Yamaha YZFR1",
-    "from": 2015,
-    "to": 2026
-  },
-  {
-    "models": "Yamaha YZFR1M",
-    "from": 2015,
     "to": 2026
   }
 ]
