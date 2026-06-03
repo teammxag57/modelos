@@ -5,12 +5,12 @@
     "to": 2006
   },
   {
-    "models": "Aprilia 50 RS��",
+    "models": "Aprilia 50 RS",
     "from": 1999,
     "to": 2005
   },
   {
-    "models": "Aprilia 50 RX��",
+    "models": "Aprilia 50 RX",
     "from": 1998,
     "to": 2005
   },
@@ -20,104 +20,89 @@
     "to": 2005
   },
   {
-    "models": "Beta 50 RR Enduro Factory��",
-    "from": 2012,
-    "to": 2017
-  },
-  {
-    "models": "Beta 50 RR Enduro Racing�",
-    "from": 2017,
-    "to": ""
-  },
-  {
-    "models": "Beta 50 RR Enduro Racing��",
-    "from": 2005,
-    "to": 2020
-  },
-  {
-    "models": "Beta 50 RR Enduro Sport��",
-    "from": 2015,
-    "to": 2020
-  },
-  {
-    "models": "Beta 50 RR Enduro��",
+    "models": "Beta 50 RR Enduro",
     "from": 2002,
     "to": 2024
   },
   {
-    "models": "Beta 50 RR Supermotard Racing��",
-    "from": 2006,
-    "to": 2009
+    "models": "Beta 50 RR Enduro Factory",
+    "from": 2012,
+    "to": 2017
   },
   {
-    "models": "Beta 50 RR Supermotard��",
+    "models": "Beta 50 RR Enduro Racing",
+    "from": 2005,
+    "to": 2020
+  },
+  {
+    "models": "Beta 50 RR Enduro Sport",
+    "from": 2015,
+    "to": 2020
+  },
+  {
+    "models": "Beta 50 RR Supermotard",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "Fantic 180 TM Motard Casa 50m��",
+    "models": "Beta 50 RR Supermotard Racing",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "Fantic 180 TM Motard Casa 50m",
     "from": 2012,
     "to": 2015
   },
   {
-    "models": "Fantic 180 TX Regolarita Case 50E��",
+    "models": "Fantic 180 TX Regolarita Case 50E",
     "from": 2012,
     "to": 2015
   },
   {
-    "models": "Fantic 50 Caballero Casa��",
+    "models": "Fantic 50 Caballero Casa",
     "from": 2006,
     "to": 2016
   },
   {
-    "models": "Fantic 50 Caballero E Casa��",
+    "models": "Fantic 50 Caballero E Casa",
     "from": 2017,
     "to": 2018
   },
   {
-    "models": "Fantic 50 Caballero E Performance��",
+    "models": "Fantic 50 Caballero E Performance",
     "from": 2017,
     "to": 2018
   },
   {
-    "models": "Fantic 50 Caballero Motard Casa��",
-    "from": 2006,
-    "to": 2015
-  },
-  {
-    "models": "Fantic 50 Caballero Motard Performance��",
-    "from": 2017,
-    "to": 2018
-  },
-  {
-    "models": "Fantic 50 Caballero Motard��",
+    "models": "Fantic 50 Caballero Motard",
     "from": 2013,
     "to": 2016
   },
   {
-    "models": "Generic 50 Trigger SM��",
+    "models": "Fantic 50 Caballero Motard Casa",
+    "from": 2006,
+    "to": 2015
+  },
+  {
+    "models": "Fantic 50 Caballero Motard Performance",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Generic 50 Trigger SM",
     "from": 2006,
     "to": 2018
   },
   {
-    "models": "Generic 50 Trigger X�",
+    "models": "Generic 50 Trigger X",
     "from": 2009,
     "to": ""
   },
   {
-    "models": "Malaguti 50 Drakon��",
+    "models": "Malaguti 50 Drakon",
     "from": 2005,
     "to": 2008
-  },
-  {
-    "models": "Malaguti 50 XSM��03",
-    "from": 0,
-    "to": ""
-  },
-  {
-    "models": "Malaguti 50 XTM��03",
-    "from": 0,
-    "to": ""
   },
   {
     "models": "MBK 50 X",
@@ -125,52 +110,47 @@
     "to": 2011
   },
   {
-    "models": "Peugeot 50 XP6 SM Street��",
-    "from": 2003,
-    "to": 2004
-  },
-  {
-    "models": "Peugeot 50 XP6 SM��",
-    "from": 2002,
-    "to": 2003
-  },
-  {
-    "models": "Peugeot 50 XP6��",
+    "models": "Peugeot 50 XP6",
     "from": 1998,
     "to": 2006
   },
   {
-    "models": "Peugeot 50 XR6�",
-    "from": 2001,
-    "to": ""
+    "models": "Peugeot 50 XP6 SM",
+    "from": 2002,
+    "to": 2003
   },
   {
-    "models": "Peugeot 50 XR6��",
-    "from": 2002,
+    "models": "Peugeot 50 XP6 SM Street",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "Peugeot 50 XR6",
+    "from": 2001,
     "to": 2006
   },
   {
-    "models": "Peugeot XPS50 SM��",
+    "models": "Peugeot XPS50 SM",
     "from": 2004,
     "to": 2009
   },
   {
-    "models": "Peugeot XPS50 T��",
+    "models": "Peugeot XPS50 T",
     "from": 2004,
     "to": 2006
   },
   {
-    "models": "Rieju 50 MRT Pro��",
-    "from": 2009,
-    "to": 2010
-  },
-  {
-    "models": "Rieju 50 MRT Supermotard / Pro��",
+    "models": "Rieju 50 MRT",
     "from": 2009,
     "to": 2022
   },
   {
-    "models": "Rieju 50 MRT��",
+    "models": "Rieju 50 MRT Pro",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "Rieju 50 MRT Supermotard / Pro",
     "from": 2009,
     "to": 2022
   },
@@ -195,82 +175,67 @@
     "to": 2008
   },
   {
-    "models": "Rieju 50 Naked��",
+    "models": "Rieju 50 Naked",
     "from": 2004,
     "to": 2009
   },
   {
-    "models": "Rieju 50 RR��",
+    "models": "Rieju 50 RR",
     "from": 1999,
     "to": 2002
   },
   {
-    "models": "Rieju 50 RS2 Matrix��",
+    "models": "Rieju 50 RS2",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "Rieju 50 RS2 Matrix",
     "from": 2004,
     "to": 2010
   },
   {
-    "models": "Rieju 50 RS2 Pro�",
+    "models": "Rieju 50 RS2 Pro",
     "from": 2009,
     "to": ""
   },
   {
-    "models": "Rieju 50 RS2�",
-    "from": 2009,
-    "to": ""
-  },
-  {
-    "models": "Rieju 50 RS3 Matrix / Pro��",
+    "models": "Rieju 50 RS3 Matrix / Pro",
     "from": 2011,
     "to": 2017
   },
   {
-    "models": "Rieju 50 Spike X��",
+    "models": "Rieju 50 Spike",
+    "from": 2002,
+    "to": 2005
+  },
+  {
+    "models": "Rieju 50 Spike X",
     "from": 2006,
     "to": 2022
   },
   {
-    "models": "Rieju 50 Spike�",
-    "from": 2002,
-    "to": ""
-  },
-  {
-    "models": "Rieju 50 Spike��",
-    "from": 2003,
-    "to": 2005
-  },
-  {
-    "models": "Rieju 50 Tango Motard��",
-    "from": 2009,
-    "to": 2011
-  },
-  {
-    "models": "Rieju 50 Tango��",
+    "models": "Rieju 50 Tango",
     "from": 2007,
     "to": 2022
   },
   {
-    "models": "Rieju Rieju�R",
-    "from": 0,
-    "to": ""
+    "models": "Rieju 50 Tango Motard",
+    "from": 2009,
+    "to": 2011
   },
   {
-    "models": "Yamaha DT50 R X",
-    "from": 0,
-    "to": ""
-  },
-  {
-    "models": "Yamaha DT50 R��",
+    "models": "Yamaha DT50 R",
     "from": 1997,
     "to": 2002
   },
   {
-    "models": "Yamaha DT50 R2C21�",
+    "models": "Yamaha DT50 R2C21",
     "from": 2003,
     "to": 2006
   },
   {
-    "models": "Yamaha DT50 SM Supermotard�",
+    "models": "Yamaha DT50 SM Supermotard",
     "from": 2002,
     "to": ""
   },
@@ -280,12 +245,17 @@
     "to": 2006
   },
   {
-    "models": "Yamaha TZR50 50th Anniversary Ed.�",
+    "models": "Yamaha TZR50",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "Yamaha TZR50 50th Anniversary Ed.",
     "from": 2012,
     "to": ""
   },
   {
-    "models": "Yamaha TZR50 RR5WX5�",
+    "models": "Yamaha TZR50 RR5WX5",
     "from": 1997,
     "to": 2006
   },
@@ -293,10 +263,5 @@
     "models": "Yamaha TZR50 X",
     "from": 1996,
     "to": 2006
-  },
-  {
-    "models": "Yamaha TZR50��",
-    "from": 2007,
-    "to": 2012
   }
 ]
