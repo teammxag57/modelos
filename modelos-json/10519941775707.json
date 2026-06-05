@@ -1,0 +1,92 @@
+[
+  {
+    "models": "Gasgas MC 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC 350F",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC 450F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC450F Troy Lee Designs",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FC 250F",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FC 350F",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FC 450 Rockstar Edition",
+    "from": 2018,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FC 450F",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FS 450F",
+    "from": 2020,
+    "to": 2021
+  },
+  {
+    "models": "KTM SMR 450",
+    "from": 2013,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX-F 250 Prado",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "KTM SX-F 250 Troy Lee Designs",
+    "from": 2021,
+    "to": ""
+  },
+  {
+    "models": "KTM SX-F 450 Cairoli",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "KTM SX-F 450 Factory Edition",
+    "from": 2017,
+    "to": 2021
+  },
+  {
+    "models": "KTM SX-F 450 Herlings",
+    "from": 2019,
+    "to": ""
+  }
+]
