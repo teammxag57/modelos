@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TE 310",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TE 450",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TE 510",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TXC 250",
+    "from": 2010,
+    "to": ""
+  }
+]
