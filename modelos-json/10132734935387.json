@@ -97,22 +97,22 @@
   {
     "models": "Beta RR RACE 125",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR RACE 200",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR RACE 250",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR RACE 300",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR RACE 350F",
@@ -137,22 +137,22 @@
   {
     "models": "Beta RR X-PRO 125",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 200",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 250",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 300",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 350F",
@@ -187,11 +187,21 @@
   {
     "models": "Beta Xtrainer 250",
     "from": 2018,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta Xtrainer 300",
     "from": 2015,
-    "to": 2025
+    "to": 2026
+  },
+  {
+    "models": "Beta RX 250",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Beta RX 350",
+    "from": 2026,
+    "to": ""
   }
 ]
