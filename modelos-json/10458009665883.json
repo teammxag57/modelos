@@ -103,5 +103,10 @@
     "models": "Yamaha YZ 450FX",
     "from": 2016,
     "to": 2023
+  },
+  {
+    "models": "Yamaha YZ 250X",
+    "from": 2016,
+    "to": 2026
   }
 ]
