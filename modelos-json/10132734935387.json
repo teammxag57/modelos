@@ -175,9 +175,19 @@
     "to": ""
   },
   {
+    "models": "Beta RX 250",
+    "from": 2026,
+    "to": ""
+  },
+  {
     "models": "Beta RX 300",
     "from": 2021,
     "to": 2025
+  },
+  {
+    "models": "Beta RX 350",
+    "from": 2026,
+    "to": ""
   },
   {
     "models": "Beta RX 450",
@@ -193,15 +203,5 @@
     "models": "Beta Xtrainer 300",
     "from": 2015,
     "to": 2026
-  },
-  {
-    "models": "Beta RX 250",
-    "from": 2026,
-    "to": ""
-  },
-  {
-    "models": "Beta RX 350",
-    "from": 2026,
-    "to": ""
   }
 ]
