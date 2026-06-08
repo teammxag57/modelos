@@ -65,6 +65,11 @@
     "to": 2014
   },
   {
+    "models": "Beta RR 400F",
+    "from": 2013,
+    "to": 2014
+  },
+  {
     "models": "Beta RR 430F",
     "from": 2015,
     "to": 2024
@@ -88,6 +93,11 @@
     "models": "Beta RR 480FR",
     "from": 2015,
     "to": 2024
+  },
+  {
+    "models": "Beta RR 498F",
+    "from": 2013,
+    "to": 2014
   },
   {
     "models": "Beta RR 498F",
@@ -203,15 +213,5 @@
     "models": "Beta Xtrainer 300",
     "from": 2015,
     "to": 2026
-  },
-  {
-    "models": "Beta RR 400F",
-    "from": 2013,
-    "to": 2014
-  },
-  {
-    "models": "Beta RR 498F",
-    "from": 2013,
-    "to": 2014
   }
 ]
