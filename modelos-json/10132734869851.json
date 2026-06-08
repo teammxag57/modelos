@@ -127,12 +127,12 @@
   {
     "models": "Beta RR RACE 430F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR RACE 480F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 125",
@@ -167,12 +167,12 @@
   {
     "models": "Beta RR X-PRO 430F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 480F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RX 300",
@@ -182,7 +182,7 @@
   {
     "models": "Beta RX 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta Xtrainer 250",
@@ -198,5 +198,15 @@
     "models": "Beta RX 350",
     "from": 2026,
     "to": ""
+  },
+  {
+    "models": "Beta RR 400F",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 498F",
+    "from": 2013,
+    "to": 2014
   }
 ]
