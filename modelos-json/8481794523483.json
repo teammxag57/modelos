@@ -23,5 +23,10 @@
     "models": "Yamaha YZ 250FX",
     "from": 2020,
     "to": 2026
+  },
+  {
+    "models": "Fantic XE 310F",
+    "from": 2024,
+    "to": 2025
   }
 ]
