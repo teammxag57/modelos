@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Gasgas EC 250",
+    "from": 1997,
+    "to": 2011
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2000,
+    "to": 2020
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 1997,
+    "to": 2011
+  },
+  {
+    "models": "Honda ATC 250",
+    "from": 1985,
+    "to": 1986
+  },
+  {
+    "models": "Honda CR 250",
+    "from": 1978,
+    "to": 2001
+  },
+  {
+    "models": "Honda TRX 250",
+    "from": 1986,
+    "to": ""
+  }
+]
