@@ -1,0 +1,37 @@
+[
+  {
+    "models": "Husaberg FE 250",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2005,
+    "to": 2012
+  },
+  {
+    "models": "KTM SXS 250F",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM XC 250F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 250F",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-F 250W",
+    "from": 2008,
+    "to": 2013
+  }
+]
