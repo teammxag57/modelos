@@ -1,0 +1,22 @@
+[
+  {
+    "models": "TM Racing EN 250",
+    "from": 1999,
+    "to": 2023
+  },
+  {
+    "models": "TM Racing EN 300",
+    "from": 2002,
+    "to": 2023
+  },
+  {
+    "models": "TM Racing MX 250",
+    "from": 2006,
+    "to": 2023
+  },
+  {
+    "models": "TM Racing MX 300",
+    "from": 2002,
+    "to": 2023
+  }
+]
