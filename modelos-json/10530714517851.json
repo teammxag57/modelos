@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Husqvarna SMR 450",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Husqvarna TC 450",
+    "from": 2006,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TXC 450",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "KTM SMR 450F",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2003,
+    "to": 2006
+  }
+]
