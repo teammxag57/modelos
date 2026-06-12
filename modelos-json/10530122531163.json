@@ -1,0 +1,22 @@
+[
+  {
+    "models": "KTM EGS 125",
+    "from": 1994,
+    "to": 1997
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 1998,
+    "to": 2000
+  },
+  {
+    "models": "KTM GS 125",
+    "from": 1987,
+    "to": 1997
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 1998,
+    "to": 2000
+  }
+]
