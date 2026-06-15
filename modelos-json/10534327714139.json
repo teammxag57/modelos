@@ -1,0 +1,192 @@
+[
+  {
+    "models": "Husaberg FE 250",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "Husaberg FE 350",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "Husaberg FE 390",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg FE 450",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg FE 501",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "Husaberg FE 570",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg FX 450",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Husaberg TE 250",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husaberg TE 300",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 400",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 500",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 530F",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM XC 150",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 200W",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 250F",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 350F",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 450F",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 500W",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC-F 250W",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC-F 350W",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC-F 450W",
+    "from": 2010,
+    "to": 2013
+  }
+]
