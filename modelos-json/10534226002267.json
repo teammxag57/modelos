@@ -1,0 +1,172 @@
+[
+  {
+    "models": "Husaberg FE 450",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FE 550",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 1996,
+    "to": 2005
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 1998,
+    "to": 2005
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 1996,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 1996,
+    "to": 2005
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2007,
+    "to": 2010
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1996,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 400",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2003,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 525F",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 530F",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM LC4 400",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM LC4 640",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 505F",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 520F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 525F",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM SXC 625",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM XC 200W",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 250F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 450F",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 505F",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-F 250W",
+    "from": 2006,
+    "to": 2010
+  },
+  {
+    "models": "KTM XC-F 450W",
+    "from": 2007,
+    "to": 2010
+  }
+]
