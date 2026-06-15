@@ -1,0 +1,72 @@
+[
+  {
+    "models": "KTM EXC 150",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 150W",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC-F 350W",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC-F 450W",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-F 500W",
+    "from": 2020,
+    "to": 2022
+  }
+]
