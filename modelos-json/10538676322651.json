@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Beta RR 250",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "Beta RR 350F",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "Beta RR 450F",
+    "from": 2005,
+    "to": 2012
+  },
+  {
+    "models": "Beta RR 498F",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "Beta RR 525F",
+    "from": 2005,
+    "to": 2009
+  }
+]
