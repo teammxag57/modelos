@@ -1,0 +1,22 @@
+[
+  {
+    "models": "TM Racing EN 125",
+    "from": 2015,
+    "to": 2026
+  },
+  {
+    "models": "TM Racing EN 144",
+    "from": 2015,
+    "to": 2026
+  },
+  {
+    "models": "TM Racing MX 125",
+    "from": 2015,
+    "to": 2026
+  },
+  {
+    "models": "TM Racing MX 144",
+    "from": 2015,
+    "to": 2026
+  }
+]
