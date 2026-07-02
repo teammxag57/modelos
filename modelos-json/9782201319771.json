@@ -1,12 +1,37 @@
 [
   {
-    "models": "Triumph TF 250X",
-    "from": 2024,
-    "to": 2025
+    "models": "Triumph TF 250C�",
+    "from": 2026,
+    "to": ""
   },
   {
-    "models": "Triumph TF 450X",
+    "models": "Triumph TF 250E��",
     "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 250X��",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 450C��",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 450E��",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 450RC��",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Triumph TF 450X�",
+    "from": 2026,
     "to": ""
   }
 ]
