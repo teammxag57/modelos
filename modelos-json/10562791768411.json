@@ -1,117 +1,217 @@
 [
   {
+    "models": "Gasgas EC 125",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Gasgas EC 250",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EC 300 GP",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 125",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 150",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
     "models": "Husqvarna TC 125",
-    "from": 2014,
-    "to": 2019
+    "from": 2020,
+    "to": 2027
+  },
+  {
+    "models": "Husqvarna TC 150",
+    "from": 2025,
+    "to": ""
   },
   {
     "models": "Husqvarna TC 250",
-    "from": 2014,
-    "to": 2019
+    "from": 2020,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 300",
+    "from": 2025,
+    "to": 2027
   },
   {
     "models": "Husqvarna TE 125",
-    "from": 2014,
-    "to": 2016
+    "from": 2025,
+    "to": 2027
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 150 HERITAGE",
+    "from": 2023,
+    "to": ""
   },
   {
     "models": "Husqvarna TE 250",
-    "from": 2014,
-    "to": 2019
+    "from": 2020,
+    "to": 2027
+  },
+  {
+    "models": "Husqvarna TE 250 HERITAGE",
+    "from": 2023,
+    "to": 2025
   },
   {
     "models": "Husqvarna TE 300",
-    "from": 2014,
-    "to": 2019
+    "from": 2020,
+    "to": 2027
   },
   {
-    "models": "Husqvarna TX 125",
-    "from": 2017,
-    "to": 2019
+    "models": "Husqvarna TE 300 HERITAGE",
+    "from": 2023,
+    "to": 2025
   },
   {
-    "models": "KTM 125 EXC FACTORY EDITION",
-    "from": 2015,
+    "models": "Husqvarna TE 300 IKD",
+    "from": 2026,
     "to": ""
   },
   {
-    "models": "KTM 125 EXC SIX-DAYS",
-    "from": 2015,
-    "to": 2016
+    "models": "Husqvarna TE 300i JARVIS EDITION",
+    "from": 2020,
+    "to": ""
   },
   {
-    "models": "KTM 250 EXC FACTORY EDITION",
-    "from": 2015,
+    "models": "Husqvarna TE 300i ROCKSTAR EDITION",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM 250 EXC CHAMPION EDITION",
+    "from": 2025,
     "to": ""
+  },
+  {
+    "models": "KTM 250 EXC RACING SIX DAYS",
+    "from": 2023,
+    "to": 2025
   },
   {
     "models": "KTM 250 EXC SIX DAYS",
-    "from": 2018,
-    "to": 2019
-  },
-  {
-    "models": "KTM 250 EXC SIX DAYS TPI",
-    "from": 2014,
-    "to": 2017
+    "from": 2020,
+    "to": 2022
   },
   {
     "models": "KTM 250 EXC SIX-DAYS",
-    "from": 2018,
-    "to": 2019
+    "from": 2020,
+    "to": 2022
   },
   {
-    "models": "KTM 300 EXC FACTORY EDITION",
-    "from": 2015,
+    "models": "KTM 300 EXC 6DAYS",
+    "from": 2026,
     "to": ""
   },
   {
+    "models": "KTM 300 EXC CHAMPION EDITION",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "KTM 300 EXC ERZBERGRODEO",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "KTM 300 EXC HARDENDURO",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM 300 EXC SIX DAYS",
+    "from": 2023,
+    "to": 2025
+  },
+  {
     "models": "KTM 300 EXC SIX DAYS TPI",
-    "from": 2018,
-    "to": 2019
+    "from": 2020,
+    "to": 2022
   },
   {
-    "models": "KTM 300 EXC SIX-DAYS",
-    "from": 2014,
-    "to": 2017
+    "models": "KTM 300 EXC TPI ERZBERGRODEO",
+    "from": 2020,
+    "to": 2022
   },
   {
-    "models": "KTM EXC 125",
-    "from": 2015,
-    "to": 2016
+    "models": "KTM EXC 150",
+    "from": 2020,
+    "to": 2025
   },
   {
     "models": "KTM EXC 250",
-    "from": 2014,
-    "to": 2017
+    "from": 2023,
+    "to": 2025
   },
   {
     "models": "KTM EXC 300",
-    "from": 2014,
-    "to": 2019
-  },
-  {
-    "models": "KTM Freeride 250F",
-    "from": 2014,
-    "to": 2017
+    "from": 2020,
+    "to": 2027
   },
   {
     "models": "KTM SX 125",
-    "from": 2015,
-    "to": 2019
+    "from": 2020,
+    "to": 2027
   },
   {
     "models": "KTM SX 150",
-    "from": 2016,
-    "to": 2019
+    "from": 2020,
+    "to": 2025
   },
   {
     "models": "KTM SX 250",
-    "from": 2014,
-    "to": 2019
+    "from": 2020,
+    "to": 2027
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2027
   },
   {
     "models": "KTM XC 125W",
-    "from": 2017,
-    "to": 2019
+    "from": 2025,
+    "to": 2027
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2026,
+    "to": 2027
   }
 ]
