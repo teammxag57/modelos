@@ -2,6 +2,11 @@
   {
     "models": "Yamaha YZ 85",
     "from": 2002,
-    "to": 2026
+    "to": 2027
+  },
+  {
+    "models": "Yamaha YZ 80",
+    "from": 1993,
+    "to": 2001
   }
 ]
