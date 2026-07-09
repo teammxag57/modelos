@@ -1,71 +1,6 @@
 [
   {
-    "models": "KTM EXC 150",
-    "from": 2020,
-    "to": 2023
-  },
-  {
-    "models": "KTM EXC 250F",
-    "from": 2017,
-    "to": 2023
-  },
-  {
-    "models": "KTM EXC 250",
-    "from": 2017,
-    "to": 2023
-  },
-  {
-    "models": "KTM 350 EXC-F SIX DAYS",
-    "from": 2017,
-    "to": 2023
-  },
-  {
-    "models": "KTM 250 EXC-F SIX DAYS",
-    "from": 2017,
-    "to": 2023
-  },
-  {
-    "models": "KTM 450 EXC-F SIX DAYS",
-    "from": 2017,
-    "to": 2023
-  },
-  {
     "models": "KTM 250 EXC RACING SIX DAYS",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "KTM EXC 450F",
-    "from": 2017,
-    "to": 2023
-  },
-  {
-    "models": "KTM EXC 350F",
-    "from": 2017,
-    "to": 2023
-  },
-  {
-    "models": "KTM EXC 500F",
-    "from": 2017,
-    "to": 2023
-  },
-  {
-    "models": "KTM EXC 300",
-    "from": 2017,
-    "to": 2023
-  },
-  {
-    "models": "KTM 500 EXC-F SIX DAYS",
-    "from": 2017,
-    "to": 2023
-  },
-  {
-    "models": "KTM 300 EXC SIX DAYS",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "KTM 300 EXC ERZBERGRODEO",
     "from": 2023,
     "to": ""
   },
@@ -75,14 +10,39 @@
     "to": 2022
   },
   {
-    "models": "KTM 300 EXC SIX DAYS TPI",
-    "from": 2018,
-    "to": 2022
+    "models": "KTM 250 EXC SIX DAYS TPI",
+    "from": 2017,
+    "to": ""
   },
   {
     "models": "KTM 250 EXC SIX-DAYS",
     "from": 2018,
     "to": 2022
+  },
+  {
+    "models": "KTM 250 EXC-F SIX DAYS",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM 300 EXC ERZBERGRODEO",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "KTM 300 EXC SIX DAYS",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "KTM 300 EXC SIX DAYS TPI",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM 300 EXC SIX-DAYS",
+    "from": 2017,
+    "to": ""
   },
   {
     "models": "KTM 300 EXC TPI ERZBERGRODEO",
@@ -95,28 +55,68 @@
     "to": ""
   },
   {
-    "models": "KTM 350 EXC-F WESS",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "KTM XC 125W",
+    "models": "KTM 350 EXC-F SIX DAYS",
     "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM 250 EXC SIX DAYS TPI",
-    "from": 2017,
-    "to": ""
-  },
-  {
-    "models": "KTM 300 EXC SIX-DAYS",
-    "from": 2017,
-    "to": ""
+    "to": 2023
   },
   {
     "models": "KTM 350 EXC-F SIX DAYS CKD",
     "from": 2023,
     "to": ""
+  },
+  {
+    "models": "KTM 350 EXC-F WESS",
+    "from": 2021,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 EXC-F SIX DAYS",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM 500 EXC-F SIX DAYS",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2019
   }
 ]
