@@ -10,17 +10,17 @@
     "to": 2023
   },
   {
-    "models": "Gasgas EC-F 250",
+    "models": "Gasgas EC 250F",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "Gasgas EC-F 350",
+    "models": "Gasgas EC 350F",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "Gasgas EC-F 450",
+    "models": "Gasgas EC 450F",
     "from": 2021,
     "to": 2023
   },
@@ -60,17 +60,17 @@
     "to": 2023
   },
   {
-    "models": "KTM EXC-F 250",
+    "models": "KTM EXC 250F",
     "from": 2020,
     "to": 2023
   },
   {
-    "models": "KTM EXC-F 350",
+    "models": "KTM EXC 350F",
     "from": 2020,
     "to": 2023
   },
   {
-    "models": "KTM EXC-F 450",
+    "models": "KTM EXC 450F",
     "from": 2020,
     "to": 2023
   },
@@ -85,17 +85,17 @@
     "to": 2022
   },
   {
-    "models": "KTM SX-F 250",
+    "models": "KTM SX 250F",
     "from": 2019,
     "to": 2022
   },
   {
-    "models": "KTM SX-F 350",
+    "models": "KTM SX 350F",
     "from": 2019,
     "to": 2022
   },
   {
-    "models": "KTM SX-F 450",
+    "models": "KTM SX 450F",
     "from": 2019,
     "to": 2022
   }
