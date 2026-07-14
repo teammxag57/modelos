@@ -70,7 +70,7 @@
     "to": 2014
   },
   {
-    "models": "Husqvarna FC 250",
+    "models": "Husqvarna FC 250F",
     "from": 2014,
     "to": 2025
   },
@@ -80,12 +80,12 @@
     "to": ""
   },
   {
-    "models": "Husqvarna FC 350",
+    "models": "Husqvarna FC 350F",
     "from": 2014,
     "to": 2025
   },
   {
-    "models": "Husqvarna FC 450",
+    "models": "Husqvarna FC 450F",
     "from": 2014,
     "to": 2025
   },
@@ -95,12 +95,12 @@
     "to": ""
   },
   {
-    "models": "Husqvarna FE 250",
+    "models": "Husqvarna FE 250F",
     "from": 2014,
     "to": 2017
   },
   {
-    "models": "Husqvarna FE 350",
+    "models": "Husqvarna FE 350F",
     "from": 2014,
     "to": 2017
   },
@@ -115,12 +115,12 @@
     "to": 2025
   },
   {
-    "models": "Husqvarna FE 450",
+    "models": "Husqvarna FE 450F",
     "from": 2014,
     "to": 2025
   },
   {
-    "models": "Husqvarna FE 501",
+    "models": "Husqvarna FE 501F",
     "from": 2014,
     "to": 2025
   },
@@ -135,17 +135,17 @@
     "to": 2025
   },
   {
-    "models": "Husqvarna FS 450",
+    "models": "Husqvarna FS 450F",
     "from": 2018,
     "to": 2024
   },
   {
-    "models": "Husqvarna FX 350",
+    "models": "Husqvarna FX 350F",
     "from": 2017,
     "to": 2025
   },
   {
-    "models": "Husqvarna FX 450",
+    "models": "Husqvarna FX 450F",
     "from": 2017,
     "to": 2025
   },
