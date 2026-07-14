@@ -1,6 +1,6 @@
 [
   {
-    "models": "KTM 250 EXC",
+    "models": "KTM EXC 250",
     "from": 2018,
     "to": 2019
   },
@@ -10,12 +10,12 @@
     "to": 2019
   },
   {
-    "models": "KTM 300 EXC",
+    "models": "KTM EXC 300",
     "from": 2018,
     "to": 2019
   },
   {
-    "models": "KTM 300 XC-W / XC-W",
+    "models": "KTM 300 XC-W",
     "from": 2019,
     "to": ""
   }
