@@ -35,12 +35,12 @@
     "to": 2006
   },
   {
-    "models": "KTM EXCF 250",
+    "models": "KTM EXC 250F",
     "from": 2004,
     "to": 2011
   },
   {
-    "models": "KTM EXCF 450",
+    "models": "KTM EXC 450F",
     "from": 2004,
     "to": 2011
   },
@@ -70,17 +70,17 @@
     "to": 2017
   },
   {
-    "models": "KTM SXF 250",
+    "models": "KTM SX 250F",
     "from": 2005,
     "to": 2010
   },
   {
-    "models": "KTM SXF 450",
+    "models": "KTM SX 450F",
     "from": 2005,
     "to": 2010
   },
   {
-    "models": "KTM SXF 505",
+    "models": "KTM SX 505F",
     "from": 2005,
     "to": 2010
   }
