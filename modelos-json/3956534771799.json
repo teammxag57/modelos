@@ -1,36 +1,36 @@
 [
   {
-    "models": "KTM 105 SX",
+    "models": "KTM SX 105",
     "from": 2004,
     "to": 2011
   },
   {
-    "models": "KTM 105 XC",
+    "models": "KTM XC 105",
     "from": 2008,
     "to": 2009
   },
   {
-    "models": "KTM 65 SX",
+    "models": "KTM SX 65",
     "from": 2004,
     "to": 2011
   },
   {
-    "models": "KTM 65 XC",
+    "models": "KTM XC 65",
     "from": 2008,
     "to": 2009
   },
   {
-    "models": "KTM 85 SX",
+    "models": "KTM SX 85",
     "from": 2003,
     "to": 2012
   },
   {
-    "models": "KTM 85 SXS",
+    "models": "KTM SXS 85",
     "from": 2012,
     "to": 2012
   },
   {
-    "models": "KTM 85 XC",
+    "models": "KTM XC 85",
     "from": 2008,
     "to": 2009
   }
