@@ -6,13 +6,13 @@
   },
   {
     "models": "Gasgas EC 250",
-    "from": 2012,
-    "to": 2013
+    "from": 2000,
+    "to": 2019
   },
   {
     "models": "Gasgas EC 300",
-    "from": 2012,
-    "to": 2013
+    "from": 2000,
+    "to": 2019
   },
   {
     "models": "Master Cylinder Kit - Front brake",
@@ -20,9 +20,19 @@
     "to": ""
   },
   {
+    "models": "Beta ALP 4.0",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Beta ALP X",
+    "from": 2026,
+    "to": ""
+  },
+  {
     "models": "Beta RC 450F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR 125",
@@ -37,7 +47,7 @@
   {
     "models": "Beta RR X-PRO 125",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR 200",
@@ -47,12 +57,12 @@
   {
     "models": "Beta RR 200R",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 200",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR 250",
@@ -62,12 +72,12 @@
   {
     "models": "Beta RR 250R",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 250",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR 300",
@@ -77,12 +87,12 @@
   {
     "models": "Beta RR 300R",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 300",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR 250F",
@@ -97,12 +107,12 @@
   {
     "models": "Beta RR 350FR",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 350F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR 390F",
@@ -112,12 +122,12 @@
   {
     "models": "Beta RR 390FR",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 390F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR 400F",
@@ -132,12 +142,12 @@
   {
     "models": "Beta RR 430FR",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 430F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR 450F",
@@ -152,12 +162,12 @@
   {
     "models": "Beta RR 480FR",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 480F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR 498F",
@@ -177,32 +187,32 @@
   {
     "models": "Beta RR-S 350",
     "from": 2017,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Beta RR-S 390",
     "from": 2017,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Beta RR 390S",
     "from": 2024,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR-S 430",
     "from": 2017,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Beta RR-S 500",
     "from": 2017,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Beta RR 500S",
     "from": 2024,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RS 390",
@@ -230,14 +240,24 @@
     "to": ""
   },
   {
+    "models": "Beta RX 250",
+    "from": 2026,
+    "to": ""
+  },
+  {
     "models": "Beta RX 300",
     "from": 2021,
     "to": 2025
   },
   {
+    "models": "Beta RX 350",
+    "from": 2026,
+    "to": ""
+  },
+  {
     "models": "Beta RX 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta XTRAINER 250",
@@ -247,7 +267,12 @@
   {
     "models": "Beta XTRAINER 300",
     "from": 2015,
-    "to": 2025
+    "to": 2026
+  },
+  {
+    "models": "Beta XTRAINER 300 Lowboy",
+    "from": 2026,
+    "to": ""
   },
   {
     "models": "Gasgas EC 125",
@@ -256,11 +281,6 @@
   },
   {
     "models": "Gasgas EC 200",
-    "from": 2000,
-    "to": 2019
-  },
-  {
-    "models": "Gasgas EC 250",
     "from": 2000,
     "to": 2019
   },
@@ -278,11 +298,6 @@
     "models": "Gasgas EC 250 Six Days",
     "from": 2019,
     "to": ""
-  },
-  {
-    "models": "Gasgas EC 300",
-    "from": 2000,
-    "to": 2019
   },
   {
     "models": "Gasgas EC 300 Replica",
@@ -387,12 +402,12 @@
   {
     "models": "Honda CRF 150R",
     "from": 2007,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Honda CRF 150 RB",
     "from": 2007,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Honda CRF 250R",
@@ -417,12 +432,12 @@
   {
     "models": "Honda CRF 450RL",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Honda CRF 450X",
     "from": 2005,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Honda XR250R",
@@ -455,12 +470,17 @@
     "to": 1996
   },
   {
-    "models": "Kawasaki KLX300",
+    "models": "Kawasaki KLX 300",
     "from": 2022,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Kawasaki KLX300(R)",
+    "models": "Kawasaki KLX 300 SM",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLX 300(R)",
     "from": 1997,
     "to": 2024
   },
@@ -475,17 +495,17 @@
     "to": ""
   },
   {
-    "models": "Kawasaki KLX450R",
+    "models": "Kawasaki KLX 450R",
     "from": 2008,
     "to": 2009
   },
   {
-    "models": "Kawasaki KLX650D1",
+    "models": "Kawasaki KLX 650D1",
     "from": 1996,
     "to": ""
   },
   {
-    "models": "Kawasaki KLX650R",
+    "models": "Kawasaki KLX 650R",
     "from": 1993,
     "to": 1996
   },
@@ -545,6 +565,11 @@
     "to": 2018
   },
   {
+    "models": "Rieju MR 300 Six Days Spain",
+    "from": 2025,
+    "to": ""
+  },
+  {
     "models": "Rieju MR Pro 200",
     "from": 2022,
     "to": 2024
@@ -558,6 +583,11 @@
     "models": "Rieju MR Pro 300",
     "from": 2021,
     "to": 2024
+  },
+  {
+    "models": "Rieju MR Pro 300i",
+    "from": 2026,
+    "to": ""
   },
   {
     "models": "Rieju MR Racing 200",
@@ -632,17 +662,17 @@
   {
     "models": "Suzuki RM 250Z",
     "from": 2004,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Suzuki RM 450Z",
     "from": 2005,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha TT-R 230",
     "from": 2005,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha WR 250F",
@@ -687,16 +717,16 @@
   {
     "models": "Yamaha YZ 65",
     "from": 2018,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 85",
     "from": 2002,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 85 LW",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   }
 ]
