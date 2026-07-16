@@ -37,12 +37,12 @@
   {
     "models": "Yamaha TT-R 125LE",
     "from": 2003,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha TT-R 230",
     "from": 2005,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha TT-R 250",
@@ -227,17 +227,17 @@
   {
     "models": "Yamaha YZ 125",
     "from": 1986,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 125X",
     "from": 2020,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250",
     "from": 1988,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250F",
@@ -247,7 +247,7 @@
   {
     "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 400F",
@@ -272,7 +272,7 @@
   {
     "models": "Yamaha YZ 65",
     "from": 2018,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 80",
@@ -282,11 +282,11 @@
   {
     "models": "Yamaha YZ 85",
     "from": 2002,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 85 LW",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   }
 ]
