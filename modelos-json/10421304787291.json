@@ -1,36 +1,36 @@
 [
   {
-    "models": "Kawasaki KLX140",
+    "models": "Kawasaki KLX 140",
     "from": 2008,
     "to": 2020
   },
   {
-    "models": "Kawasaki KLX140G",
+    "models": "Kawasaki KLX 140G",
     "from": 2017,
     "to": 2020
   },
   {
-    "models": "Kawasaki KLX140L",
+    "models": "Kawasaki KLX 140L",
     "from": 2008,
     "to": 2020
   },
   {
-    "models": "Kawasaki KLX140R",
+    "models": "Kawasaki KLX 140R",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Kawasaki KLX140R F",
+    "models": "Kawasaki KLX 140R F",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Kawasaki KLX140R L",
+    "models": "Kawasaki KLX 140R L",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Kawasaki KLX150L",
+    "models": "Kawasaki KLX 150L",
     "from": 2014,
     "to": 2019
   },
@@ -42,12 +42,12 @@
   {
     "models": "Kawasaki KX 112",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 65",
     "from": 2000,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 80",
@@ -55,8 +55,23 @@
     "to": 2000
   },
   {
+    "models": "Kawasaki KX 80 Big Wheel",
+    "from": 1992,
+    "to": 1994
+  },
+  {
     "models": "Kawasaki KX 85",
     "from": 2001,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 85 Big Wheel",
+    "from": 2001,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki Z125 PRO",
+    "from": 2017,
     "to": 2025
   },
   {
@@ -82,11 +97,11 @@
   {
     "models": "Yamaha YZ 85",
     "from": 2002,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 85 LW",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   }
 ]
