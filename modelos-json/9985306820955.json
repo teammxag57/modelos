@@ -2,12 +2,12 @@
   {
     "models": "Yamaha TT-R 125",
     "from": 2000,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Yamaha TT-R 125LE",
     "from": 2003,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 80",
@@ -17,11 +17,11 @@
   {
     "models": "Yamaha YZ 85",
     "from": 2002,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 85LW",
     "from": 2022,
-    "to": 2024
+    "to": 2026
   }
 ]
