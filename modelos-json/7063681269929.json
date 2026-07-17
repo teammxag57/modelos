@@ -15,6 +15,11 @@
     "to": 2026
   },
   {
+    "models": "Triumph TF 450 RC Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
     "models": "Triumph TF 450C",
     "from": 2025,
     "to": ""
@@ -25,24 +30,24 @@
     "to": ""
   },
   {
-    "models": "Triumph TF 450X",
-    "from": 2025,
-    "to": ""
+    "models": "Triumph YZ 400F",
+    "from": 1998,
+    "to": 1999
   },
   {
     "models": "Yamaha YZ 125",
     "from": 1998,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 125X",
     "from": 2020,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250",
     "from": 1998,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250F",
@@ -52,12 +57,7 @@
   {
     "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2025
-  },
-  {
-    "models": "Yamaha YZ 400F",
-    "from": 1998,
-    "to": 1999
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 426F",
