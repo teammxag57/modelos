@@ -7,7 +7,7 @@
   {
     "models": "Kawasaki KX 112",
     "from": 2022,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Kawasaki KX 80",
@@ -22,7 +22,7 @@
   {
     "models": "Kawasaki KX 85",
     "from": 2001,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Kawasaki KX 85 Big Wheel",
@@ -50,7 +50,7 @@
     "to": 2026
   },
   {
-    "models": "Yamaha YZ 85LW",
+    "models": "Yamaha YZ 85 LW",
     "from": 2022,
     "to": 2026
   }
