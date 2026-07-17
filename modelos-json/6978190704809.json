@@ -55,6 +55,11 @@
     "to": 2019
   },
   {
+    "models": "Rieju MR 300 Six Days Spain",
+    "from": 2025,
+    "to": ""
+  },
+  {
     "models": "Rieju MR Pro 200",
     "from": 2022,
     "to": 2024
@@ -92,7 +97,7 @@
   {
     "models": "Yamaha WR 250F",
     "from": 2001,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha WR 426F",
@@ -102,37 +107,37 @@
   {
     "models": "Yamaha WR 450F",
     "from": 2003,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 125",
     "from": 2001,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 125X",
     "from": 2020,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250",
     "from": 2001,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250F",
     "from": 2001,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250FX",
     "from": 2015,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 426F",
@@ -142,21 +147,21 @@
   {
     "models": "Yamaha YZ 450F",
     "from": 2003,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 450FX",
     "from": 2016,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 85",
     "from": 2003,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Yamaha YZ 85 LW",
+    "models": "Yamaha YZ 85LW",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   }
 ]
