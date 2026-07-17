@@ -10,44 +10,64 @@
     "to": 1999
   },
   {
-    "models": "Kawasaki KLX 250",
+    "models": "Honda NX 125",
+    "from": 1995,
+    "to": 1997
+  },
+  {
+    "models": "Kawasaki KDX 175",
+    "from": 1980,
+    "to": 1982
+  },
+  {
+    "models": "Kawasaki KDX 250",
+    "from": 1980,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KDX 400",
     "from": 1979,
     "to": 1980
   },
   {
-    "models": "Kawasaki KLX140",
+    "models": "Kawasaki KLX 140",
     "from": 2008,
     "to": 2020
   },
   {
-    "models": "Kawasaki KLX140G",
+    "models": "Kawasaki KLX 140G",
     "from": 2017,
     "to": 2020
   },
   {
-    "models": "Kawasaki KLX140L",
+    "models": "Kawasaki KLX 140L",
     "from": 2008,
     "to": 2020
   },
   {
-    "models": "Kawasaki KLX140R",
+    "models": "Kawasaki KLX 140R",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Kawasaki KLX140R F",
+    "models": "Kawasaki KLX 140R F",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Kawasaki KLX140R L",
+    "models": "Kawasaki KLX 140R L",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Kawasaki KLX150L",
+    "models": "Kawasaki KLX 150L",
     "from": 2014,
     "to": 2019
+  },
+  {
+    "models": "Kawasaki KLX 250",
+    "from": 1979,
+    "to": 1980
   },
   {
     "models": "Kawasaki KX 100",
@@ -57,7 +77,7 @@
   {
     "models": "Kawasaki KX 112",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 125",
@@ -77,7 +97,7 @@
   {
     "models": "Kawasaki KX 65",
     "from": 2000,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 80",
@@ -92,12 +112,77 @@
   {
     "models": "Kawasaki KX 85",
     "from": 2001,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 85 Big Wheel",
     "from": 2001,
     "to": 2018
+  },
+  {
+    "models": "Sherco Enduro 50",
+    "from": 2004,
+    "to": 2018
+  },
+  {
+    "models": "Sherco SM R 50",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "Sherco SM RS 50",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Sherco X-Ride 1.25",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Sherco X-Ride 125",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "Sherco X-Ride 2.9",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "Sherco X-Ride 2.90",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Suzuki EN 250",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "Suzuki EN 300",
+    "from": 1997,
+    "to": ""
+  },
+  {
+    "models": "Suzuki MX 125",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "Suzuki MX 250",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "Suzuki MX 300",
+    "from": 1997,
+    "to": ""
+  },
+  {
+    "models": "Suzuki MX 85",
+    "from": 2006,
+    "to": 2009
   },
   {
     "models": "Suzuki RM 100",
@@ -110,39 +195,14 @@
     "to": 2005
   },
   {
-    "models": "TM EN 125",
+    "models": "Suzuki TM EN 125",
     "from": 1996,
     "to": 1997
   },
   {
-    "models": "TM EN 250",
-    "from": 1996,
-    "to": 1997
-  },
-  {
-    "models": "TM EN 300",
-    "from": 1997,
-    "to": ""
-  },
-  {
-    "models": "TM MX 125",
-    "from": 1996,
-    "to": 1997
-  },
-  {
-    "models": "TM MX 250",
-    "from": 1996,
-    "to": 1997
-  },
-  {
-    "models": "TM MX 300",
-    "from": 1997,
-    "to": ""
-  },
-  {
-    "models": "TM MX 85",
-    "from": 2006,
-    "to": 2009
+    "models": "Yamaha TY 350",
+    "from": 1985,
+    "to": 1986
   },
   {
     "models": "Yamaha XT 250",
@@ -152,7 +212,7 @@
   {
     "models": "Yamaha YZ 65",
     "from": 2018,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 80",
@@ -162,11 +222,11 @@
   {
     "models": "Yamaha YZ 85",
     "from": 2002,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 85 LW",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   }
 ]
