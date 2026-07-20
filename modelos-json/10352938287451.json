@@ -25,7 +25,7 @@
     "to": 2019
   },
   {
-    "models": "Kawasaki KLX 450R",
+    "models": "Kawasaki KLX 450",
     "from": 2008,
     "to": 2009
   },
@@ -42,12 +42,7 @@
   {
     "models": "Kawasaki KX 450F",
     "from": 2007,
-    "to": 2025
-  },
-  {
-    "models": "Kawasaki KX 450FX",
-    "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 450SR",
@@ -55,7 +50,12 @@
     "to": 2023
   },
   {
-    "models": "Chain Roller - Upper",
+    "models": "Kawasaki KX 450FX",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Chain Roller - Up",
     "from": "",
     "to": ""
   },
@@ -75,33 +75,33 @@
     "to": 2019
   },
   {
-    "models": "Kawasaki KLX 450R",
+    "models": "Kawasaki KLX 450",
     "from": 2008,
     "to": 2009
   },
   {
     "models": "Kawasaki KX 250F",
     "from": 2007,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 250FX",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 450F",
     "from": 2007,
-    "to": 2025
-  },
-  {
-    "models": "Kawasaki KX 450FX",
-    "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 450SR",
     "from": 2022,
-    "to": 2025
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 450FX",
+    "from": 2021,
+    "to": 2026
   }
 ]
