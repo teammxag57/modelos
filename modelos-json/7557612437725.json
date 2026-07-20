@@ -15,11 +15,6 @@
     "to": 2019
   },
   {
-    "models": "Gasgas EC 250 4T",
-    "from": 2010,
-    "to": 2015
-  },
-  {
     "models": "Gasgas EC 250 Replica",
     "from": 2013,
     "to": 2014
@@ -30,14 +25,14 @@
     "to": ""
   },
   {
+    "models": "Gasgas EC 250F",
+    "from": 2010,
+    "to": 2015
+  },
+  {
     "models": "Gasgas EC 300",
     "from": 2000,
     "to": 2019
-  },
-  {
-    "models": "Gasgas EC 300 4T",
-    "from": 2013,
-    "to": 2015
   },
   {
     "models": "Gasgas EC 300 Replica",
@@ -50,7 +45,12 @@
     "to": ""
   },
   {
-    "models": "Gasgas EC 450 4T",
+    "models": "Gasgas EC 300F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Gasgas EC 450F",
     "from": 2013,
     "to": 2015
   },
@@ -105,7 +105,7 @@
     "to": 2007
   },
   {
-    "models": "Honda CR 500",
+    "models": "Honda CR 500R",
     "from": 1987,
     "to": 2001
   },
@@ -135,6 +135,11 @@
     "to": 2017
   },
   {
+    "models": "Honda CRF 300F",
+    "from": 2026,
+    "to": ""
+  },
+  {
     "models": "Honda CRF 450L",
     "from": 2019,
     "to": 2020
@@ -147,7 +152,7 @@
   {
     "models": "Honda CRF 450RL",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Honda CRF 450RX",
@@ -170,27 +175,27 @@
     "to": 1996
   },
   {
+    "models": "Honda XR 250R",
+    "from": 1988,
+    "to": 2004
+  },
+  {
     "models": "Honda XR 400R",
     "from": 1996,
     "to": 2004
   },
   {
-    "models": "Honda XR250R",
-    "from": 1988,
-    "to": 2004
-  },
-  {
-    "models": "Honda XR600R",
+    "models": "Honda XR 600R",
     "from": 1988,
     "to": 2000
   },
   {
-    "models": "Honda XR650L",
+    "models": "Honda XR 650L",
     "from": 1993,
     "to": 2025
   },
   {
-    "models": "Honda XR650R",
+    "models": "Honda XR 650R",
     "from": 2000,
     "to": 2007
   },
@@ -210,12 +215,22 @@
     "to": 1996
   },
   {
+    "models": "Kawasaki KLX 250S",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "Kawasaki KLX 300R",
+    "from": 1997,
+    "to": 2007
+  },
+  {
     "models": "Kawasaki KLX 400R",
     "from": 2003,
     "to": ""
   },
   {
-    "models": "Kawasaki KLX 400R NON CA MODELS PUMPER CARB",
+    "models": "Kawasaki KLX 400R",
     "from": 2004,
     "to": ""
   },
@@ -225,44 +240,29 @@
     "to": 2004
   },
   {
+    "models": "Kawasaki KLX 450",
+    "from": 2008,
+    "to": 2009
+  },
+  {
     "models": "Kawasaki KLX 450R",
     "from": 2018,
     "to": 2019
   },
   {
-    "models": "Kawasaki KLX250S",
-    "from": 2006,
-    "to": 2007
-  },
-  {
-    "models": "Kawasaki KLX300(R)",
-    "from": 1997,
-    "to": 2007
-  },
-  {
-    "models": "Kawasaki KLX450R",
-    "from": 2008,
-    "to": 2009
-  },
-  {
-    "models": "Kawasaki KLX650 C",
+    "models": "Kawasaki KLX 650 C",
     "from": 1993,
     "to": 1996
   },
   {
-    "models": "Kawasaki KLX650D1",
+    "models": "Kawasaki KLX 650 D1",
     "from": 1996,
     "to": ""
   },
   {
-    "models": "Kawasaki KLX650R",
+    "models": "Kawasaki KLX 650R",
     "from": 1993,
     "to": 1996
-  },
-  {
-    "models": "Kawasaki KX 125",
-    "from": 1994,
-    "to": 2005
   },
   {
     "models": "Kawasaki KX 250",
@@ -272,12 +272,12 @@
   {
     "models": "Kawasaki KX 250F",
     "from": 2004,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 250FX",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 450F",
@@ -300,6 +300,16 @@
     "to": 2004
   },
   {
+    "models": "Kawasaki KX125",
+    "from": 1994,
+    "to": 2005
+  },
+  {
+    "models": "Rieju MR 300 Six Days Spain",
+    "from": 2025,
+    "to": ""
+  },
+  {
     "models": "Rieju MR Pro 200",
     "from": 2022,
     "to": 2024
@@ -313,6 +323,11 @@
     "models": "Rieju MR Pro 300",
     "from": 2021,
     "to": 2024
+  },
+  {
+    "models": "Rieju MR Pro 300i",
+    "from": 2026,
+    "to": ""
   },
   {
     "models": "Rieju MR Racing 200",
@@ -342,47 +357,57 @@
   {
     "models": "Suzuki DR 650SE",
     "from": 1996,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Suzuki DRZ 250 CA MODEL",
+    "models": "Suzuki DR-Z 250",
     "from": 2001,
     "to": 2007
   },
   {
-    "models": "Suzuki DRZ 250 NON CA MODELS",
+    "models": "Suzuki DR-Z 250",
     "from": 2001,
     "to": 2007
   },
   {
-    "models": "Suzuki DRZ 400E",
+    "models": "Suzuki DR-Z 400",
     "from": 2000,
     "to": 2003
   },
   {
-    "models": "Suzuki DRZ 400E",
+    "models": "Suzuki DR-Z 400",
     "from": 2004,
     "to": 2007
   },
   {
-    "models": "Suzuki DRZ 400E",
+    "models": "Suzuki DR-Z 400E",
     "from": 2004,
     "to": 2007
   },
   {
-    "models": "Suzuki DRZ 400K",
+    "models": "Suzuki DR-Z 400K",
     "from": 2000,
     "to": 2003
   },
   {
-    "models": "Suzuki DRZ 400S",
+    "models": "Suzuki DR-Z 400S",
     "from": 2000,
-    "to": 2025
+    "to": 2024
   },
   {
-    "models": "Suzuki DRZ 400SM",
+    "models": "Suzuki DR-Z 400SM",
     "from": 2005,
-    "to": 2025
+    "to": 2024
+  },
+  {
+    "models": "Suzuki DR-Z 4S",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Suzuki DR-Z 4SM",
+    "from": 2025,
+    "to": ""
   },
   {
     "models": "Suzuki RM 125",
@@ -397,12 +422,12 @@
   {
     "models": "Suzuki RM 250Z",
     "from": 2004,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Suzuki RM 450Z",
     "from": 2005,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Suzuki RMX 250",
