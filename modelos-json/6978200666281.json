@@ -1,6 +1,6 @@
 [
   {
-    "models": "Frente/Delantera/Front/Avant",
+    "models": "Frente / Delantera/Front/Avant",
     "from": "",
     "to": ""
   },
@@ -25,27 +25,27 @@
     "to": 2026
   },
   {
-    "models": "Husqvarna TC 85 BW",
+    "models": "Husqvarna TC 85",
     "from": 2014,
     "to": 2026
   },
   {
-    "models": "KTM FREERIDE 250 F",
+    "models": "KTM Freeride 250F",
     "from": 2018,
     "to": 2020
   },
   {
-    "models": "KTM FREERIDE 250 R",
+    "models": "KTM Freeride 250R",
     "from": 2014,
     "to": 2017
   },
   {
-    "models": "KTM FREERIDE 350 (EURO)",
+    "models": "KTM Freeride 350F",
     "from": 2015,
     "to": ""
   },
   {
-    "models": "KTM Freeride 350",
+    "models": "KTM Freeride 350F",
     "from": 2012,
     "to": 2017
   },
@@ -85,7 +85,7 @@
     "to": 2014
   },
   {
-    "models": "Traseira/Rear/Trasera/Arrière",
+    "models": "Traseira/Rear/Trasera/Arri�re",
     "from": "",
     "to": ""
   },
@@ -110,7 +110,17 @@
     "to": 2011
   },
   {
+    "models": "Ducati DESMO 450 EDX",
+    "from": 2026,
+    "to": ""
+  },
+  {
     "models": "Ducati DESMO 450 MX",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Ducati DESMO 450 MX Factory",
     "from": 2026,
     "to": ""
   },
@@ -120,12 +130,12 @@
     "to": 2019
   },
   {
-    "models": "Kawasaki KLX450R",
+    "models": "Kawasaki KLX 450",
     "from": 2008,
     "to": 2009
   },
   {
-    "models": "Kawasaki KX 125",
+    "models": "Kawasaki KX125",
     "from": 2003,
     "to": 2005
   },
@@ -137,27 +147,27 @@
   {
     "models": "Kawasaki KX 250F",
     "from": 2004,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 250FX",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 450F",
     "from": 2006,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 450SR",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 450FX",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Suzuki RM 250Z",
@@ -167,26 +177,26 @@
   {
     "models": "Yamaha WR 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250F",
     "from": 2009,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250FX",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 450F",
     "from": 2009,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 450FX",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   }
 ]
