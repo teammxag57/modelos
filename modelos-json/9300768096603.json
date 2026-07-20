@@ -25,7 +25,7 @@
     "to": 2012
   },
   {
-    "models": "Gasgas EC 300 4T",
+    "models": "Gasgas EC 300F",
     "from": 2013,
     "to": ""
   },
@@ -35,7 +35,7 @@
     "to": 2012
   },
   {
-    "models": "Gasgas EC 450FSE",
+    "models": "Gasgas EC 450F SE",
     "from": 2003,
     "to": 2005
   },
@@ -80,7 +80,7 @@
     "to": 2005
   },
   {
-    "models": "Gasgas SM 450FSE",
+    "models": "Gasgas SM 450F SE",
     "from": 2004,
     "to": 2005
   },
@@ -175,12 +175,12 @@
     "to": 2026
   },
   {
-    "models": "Yamaha WR 250R DUAL SPORT",
+    "models": "Yamaha WR 250R",
     "from": 2008,
     "to": 2011
   },
   {
-    "models": "Yamaha WR 250X Supermoto",
+    "models": "Yamaha WR 250X",
     "from": 2008,
     "to": 2011
   },
@@ -415,12 +415,17 @@
     "to": 2012
   },
   {
+    "models": "Yamaha IT 250",
+    "from": 1981,
+    "to": 1983
+  },
+  {
     "models": "Yamaha TT-R 250",
     "from": 1999,
     "to": 2006
   },
   {
-    "models": "Yamaha WR 250",
+    "models": "Husqvarna WR 250",
     "from": 1994,
     "to": 1997
   },
@@ -445,7 +450,7 @@
     "to": 2009
   },
   {
-    "models": "Yamaha XTZ750 SUPER TENERE",
+    "models": "Yamaha XTZ 750 SUPER TENERE",
     "from": 1989,
     "to": 1994
   },
