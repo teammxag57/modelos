@@ -7,17 +7,12 @@
   {
     "models": "Beta RR 125R",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RR 200",
     "from": 2019,
     "to": 2024
-  },
-  {
-    "models": "Beta RR 200R",
-    "from": 2021,
-    "to": 2025
   },
   {
     "models": "Beta RR 250",
@@ -27,7 +22,7 @@
   {
     "models": "Beta RR 250R",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RR 300",
@@ -37,32 +32,47 @@
   {
     "models": "Beta RR 300R",
     "from": 2022,
-    "to": 2025
+    "to": 2026
+  },
+  {
+    "models": "Beta RR Race 200",
+    "from": 2021,
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 125",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 200",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 250",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 300",
     "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RX 250",
+    "from": 2026,
     "to": ""
   },
   {
     "models": "Beta RX 300",
     "from": 2021,
     "to": 2025
+  },
+  {
+    "models": "Beta RX 350",
+    "from": 2026,
+    "to": ""
   },
   {
     "models": "Husaberg TE 250",
@@ -90,7 +100,7 @@
     "to": 2017
   },
   {
-    "models": "Husqvarna TC 85 BW",
+    "models": "Husqvarna TC 85",
     "from": 2014,
     "to": 2017
   },
@@ -155,6 +165,11 @@
     "to": ""
   },
   {
+    "models": "KTM EXC 250 Racing",
+    "from": 2001,
+    "to": 2006
+  },
+  {
     "models": "KTM EXC 250 Racing Six Days",
     "from": 2002,
     "to": 2003
@@ -163,11 +178,6 @@
     "models": "KTM EXC 250 Six Days",
     "from": 2005,
     "to": 2008
-  },
-  {
-    "models": "KTM EXC 250F",
-    "from": 2001,
-    "to": 2006
   },
   {
     "models": "KTM EXC 300",
@@ -190,7 +200,7 @@
     "to": 2001
   },
   {
-    "models": "KTM FREERIDE 250 R",
+    "models": "KTM Freeride 250R",
     "from": 2014,
     "to": 2017
   },
@@ -305,11 +315,6 @@
     "to": 2016
   },
   {
-    "models": "KTM XC 250W",
-    "from": 2006,
-    "to": 2016
-  },
-  {
     "models": "KTM XC 300",
     "from": 2006,
     "to": 2016
@@ -323,6 +328,11 @@
     "models": "KTM XC 85",
     "from": 2008,
     "to": 2009
+  },
+  {
+    "models": "KTM XC-W 250",
+    "from": 2006,
+    "to": 2016
   },
   {
     "models": "KTM XC-W 300 Six Days",
