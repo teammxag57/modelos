@@ -17,15 +17,15 @@
   {
     "models": "Yamaha WR 250F",
     "from": 2001,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Yamaha WR 250R DUAL SPORT",
+    "models": "Yamaha WR 250R",
     "from": 2008,
     "to": 2020
   },
   {
-    "models": "Yamaha WR 250X Supermoto",
+    "models": "Yamaha WR 250X",
     "from": 2008,
     "to": 2011
   },
@@ -42,7 +42,7 @@
   {
     "models": "Yamaha WR 450F",
     "from": 2003,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha XT 1200",
@@ -50,39 +50,39 @@
     "to": 2013
   },
   {
-    "models": "Yamaha XTZ 1200 Super Tenere",
+    "models": "Yamaha XTZ 12 Super Tenere",
     "from": 2012,
     "to": 2024
   },
   {
     "models": "Yamaha YZ 125",
     "from": 1996,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 125X",
     "from": 2020,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250",
     "from": 1996,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250F",
     "from": 2001,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250FX",
     "from": 2015,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250X",
     "from": 2016,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 400F",
@@ -97,11 +97,11 @@
   {
     "models": "Yamaha YZ 450F",
     "from": 2003,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 450FX",
     "from": 2016,
-    "to": 2025
+    "to": 2026
   }
 ]
