@@ -85,11 +85,6 @@
     "to": 2026
   },
   {
-    "models": "Husqvarna TE 300",
-    "from": 2019,
-    "to": 2023
-  },
-  {
     "models": "Husqvarna TE 300 Heritage Edition",
     "from": 2023,
     "to": 2025
@@ -98,6 +93,16 @@
     "models": "Husqvarna TE 300 Pro",
     "from": 2024,
     "to": 2026
+  },
+  {
+    "models": "Husqvarna TE 300i",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 300i Jarvis Edition",
+    "from": 2020,
+    "to": ""
   },
   {
     "models": "Husqvarna TE 300i Rockstar Edition",
@@ -185,7 +190,7 @@
     "to": 2022
   },
   {
-    "models": "KTM FREERIDE 250 R",
+    "models": "KTM Freeride 250R",
     "from": 2014,
     "to": 2017
   },
@@ -215,39 +220,34 @@
     "to": 2026
   },
   {
-    "models": "KTM XC 250",
+    "models": "KTM XC 250 TPI",
     "from": 2020,
     "to": 2022
   },
   {
-    "models": "KTM XC 250W",
+    "models": "KTM XC 300",
     "from": 2006,
     "to": 2026
   },
   {
-    "models": "KTM XC 250W",
+    "models": "KTM XC 300 TPI",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2006,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC-W 250",
+    "from": 2006,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC-W 250 TPI",
     "from": 2018,
     "to": 2022
-  },
-  {
-    "models": "KTM XC 300",
-    "from": 2006,
-    "to": 2026
-  },
-  {
-    "models": "KTM XC 300",
-    "from": 2020,
-    "to": 2022
-  },
-  {
-    "models": "KTM XC 300W",
-    "from": 2006,
-    "to": 2026
-  },
-  {
-    "models": "KTM XC 300W",
-    "from": 2019,
-    "to": 2023
   },
   {
     "models": "KTM XC-W 300 Champion Edition",
@@ -268,6 +268,11 @@
     "models": "KTM XC-W 300 Six Days",
     "from": 2014,
     "to": 2018
+  },
+  {
+    "models": "KTM XC-W 300 TPI",
+    "from": 2019,
+    "to": 2023
   },
   {
     "models": "KTM XC-W 300 TPI ERZBERGRODEO",
