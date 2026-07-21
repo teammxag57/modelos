@@ -70,7 +70,7 @@
     "to": 2015
   },
   {
-    "models": "Husqvarna FC 450",
+    "models": "Husqvarna FC 450F",
     "from": 2015,
     "to": ""
   },
@@ -125,7 +125,7 @@
     "to": 2017
   },
   {
-    "models": "Husqvarna TC 85 BW",
+    "models": "Husqvarna TC 85",
     "from": 2014,
     "to": 2017
   },
@@ -195,14 +195,14 @@
     "to": 2016
   },
   {
-    "models": "KTM EXC 350F Champion Edition",
-    "from": 2015,
-    "to": ""
-  },
-  {
     "models": "KTM EXC 400",
     "from": 2009,
     "to": 2011
+  },
+  {
+    "models": "KTM EXC 450",
+    "from": 2004,
+    "to": 2016
   },
   {
     "models": "KTM EXC 450 Six Days",
@@ -210,22 +210,12 @@
     "to": 2016
   },
   {
-    "models": "KTM EXC 450F",
-    "from": 2004,
-    "to": 2016
-  },
-  {
-    "models": "KTM EXC 450F",
-    "from": 2008,
-    "to": ""
-  },
-  {
-    "models": "KTM EXC 500 Six Days",
+    "models": "KTM EXC 500",
     "from": 2012,
     "to": 2016
   },
   {
-    "models": "KTM EXC 500F",
+    "models": "KTM EXC 500 Six Days",
     "from": 2012,
     "to": 2016
   },
@@ -240,14 +230,14 @@
     "to": 2011
   },
   {
-    "models": "KTM EXC 530R",
-    "from": 2008,
-    "to": ""
-  },
-  {
     "models": "KTM EXC-F 250 Six Days",
     "from": 2007,
     "to": 2015
+  },
+  {
+    "models": "KTM EXC-F 350 Champion Edition",
+    "from": 2015,
+    "to": ""
   },
   {
     "models": "KTM EXC-F 350 Six Days",
@@ -268,6 +258,16 @@
     "models": "KTM EXC-G 450",
     "from": 2003,
     "to": 2007
+  },
+  {
+    "models": "KTM EXC-R 450",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-R 530",
+    "from": 2008,
+    "to": ""
   },
   {
     "models": "KTM MXC 300",
@@ -455,11 +455,6 @@
     "to": 2016
   },
   {
-    "models": "KTM XC 250W",
-    "from": 2006,
-    "to": 2016
-  },
-  {
     "models": "KTM XC 300",
     "from": 2006,
     "to": 2016
@@ -543,6 +538,11 @@
     "models": "KTM XCR-W 530",
     "from": 2008,
     "to": ""
+  },
+  {
+    "models": "KTM XC-W 250",
+    "from": 2006,
+    "to": 2016
   },
   {
     "models": "KTM XC-W 300 Six Days",
