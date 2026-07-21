@@ -1,13 +1,28 @@
 [
   {
+    "models": "Gasgas ES 700",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas SM 700",
+    "from": 2022,
+    "to": 2024
+  },
+  {
     "models": "Husqvarna 701 Enduro",
     "from": 2016,
-    "to": 2021
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna 701 Enduro",
+    "from": 2020,
+    "to": ""
   },
   {
     "models": "Husqvarna 701 Supermoto",
     "from": 2016,
-    "to": 2021
+    "to": 2026
   },
   {
     "models": "KTM EGS 125",
@@ -20,7 +35,7 @@
     "to": 1999
   },
   {
-    "models": "KTM EGS 250 94-99",
+    "models": "KTM EGS 250",
     "from": 1994,
     "to": 1999
   },
@@ -42,7 +57,12 @@
   {
     "models": "KTM Enduro R 690",
     "from": 2011,
-    "to": 2021
+    "to": 2026
+  },
+  {
+    "models": "KTM Enduro R 690 ABS",
+    "from": 2016,
+    "to": ""
   },
   {
     "models": "KTM EXC 125",
@@ -57,6 +77,16 @@
   {
     "models": "KTM EXC 250",
     "from": 1994,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 250 Racing",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXC 250 Racing Six Days",
+    "from": 2002,
     "to": 2003
   },
   {
@@ -80,6 +110,11 @@
     "to": 2002
   },
   {
+    "models": "KTM EXC 400 Racing",
+    "from": 2000,
+    "to": 2007
+  },
+  {
     "models": "KTM EXC 450",
     "from": 2003,
     "to": ""
@@ -90,7 +125,7 @@
     "to": 2002
   },
   {
-    "models": "KTM EXC 525 03",
+    "models": "KTM EXC 525",
     "from": 2003,
     "to": ""
   },
@@ -111,7 +146,7 @@
   },
   {
     "models": "KTM MXC 250",
-    "from": 2008,
+    "from": 1998,
     "to": 2001
   },
   {
@@ -145,7 +180,7 @@
     "to": ""
   },
   {
-    "models": "KTM MXC-G 525 03",
+    "models": "KTM MXC-G 525",
     "from": 2003,
     "to": ""
   },
@@ -153,6 +188,11 @@
     "models": "KTM SC 400",
     "from": 2000,
     "to": ""
+  },
+  {
+    "models": "KTM SMC R 690",
+    "from": 2021,
+    "to": 2026
   },
   {
     "models": "KTM SMS 450",
@@ -175,7 +215,7 @@
     "to": 2002
   },
   {
-    "models": "KTM SX 300 94",
+    "models": "KTM SX 300",
     "from": 1994,
     "to": ""
   },
@@ -215,7 +255,7 @@
     "to": ""
   },
   {
-    "models": "KTM SXS 250 01-03",
+    "models": "KTM SXS 250",
     "from": 2001,
     "to": 2003
   },
