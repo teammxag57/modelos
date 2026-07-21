@@ -1,23 +1,38 @@
 [
   {
-    "models": "LOWER ROLLER",
+    "models": "Chain Roller - Lower",
     "from": "",
     "to": ""
   },
   {
     "models": "Kawasaki KX 100",
     "from": 2001,
-    "to": 2018
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KX 112",
+    "from": 2022,
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 65",
-    "from": 2001,
-    "to": 2018
+    "from": 2000,
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 85",
     "from": 2001,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 85 Big Wheel",
+    "from": 2001,
     "to": 2018
+  },
+  {
+    "models": "Kawasaki KX 85 L",
+    "from": 2026,
+    "to": ""
   },
   {
     "models": "Suzuki RM 100",
@@ -30,19 +45,34 @@
     "to": 2005
   },
   {
-    "models": "UPPER ROLLER",
+    "models": "Chain Roller - Up",
     "from": "",
     "to": ""
   },
   {
     "models": "Kawasaki KX 100",
     "from": 2001,
-    "to": 2018
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki KX 112",
+    "from": 2022,
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 85",
     "from": 2001,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 85 Big Wheel",
+    "from": 2001,
     "to": 2018
+  },
+  {
+    "models": "Kawasaki KX 85 L",
+    "from": 2026,
+    "to": ""
   },
   {
     "models": "Suzuki RM 100",
