@@ -1,17 +1,22 @@
 [
   {
-    "models": "Honda CRF 250R",
-    "from": 2010,
-    "to": 2013
+    "models": "Honda CR 80",
+    "from": 1985,
+    "to": 2002
   },
   {
-    "models": "Honda CRF 450R",
-    "from": 2005,
-    "to": 2012
+    "models": "Honda CR 80RB",
+    "from": 1996,
+    "to": 2002
   },
   {
-    "models": "Honda CRF 450X",
-    "from": 2005,
-    "to": 2017
+    "models": "Honda CR 85",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 85RB",
+    "from": 2003,
+    "to": 2007
   }
 ]
