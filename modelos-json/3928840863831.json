@@ -10,24 +10,24 @@
     "to": 2007
   },
   {
-    "models": "Honda CR 500",
+    "models": "Honda CR 500R",
     "from": 1996,
     "to": 2001
   },
   {
     "models": "Honda CRF 250R",
     "from": 2004,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Honda CRF 250RWE",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Honda CRF 250RX",
     "from": 2019,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Honda CRF 250X",
@@ -42,31 +42,31 @@
   {
     "models": "Honda CRF 450R",
     "from": 2002,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Honda CRF 450RL",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Honda CRF 450RS",
+    "models": "Honda CRF 450R-S",
     "from": 2022,
     "to": 2024
   },
   {
     "models": "Honda CRF 450RWE",
     "from": 2019,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Honda CRF 450RX",
     "from": 2017,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Honda CRF 450X",
     "from": 2005,
-    "to": 2025
+    "to": 2026
   }
 ]
