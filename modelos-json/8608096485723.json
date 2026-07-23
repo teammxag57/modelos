@@ -1,22 +1,32 @@
 [
   {
-    "models": "KTM EXC 125",
+    "models": "KTM EGS 125",
     "from": 1998,
-    "to": 2001
+    "to": ""
   },
   {
     "models": "KTM EXC 125",
-    "from": 2004,
+    "from": 1998,
     "to": 2005
   },
   {
     "models": "KTM EXC 200",
     "from": 1998,
-    "to": 2005
+    "to": 2012
   },
   {
     "models": "KTM EXC 250",
     "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 250 Racing",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXC 250 Racing Six Days",
+    "from": 2002,
     "to": 2003
   },
   {
@@ -28,6 +38,26 @@
     "models": "KTM EXC 380",
     "from": 2000,
     "to": 2002
+  },
+  {
+    "models": "KTM MXC 200",
+    "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "KTM MXC 250",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM MXC 300",
+    "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "KTM MXC 380",
+    "from": 2000,
+    "to": 2001
   },
   {
     "models": "KTM SX 125",
@@ -50,8 +80,18 @@
     "to": 2002
   },
   {
-    "models": "KTM XC 125",
-    "from": 1998,
+    "models": "KTM SXS 125",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 200",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 200W",
+    "from": 2006,
     "to": ""
   }
 ]
