@@ -50,13 +50,18 @@
     "to": 2021
   },
   {
+    "models": "KTM EXC 250 Factory Edition",
+    "from": 2015,
+    "to": ""
+  },
+  {
     "models": "KTM EXC 250 Six Days",
     "from": 2014,
     "to": 2023
   },
   {
     "models": "KTM EXC 250 TPI Six Days",
-    "from": 2020,
+    "from": 2019,
     "to": 2021
   },
   {
@@ -91,7 +96,7 @@
   },
   {
     "models": "KTM EXC 300 TPI Six Days",
-    "from": 2020,
+    "from": 2018,
     "to": 2022
   },
   {
@@ -101,7 +106,7 @@
   },
   {
     "models": "KTM EXC 450F",
-    "from": 2020,
+    "from": 2017,
     "to": 2023
   },
   {
@@ -131,8 +136,28 @@
   },
   {
     "models": "KTM EXC-F 500 Six Days",
-    "from": 2020,
+    "from": 2017,
     "to": 2023
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 150W",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC 450FW",
+    "from": 2023,
+    "to": ""
   },
   {
     "models": "KTM XC-FW 350",
@@ -140,24 +165,9 @@
     "to": 2022
   },
   {
-    "models": "KTM XCF-W 450",
-    "from": 2023,
-    "to": ""
-  },
-  {
     "models": "KTM XCF-W 500",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "KTM XC-FW 500",
     "from": 2020,
-    "to": 2021
-  },
-  {
-    "models": "KTM XC-W 150",
-    "from": 2017,
-    "to": 2023
+    "to": 2022
   },
   {
     "models": "KTM XC-W 150 TPI",
@@ -173,11 +183,6 @@
     "models": "KTM XC-W 250 TPI",
     "from": 2018,
     "to": 2022
-  },
-  {
-    "models": "KTM XC-W 300",
-    "from": 2017,
-    "to": 2018
   },
   {
     "models": "KTM XC-W 300 Six Days",
