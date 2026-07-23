@@ -50,7 +50,7 @@
     "to": 2016
   },
   {
-    "models": "KTM FREERIDE 250 R",
+    "models": "KTM Freeride 250R",
     "from": 2014,
     "to": 2017
   },
@@ -75,17 +75,17 @@
     "to": 2016
   },
   {
-    "models": "KTM XC 250W",
-    "from": 2006,
-    "to": 2016
-  },
-  {
     "models": "KTM XC 300",
     "from": 2006,
     "to": 2016
   },
   {
     "models": "KTM XC 300W",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 250",
     "from": 2006,
     "to": 2016
   },
