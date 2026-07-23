@@ -1,11 +1,11 @@
 [
   {
-    "models": "Frente/Front/Delantero/Avant",
+    "models": "Caliper Rebuild Kit - Front",
     "from": "",
     "to": ""
   },
   {
-    "models": "Gasgas MC  65",
+    "models": "GasGas MC 65",
     "from": 2023,
     "to": 2026
   },
@@ -20,9 +20,14 @@
     "to": 2026
   },
   {
-    "models": "Tras/Rear/Trasero/Arriere",
+    "models": "Caliper Rebuild Kit - Rear",
     "from": "",
     "to": ""
+  },
+  {
+    "models": "GasGas MC 65",
+    "from": 2023,
+    "to": 2026
   },
   {
     "models": "Gasgas MC 85 17/14",
@@ -35,13 +40,23 @@
     "to": 2026
   },
   {
-    "models": "Husqvarna TC 85",
+    "models": "Husqvarna TC 65",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 85 17/14",
     "from": 2022,
     "to": 2026
   },
   {
-    "models": "Husqvarna TC 85 BW",
+    "models": "Husqvarna TC 85",
     "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 65",
+    "from": 2023,
     "to": 2026
   },
   {
