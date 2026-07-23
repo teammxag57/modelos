@@ -30,32 +30,32 @@
     "to": 2014
   },
   {
-    "models": "Beta RR 520F",
+    "models": "Beta RR 520",
     "from": 2010,
     "to": 2011
   },
   {
-    "models": "Beta RR 525F",
+    "models": "Beta RR 525",
     "from": 2007,
     "to": 2009
   },
   {
-    "models": "Beta RS 390",
+    "models": "Beta RS 390F",
     "from": 2015,
     "to": ""
   },
   {
-    "models": "Beta RS 400",
+    "models": "Beta RS 400F",
     "from": 2014,
     "to": ""
   },
   {
-    "models": "Beta RS 430",
+    "models": "Beta RS 430F",
     "from": 2015,
     "to": ""
   },
   {
-    "models": "Beta RS 520",
+    "models": "Beta RS 520F",
     "from": 2014,
     "to": ""
   },
@@ -85,19 +85,14 @@
     "to": 2011
   },
   {
-    "models": "KTM EXC 450 Six Days",
-    "from": 2009,
-    "to": 2011
-  },
-  {
-    "models": "KTM EXC 450F",
+    "models": "KTM EXC 450",
     "from": 2007,
     "to": 2011
   },
   {
-    "models": "KTM EXC 450F",
-    "from": 2008,
-    "to": ""
+    "models": "KTM EXC 450 Six Days",
+    "from": 2009,
+    "to": 2011
   },
   {
     "models": "KTM EXC 525",
@@ -110,11 +105,6 @@
     "to": 2011
   },
   {
-    "models": "KTM EXC 530R",
-    "from": 2008,
-    "to": ""
-  },
-  {
     "models": "KTM EXC-G 400",
     "from": 2006,
     "to": ""
@@ -123,6 +113,16 @@
     "models": "KTM EXC-G 450",
     "from": 2006,
     "to": 2007
+  },
+  {
+    "models": "KTM EXC-R 450",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-R 530",
+    "from": 2008,
+    "to": ""
   },
   {
     "models": "KTM SMR 450",
@@ -135,14 +135,14 @@
     "to": 2010
   },
   {
-    "models": "KTM SX 450",
-    "from": 2006,
-    "to": ""
-  },
-  {
     "models": "KTM SX 450 ATV",
     "from": 2009,
     "to": 2010
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2006,
+    "to": ""
   },
   {
     "models": "KTM SX 450F",
