@@ -12,7 +12,7 @@
   {
     "models": "Yamaha WR 450F",
     "from": 2003,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Yamaha YFZ 450",
@@ -33,5 +33,10 @@
     "models": "Yamaha YZ 450F",
     "from": 2003,
     "to": 2022
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2016,
+    "to": 2023
   }
 ]
