@@ -5,12 +5,12 @@
     "to": 2019
   },
   {
-    "models": "Yamaha WR 250R DUAL SPORT",
+    "models": "Yamaha WR 250R",
     "from": 2008,
     "to": 2020
   },
   {
-    "models": "Yamaha WR 250X Supermoto",
+    "models": "Yamaha WR 250X",
     "from": 2008,
     "to": 2011
   },
@@ -22,22 +22,22 @@
   {
     "models": "Yamaha XT 250",
     "from": 2013,
-    "to": 2024
+    "to": 2025
   },
   {
     "models": "Yamaha YFZ 450R",
     "from": 2009,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Yamaha YFZ450X",
+    "models": "Yamaha YFZ 450X",
     "from": 2010,
     "to": 2011
   },
   {
     "models": "Yamaha YZ 250F",
     "from": 2014,
-    "to": 2024
+    "to": 2023
   },
   {
     "models": "Yamaha YZ 250FX",
