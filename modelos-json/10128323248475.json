@@ -1,41 +1,46 @@
 [
   {
-    "models": "Lower Bearing - Inferior",
-    "from": 2006,
-    "to": 2011
-  },
-  {
-    "models": "Suzuki RM 125",
-    "from": 2001,
-    "to": ""
-  },
-  {
-    "models": "Suzuki RM 250",
-    "from": 2001,
-    "to": ""
-  },
-  {
-    "models": "Suzuki RM 250Z",
-    "from": 2006,
-    "to": ""
-  },
-  {
-    "models": "Upper Bearing - Superior",
+    "models": "Lower Front Shock Bearing",
     "from": "",
     "to": ""
   },
   {
-    "models": "Suzuki LT-R450",
+    "models": "Suzuki LT-R 450",
     "from": 2006,
     "to": 2011
   },
   {
+    "models": "Lower Rear Shock Bearing",
+    "from": "",
+    "to": ""
+  },
+  {
     "models": "Suzuki RM 125",
+    "from": 2001,
+    "to": ""
+  },
+  {
+    "models": "Suzuki RM 250",
     "from": 2001,
     "to": 2008
   },
   {
-    "models": "Suzuki RM 250",
+    "models": "Suzuki RM 250Z",
+    "from": 2006,
+    "to": 2026
+  },
+  {
+    "models": "Upper Front Shock Bearing",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Upper Rear Shock Bearing",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Suzuki RM 125",
     "from": 2001,
     "to": 2008
   },
@@ -45,13 +50,8 @@
     "to": 2019
   },
   {
-    "models": "Suzuki RM 250Z",
-    "from": 2007,
-    "to": 2024
-  },
-  {
     "models": "Suzuki RM 450Z",
     "from": 2005,
-    "to": 2024
+    "to": 2026
   }
 ]
