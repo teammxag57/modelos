@@ -5,12 +5,182 @@
     "to": 2010
   },
   {
+    "models": "Honda CB 300F",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "Honda CB 300F ABS",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Honda CB R250R",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Honda CB R300R",
+    "from": 2015,
+    "to": 2022
+  },
+  {
+    "models": "Honda CB R300RA ABS",
+    "from": 2015,
+    "to": 2022
+  },
+  {
+    "models": "Honda NHX110",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "Honda SH150",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "Honda TRX 420 FA IRS",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "Honda TRX 420 FE",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "Honda TRX 420 FM",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "Honda TRX 420 FPA IRS",
+    "from": 2009,
+    "to": 2014
+  },
+  {
+    "models": "Honda TRX 420 FPE",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "Honda TRX 420 FPM",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "Honda TRX 420 TE",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "Honda TRX 420 TM",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "Honda TRX 500FE",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Honda TRX 500FM",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Honda TRX 500FPE",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Honda TRX 500FPM",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Honda TRX 680 Rincon",
+    "from": 2006,
+    "to": 2023
+  },
+  {
     "models": "Honda TRX 700",
     "from": 2008,
     "to": 2009
   },
   {
-    "models": "Husqvarna 701 Svartpilen",
+    "models": "Honda TRX 700 Rubicon",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Honda VT 1300CR",
+    "from": 2010,
+    "to": 2016
+  },
+  {
+    "models": "Honda VT 1300CR ABS",
+    "from": 2010,
+    "to": 2016
+  },
+  {
+    "models": "Honda VT 1300CS",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "Honda VT 1300CS ABS",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "Honda VT 1300CT",
+    "from": 2010,
+    "to": 2015
+  },
+  {
+    "models": "Honda VT 1300CT ABS",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "Honda VT 1300CX",
+    "from": 2010,
+    "to": 2020
+  },
+  {
+    "models": "Honda VT 1300CX ABS",
+    "from": 2010,
+    "to": 2025
+  },
+  {
+    "models": "Honda VT 750C",
+    "from": 2010,
+    "to": 2025
+  },
+  {
+    "models": "Honda VT 750C2",
+    "from": 2010,
+    "to": 2025
+  },
+  {
+    "models": "Honda VT 750CA",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Honda VT 750CS",
+    "from": 2013,
+    "to": 2020
+  },
+  {
+    "models": "Honda VT 750RS",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna Svartpilen 701",
     "from": 2019,
     "to": 2020
   },
@@ -35,9 +205,39 @@
     "to": 2020
   },
   {
+    "models": "Kawasaki ER-6N",
+    "from": 2006,
+    "to": 2011
+  },
+  {
     "models": "Kawasaki EX 650R",
     "from": 2006,
     "to": 2011
+  },
+  {
+    "models": "Kawasaki KLE 1000 VERSYS LT",
+    "from": 2021,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLE 650 VERSYS",
+    "from": 2007,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLZ 1000 Versys LT",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLZ 1000 Versys LT +",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLZ 1100 Versys SE LT",
+    "from": 2025,
+    "to": ""
   },
   {
     "models": "Kawasaki KX 250F",
@@ -67,11 +267,16 @@
   {
     "models": "Suzuki RM 450Z",
     "from": 2008,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Suzuki RMX 450",
     "from": 2010,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki TU250",
+    "from": 2009,
     "to": 2019
   }
 ]
