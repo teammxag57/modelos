@@ -22,12 +22,12 @@
   {
     "models": "Suzuki RM 250",
     "from": 2001,
-    "to": 2008
+    "to": ""
   },
   {
     "models": "Suzuki RM 250Z",
     "from": 2006,
-    "to": 2026
+    "to": ""
   },
   {
     "models": "Upper Front Shock Bearing",
@@ -35,9 +35,19 @@
     "to": ""
   },
   {
+    "models": "Suzuki LT-R 450",
+    "from": 2006,
+    "to": 2011
+  },
+  {
     "models": "Upper Rear Shock Bearing",
     "from": "",
     "to": ""
+  },
+  {
+    "models": "Suzuki LT-R 450",
+    "from": 2006,
+    "to": 2011
   },
   {
     "models": "Suzuki RM 125",
@@ -45,9 +55,19 @@
     "to": 2008
   },
   {
+    "models": "Suzuki RM 250",
+    "from": 2001,
+    "to": 2008
+  },
+  {
     "models": "Suzuki RMX 450",
     "from": 2010,
     "to": 2019
+  },
+  {
+    "models": "Suzuki RM 250Z",
+    "from": 2007,
+    "to": 2026
   },
   {
     "models": "Suzuki RM 450Z",
