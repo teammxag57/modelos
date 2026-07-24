@@ -20,7 +20,7 @@
     "to": 2007
   },
   {
-    "models": "Gasgas EC 450FSE",
+    "models": "Gasgas EC 450F SE",
     "from": 2003,
     "to": 2006
   },
@@ -50,12 +50,12 @@
     "to": 2005
   },
   {
-    "models": "Gasgas SM 450FSE",
+    "models": "Gasgas SM 450F SE",
     "from": 2004,
     "to": 2005
   },
   {
-    "models": "Gasgas SM 450FSR",
+    "models": "Gasgas SM 450F SR",
     "from": 2007,
     "to": 2009
   },
@@ -70,7 +70,7 @@
     "to": 1999
   },
   {
-    "models": "Honda CR 500",
+    "models": "Honda CR 500R",
     "from": 1987,
     "to": 2001
   },
@@ -82,7 +82,7 @@
   {
     "models": "Honda CRF 450RL",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Honda XR 250L",
@@ -90,24 +90,29 @@
     "to": 1996
   },
   {
+    "models": "Honda XR 250R",
+    "from": 1987,
+    "to": 2004
+  },
+  {
     "models": "Honda XR 400R",
     "from": 1996,
     "to": 2004
   },
   {
-    "models": "Honda XR250R",
-    "from": 1987,
-    "to": 2004
-  },
-  {
-    "models": "Honda XR600R",
+    "models": "Honda XR 600R",
     "from": 1988,
     "to": 2000
   },
   {
-    "models": "Honda XR650L",
+    "models": "Honda XR 650L",
     "from": 1993,
     "to": 2025
+  },
+  {
+    "models": "Husqvarna WR 250",
+    "from": 1994,
+    "to": 1997
   },
   {
     "models": "Kawasaki KDX 200",
@@ -130,7 +135,7 @@
     "to": 2007
   },
   {
-    "models": "Kawasaki KLX 300(R)",
+    "models": "Kawasaki KLX 300R",
     "from": 1997,
     "to": 2007
   },
@@ -140,7 +145,7 @@
     "to": ""
   },
   {
-    "models": "Kawasaki KLX 400R NON CA MODELS PUMPER CARB",
+    "models": "Kawasaki KLX 400R",
     "from": 2004,
     "to": ""
   },
@@ -155,18 +160,13 @@
     "to": 1996
   },
   {
-    "models": "Kawasaki KLX 650D1",
+    "models": "Kawasaki KLX 650 D1",
     "from": 1996,
     "to": ""
   },
   {
     "models": "Kawasaki KLX 650R",
     "from": 1993,
-    "to": 1996
-  },
-  {
-    "models": "Kawasaki KX 125",
-    "from": 1992,
     "to": 1996
   },
   {
@@ -178,6 +178,11 @@
     "models": "Kawasaki KX 500",
     "from": 1993,
     "to": 2004
+  },
+  {
+    "models": "Kawasaki KX125",
+    "from": 1992,
+    "to": 1996
   },
   {
     "models": "Suzuki DR 250",
@@ -197,45 +202,45 @@
   {
     "models": "Suzuki DR 650SE",
     "from": 1996,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "Suzuki DRZ 250 CA MODEL",
+    "models": "Suzuki DR-Z 250",
     "from": 2001,
     "to": 2007
   },
   {
-    "models": "Suzuki DRZ 250 NON CA MODELS",
+    "models": "Suzuki DR-Z 250",
     "from": 2001,
     "to": 2007
   },
   {
-    "models": "Suzuki DRZ 400E",
+    "models": "Suzuki DR-Z 400",
     "from": 2000,
     "to": 2003
   },
   {
-    "models": "Suzuki DRZ 400E",
+    "models": "Suzuki DR-Z 400",
     "from": 2004,
     "to": 2007
   },
   {
-    "models": "Suzuki DRZ 400E",
+    "models": "Suzuki DR-Z 400E",
     "from": 2004,
     "to": 2007
   },
   {
-    "models": "Suzuki DRZ 400K",
+    "models": "Suzuki DR-Z 400K",
     "from": 2000,
     "to": 2003
   },
   {
-    "models": "Suzuki DRZ 400S",
+    "models": "Suzuki DR-Z 400S",
     "from": 2000,
     "to": 2024
   },
   {
-    "models": "Suzuki DRZ 400SM",
+    "models": "Suzuki DR-Z 400SM",
     "from": 2005,
     "to": 2024
   },
@@ -273,11 +278,6 @@
     "models": "Yamaha TT-R 250",
     "from": 1999,
     "to": 2006
-  },
-  {
-    "models": "Yamaha WR 250",
-    "from": 1994,
-    "to": 1997
   },
   {
     "models": "Yamaha WR 250F",
