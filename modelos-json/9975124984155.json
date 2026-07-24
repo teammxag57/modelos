@@ -1,6 +1,6 @@
 [
   {
-    "models": "Inferior/Lower/Inferior/Inferieur",
+    "models": "Lower Rear Shock Bearing",
     "from": "",
     "to": ""
   },
@@ -20,7 +20,7 @@
     "to": 2024
   },
   {
-    "models": "Husqvarna TC 85 BW",
+    "models": "Husqvarna TC 85",
     "from": 2014,
     "to": 2024
   },
@@ -75,17 +75,17 @@
     "to": 2020
   },
   {
-    "models": "KTM FREERIDE 250 R",
+    "models": "KTM Freeride 250R",
     "from": 2014,
     "to": 2017
   },
   {
-    "models": "KTM FREERIDE 350 (EURO)",
+    "models": "KTM Freeride 350F",
     "from": 2015,
     "to": ""
   },
   {
-    "models": "KTM Freeride 350",
+    "models": "KTM Freeride 350F",
     "from": 2012,
     "to": 2017
   },
@@ -150,7 +150,7 @@
     "to": 2009
   },
   {
-    "models": "Superior/Upper/Superior/Superieur",
+    "models": "Upper Rear Shock Bearing",
     "from": "",
     "to": ""
   },
@@ -275,7 +275,7 @@
     "to": ""
   },
   {
-    "models": "KTM EXC 250F",
+    "models": "KTM EXC 250 Racing",
     "from": 2001,
     "to": 2006
   },
@@ -360,7 +360,7 @@
     "to": 2007
   },
   {
-    "models": "KTM EXC 450F",
+    "models": "KTM EXC 450",
     "from": 2003,
     "to": 2016
   },
@@ -375,7 +375,7 @@
     "to": 2016
   },
   {
-    "models": "KTM EXC 500F",
+    "models": "KTM EXC 500",
     "from": 2012,
     "to": 2016
   },
@@ -415,7 +415,7 @@
     "to": 2023
   },
   {
-    "models": "KTM EXC 350F Champion Edition",
+    "models": "KTM EXC-F 350 Champion Edition",
     "from": 2015,
     "to": ""
   },
@@ -465,12 +465,12 @@
     "to": 2007
   },
   {
-    "models": "KTM EXC 450F",
+    "models": "KTM EXC-R 450",
     "from": 2008,
     "to": ""
   },
   {
-    "models": "KTM EXC 530R",
+    "models": "KTM EXC-R 530",
     "from": 2008,
     "to": ""
   },
@@ -585,7 +585,7 @@
     "to": 2002
   },
   {
-    "models": "KTM SX 450",
+    "models": "KTM SX 450F",
     "from": 2003,
     "to": 2006
   },
@@ -705,7 +705,7 @@
     "to": 2016
   },
   {
-    "models": "KTM XCF-W 450",
+    "models": "KTM XC 450FW",
     "from": 2023,
     "to": ""
   },
@@ -735,7 +735,7 @@
     "to": 2023
   },
   {
-    "models": "KTM XC 150W",
+    "models": "KTM XC-W 150 TPI",
     "from": 2020,
     "to": 2022
   },
@@ -745,12 +745,12 @@
     "to": 2016
   },
   {
-    "models": "KTM XC 250W",
+    "models": "KTM XC-W 250",
     "from": 2006,
     "to": 2023
   },
   {
-    "models": "KTM XC 250W",
+    "models": "KTM XC-W 250 TPI",
     "from": 2018,
     "to": 2022
   },
@@ -765,7 +765,7 @@
     "to": 2018
   },
   {
-    "models": "KTM XC 300W",
+    "models": "KTM XC-W 300 TPI",
     "from": 2019,
     "to": 2023
   },
