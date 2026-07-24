@@ -1,12 +1,17 @@
 [
   {
-    "models": "--- Clutch ---",
+    "models": "Master Cylinder Kit - Clutch",
     "from": "",
     "to": ""
   },
   {
-    "models": "Gasgas MC 65",
+    "models": "GasGas MC 65",
     "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 85 17/14",
+    "from": 2022,
     "to": 2026
   },
   {
@@ -15,13 +20,13 @@
     "to": 2026
   },
   {
-    "models": "Gasgas MC 85 1714",
-    "from": 2022,
+    "models": "Husqvarna TC 65",
+    "from": 2017,
     "to": 2026
   },
   {
-    "models": "Husqvarna TC 65",
-    "from": 2018,
+    "models": "Husqvarna TC 85 17/14",
+    "from": 2014,
     "to": 2026
   },
   {
@@ -30,22 +35,17 @@
     "to": 2026
   },
   {
-    "models": "Husqvarna TC 85 BW",
-    "from": 2014,
-    "to": 2026
-  },
-  {
-    "models": "KTM FREERIDE 250 R",
+    "models": "KTM Freeride 250R",
     "from": 2014,
     "to": 2017
   },
   {
-    "models": "KTM FREERIDE 350",
+    "models": "KTM Freeride 350F",
     "from": 2015,
     "to": ""
   },
   {
-    "models": "KTM Freeride 350",
+    "models": "KTM Freeride 350F",
     "from": 2012,
     "to": 2017
   },
@@ -75,23 +75,23 @@
     "to": ""
   },
   {
-    "models": "--- Front brake ---",
+    "models": "Master Cylinder Kit - Front brake",
     "from": "",
     "to": ""
   },
   {
-    "models": "Gasgas MC 65",
+    "models": "GasGas MC 65",
     "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 85 17/14",
+    "from": 2022,
     "to": 2026
   },
   {
     "models": "Gasgas MC 85",
     "from": 2021,
-    "to": 2026
-  },
-  {
-    "models": "Gasgas MC 85 1714",
-    "from": 2022,
     "to": 2026
   },
   {
@@ -107,7 +107,7 @@
   {
     "models": "Husqvarna EE 3",
     "from": 2023,
-    "to": 2025
+    "to": 2024
   },
   {
     "models": "Husqvarna EE 5",
@@ -121,7 +121,12 @@
   },
   {
     "models": "Husqvarna TC 65",
-    "from": 2018,
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 85 17/14",
+    "from": 2014,
     "to": 2026
   },
   {
@@ -130,37 +135,42 @@
     "to": 2026
   },
   {
-    "models": "Husqvarna TC 85 BW",
-    "from": 2014,
-    "to": 2026
-  },
-  {
-    "models": "KTM FREERIDE 250 F",
-    "from": 2019,
+    "models": "KTM Freeride 250F",
+    "from": 2018,
     "to": 2020
   },
   {
-    "models": "KTM FREERIDE 250 R",
+    "models": "KTM Freeride 250R",
     "from": 2014,
     "to": 2017
   },
   {
-    "models": "KTM FREERIDE 350",
+    "models": "KTM Freeride 350F",
     "from": 2015,
     "to": ""
   },
   {
-    "models": "KTM Freeride 350",
+    "models": "KTM Freeride 350F",
     "from": 2012,
     "to": 2017
   },
   {
+    "models": "KTM Freeride E-SM",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "KTM Freeride E-SX",
+    "from": 2014,
+    "to": 2016
+  },
+  {
     "models": "KTM Freeride E-XC",
-    "from": 2020,
+    "from": 2015,
     "to": 2023
   },
   {
-    "models": "KTM SX 50",
+    "models": "KTM SR ADV 50",
     "from": 2024,
     "to": 2026
   },
@@ -185,12 +195,12 @@
     "to": 2026
   },
   {
-    "models": "KTM SX-E 3",
+    "models": "KTM SXE 3",
     "from": 2023,
     "to": 2025
   },
   {
-    "models": "KTM SX-E 5",
+    "models": "KTM SXE 5",
     "from": 2023,
     "to": 2026
   },
@@ -205,7 +215,7 @@
     "to": ""
   },
   {
-    "models": "--- Rear brake ---",
+    "models": "Master Cylinder Rebuild Kit Rear",
     "from": "",
     "to": ""
   },
