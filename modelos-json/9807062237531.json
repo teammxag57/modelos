@@ -2,12 +2,12 @@
   {
     "models": "Beta RC 450F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RX 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Honda CR 250",
@@ -30,6 +30,16 @@
     "to": ""
   },
   {
+    "models": "Kawasaki KLX 400R",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX 400R (CARB)",
+    "from": 2004,
+    "to": ""
+  },
+  {
     "models": "Kawasaki KLX 400SR",
     "from": 2003,
     "to": 2004
@@ -40,7 +50,7 @@
     "to": 2024
   },
   {
-    "models": "Kawasaki KX 250X",
+    "models": "Kawasaki KX 250FX",
     "from": 2021,
     "to": 2024
   },
@@ -60,9 +70,39 @@
     "to": ""
   },
   {
-    "models": "Stark VARG MX",
+    "models": "Stark VARG EX",
     "from": 2024,
     "to": ""
+  },
+  {
+    "models": "Suzuki DR-Z 400",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Suzuki DR-Z 400E",
+    "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "Suzuki DR-Z 400E",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Suzuki DR-Z 400K",
+    "from": 2000,
+    "to": 2003
+  },
+  {
+    "models": "Suzuki DR-Z 400S",
+    "from": 2000,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki DR-Z 400SM",
+    "from": 2005,
+    "to": 2024
   },
   {
     "models": "Suzuki RM 125",
@@ -82,12 +122,12 @@
   {
     "models": "Yamaha YZ 250F",
     "from": 2014,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 250FX",
     "from": 2015,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha YZ 450F",
@@ -97,6 +137,6 @@
   {
     "models": "Yamaha YZ 450FX",
     "from": 2016,
-    "to": 2025
+    "to": 2026
   }
 ]
