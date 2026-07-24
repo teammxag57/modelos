@@ -2,7 +2,7 @@
   {
     "models": "Beta RC 450F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR 125",
@@ -12,17 +12,12 @@
   {
     "models": "Beta RR 125R",
     "from": 2021,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RR 200",
     "from": 2019,
     "to": 2024
-  },
-  {
-    "models": "Beta RR 200R",
-    "from": 2021,
-    "to": 2025
   },
   {
     "models": "Beta RR 250",
@@ -32,7 +27,7 @@
   {
     "models": "Beta RR 250R",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RR 300",
@@ -52,7 +47,7 @@
   {
     "models": "Beta RR 350FR",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RR 390F",
@@ -62,12 +57,7 @@
   {
     "models": "Beta RR 390FR",
     "from": 2022,
-    "to": 2025
-  },
-  {
-    "models": "Beta RR 390S",
-    "from": 2024,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR 400F",
@@ -82,7 +72,7 @@
   {
     "models": "Beta RR 430FR",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RR 450F",
@@ -97,7 +87,7 @@
   {
     "models": "Beta RR 480FR",
     "from": 2022,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta RR 498F",
@@ -105,93 +95,108 @@
     "to": 2014
   },
   {
-    "models": "Beta RR 500S",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Beta RR 520F",
+    "models": "Beta RR 520",
     "from": 2010,
     "to": 2011
   },
   {
+    "models": "Beta RR Race 200",
+    "from": 2021,
+    "to": 2026
+  },
+  {
     "models": "Beta RR X-PRO 125",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 200",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 250",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 350F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 390F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 430F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 480F",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
-    "models": "Beta RR-S 350",
+    "models": "Beta RR-S 350F",
     "from": 2017,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Beta RR-S 390",
+    "models": "Beta RR-S 390F",
     "from": 2017,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Beta RR-S 430",
+    "models": "Beta RR-S 430F",
     "from": 2017,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Beta RR-S 500",
+    "models": "Beta RR-S 4T 390 Special Edition",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR-S 4T 500 Special Edition",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR-S 500F",
     "from": 2017,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Beta RS 390",
+    "models": "Beta RS 390F",
     "from": 2015,
     "to": 2016
   },
   {
-    "models": "Beta RS 400",
+    "models": "Beta RS 400F",
     "from": 2014,
     "to": ""
   },
   {
-    "models": "Beta RS 430",
+    "models": "Beta RS 430F",
     "from": 2015,
     "to": 2016
   },
   {
-    "models": "Beta RS 500",
+    "models": "Beta RS 500F",
     "from": 2015,
     "to": 2016
   },
   {
-    "models": "Beta RS 520",
+    "models": "Beta RS 520F",
     "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Beta RX 250",
+    "from": 2026,
     "to": ""
   },
   {
@@ -200,9 +205,14 @@
     "to": 2024
   },
   {
+    "models": "Beta RX 350",
+    "from": 2026,
+    "to": ""
+  },
+  {
     "models": "Beta RX 450F",
     "from": 2024,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Beta XTRAINER 250",
