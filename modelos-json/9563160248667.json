@@ -1,11 +1,16 @@
 [
   {
-    "models": "Yamaha DT 125",
+    "models": "Husqvarna WR 250",
+    "from": 1991,
+    "to": 1997
+  },
+  {
+    "models": "Yamaha DT-R 125R",
     "from": 1999,
     "to": 2006
   },
   {
-    "models": "Yamaha DT X 125",
+    "models": "Yamaha DT-R 125X",
     "from": 2005,
     "to": 2006
   },
@@ -13,11 +18,6 @@
     "models": "Yamaha WR 200",
     "from": 1992,
     "to": ""
-  },
-  {
-    "models": "Yamaha WR 250",
-    "from": 1991,
-    "to": 1997
   },
   {
     "models": "Yamaha WR 400F",
