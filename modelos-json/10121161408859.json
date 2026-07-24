@@ -1,17 +1,42 @@
 [
   {
-    "models": "Yamaha YZ 80",
-    "from": 1984,
-    "to": 1992
+    "models": "Yamaha TT 125",
+    "from": 2000,
+    "to": ""
   },
   {
     "models": "Yamaha TT-R 110",
     "from": 2008,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Yamaha TT-R 125",
     "from": 2000,
-    "to": 2025
+    "to": 2003
+  },
+  {
+    "models": "Yamaha TT-R 125E",
+    "from": 2003,
+    "to": 2009
+  },
+  {
+    "models": "Yamaha TT-R 125L",
+    "from": 2000,
+    "to": 2008
+  },
+  {
+    "models": "Yamaha TT-R 125LE",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha XT-Z 125",
+    "from": 2003,
+    "to": 2010
+  },
+  {
+    "models": "Yamaha YZ 80",
+    "from": 1984,
+    "to": 1992
   }
 ]
