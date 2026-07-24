@@ -1,16 +1,696 @@
 [
   {
-    "models": "Kawasaki KDX 200",
-    "from": 1989,
-    "to": 1994
+    "models": "Caliper Rebuild Kit - Front",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Can-Am Commander 1000 DPS",
+    "from": 2011,
+    "to": 2017
+  },
+  {
+    "models": "Can-Am Commander 1000 LTD",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "Can-Am Commander 1000 STD",
+    "from": 2011,
+    "to": 2017
+  },
+  {
+    "models": "Can-Am Commander 1000 X",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Can-Am Commander 1000 XT",
+    "from": 2011,
+    "to": 2017
+  },
+  {
+    "models": "Can-Am Commander 1000 XTP",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Can-Am Commander 1000R DPS",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "Can-Am Commander 1000R LTD",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "Can-Am Commander 1000R XT",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "Can-Am Commander 800 STD",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "Can-Am Commander 800 XT",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "Can-Am Commander 800R DPS",
+    "from": 2013,
+    "to": 2020
+  },
+  {
+    "models": "Can-Am Commander 800R STD",
+    "from": 2012,
+    "to": 2020
+  },
+  {
+    "models": "Can-Am Commander 800R XT",
+    "from": 2012,
+    "to": 2020
+  },
+  {
+    "models": "Can-Am Maverick 1000R DPS",
+    "from": 2016,
+    "to": ""
+  },
+  {
+    "models": "Can-Am Maverick 1000R STD",
+    "from": 2013,
+    "to": 2018
+  },
+  {
+    "models": "Can-Am Maverick 1000R Turbo",
+    "from": 2016,
+    "to": 2017
+  },
+  {
+    "models": "Can-Am Maverick 1000R XC",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "Can-Am Maverick 1000R XC DPS",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Can-Am Maverick 1000R XRS",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Can-Am Maverick 1000R XRS DPS",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Can-Am Maverick 1000R XXC",
+    "from": 2014,
+    "to": 2018
+  },
+  {
+    "models": "Honda CB750 Nighthawk",
+    "from": 1993,
+    "to": 2003
+  },
+  {
+    "models": "Honda CR125R",
+    "from": 1984,
+    "to": 1986
+  },
+  {
+    "models": "Honda CR 250",
+    "from": 1984,
+    "to": 1986
+  },
+  {
+    "models": "Honda CR 500R",
+    "from": 1984,
+    "to": 1986
+  },
+  {
+    "models": "Honda NHX110",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Honda SH125i (EU)",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "Honda SH150 (EU)",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "Honda SH150",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "Honda XR 250R",
+    "from": 1986,
+    "to": 1987
+  },
+  {
+    "models": "Honda XR350R",
+    "from": 1985,
+    "to": ""
+  },
+  {
+    "models": "Honda XR 600R",
+    "from": 1985,
+    "to": 1987
+  },
+  {
+    "models": "Kawasaki BN125",
+    "from": 2001,
+    "to": 2009
+  },
+  {
+    "models": "Kawasaki EX250 Ninja",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "Kawasaki EX300 Ninja",
+    "from": 2013,
+    "to": 2017
+  },
+  {
+    "models": "Kawasaki EX300 Ninja ABS",
+    "from": 2013,
+    "to": 2017
+  },
+  {
+    "models": "Kawasaki EX400 Ninja",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki EX400 Ninja ABS",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki EX500 Ninja",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki EX500 Ninja ABS",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki EX500 Ninja SE ABS",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KL 650E",
+    "from": 2008,
+    "to": 2018
   },
   {
     "models": "Kawasaki KLR 650",
     "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLR 650 ABS",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLR 650 ADVENTURE",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki KLR 650 ADVENTURE ABS",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLR 650 S",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLR 650 S ABS",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLR 650 TRAVELER ABS",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki KLX 140",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX 140G",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX 140L",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX 140R",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLX 140R F",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLX 140R L",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLX 150L",
+    "from": 2014,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki KLX 230",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KLX 230 ABS",
+    "from": 2021,
     "to": ""
   },
   {
-    "models": "Kawasaki KX 125",
+    "models": "Kawasaki KLX 230 DF ABS",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX 230 Sherpa S ABS",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KLX 230 SM",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLX 230R",
+    "from": 2020,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLX 230R S",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLX 230S",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLX 230S ABS",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLX 250S",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX 300",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLX 300R",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki Mule PRO-DX",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki Mule PRO-DX EPS",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki Mule PRO-DXT",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Kawasaki Mule PRO-DXT EPS",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki Mule PRO-DXT EPS FE",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki Mule PRO-DXT EPS LE",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki Mule PRO-FX 1000 HD Edition",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki Mule PRO-FX",
+    "from": 2016,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki Mule PRO-FX EPS",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Kawasaki Mule PRO-FX LE",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Kawasaki Mule PRO-FX Ranch",
+    "from": 2017,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki Mule PRO-FXR 1000",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki Mule PRO-FXR 1000 LE",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki Mule PRO-FXR",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki Mule PRO-FXT 1000 CAMO",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki Mule PRO-FXT 1000 LE",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki Mule PRO-FXT 1000 LE Ranch",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki Mule PRO-FXT 1000 Platinum",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki Mule PRO-FXT",
+    "from": 2015,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki Mule PRO-FXT EPS",
+    "from": 2015,
+    "to": 2022
+  },
+  {
+    "models": "Kawasaki Mule PRO-FXT EPS Camo",
+    "from": 2015,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki Mule PRO-FXT EPS LE",
+    "from": 2015,
+    "to": 2023
+  },
+  {
+    "models": "Kawasaki Mule PRO-FXT Ranch",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Kawasaki Mule PRO-MX",
+    "from": 2019,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki Mule PRO-MX EPS",
+    "from": 2019,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki Mule PRO-MX EPS Camo",
+    "from": 2019,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki Mule PRO-MX EPS LE",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki Mule PRO-MX LE",
+    "from": 2019,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki Mule PRO-MX SE",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki Ninja E-1 ABS",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki Teryx 4 4x4",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Kawasaki Teryx 4 4x4 800",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki Teryx 4 4x4 800 Camo",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Kawasaki Teryx 4 4x4 800 LE",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki Teryx 4 4x4 800 LE Camo",
+    "from": 2018,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki Teryx 4 4x4 800 S",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki Teryx 4 4x4 800 S Camo",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki Teryx 4 4x4 800 S LE",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki Teryx 4 4x4 800 S SE",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki Teryx 4 4x4 EPS",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Kawasaki Teryx 4x4 800",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki Teryx 4x4 800 Camo",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki Teryx 4x4 800 LE",
+    "from": 2014,
+    "to": 2021
+  },
+  {
+    "models": "Kawasaki Teryx 4x4 800 LE Camo",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki Teryx 4x4 800 S",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki Teryx 4x4 800 S Camo",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki Teryx 4x4 800 S LE",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki Teryx 4x4 800 S LE Camo",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki Teryx 750 4x4",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Kawasaki Z 7 Hybrid",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki Z E-1 ABS",
+    "from": 2024,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki Z250SL",
+    "from": 2014,
+    "to": 2018
+  },
+  {
+    "models": "Kawasaki Z400",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki Z500 ABS",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki Z500 ABS SE",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha 450 RHINO",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "Yamaha 660 RHINO",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Yamaha 700 RHINO FI",
+    "from": 2008,
+    "to": 2013
+  },
+  {
+    "models": "Caliper Rebuild Kit - Rear",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Yamaha Kawasaki EX400 Ninja",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "Yamaha H2",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha H2 SX",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha H2 SX SE +",
+    "from": 2021,
+    "to": ""
+  },
+  {
+    "models": "Yamaha H2 SX SE",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha H2 SX SE ABS",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Yamaha KDX200",
+    "from": 1989,
+    "to": 1994
+  },
+  {
+    "models": "Yamaha KLE500 ABS",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Yamaha KLE500 SE ABS",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Kawasaki KX125",
     "from": 1994,
     "to": ""
   },
@@ -23,6 +703,11 @@
     "models": "Kawasaki KX 500",
     "from": 1994,
     "to": 1995
+  },
+  {
+    "models": "Yamaha Z H2 SE",
+    "from": 2021,
+    "to": ""
   },
   {
     "models": "Suzuki DR 250",
@@ -48,6 +733,131 @@
     "models": "Suzuki RMX 250",
     "from": 1989,
     "to": 1992
+  },
+  {
+    "models": "Yamaha Yamaha Viking 700",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha Viking 700 EPS",
+    "from": 2018,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha Viking 700 EPS Hunter",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha Viking 700 EPS Ranch",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha Viking 700 EPS Red/Green",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "Yamaha Viking 700 Hunter",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Yamaha Viking 700 VI EPS",
+    "from": 2015,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha Viking 700 VI EPS Hunter",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Yamaha Viking 700 VI EPS Ranch",
+    "from": 2016,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha Wolverine",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "Yamaha Wolverine EPS",
+    "from": 2017,
+    "to": ""
+  },
+  {
+    "models": "Yamaha Wolverine R-SPEC",
+    "from": 2016,
+    "to": ""
+  },
+  {
+    "models": "Yamaha Wolverine R-SPEC EPS",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "Yamaha Wolverine R-SPEC EPS SE",
+    "from": 2016,
+    "to": 2017
+  },
+  {
+    "models": "Yamaha Wolverine R-SPEC Hunter",
+    "from": 2018,
+    "to": ""
+  },
+  {
+    "models": "Yamaha Wolverine X2 1000 R-SPEC",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha Wolverine X2 1000 XT-R",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha Wolverine X2",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha Wolverine X2 R-SPEC",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha Wolverine X2 XT-R",
+    "from": 2020,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha Wolverine X4",
+    "from": 2018,
+    "to": 2021
+  },
+  {
+    "models": "Yamaha Wolverine X4 Hunter",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha Wolverine X4 R-SPEC",
+    "from": 2022,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha Wolverine X4 SE",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Yamaha Wolverine X4 XT-R",
+    "from": 2020,
+    "to": 2026
   },
   {
     "models": "Yamaha WR 426F",
