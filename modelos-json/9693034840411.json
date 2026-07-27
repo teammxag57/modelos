@@ -27,17 +27,7 @@
   {
     "models": "Husqvarna TE 250",
     "from": 2018,
-    "to": 2018
-  },
-  {
-    "models": "Husqvarna TE 250",
-    "from": 2023,
     "to": 2023
-  },
-  {
-    "models": "Husqvarna TE 250i",
-    "from": 2018,
-    "to": 2022
   },
   {
     "models": "Husqvarna TE 300",
@@ -46,13 +36,8 @@
   },
   {
     "models": "Husqvarna TE 300",
-    "from": 2023,
-    "to": 2023
-  },
-  {
-    "models": "Husqvarna TE 300i",
     "from": 2018,
-    "to": 2022
+    "to": 2023
   },
   {
     "models": "Husqvarna TX 300",
@@ -60,12 +45,12 @@
     "to": 2019
   },
   {
-    "models": "Husqvarna TX 300i",
+    "models": "Husqvarna TX 300",
     "from": 2021,
     "to": 2022
   },
   {
-    "models": "KTM 250 EXC",
+    "models": "KTM EXC 250",
     "from": 2018,
     "to": 2022
   },
@@ -75,7 +60,7 @@
     "to": 2022
   },
   {
-    "models": "KTM 250 SX",
+    "models": "KTM SX 250",
     "from": 2018,
     "to": 2022
   },
@@ -100,12 +85,7 @@
     "to": 2022
   },
   {
-    "models": "KTM 300 EXC",
-    "from": 2018,
-    "to": 2019
-  },
-  {
-    "models": "KTM 300 EXC TPI",
+    "models": "KTM EXC 300",
     "from": 2018,
     "to": 2022
   },
