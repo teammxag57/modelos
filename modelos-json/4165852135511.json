@@ -35,17 +35,17 @@
     "to": 2019
   },
   {
-    "models": "KTM 125 SX",
+    "models": "KTM SX 125",
     "from": 2017,
     "to": 2020
   },
   {
-    "models": "KTM 125 XC-W",
+    "models": "KTM XC 125W",
     "from": 2017,
     "to": 2019
   },
   {
-    "models": "KTM 150 SX",
+    "models": "KTM SX 150",
     "from": 2017,
     "to": 2020
   },
@@ -55,7 +55,7 @@
     "to": 2019
   },
   {
-    "models": "KTM 250 EXC",
+    "models": "KTM EXC 250",
     "from": 2017,
     "to": 2018
   },
@@ -65,7 +65,7 @@
     "to": 2017
   },
   {
-    "models": "KTM 250 SX",
+    "models": "KTM SX 250",
     "from": 2017,
     "to": 2020
   },
@@ -80,7 +80,7 @@
     "to": 2018
   },
   {
-    "models": "KTM 300 EXC",
+    "models": "KTM EXC 300",
     "from": 2017,
     "to": 2020
   },
