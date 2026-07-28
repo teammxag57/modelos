@@ -15,27 +15,32 @@
     "to": 2022
   },
   {
-    "models": "KTM SX-F 250",
+    "models": "KTM SX 250F",
     "from": 2019,
     "to": 2022
   },
   {
-    "models": "KTM SX-F 350",
+    "models": "KTM SX 350F",
     "from": 2019,
     "to": 2022
   },
   {
-    "models": "KTM SX-F 450",
+    "models": "KTM SX 450F",
     "from": 2019,
     "to": 2022
   },
   {
     "models": "KTM XC 125",
-    "from": 2021,
+    "from": 2019,
     "to": 2022
   },
   {
     "models": "KTM XC 250",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC 250F",
     "from": 2019,
     "to": 2022
   },
@@ -45,17 +50,12 @@
     "to": 2022
   },
   {
-    "models": "KTM XC-F 250",
+    "models": "KTM XC 350F",
     "from": 2019,
     "to": 2022
   },
   {
-    "models": "KTM XC-F 350",
-    "from": 2019,
-    "to": 2022
-  },
-  {
-    "models": "KTM XC-F 450",
+    "models": "KTM XC 450F",
     "from": 2019,
     "to": 2022
   }
