@@ -15,27 +15,27 @@
     "to": 2016
   },
   {
+    "models": "KTM EXC 250F",
+    "from": 2014,
+    "to": 2016
+  },
+  {
     "models": "KTM EXC 300",
     "from": 2014,
     "to": 2016
   },
   {
-    "models": "KTM EXC-F 250",
+    "models": "KTM EXC 350F",
     "from": 2014,
     "to": 2016
   },
   {
-    "models": "KTM EXC-F 350",
+    "models": "KTM EXC 450F",
     "from": 2014,
     "to": 2016
   },
   {
-    "models": "KTM EXC-F 450",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "KTM EXC-F 500",
+    "models": "KTM EXC 500F",
     "from": 2014,
     "to": 2016
   },
@@ -55,17 +55,17 @@
     "to": 2016
   },
   {
-    "models": "KTM SX-F 250",
+    "models": "KTM SX 250F",
     "from": 2013,
     "to": 2015
   },
   {
-    "models": "KTM SX-F 350",
+    "models": "KTM SX 350F",
     "from": 2013,
     "to": 2015
   },
   {
-    "models": "KTM SX-F 450",
+    "models": "KTM SX 450F",
     "from": 2013,
     "to": 2015
   },
@@ -75,8 +75,28 @@
     "to": 2015
   },
   {
+    "models": "KTM XC 200W",
+    "from": 2014,
+    "to": 2016
+  },
+  {
     "models": "KTM XC 250",
     "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 250F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM XC 250FW",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2014,
     "to": 2016
   },
   {
@@ -85,38 +105,18 @@
     "to": 2016
   },
   {
-    "models": "KTM XC-F 250",
+    "models": "KTM XC 350F",
     "from": 2013,
     "to": 2015
   },
   {
-    "models": "KTM XC-F 350",
+    "models": "KTM XC 350FW",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 450F",
     "from": 2013,
     "to": 2015
-  },
-  {
-    "models": "KTM XC-F 450",
-    "from": 2013,
-    "to": 2015
-  },
-  {
-    "models": "KTM XCF-W 250",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "KTM XCF-W 350",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "KTM XC-W 200",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "KTM XC-W 250",
-    "from": 2014,
-    "to": 2016
   }
 ]
