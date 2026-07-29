@@ -30,6 +30,16 @@
     "to": 2023
   },
   {
+    "models": "Husqvarna FX 350F",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FX 450F",
+    "from": 2019,
+    "to": 2022
+  },
+  {
     "models": "Husqvarna TC 125",
     "from": 2019,
     "to": 2022
@@ -61,16 +71,6 @@
   },
   {
     "models": "Husqvarna TX 300",
-    "from": 2019,
-    "to": 2022
-  },
-  {
-    "models": "Husqvarna FX 350F",
-    "from": 2019,
-    "to": 2022
-  },
-  {
-    "models": "Husqvarna FX 450F",
     "from": 2019,
     "to": 2022
   }
