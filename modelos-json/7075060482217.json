@@ -115,36 +115,6 @@
     "to": 2019
   },
   {
-    "models": "TM Racing MX 85",
-    "from": 2019,
-    "to": 2019
-  },
-  {
-    "models": "TM Racing MX 125",
-    "from": 2013,
-    "to": 2019
-  },
-  {
-    "models": "TM Racing MX 144",
-    "from": 2013,
-    "to": 2022
-  },
-  {
-    "models": "TM Racing MX 250",
-    "from": 2015,
-    "to": 2019
-  },
-  {
-    "models": "TM Racing MX 250F",
-    "from": 2010,
-    "to": 2015
-  },
-  {
-    "models": "TM Racing MX 300",
-    "from": 2015,
-    "to": 2019
-  },
-  {
     "models": "TM Racing EN 125",
     "from": 2013,
     "to": 2019
@@ -158,6 +128,36 @@
     "models": "TM Racing EN 250",
     "from": 2015,
     "to": 2019
+  },
+  {
+    "models": "TM Racing MX 144",
+    "from": 2013,
+    "to": 2022
+  },
+  {
+    "models": "TM Racing MX 300",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing MX 85",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing MX 125",
+    "from": 2013,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing MX 250",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing MX 250F",
+    "from": 2010,
+    "to": 2015
   },
   {
     "models": "TM Racing MX 250F",
