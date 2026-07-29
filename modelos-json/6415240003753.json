@@ -15,22 +15,32 @@
     "to": 2007
   },
   {
+    "models": "KTM EXC 250F",
+    "from": 2006,
+    "to": 2007
+  },
+  {
     "models": "KTM EXC 300",
     "from": 2005,
     "to": 2007
   },
   {
-    "models": "KTM EXC-F 250",
+    "models": "KTM EXC 350F",
     "from": 2006,
     "to": 2007
   },
   {
-    "models": "KTM EXC-F 350",
+    "models": "KTM EXC 450F",
     "from": 2006,
     "to": 2007
   },
   {
-    "models": "KTM EXC-F 450",
+    "models": "KTM XC 250FW",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 250W",
     "from": 2006,
     "to": 2007
   }
