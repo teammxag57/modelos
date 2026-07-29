@@ -1,6 +1,6 @@
 [
   {
-    "models": "Kawasaki KLX 450R",
+    "models": "Kawasaki KLX 450",
     "from": 2008,
     "to": 2021
   },
@@ -13,10 +13,5 @@
     "models": "Kawasaki KX 450F",
     "from": 2006,
     "to": 2018
-  },
-  {
-    "models": "",
-    "from": "",
-    "to": ""
   }
 ]
