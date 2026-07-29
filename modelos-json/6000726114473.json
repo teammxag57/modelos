@@ -1,46 +1,46 @@
 [
   {
-    "models": "Gasgas EC 250 F",
+    "models": "Gasgas EC 250F",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "Gasgas EX 250 F",
+    "models": "Gasgas EX 250F",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "Gasgas MC 250 F",
+    "models": "Gasgas MC 250F",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "Husqvarna FC 250",
+    "models": "Husqvarna FC 250F",
     "from": 2016,
     "to": 2022
   },
   {
-    "models": "Husqvarna FE 250",
+    "models": "Husqvarna FE 250F",
     "from": 2017,
     "to": 2023
   },
   {
-    "models": "KTM 250 EXC-F",
+    "models": "KTM EXC 250F",
     "from": 2017,
     "to": 2023
   },
   {
-    "models": "KTM 250 SX-F",
+    "models": "KTM SX 250F",
     "from": 2016,
     "to": 2022
   },
   {
-    "models": "KTM 250 XC-F",
+    "models": "KTM XC 250F",
     "from": 2016,
     "to": 2022
   },
   {
-    "models": "KTM FREERIDE 250 F",
+    "models": "KTM FREERIDE 250F",
     "from": 2018,
     "to": 2020
   }
