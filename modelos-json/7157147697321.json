@@ -1,36 +1,36 @@
 [
   {
-    "models": "KTM SX-F 250",
+    "models": "KTM EXC 250F",
     "from": 2009,
     "to": 2012
   },
   {
-    "models": "KTM SX-F 350",
-    "from": 2009,
-    "to": 2012
-  },
-  {
-    "models": "KTM XC-F 250",
-    "from": 2009,
-    "to": 2012
-  },
-  {
-    "models": "KTM EXC-F 250",
-    "from": 2009,
-    "to": 2012
-  },
-  {
-    "models": "KTM EXC-F 350",
+    "models": "KTM EXC 350F",
     "from": 2012,
-    "to": ""
+    "to": 2012
   },
   {
-    "models": "KTM XCF-W 250",
+    "models": "KTM SX 250F",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM XC 250F",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM XC 250FW",
     "from": 2009,
     "to": 2013
   },
   {
-    "models": "KTM XCF-W 350",
+    "models": "KTM XC 350FW",
     "from": 2009,
     "to": 2012
   }
