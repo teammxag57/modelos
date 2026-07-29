@@ -241,13 +241,8 @@
   },
   {
     "models": "Yamaha WR 125",
-    "from": 1999,
-    "to": 2001
-  },
-  {
-    "models": "Yamaha WR 125",
     "from": 1998,
-    "to": 1998
+    "to": 2001
   },
   {
     "models": "Yamaha YZ 125",
@@ -290,7 +285,7 @@
     "to": 2022
   },
   {
-    "models": "Yamaha YZ 125 X",
+    "models": "Yamaha YZ 125X",
     "from": 2020,
     "to": 2022
   }
