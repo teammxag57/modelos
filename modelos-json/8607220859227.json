@@ -65,16 +65,6 @@
     "to": 1986
   },
   {
-    "models": "TM Racing EN 125",
-    "from": 1992,
-    "to": 2021
-  },
-  {
-    "models": "TM Racing MX 125",
-    "from": 1992,
-    "to": 2021
-  },
-  {
     "models": "Suzuki RM 100",
     "from": 2003,
     "to": 2003
@@ -143,6 +133,16 @@
     "models": "Suzuki RM 125",
     "from": 1977,
     "to": 1980
+  },
+  {
+    "models": "TM Racing EN 125",
+    "from": 1992,
+    "to": 2021
+  },
+  {
+    "models": "TM Racing MX 125",
+    "from": 1992,
+    "to": 2021
   },
   {
     "models": "Yamaha WR 125",
