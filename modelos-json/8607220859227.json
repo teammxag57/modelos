@@ -1,16 +1,16 @@
 [
   {
-    "models": "Gas GAS EC 125 2T",
+    "models": "Gasgas EC 125",
     "from": 2000,
     "to": 2011
   },
   {
-    "models": "Gas GAS MC 125 2T",
+    "models": "Gasgas MC 125",
     "from": 2000,
     "to": 2011
   },
   {
-    "models": "Gas GAS TXT 125 TRAILS",
+    "models": "Gasgas TXT 125",
     "from": 2003,
     "to": 2009
   },
@@ -160,34 +160,14 @@
     "to": 1986
   },
   {
-    "models": "Moto TM EN 125 2T",
-    "from": 2015,
+    "models": "TM Racing EN 125",
+    "from": 1992,
     "to": 2021
   },
   {
-    "models": "Moto TM EN 125 2T",
-    "from": 2006,
-    "to": 2014
-  },
-  {
-    "models": "Moto TM EN 125 2T",
+    "models": "TM Racing MX 125",
     "from": 1992,
-    "to": 2005
-  },
-  {
-    "models": "Moto TM MX 125 2T",
-    "from": 2015,
     "to": 2021
-  },
-  {
-    "models": "Moto TM MX 125 2T",
-    "from": 2006,
-    "to": 2014
-  },
-  {
-    "models": "Moto TM MX 125 2T",
-    "from": 1992,
-    "to": 2005
   },
   {
     "models": "Suzuki RM 100",
