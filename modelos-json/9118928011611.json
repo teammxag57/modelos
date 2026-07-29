@@ -10,27 +10,27 @@
     "to": 2019
   },
   {
+    "models": "KTM EXC 250F",
+    "from": 2017,
+    "to": 2019
+  },
+  {
     "models": "KTM EXC 300",
     "from": 2017,
     "to": 2019
   },
   {
-    "models": "KTM EXC-F 250",
+    "models": "KTM EXC 350F",
     "from": 2017,
     "to": 2019
   },
   {
-    "models": "KTM EXC-F 350",
+    "models": "KTM EXC 450F",
     "from": 2017,
     "to": 2019
   },
   {
-    "models": "KTM EXC-F 450",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM EXC-F 500",
+    "models": "KTM EXC 500F",
     "from": 2017,
     "to": 2019
   },
@@ -50,19 +50,29 @@
     "to": 2018
   },
   {
-    "models": "KTM SX-F 250",
+    "models": "KTM SX 250F",
     "from": 2016,
     "to": 2018
   },
   {
-    "models": "KTM SX-F 350",
+    "models": "KTM SX 350F",
     "from": 2016,
     "to": 2018
   },
   {
-    "models": "KTM SX-F 450",
+    "models": "KTM SX 450F",
     "from": 2016,
     "to": 2018
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 150W",
+    "from": 2017,
+    "to": 2019
   },
   {
     "models": "KTM XC 250",
@@ -70,43 +80,33 @@
     "to": 2018
   },
   {
+    "models": "KTM XC 250F",
+    "from": 2016,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
     "models": "KTM XC 300",
     "from": 2016,
     "to": 2018
   },
   {
-    "models": "KTM XC-F 250",
+    "models": "KTM XC 300F",
     "from": 2016,
     "to": 2018
   },
   {
-    "models": "KTM XC-F 300",
+    "models": "KTM XC 350FW",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 450F",
     "from": 2016,
     "to": 2018
-  },
-  {
-    "models": "KTM XC-F 450",
-    "from": 2016,
-    "to": 2018
-  },
-  {
-    "models": "KTM XCF-W 350",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM XC-W 125",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM XC-W 150",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM XC-W 250",
-    "from": 2017,
-    "to": 2019
   }
 ]
