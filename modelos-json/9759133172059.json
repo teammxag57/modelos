@@ -5,13 +5,8 @@
     "to": 2022
   },
   {
-    "models": "Honda CR 80R",
+    "models": "Honda CR 80",
     "from": 1986,
-    "to": 2002
-  },
-  {
-    "models": "Honda CR 85R",
-    "from": 2003,
     "to": 2007
   },
   {
@@ -20,22 +15,22 @@
     "to": 2022
   },
   {
-    "models": "KTM 105 SX",
+    "models": "KTM SX 105",
     "from": 2004,
     "to": 2011
   },
   {
-    "models": "KTM 105 XC",
+    "models": "KTM XC 105",
     "from": 2008,
     "to": 2009
   },
   {
-    "models": "KTM 85 SX",
+    "models": "KTM SX 85",
     "from": 2003,
     "to": 2022
   },
   {
-    "models": "KTM 85 XC",
+    "models": "KTM XC 85",
     "from": 2008,
     "to": 2009
   },
