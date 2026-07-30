@@ -1,71 +1,71 @@
 [
   {
-    "models": "KTM 125 EXC",
+    "models": "KTM EXC 125",
     "from": 1999,
     "to": 2004
   },
   {
-    "models": "KTM 125 EXC SIX-DAYS",
+    "models": "KTM EXC 125 SIX-DAYS",
     "from": 2001,
     "to": 2004
   },
   {
-    "models": "KTM 125 SX",
+    "models": "KTM SX 125",
     "from": 1999,
     "to": 2005
   },
   {
-    "models": "KTM 125 SXS",
+    "models": "KTM SXS 125",
     "from": 2001,
     "to": 2004
   },
   {
-    "models": "KTM 200 EXC",
+    "models": "KTM EXC 200",
     "from": 1999,
     "to": 2006
   },
   {
-    "models": "KTM 200 EXC - GS 8kW",
+    "models": "KTM EXC 200 - GS 8kW",
     "from": 2000,
     "to": 2000
   },
   {
-    "models": "KTM 200 SX",
+    "models": "KTM SX 200",
     "from": 2003,
     "to": 2003
   },
   {
-    "models": "KTM 250 EXC",
+    "models": "KTM EXC 250",
     "from": 2000,
     "to": 2003
   },
   {
-    "models": "KTM 250 EXC SIX-DAYS",
+    "models": "KTM EXC 250 SIX-DAYS",
     "from": 2001,
     "to": 2003
   },
   {
-    "models": "KTM 250 SX",
+    "models": "KTM SX 250",
     "from": 1999,
     "to": 2002
   },
   {
-    "models": "KTM 250 SXS",
+    "models": "KTM SXS 250",
     "from": 2001,
     "to": 2001
   },
   {
-    "models": "KTM 300 EXC",
+    "models": "KTM EXC 300",
     "from": 1999,
     "to": 2003
   },
   {
-    "models": "KTM 300 EXC SIX-DAYS",
+    "models": "KTM EXC 300 SIX-DAYS",
     "from": 2001,
     "to": 2003
   },
   {
-    "models": "KTM 380 SX",
+    "models": "KTM SX 380",
     "from": 2000,
     "to": 2002
   }
