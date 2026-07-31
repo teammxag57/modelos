@@ -20,22 +20,22 @@
     "to": ""
   },
   {
-    "models": "Husqvarna FC 250",
+    "models": "Husqvarna FC 250F",
     "from": 2014,
     "to": 2022
   },
   {
-    "models": "Husqvarna FE 250",
+    "models": "Husqvarna FE 250F",
     "from": 2014,
     "to": 2024
   },
   {
-    "models": "KTM EXC-F 250",
+    "models": "KTM EXC 250F",
     "from": 2014,
     "to": 2023
   },
   {
-    "models": "KTM SX-F 250",
+    "models": "KTM SX 250F",
     "from": 2013,
     "to": 2022
   }
