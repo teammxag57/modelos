@@ -85,37 +85,37 @@
     "to": 2023
   },
   {
-    "models": "KTM 250 SX",
+    "models": "KTM SX 250",
     "from": 1999,
     "to": 2025
   },
   {
-    "models": "KTM 250 SXS",
+    "models": "KTM SXS 250",
     "from": 2000,
     "to": 2009
   },
   {
-    "models": "KTM 300 EXC",
+    "models": "KTM EXC 300",
     "from": 1999,
     "to": 2024
   },
   {
-    "models": "KTM 300 EXC TPI",
+    "models": "KTM EXC 300 TPI",
     "from": 2018,
     "to": 2023
   },
   {
-    "models": "KTM 300 EXC-E",
+    "models": "KTM EXC-E 300",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "KTM 300 SX",
+    "models": "KTM SX 300",
     "from": 2023,
     "to": 2025
   },
   {
-    "models": "KTM 300 XC TPI",
+    "models": "KTM XC 300 TPI",
     "from": 2021,
     "to": ""
   }
