@@ -35,12 +35,12 @@
     "to": 2024
   },
   {
-    "models": "Husqvarna TE 250 2T",
+    "models": "Husqvarna TE 250",
     "from": 2014,
     "to": ""
   },
   {
-    "models": "Husqvarna TE 250 I",
+    "models": "Husqvarna TE 250",
     "from": 2018,
     "to": 2022
   },
@@ -50,7 +50,7 @@
     "to": 2024
   },
   {
-    "models": "Husqvarna TE 300 I",
+    "models": "Husqvarna TE 300i",
     "from": 2018,
     "to": 2022
   },
@@ -60,27 +60,27 @@
     "to": 2019
   },
   {
-    "models": "Husqvarna TX 300 I",
+    "models": "Husqvarna TX 300i",
     "from": 2020,
     "to": 2024
   },
   {
-    "models": "KTM 200 EXC",
+    "models": "KTM EXC 200",
     "from": 2011,
     "to": 2016
   },
   {
-    "models": "KTM 250 EXC",
+    "models": "KTM EXC 250",
     "from": 1999,
     "to": 2024
   },
   {
-    "models": "KTM 250 EXC E-STARTER",
+    "models": "KTM EXC-E 250",
     "from": 2010,
     "to": ""
   },
   {
-    "models": "KTM 250 EXC TPI",
+    "models": "KTM EXC 250 TPI",
     "from": 2018,
     "to": 2023
   },
