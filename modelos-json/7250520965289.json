@@ -1,36 +1,36 @@
 [
   {
-    "models": "TM Racing 125 EN",
+    "models": "TM Racing EN 125",
     "from": 2015,
     "to": 2019
   },
   {
-    "models": "TM Racing 125 MX",
+    "models": "TM Racing EN 250",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "TM Racing EN 300",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "TM Racing MX 125",
     "from": 2015,
     "to": 2019
   },
   {
-    "models": "TM Racing 250 EN",
-    "from": 2015,
-    "to": 2018
-  },
-  {
-    "models": "TM Racing 250 MX",
+    "models": "TM Racing MX 250",
     "from": 2015,
     "to": 2019
   },
   {
-    "models": "TM Racing 300 EN",
+    "models": "TM Racing MX 300",
     "from": 2015,
     "to": 2018
   },
   {
-    "models": "TM Racing 300 MX",
-    "from": 2015,
-    "to": 2018
-  },
-  {
-    "models": "TM Racing 85 MX Senior",
+    "models": "TM Racing MX 85",
     "from": 2015,
     "to": 2019
   }
