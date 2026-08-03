@@ -5,7 +5,7 @@
     "to": ""
   },
   {
-    "models": "GasGas MC 85",
+    "models": "Gasgas MC 85",
     "from": 2021,
     "to": 2025
   },
@@ -15,7 +15,7 @@
     "to": 2025
   },
   {
-    "models": "KTM 85 SX",
+    "models": "KTM SX 85",
     "from": 2012,
     "to": 2025
   },
@@ -25,17 +25,17 @@
     "to": 2015
   },
   {
-    "models": "KTM Freeride 250 F",
+    "models": "KTM Freeride 250F",
     "from": 2018,
     "to": 2020
   },
   {
-    "models": "KTM Freeride 250 R",
+    "models": "KTM Freeride 250R",
     "from": 2014,
     "to": 2018
   },
   {
-    "models": "KTM Freeride 350",
+    "models": "KTM Freeride 350F",
     "from": 2012,
     "to": 2017
   },
@@ -100,17 +100,17 @@
     "to": 2023
   },
   {
-    "models": "Suzuki RM-Z 250",
+    "models": "Suzuki RM 250Z",
     "from": 2004,
     "to": 2006
   },
   {
-    "models": "Yamaha YZ 250 F",
+    "models": "Yamaha YZ 250F",
     "from": 2009,
     "to": 2023
   },
   {
-    "models": "Yamaha YZ 450 F",
+    "models": "Yamaha YZ 450F",
     "from": 2009,
     "to": 2023
   }
