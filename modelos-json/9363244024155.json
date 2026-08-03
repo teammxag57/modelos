@@ -5,24 +5,14 @@
     "to": 2014
   },
   {
-    "models": "KTM 450 SMR",
-    "from": 2008,
-    "to": 2012
-  },
-  {
     "models": "KTM 450 SX ATV",
     "from": 2009,
     "to": 2010
   },
   {
-    "models": "KTM 450 SX-F",
-    "from": 2007,
-    "to": 2012
-  },
-  {
     "models": "KTM 450 SX-F FACT.REPL.NAGL",
     "from": 2010,
-    "to": 2010
+    "to": ""
   },
   {
     "models": "KTM 450 SXS-F",
@@ -30,28 +20,33 @@
     "to": 2008
   },
   {
-    "models": "KTM 450 XC-F",
-    "from": 2008,
-    "to": 2009
-  },
-  {
     "models": "KTM 505 SX ATV",
     "from": 2009,
     "to": 2012
   },
   {
-    "models": "KTM 505 SX-F",
-    "from": 2008,
-    "to": 2008
-  },
-  {
     "models": "KTM 505 SX-F PRESERIES",
     "from": 2007,
-    "to": 2007
+    "to": ""
   },
   {
-    "models": "KTM 505 XC-F",
+    "models": "KTM SMR 450F",
     "from": 2008,
-    "to": 2009
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 505F",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-F 505",
+    "from": 2009,
+    "to": ""
   }
 ]
