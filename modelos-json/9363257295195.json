@@ -1,18 +1,8 @@
 [
   {
-    "models": "KTM 250 EXC-F",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "KTM 250 EXC-F CKD",
-    "from": 2015,
-    "to": 2016
-  },
-  {
     "models": "KTM 250 EXC-F FACTORY EDITION",
     "from": 2015,
-    "to": 2015
+    "to": ""
   },
   {
     "models": "KTM 250 EXC-F SIX DAYS",
@@ -20,34 +10,9 @@
     "to": 2016
   },
   {
-    "models": "KTM 250 SX-F",
-    "from": 2013,
-    "to": 2015
-  },
-  {
-    "models": "KTM 250 XC-F",
-    "from": 2013,
-    "to": 2015
-  },
-  {
-    "models": "KTM 250 XCF-W",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "KTM 350 EXC-F",
-    "from": 2012,
-    "to": 2016
-  },
-  {
-    "models": "KTM 350 EXC-F CKD",
-    "from": 2015,
-    "to": 2016
-  },
-  {
     "models": "KTM 350 EXC-F FACTORY EDITION",
     "from": 2015,
-    "to": 2015
+    "to": ""
   },
   {
     "models": "KTM 350 EXC-F SIX DAYS",
@@ -55,33 +20,33 @@
     "to": 2016
   },
   {
-    "models": "KTM 350 SX-F",
-    "from": 2011,
-    "to": 2015
-  },
-  {
     "models": "KTM 350 SX-F CAIROLI REPLICA",
     "from": 2011,
     "to": 2012
   },
   {
-    "models": "KTM 350 XC-F",
-    "from": 2012,
-    "to": 2015
-  },
-  {
-    "models": "KTM 350 XCF-W",
-    "from": 2012,
-    "to": 2016
-  },
-  {
-    "models": "KTM 350 XCF-W SIX DAYS",
+    "models": "KTM EXC 250F",
     "from": 2014,
     "to": 2016
   },
   {
-    "models": "KTM FREERIDE 350",
+    "models": "KTM EXC 350F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM Freeride 350F",
     "from": 2012,
     "to": 2017
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2011,
+    "to": 2015
   }
 ]
