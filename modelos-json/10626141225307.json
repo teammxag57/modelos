@@ -1,7 +1,67 @@
 [
   {
-    "models": "Gasgas MC 65",
+    "models": "GASGAS EX 250",
     "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS EX 250F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS EX 300",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "GASGAS EX 350F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS EX 450F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS MC 125",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "GASGAS MC 150",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS MC 250",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "GASGAS MC 250F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "GASGAS MC 250F FACTORY",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "GASGAS MC 350F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "GASGAS MC 450F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "GASGAS MC 450F FACTORY",
+    "from": 2023,
     "to": 2026
   }
 ]
