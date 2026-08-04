@@ -10,27 +10,32 @@
     "to": 1994
   },
   {
-    "models": "Kawasaki KLX 250 R",
+    "models": "Kawasaki KLX 250R",
     "from": 1994,
     "to": 1996
   },
   {
-    "models": "Kawasaki KLX 250 S",
+    "models": "Kawasaki KLX 250S",
     "from": 2006,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Kawasaki KLX 300 R",
+    "models": "Kawasaki KLX 300",
     "from": 1997,
+    "to": 2002
+  },
+  {
+    "models": "Kawasaki KLX 300R",
+    "from": 2003,
     "to": 2007
   },
   {
-    "models": "Kawasaki KLX 450 R",
+    "models": "Kawasaki KLX 450",
     "from": 2008,
     "to": 2016
   },
   {
-    "models": "Kawasaki KLX 650 R",
+    "models": "Kawasaki KLX 650R",
     "from": 1993,
     "to": 1996
   },
@@ -45,14 +50,14 @@
     "to": 2008
   },
   {
-    "models": "Kawasaki KX 250 F",
-    "from": 2006,
-    "to": 2024
+    "models": "Kawasaki KX 250F",
+    "from": 2004,
+    "to": 2026
   },
   {
-    "models": "Kawasaki KX 450 F",
+    "models": "Kawasaki KX 450F",
     "from": 2006,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 500",
@@ -60,7 +65,7 @@
     "to": 2005
   },
   {
-    "models": "Suzuki RMZ 250",
+    "models": "Suzuki RM 250Z",
     "from": 2004,
     "to": 2006
   }
