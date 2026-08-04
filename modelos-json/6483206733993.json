@@ -2,7 +2,7 @@
   {
     "models": "Kawasaki KX 100",
     "from": 2001,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 60",
@@ -12,7 +12,7 @@
   {
     "models": "Kawasaki KX 65",
     "from": 2000,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Kawasaki KX 80",
@@ -22,7 +22,12 @@
   {
     "models": "Kawasaki KX 85",
     "from": 2001,
-    "to": 2024
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 85 BIG WHEEL",
+    "from": 2001,
+    "to": 2026
   },
   {
     "models": "Suzuki RM 100",
@@ -40,19 +45,24 @@
     "to": 2005
   },
   {
+    "models": "Yamaha KX 112",
+    "from": 2025,
+    "to": 2026
+  },
+  {
     "models": "Yamaha PW 80",
-    "from": 1991,
+    "from": 2005,
     "to": 2006
   },
   {
-    "models": "Yamaha TT-R 110 E",
+    "models": "Yamaha TT-R 110",
     "from": 2008,
-    "to": 2024
+    "to": 2026
   },
   {
-    "models": "Yamaha TT-R 50 E",
+    "models": "Yamaha TT-R 50",
     "from": 2006,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Yamaha TT-R 90",
