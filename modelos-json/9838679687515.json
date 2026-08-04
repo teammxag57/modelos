@@ -1,42 +1,112 @@
 [
   {
-    "models": "BETA RR 125 2T",
-    "from": 2020,
-    "to": 2024
+    "models": "Beta 250",
+    "from": 2013,
+    "to": 2019
   },
   {
-    "models": "BETA RR 200 2T",
-    "from": 2020,
-    "to": 2024
+    "models": "Beta 300",
+    "from": 2013,
+    "to": 2019
   },
   {
-    "models": "BETA RR 250 2T",
-    "from": 2020,
-    "to": 2024
+    "models": "Beta 350F",
+    "from": 2011,
+    "to": 2019
   },
   {
-    "models": "BETA RR 300 2T",
-    "from": 2020,
-    "to": 2024
+    "models": "Beta 390F",
+    "from": 2015,
+    "to": 2019
   },
   {
-    "models": "BETA RR 350 2T",
-    "from": 2020,
-    "to": 2024
+    "models": "Beta 400F",
+    "from": 2010,
+    "to": 2014
   },
   {
-    "models": "BETA RR 390 2T",
-    "from": 2020,
-    "to": 2024
+    "models": "Beta 430F",
+    "from": 2015,
+    "to": 2019
   },
   {
-    "models": "BETA RR 430 2T",
-    "from": 2020,
-    "to": 2024
+    "models": "Beta 450F",
+    "from": 2010,
+    "to": 2014
   },
   {
-    "models": "BETA RR 480 2T",
-    "from": 2020,
-    "to": 2024
+    "models": "Beta 480F",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Beta 498F",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Beta 500F",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Beta 520F",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Beta 250R",
+    "from": 2013,
+    "to": 2019
+  },
+  {
+    "models": "Beta 300R",
+    "from": 2013,
+    "to": 2019
+  },
+  {
+    "models": "Beta 350FR",
+    "from": 2011,
+    "to": 2019
+  },
+  {
+    "models": "Beta 390FR",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Beta 400FR",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "Beta 430FR",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Beta 450FR",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "Beta 480FR",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Beta 498FR",
+    "from": 2012,
+    "to": 2014
+  },
+  {
+    "models": "Beta 500FR",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Beta 520FR",
+    "from": 2010,
+    "to": 2011
   }
 ]
