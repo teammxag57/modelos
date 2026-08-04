@@ -1,7 +1,37 @@
 [
   {
-    "models": "Kawasaki KX 250 F",
-    "from": 2006,
-    "to": 2024
+    "models": "Gasgas EC 125",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "Gasgas MX 125",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "Gasgas SM 125",
+    "from": 2002,
+    "to": 2005
+  },
+  {
+    "models": "Scorpa SY 250",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "Yamaha DT-R 200",
+    "from": 1989,
+    "to": 1993
+  },
+  {
+    "models": "Yamaha WR 125",
+    "from": 1998,
+    "to": 1998
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1997,
+    "to": 2004
   }
 ]
