@@ -415,16 +415,6 @@
     "to": 2012
   },
   {
-    "models": "KTM 450 EXC-F",
-    "from": 2017,
-    "to": 2026
-  },
-  {
-    "models": "KTM 450 EXC-F ",
-    "from": 2013,
-    "to": 2016
-  },
-  {
     "models": "KTM 450 EXC-F Factory Edition",
     "from": 2010,
     "to": 2011
@@ -592,7 +582,7 @@
   {
     "models": "KTM EXC 450F",
     "from": 2003,
-    "to": 2016
+    "to": 2026
   },
   {
     "models": "KTM EXC 500F",
@@ -686,11 +676,6 @@
   },
   {
     "models": "Stark Varg MX",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "Stark Varg SM",
     "from": 2024,
     "to": 2026
   },
