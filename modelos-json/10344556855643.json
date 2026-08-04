@@ -25,28 +25,33 @@
     "to": 2012
   },
   {
-    "models": "Ducati DESMO 450 EDS",
+    "models": "Ducati Desmo 450 EDS",
     "from": 2026,
+    "to": 2027
+  },
+  {
+    "models": "Ducati Desmo 450 EDX",
+    "from": 2027,
     "to": ""
   },
   {
-    "models": "Ducati DESMO 450 MX",
+    "models": "Ducati Desmo 450 MX",
     "from": 2025,
+    "to": 2027
+  },
+  {
+    "models": "SWM RS 650",
+    "from": 2015,
     "to": 2026
   },
   {
     "models": "SWM RS300",
     "from": 2018,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "SWM RS500",
     "from": 2018,
-    "to": 2024
-  },
-  {
-    "models": "SWM RS650",
-    "from": 2015,
-    "to": 2024
+    "to": 2026
   }
 ]
