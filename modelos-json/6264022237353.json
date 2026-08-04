@@ -35,6 +35,11 @@
     "to": 2011
   },
   {
+    "models": "Gasgas 125 EC 2T",
+    "from": 2001,
+    "to": 2006
+  },
+  {
     "models": "Gasgas 125 SUPERMOTARD",
     "from": 2002,
     "to": 2005
@@ -52,7 +57,7 @@
   {
     "models": "Gasgas EC 125",
     "from": 1997,
-    "to": 2006
+    "to": 1998
   },
   {
     "models": "Gasgas EC 200",
@@ -138,6 +143,21 @@
     "models": "Husqvarna 360 CR",
     "from": 1992,
     "to": 1994
+  },
+  {
+    "models": "Husqvarna 400 TE 400 SMR 410 TE",
+    "from": 1995,
+    "to": 2002
+  },
+  {
+    "models": "Husqvarna 449 TE",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna 449 TXC",
+    "from": 2008,
+    "to": 2011
   },
   {
     "models": "Husqvarna 450 TE",
@@ -260,24 +280,9 @@
     "to": 1995
   },
   {
-    "models": "Husqvarna TE 400",
-    "from": 1995,
-    "to": 2002
-  },
-  {
-    "models": "Husqvarna TE 449",
-    "from": 2011,
-    "to": 2013
-  },
-  {
     "models": "Husqvarna TE 610",
     "from": 1991,
     "to": 2009
-  },
-  {
-    "models": "Husqvarna TXC 449",
-    "from": 2008,
-    "to": 2011
   },
   {
     "models": "Husqvarna WR 125",
@@ -330,7 +335,7 @@
     "to": 2023
   },
   {
-    "models": "Sherco 300 SE Xtrem Replica ",
+    "models": "Sherco 300 SE Xtrem Replica",
     "from": 2025,
     "to": 2026
   },
@@ -433,11 +438,6 @@
     "models": "Suzuki DR 650 SE",
     "from": 1996,
     "to": 2026
-  },
-  {
-    "models": "Suzuki XF 650 FREEWIND",
-    "from": 1997,
-    "to": 2002
   },
   {
     "models": "Suzuki XF 650 FREEWIND",
