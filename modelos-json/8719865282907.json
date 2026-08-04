@@ -1,7 +1,142 @@
 [
   {
-    "models": "Yamaha YZ 85",
-    "from": 2002,
+    "models": "Beta RR 250",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 250R",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 300",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 300R",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 350F",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 350FR",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 390F",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 390FR",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 400F",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Beta RR 400FR",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Beta RR 450F",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 450FR",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "Beta RR 498F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Beta RR 498FR",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Beta RR Race 250",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR Race 300",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR Race 350F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR Race 390F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR Race 430F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR Race 480F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-Pro 250",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-Pro 300",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-Pro 350F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-Pro 390F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-Pro 430F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RR X-Pro 480F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Beta RS 500",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "Voge 300 Rally",
+    "from": 2025,
     "to": 2026
   }
 ]
