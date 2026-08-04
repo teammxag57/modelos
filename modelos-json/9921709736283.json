@@ -1,57 +1,67 @@
 [
   {
-    "models": "Gasgas 200 EC",
-    "from": 2000,
-    "to": 2014
-  },
-  {
-    "models": "Gasgas 200 EC R",
-    "from": 2003,
-    "to": 2015
-  },
-  {
-    "models": "Gasgas 250 EC",
-    "from": 2000,
+    "models": "Gasgas EC 200",
+    "from": 1999,
     "to": 2010
   },
   {
-    "models": "Gasgas 250 EC 2T",
-    "from": 2011,
-    "to": 2018
-  },
-  {
-    "models": "Gasgas 250 EC E",
-    "from": 2012,
-    "to": 2014
-  },
-  {
-    "models": "Gasgas 250 EC E R",
-    "from": 2014,
-    "to": 2015
-  },
-  {
-    "models": "Gasgas 250 EC R",
-    "from": 2014,
-    "to": 2015
-  },
-  {
-    "models": "Gasgas 300 EC",
+    "models": "Gasgas EC 250",
     "from": 2000,
-    "to": 2014
+    "to": 2026
   },
   {
-    "models": "Gasgas 400 EC FSE",
-    "from": 2000,
-    "to": 2000
+    "models": "Gasgas EC 250 EC Six Days",
+    "from": 2001,
+    "to": 2013
   },
   {
-    "models": "Gasgas 450 EC FSE",
-    "from": 2003,
-    "to": 2011
+    "models": "Gasgas EC 300",
+    "from": 2018,
+    "to": 2019
   },
   {
-    "models": "Gasgas 515 EC",
+    "models": "Gasgas EC 300 Six Days",
+    "from": 2001,
+    "to": 2012
+  },
+  {
+    "models": "Gasgas EC 400FSE",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "Gasgas EC 515FSR",
     "from": 2009,
-    "to": 2009
+    "to": 2010
+  },
+  {
+    "models": "Gasgas FSE 450",
+    "from": 2004,
+    "to": 2010
+  },
+  {
+    "models": "Gasgas FSE 500",
+    "from": 2006,
+    "to": 2006
+  },
+  {
+    "models": "Gasgas SM 250",
+    "from": 2002,
+    "to": 2006
+  },
+  {
+    "models": "Gasgas SM 400",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "Gasgas SM 450",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Gasgas TT  250",
+    "from": 1994,
+    "to": 1995
   }
 ]
