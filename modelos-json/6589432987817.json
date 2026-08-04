@@ -120,11 +120,6 @@
     "to": 2014
   },
   {
-    "models": "Husqvarna 350 TE",
-    "from": 2014,
-    "to": 2026
-  },
-  {
     "models": "Husqvarna FC 250F",
     "from": 2014,
     "to": 2026
@@ -212,6 +207,11 @@
   {
     "models": "Husqvarna TE 300 Jarvis Edition",
     "from": 2020,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TE 350",
+    "from": 2014,
     "to": 2026
   },
   {
@@ -681,11 +681,6 @@
   },
   {
     "models": "Stark Varg EX",
-    "from": 2024,
-    "to": 2026
-  },
-  {
-    "models": "Stark Varg MX",
     "from": 2024,
     "to": 2026
   },
