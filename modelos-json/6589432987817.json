@@ -225,19 +225,9 @@
     "to": 2026
   },
   {
-    "models": "KTM 125 EGS",
-    "from": 1992,
-    "to": 1999
-  },
-  {
     "models": "KTM 125 Enduro",
     "from": 1986,
     "to": 1994
-  },
-  {
-    "models": "KTM 125 EXC & ENDURO",
-    "from": 1989,
-    "to": 1997
   },
   {
     "models": "KTM 125 EXC Six Days",
@@ -245,19 +235,9 @@
     "to": 2016
   },
   {
-    "models": "KTM 125 XC-W TPI",
-    "from": 2020,
-    "to": 2026
-  },
-  {
     "models": "KTM 150 XC",
     "from": 2010,
     "to": 2026
-  },
-  {
-    "models": "KTM 200 SX",
-    "from": 2003,
-    "to": 2006
   },
   {
     "models": "KTM 200 XC",
@@ -288,11 +268,6 @@
     "models": "KTM 250 MXC",
     "from": 1998,
     "to": 2002
-  },
-  {
-    "models": "KTM 250 SX, SX-F",
-    "from": 2004,
-    "to": 2026
   },
   {
     "models": "KTM 250 SX-F Factory Edition",
@@ -355,11 +330,6 @@
     "to": 2016
   },
   {
-    "models": "KTM 300 SX",
-    "from": 1993,
-    "to": 1995
-  },
-  {
     "models": "KTM 300 XC-W Six Days TPI",
     "from": 2019,
     "to": 2026
@@ -367,11 +337,6 @@
   {
     "models": "KTM 300 XC-W TPI",
     "from": 2019,
-    "to": 2026
-  },
-  {
-    "models": "KTM 350 EXC-F",
-    "from": 2012,
     "to": 2026
   },
   {
@@ -485,16 +450,6 @@
     "to": 2014
   },
   {
-    "models": "KTM 450 SX",
-    "from": 2003,
-    "to": 2003
-  },
-  {
-    "models": "KTM 450 SX F",
-    "from": 2007,
-    "to": 2026
-  },
-  {
     "models": "KTM 450 SX F Factory Edition",
     "from": 2017,
     "to": 2026
@@ -590,13 +545,18 @@
     "to": 2007
   },
   {
+    "models": "KTM EGS 125",
+    "from": 1992,
+    "to": 1999
+  },
+  {
     "models": "KTM EGS 250",
     "from": 1990,
     "to": 1999
   },
   {
     "models": "KTM EXC 125",
-    "from": 1991,
+    "from": 1989,
     "to": 2017
   },
   {
@@ -622,6 +582,11 @@
   {
     "models": "KTM EXC 300",
     "from": 1990,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2012,
     "to": 2026
   },
   {
@@ -675,8 +640,28 @@
     "to": 2026
   },
   {
+    "models": "KTM SX 200",
+    "from": 2003,
+    "to": 2006
+  },
+  {
     "models": "KTM SX 250",
     "from": 1996,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2004,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 1993,
+    "to": 1995
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2003,
     "to": 2026
   },
   {
@@ -701,6 +686,16 @@
   },
   {
     "models": "Stark Varg MX",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Stark Varg MX",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Stark Varg SM",
     "from": 2024,
     "to": 2026
   },
