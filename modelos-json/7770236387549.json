@@ -35,18 +35,13 @@
     "to": ""
   },
   {
-    "models": "KTM EXC 450 Racing",
-    "from": 2006,
-    "to": 2007
-  },
-  {
-    "models": "KTM EXC-F 250",
+    "models": "KTM EXC 250F",
     "from": 2007,
     "to": 2010
   },
   {
-    "models": "KTM EXC-R 450",
-    "from": 2008,
+    "models": "KTM EXC 450F",
+    "from": 2006,
     "to": 2009
   },
   {
@@ -70,7 +65,7 @@
     "to": 2008
   },
   {
-    "models": "KTM SX 450 Racing",
+    "models": "KTM SX 450F",
     "from": 2006,
     "to": ""
   },
@@ -80,22 +75,22 @@
     "to": 2007
   },
   {
-    "models": "KTM SX-F 250",
+    "models": "KTM SX 250F",
     "from": 2006,
     "to": 2008
   },
   {
-    "models": "KTM SX-F 450",
+    "models": "KTM SX 450F",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "KTM SX-F 505",
+    "models": "KTM SX 505F",
     "from": 2008,
     "to": ""
   },
   {
-    "models": "KTM XC-F 505",
+    "models": "KTM XC 505F",
     "from": 2009,
     "to": ""
   }
