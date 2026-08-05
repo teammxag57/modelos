@@ -25,14 +25,14 @@
     "to": 2002
   },
   {
-    "models": "KTM EXC 525",
-    "from": 2003,
-    "to": 2007
-  },
-  {
     "models": "KTM EXC 520",
     "from": 2000,
     "to": 2002
+  },
+  {
+    "models": "KTM EXC 525",
+    "from": 2003,
+    "to": 2007
   },
   {
     "models": "KTM EXC 525",
