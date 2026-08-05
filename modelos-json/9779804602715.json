@@ -1,31 +1,41 @@
 [
   {
-    "models": "Beta RR 450",
+    "models": "Beta RR 450F",
     "from": 2005,
     "to": 2009
   },
   {
-    "models": "Beta RR 525",
+    "models": "Beta RR 525F",
     "from": 2005,
     "to": 2009
   },
   {
-    "models": "KTM EXC 250 Racing",
+    "models": "KTM EXC 250F",
     "from": 2001,
     "to": 2006
   },
   {
-    "models": "KTM EXC 450 Racing",
+    "models": "KTM EXC 450F",
     "from": 2003,
     "to": 2007
   },
   {
-    "models": "KTM EXC/SX 520",
+    "models": "KTM EXC 520",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "KTM EXC/SX 525",
+    "models": "KTM EXC 525",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 520",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 525",
     "from": 2003,
     "to": 2007
   }
