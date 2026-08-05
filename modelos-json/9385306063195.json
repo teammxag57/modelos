@@ -60,23 +60,13 @@
     "to": 2022
   },
   {
-    "models": "Husqvarna TE 150",
-    "from": 2023,
-    "to": 2023
-  },
-  {
     "models": "Husqvarna TE 150 HERITAGE",
     "from": 2023,
     "to": 2023
   },
   {
-    "models": "Husqvarna TE 150i",
+    "models": "Husqvarna TE 150",
     "from": 2020,
-    "to": 2022
-  },
-  {
-    "models": "Husqvarna TE 250",
-    "from": 2023,
     "to": 2023
   },
   {
@@ -85,13 +75,8 @@
     "to": 2023
   },
   {
-    "models": "Husqvarna TE 250i",
+    "models": "Husqvarna TE 250",
     "from": 2020,
-    "to": 2022
-  },
-  {
-    "models": "Husqvarna TE 300",
-    "from": 2023,
     "to": 2023
   },
   {
@@ -100,9 +85,9 @@
     "to": 2023
   },
   {
-    "models": "Husqvarna TE 300i",
+    "models": "Husqvarna TE 300",
     "from": 2020,
-    "to": 2022
+    "to": 2023
   },
   {
     "models": "Husqvarna TE 300i JARVIS EDITION",
