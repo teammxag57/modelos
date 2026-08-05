@@ -5,13 +5,18 @@
     "to": 2007
   },
   {
+    "models": "Husqvarna CR 125",
+    "from": 1997,
+    "to": 2013
+  },
+  {
     "models": "Husqvarna CR 150",
     "from": 2011,
     "to": ""
   },
   {
-    "models": "Husqvarna CR 125",
-    "from": 1997,
+    "models": "Husqvarna WR 125",
+    "from": 19987,
     "to": 2013
   },
   {
@@ -23,10 +28,5 @@
     "models": "Sherco SE 125",
     "from": 2018,
     "to": 2023
-  },
-  {
-    "models": "Husqvarna WR 125",
-    "from": 19987,
-    "to": 2013
   }
 ]
