@@ -5,7 +5,17 @@
     "to": 2017
   },
   {
+    "models": "BETA RR 250R",
+    "from": 2013,
+    "to": 2017
+  },
+  {
     "models": "BETA RR 300",
+    "from": 2013,
+    "to": 2017
+  },
+  {
+    "models": "BETA RR 300R",
     "from": 2013,
     "to": 2017
   },
@@ -15,7 +25,17 @@
     "to": 2017
   },
   {
+    "models": "BETA RR 350FR",
+    "from": 2011,
+    "to": 2017
+  },
+  {
     "models": "BETA RR 390F",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "BETA RR 390FR",
     "from": 2015,
     "to": 2017
   },
@@ -30,42 +50,22 @@
     "to": 2017
   },
   {
-    "models": "BETA RR 480F",
-    "from": 2015,
-    "to": 2017
-  },
-  {
-    "models": "BETA Xtrainer 300",
-    "from": 2015,
-    "to": 2017
-  },
-  {
-    "models": "BETA RR 250R",
-    "from": 2013,
-    "to": 2017
-  },
-  {
-    "models": "BETA RR 300R",
-    "from": 2013,
-    "to": 2017
-  },
-  {
-    "models": "BETA RR 350FR",
-    "from": 2011,
-    "to": 2017
-  },
-  {
-    "models": "BETA RR 390FR",
-    "from": 2015,
-    "to": 2017
-  },
-  {
     "models": "BETA RR 430FR",
     "from": 2015,
     "to": 2017
   },
   {
+    "models": "BETA RR 480F",
+    "from": 2015,
+    "to": 2017
+  },
+  {
     "models": "BETA RR 480FR",
+    "from": 2015,
+    "to": 2017
+  },
+  {
+    "models": "BETA Xtrainer 300",
     "from": 2015,
     "to": 2017
   }
