@@ -115,23 +115,23 @@
     "to": 2022
   },
   {
-    "models": "KTM 125 SX",
+    "models": "KTM SX 125",
     "from": 2020,
     "to": 2022
   },
   {
-    "models": "KTM 150 EXC TPI",
+    "models": "KTM EXC 150",
     "from": 2020,
     "to": 2022
   },
   {
-    "models": "KTM 150 SX",
+    "models": "KTM SX 150",
     "from": 2020,
     "to": 2022
   },
   {
-    "models": "KTM 250 EXC",
-    "from": 2023,
+    "models": "KTM EXC 250",
+    "from": 2020,
     "to": 2023
   },
   {
@@ -145,17 +145,12 @@
     "to": 2022
   },
   {
-    "models": "KTM 250 EXC TPI",
+    "models": "KTM SX 250",
     "from": 2020,
     "to": 2022
   },
   {
-    "models": "KTM 250 SX",
-    "from": 2020,
-    "to": 2022
-  },
-  {
-    "models": "KTM 300 EXC",
+    "models": "KTM EXC 300",
     "from": 2023,
     "to": 2023
   },
