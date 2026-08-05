@@ -20,7 +20,7 @@
     "to": 2023
   },
   {
-    "models": "Honda CR125R",
+    "models": "Honda CR 125",
     "from": 1985,
     "to": 2002
   },
@@ -46,26 +46,16 @@
   },
   {
     "models": "Husqvarna TE 250",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna TE 250i",
     "from": 2018,
-    "to": 2022
+    "to": 2023
   },
   {
     "models": "Husqvarna TE 300",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna TE 300i",
     "from": 2018,
-    "to": 2022
+    "to": 2023
   },
   {
-    "models": "Husqvarna TX 300i",
+    "models": "Husqvarna TX 300",
     "from": 2020,
     "to": 2022
   },
@@ -75,87 +65,77 @@
     "to": 2013
   },
   {
-    "models": "Kawasaki KDX200",
+    "models": "Kawasaki KDX 200",
     "from": 1983,
     "to": 2006
   },
   {
-    "models": "Kawasaki KDX220",
+    "models": "Kawasaki KDX 220",
     "from": 1997,
     "to": 2005
   },
   {
-    "models": "Kawasaki KX125",
+    "models": "Kawasaki KX 125",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "KTM 150 EXC TPI",
+    "models": "KTM EXC 150",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "KTM 150 XC-W TPI",
+    "models": "KTM XC 150W",
     "from": 2020,
-    "to": ""
-  },
-  {
-    "models": "KTM 150 XC-W TPI",
-    "from": 2021,
     "to": 2023
   },
   {
-    "models": "KTM 250 EXC TPI",
+    "models": "KTM EXC 250",
     "from": 2018,
     "to": 2023
   },
   {
-    "models": "KTM 250 XC TPI",
+    "models": "KTM XC 250",
     "from": 2020,
     "to": 2022
   },
   {
-    "models": "KTM 250 XC-W TPI",
+    "models": "KTM XC 250W",
     "from": 2018,
     "to": 2023
   },
   {
-    "models": "KTM 300 EXC",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "KTM 300 EXC TPI",
+    "models": "KTM EXC 300",
     "from": 2018,
     "to": 2023
   },
   {
-    "models": "KTM 300 XC TPI",
+    "models": "KTM XC 300",
     "from": 2020,
     "to": 2022
   },
   {
-    "models": "KTM 300 XC-W TPI",
+    "models": "KTM XC 300W",
     "from": 2019,
     "to": 2023
   },
   {
-    "models": "KTM 300 XC-W TPI ERZBERG",
+    "models": "KTM XC 300W ERZBERG",
     "from": 2020,
     "to": ""
   },
   {
-    "models": "KTM 300 XC-W TPI SIX DAYS",
+    "models": "KTM XC 300W SIX DAYS",
     "from": 2019,
     "to": 2020
   },
   {
-    "models": "Yamaha YZ125",
+    "models": "Yamaha YZ 125",
     "from": 2005,
     "to": 2024
   },
   {
-    "models": "Yamaha YZ125X",
+    "models": "Yamaha YZ 125X",
     "from": 2020,
     "to": 2024
   }
