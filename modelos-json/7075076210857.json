@@ -65,6 +65,11 @@
     "to": 2007
   },
   {
+    "models": "KTM SX 450F",
+    "from": 2003,
+    "to": 2006
+  },
+  {
     "models": "KTM SX/EXC 520",
     "from": 2000,
     "to": 2002
@@ -73,11 +78,6 @@
     "models": "KTM SX/EXC 525",
     "from": 2003,
     "to": 2007
-  },
-  {
-    "models": "KTM SX 450F",
-    "from": 2003,
-    "to": 2006
   },
   {
     "models": "Sherco SC-R 125",
@@ -95,14 +95,9 @@
     "to": ""
   },
   {
-    "models": "Sherco SE 4.5i",
-    "from": 2004,
-    "to": 2013
-  },
-  {
-    "models": "Sherco SE 5.1i",
-    "from": 2007,
-    "to": 2013
+    "models": "Sherco SE 125",
+    "from": 2018,
+    "to": 2025
   },
   {
     "models": "Sherco SE 250",
@@ -115,6 +110,16 @@
     "to": 2025
   },
   {
+    "models": "Sherco SE 4.5i",
+    "from": 2004,
+    "to": 2013
+  },
+  {
+    "models": "Sherco SE 5.1i",
+    "from": 2007,
+    "to": 2013
+  },
+  {
     "models": "Sherco SEF 250",
     "from": 2008,
     "to": 2016
@@ -123,10 +128,5 @@
     "models": "Sherco SEF 300",
     "from": 2010,
     "to": 2016
-  },
-  {
-    "models": "Sherco SE 125",
-    "from": 2018,
-    "to": 2025
   }
 ]
