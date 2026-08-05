@@ -1,7 +1,22 @@
 [
   {
-    "models": "Beta RR 125 Enduro",
+    "models": "Beta RR 125",
     "from": 2020,
-    "to": 2025
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 125R",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR X-PRO 125",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR RACE 125",
+    "from": "",
+    "to": ""
   }
 ]
