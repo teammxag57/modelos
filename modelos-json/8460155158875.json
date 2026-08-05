@@ -55,16 +55,6 @@
     "to": 2017
   },
   {
-    "models": "BETA RR 450F",
-    "from": 2012,
-    "to": 2014
-  },
-  {
-    "models": "BETA RR 450FR",
-    "from": 2012,
-    "to": 2014
-  },
-  {
     "models": "BETA RR 480F",
     "from": 2015,
     "to": 2017
@@ -76,11 +66,6 @@
   },
   {
     "models": "BETA RR 498F",
-    "from": 2012,
-    "to": 2014
-  },
-  {
-    "models": "BETA RR 498FR",
     "from": 2012,
     "to": 2014
   }
