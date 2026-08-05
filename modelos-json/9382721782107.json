@@ -36,13 +36,8 @@
   },
   {
     "models": "Husqvarna TE 150",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna TE 150i",
     "from": 2020,
-    "to": 2022
+    "to": 2023
   },
   {
     "models": "Husqvarna TE 250",
