@@ -15,28 +15,28 @@
     "to": 2023
   },
   {
-    "models": "KTM 50 SX",
+    "models": "KTM SX 50",
     "from": 2009,
     "to": 2023
   },
   {
-    "models": "KTM 50 SX Junior",
+    "models": "KTM SX 50",
+    "from": 2009,
+    "to": 2023
+  },
+  {
+    "models": "KTM SX 50 Junior",
     "from": 2009,
     "to": 2010
   },
   {
-    "models": "KTM 50 SX Mini",
+    "models": "KTM SX 65",
     "from": 2009,
     "to": 2023
   },
   {
-    "models": "KTM 65 SX",
+    "models": "KTM XC 65",
     "from": 2009,
-    "to": 2023
-  },
-  {
-    "models": "KTM 65 XC",
-    "from": 2009,
-    "to": 2009
+    "to": ""
   }
 ]
