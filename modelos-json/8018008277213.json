@@ -10,27 +10,17 @@
     "to": 2004
   },
   {
-    "models": "Yamaha YZF 450",
+    "models": "Yamaha YFZ 450",
     "from": 2004,
-    "to": 2009
+    "to": 2017
   },
   {
-    "models": "Yamaha YZF 450",
-    "from": 2012,
-    "to": 2013
-  },
-  {
-    "models": "Yamaha YZF 450",
-    "from": 2017,
-    "to": ""
-  },
-  {
-    "models": "Yamaha YZF 450R",
+    "models": "Yamaha YFZ 450R",
     "from": 2009,
     "to": 2024
   },
   {
-    "models": "Yamaha YZF 450X",
+    "models": "Yamaha YFZ 450X",
     "from": 2010,
     "to": 2011
   }
