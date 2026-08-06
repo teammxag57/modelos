@@ -27,32 +27,12 @@
   {
     "models": "KTM 50 Supermoto",
     "from": 2006,
-    "to": 2006
-  },
-  {
-    "models": "KTM 50 SX",
-    "from": 2006,
-    "to": 2023
-  },
-  {
-    "models": "KTM 50 SX Factory Edition",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "KTM 50 SX Junior",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM 50 SX Mini",
-    "from": 2008,
-    "to": 2023
+    "to": ""
   },
   {
     "models": "KTM 50 SX Mini Adventure",
     "from": 2008,
-    "to": 2008
+    "to": ""
   },
   {
     "models": "KTM 50 SX Pro Junior LC",
@@ -70,13 +50,33 @@
     "to": 2007
   },
   {
-    "models": "KTM 50 SXS",
-    "from": 2011,
-    "to": 2016
+    "models": "KTM SX 50",
+    "from": 2006,
+    "to": 2023
   },
   {
-    "models": "KTM SX-E 5",
+    "models": "KTM SX 50",
+    "from": 2008,
+    "to": 2023
+  },
+  {
+    "models": "KTM SX 50 Factory Edition",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "KTM SX 50 Junior",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM SXE 5",
     "from": 2020,
     "to": 2023
+  },
+  {
+    "models": "KTM SXS 50",
+    "from": 2011,
+    "to": 2016
   }
 ]
