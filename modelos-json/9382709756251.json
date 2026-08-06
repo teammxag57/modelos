@@ -10,32 +10,42 @@
     "to": 2016
   },
   {
-    "models": "KTM 125 EXC",
+    "models": "KTM EXC 125",
     "from": 1998,
     "to": 2003
   },
   {
-    "models": "KTM 125 SX",
+    "models": "KTM SX 125",
     "from": 2000,
     "to": 2015
   },
   {
-    "models": "KTM 125 SXS",
-    "from": 2000,
-    "to": 2008
+    "models": "KTM SX 125 TYLA RATTRAY",
+    "from": 2005,
+    "to": ""
   },
   {
-    "models": "KTM 144 SX",
+    "models": "KTM SX 144",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "KTM 150 SX",
+    "models": "KTM SX 150",
     "from": 2009,
     "to": 2015
   },
   {
-    "models": "KTM 150 XC",
+    "models": "KTM SX 250 VORSERIE MOD.03",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "KTM SXS 125",
+    "from": 2000,
+    "to": 2008
+  },
+  {
+    "models": "KTM XC 150",
     "from": 2010,
     "to": 2014
   }
