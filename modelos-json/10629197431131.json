@@ -1,0 +1,452 @@
+[
+  {
+    "models": "Arctic Cat 500 EFI",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "Artic Cat 500 TRV",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "Honda CB 300F",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "Honda CB R250R",
+    "from": 2011,
+    "to": 2013
+  },
+  {
+    "models": "Honda CB R300R",
+    "from": 2015,
+    "to": 2022
+  },
+  {
+    "models": "Honda CB400F",
+    "from": 1989,
+    "to": 1990
+  },
+  {
+    "models": "Honda CB750 Nighthawk",
+    "from": 1991,
+    "to": 2003
+  },
+  {
+    "models": "Honda CMX300",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Honda CMX300 ABS",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Honda CMX500",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Honda CMX500 ABS",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Honda CR 250",
+    "from": 1984,
+    "to": 1998
+  },
+  {
+    "models": "Honda CR 500R",
+    "from": 1984,
+    "to": 1998
+  },
+  {
+    "models": "Honda CR 80RB",
+    "from": 1996,
+    "to": 1999
+  },
+  {
+    "models": "Honda CR125R",
+    "from": 1984,
+    "to": 1998
+  },
+  {
+    "models": "Honda CR80R",
+    "from": 1986,
+    "to": 1999
+  },
+  {
+    "models": "Honda CTX700",
+    "from": 2014,
+    "to": 2018
+  },
+  {
+    "models": "Honda NC700JD",
+    "from": 2016,
+    "to": ""
+  },
+  {
+    "models": "Honda NC700X",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "Honda NC750X",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "Honda NC750XD",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Honda VF750C",
+    "from": 1994,
+    "to": 2003
+  },
+  {
+    "models": "Honda VF750C2",
+    "from": 1997,
+    "to": 2002
+  },
+  {
+    "models": "Honda VF750CD",
+    "from": 1995,
+    "to": 1996
+  },
+  {
+    "models": "Honda VT 750C",
+    "from": 1998,
+    "to": 2025
+  },
+  {
+    "models": "Honda VT 750C2",
+    "from": 2007,
+    "to": 2025
+  },
+  {
+    "models": "Honda VT 750CS",
+    "from": 2013,
+    "to": 2020
+  },
+  {
+    "models": "Honda VT 750RS",
+    "from": 2010,
+    "to": 2013
+  },
+  {
+    "models": "Honda VT600C Shadow",
+    "from": 1994,
+    "to": 2007
+  },
+  {
+    "models": "Honda VT600CD",
+    "from": 1994,
+    "to": 2007
+  },
+  {
+    "models": "Honda VT600CD2",
+    "from": 1999,
+    "to": 2000
+  },
+  {
+    "models": "Honda VT750CA",
+    "from": 2004,
+    "to": 2014
+  },
+  {
+    "models": "Honda VT750DC",
+    "from": 2001,
+    "to": 2006
+  },
+  {
+    "models": "Honda VT750DCA",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "Honda VTX1300",
+    "from": 2004,
+    "to": 2009
+  },
+  {
+    "models": "Honda VTX1300R",
+    "from": 2005,
+    "to": 2009
+  },
+  {
+    "models": "Honda XR 250R",
+    "from": 1986,
+    "to": 1999
+  },
+  {
+    "models": "Honda XR 400R",
+    "from": 1996,
+    "to": 1999
+  },
+  {
+    "models": "Honda XR 600R",
+    "from": 1985,
+    "to": 2000
+  },
+  {
+    "models": "Honda XR350R",
+    "from": 1985,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna WR 250",
+    "from": 1991,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki KDX 200",
+    "from": 1989,
+    "to": 1994
+  },
+  {
+    "models": "Kawasaki KDX 250",
+    "from": 1991,
+    "to": 1994
+  },
+  {
+    "models": "Kawasaki KL250 Super Sherpa",
+    "from": 2000,
+    "to": 2010
+  },
+  {
+    "models": "Kawasaki KLR250",
+    "from": 1991,
+    "to": 2005
+  },
+  {
+    "models": "Kawasaki KLX 140",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX 140G",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX 140L",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX 140R",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLX 140R F",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLX 140R L",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KLX 250S",
+    "from": 2006,
+    "to": 2020
+  },
+  {
+    "models": "Kawasaki KLX 250SF",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "Kawasaki KLX 300 SM",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KLX 450R",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 1988,
+    "to": 1992
+  },
+  {
+    "models": "Kawasaki KX 500",
+    "from": 1985,
+    "to": 1993
+  },
+  {
+    "models": "Kawasaki KX 80",
+    "from": 1988,
+    "to": 1993
+  },
+  {
+    "models": "Kawasaki KX 80 Big Wheel",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 1988,
+    "to": 1992
+  },
+  {
+    "models": "KTM XC 450",
+    "from": 2011,
+    "to": 2017
+  },
+  {
+    "models": "Suzuki AH200 Burgman",
+    "from": 2014,
+    "to": ""
+  },
+  {
+    "models": "Suzuki AN400 Burgman",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "Suzuki GSX 250R",
+    "from": 2018,
+    "to": 2025
+  },
+  {
+    "models": "Suzuki GW 250",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Suzuki LT-230E",
+    "from": 1987,
+    "to": 1990
+  },
+  {
+    "models": "Suzuki LT-230G",
+    "from": 1985,
+    "to": 1986
+  },
+  {
+    "models": "Suzuki LT-230S",
+    "from": 1985,
+    "to": 1990
+  },
+  {
+    "models": "Suzuki LT-250R",
+    "from": 1985,
+    "to": 1990
+  },
+  {
+    "models": "Suzuki LT-250S",
+    "from": 1989,
+    "to": 1990
+  },
+  {
+    "models": "Suzuki LT-300E",
+    "from": 1987,
+    "to": 1989
+  },
+  {
+    "models": "Suzuki LT-4WD 250 Quad Runner",
+    "from": 1987,
+    "to": ""
+  },
+  {
+    "models": "Suzuki LT-500R",
+    "from": 1987,
+    "to": 1990
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 1987,
+    "to": ""
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 1986,
+    "to": 1988
+  },
+  {
+    "models": "Suzuki RM 80",
+    "from": 1986,
+    "to": 1988
+  },
+  {
+    "models": "Suzuki UH200 Burgman",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Suzuki VL1500 Intruder",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "Suzuki VL1500B Intruder",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki VL1500BT",
+    "from": 2013,
+    "to": ""
+  },
+  {
+    "models": "Yamaha KLE500 ABS",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Yamaha KLE500 SE ABS",
+    "from": 2026,
+    "to": ""
+  },
+  {
+    "models": "Yamaha TT-R 125",
+    "from": 2000,
+    "to": 2008
+  },
+  {
+    "models": "Yamaha TT-R 125LE",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha WR 250R",
+    "from": 2008,
+    "to": 2020
+  },
+  {
+    "models": "Yamaha WR 500",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "Yamaha XT 250",
+    "from": 2008,
+    "to": 2025
+  },
+  {
+    "models": "Yamaha XTZ 250",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1990,
+    "to": 1995
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1990,
+    "to": 1995
+  }
+]
