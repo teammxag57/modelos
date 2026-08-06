@@ -35,12 +35,12 @@
     "to": 2014
   },
   {
-    "models": "Husqvarna FC 250",
+    "models": "Husqvarna FC 250F",
     "from": 2014,
     "to": 2015
   },
   {
-    "models": "Husqvarna FC 350",
+    "models": "Husqvarna FC 350F",
     "from": 2014,
     "to": 2015
   },
@@ -55,44 +55,9 @@
     "to": 2016
   },
   {
-    "models": "KTM 125 EXC",
-    "from": 2001,
-    "to": 2017
-  },
-  {
     "models": "KTM 125 Supermoto",
     "from": 2000,
     "to": 2001
-  },
-  {
-    "models": "KTM 125 SX",
-    "from": 2001,
-    "to": 2015
-  },
-  {
-    "models": "KTM 125 SXS",
-    "from": 2001,
-    "to": 2008
-  },
-  {
-    "models": "KTM 144 SX",
-    "from": 2007,
-    "to": 2008
-  },
-  {
-    "models": "KTM 150 SX",
-    "from": 2009,
-    "to": 2015
-  },
-  {
-    "models": "KTM 150 XC",
-    "from": 2010,
-    "to": 2014
-  },
-  {
-    "models": "KTM 200 EXC",
-    "from": 2001,
-    "to": 2016
   },
   {
     "models": "KTM 200 MXC",
@@ -100,114 +65,14 @@
     "to": 2003
   },
   {
-    "models": "KTM 200 SX",
-    "from": 2003,
-    "to": 2004
-  },
-  {
-    "models": "KTM 200 XC",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM 200 XC-W",
-    "from": 2006,
-    "to": 2016
-  },
-  {
-    "models": "KTM 250 EXC",
-    "from": 2001,
-    "to": 2003
-  },
-  {
-    "models": "KTM 250 EXC-F",
-    "from": 2009,
-    "to": 2011
-  },
-  {
-    "models": "KTM 250 SX",
-    "from": 2001,
-    "to": 2002
-  },
-  {
-    "models": "KTM 250 SX-F",
-    "from": 2013,
-    "to": 2015
-  },
-  {
-    "models": "KTM 250 SXS",
-    "from": 2001,
-    "to": 2002
-  },
-  {
-    "models": "KTM 250 XC-F",
-    "from": 2013,
-    "to": 2015
-  },
-  {
-    "models": "KTM 250 XCF-W",
-    "from": 2009,
-    "to": 2011
-  },
-  {
-    "models": "KTM 300 EXC",
-    "from": 2001,
-    "to": 2003
-  },
-  {
-    "models": "KTM 300 MXC",
-    "from": 2001,
-    "to": 2003
-  },
-  {
-    "models": "KTM 350 SX-F",
-    "from": 2011,
-    "to": 2015
-  },
-  {
-    "models": "KTM 350 XC-F",
-    "from": 2011,
-    "to": 2015
-  },
-  {
-    "models": "KTM 380 EXC",
-    "from": 2001,
-    "to": 2002
-  },
-  {
     "models": "KTM 380 MXC",
     "from": 2001,
-    "to": 2001
+    "to": ""
   },
   {
     "models": "KTM 380 SX",
     "from": 2001,
     "to": 2002
-  },
-  {
-    "models": "KTM 450 SMR",
-    "from": 2008,
-    "to": 2010
-  },
-  {
-    "models": "KTM 450 SMR",
-    "from": 2012,
-    "to": 2012
-  },
-  {
-    "models": "KTM 450 SX-F",
-    "from": 2007,
-    "to": 2012
-  },
-  {
-    "models": "KTM 450 SXS",
-    "from": 2007,
-    "to": 2008
-  },
-  {
-    "models": "KTM 450 XC-F",
-    "from": 2007,
-    "to": 2009
   },
   {
     "models": "KTM 505 SX-F",
@@ -218,5 +83,180 @@
     "models": "KTM 505 XC-F",
     "from": 2008,
     "to": 2009
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2001,
+    "to": 2017
+  },
+  {
+    "models": "KTM EXC 125 Factory Edition",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 125 Six Days",
+    "from": 2001,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2001,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 250 Six Days",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 250F Factory Edition",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 250F Six Days",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 300 Six Days",
+    "from": 2001,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 380",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM MXC 300",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM SMR 450",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2001,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 144",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2009,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM SX 250 ",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 350F Cairoli Replica",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 450F Nagle Replica",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "KTM SXS 125",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "KTM SXS 250",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "KTM SXS 450",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM XC 150",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 200",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 250F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM XC 250FW",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM XC 250FW Six Days",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 350F",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM XC 450F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-W 200",
+    "from": 2006,
+    "to": 2016
   }
 ]
