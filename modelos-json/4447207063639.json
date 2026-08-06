@@ -15,12 +15,12 @@
     "to": 2011
   },
   {
-    "models": "Husqvarna FC 450",
+    "models": "Husqvarna FC 450F",
     "from": 2014,
     "to": 2015
   },
   {
-    "models": "Husqvarna FE 450",
+    "models": "Husqvarna FE 450F",
     "from": 2014,
     "to": 2016
   },
@@ -32,17 +32,7 @@
   {
     "models": "Husqvarna FS 450",
     "from": 2015,
-    "to": 2015
-  },
-  {
-    "models": "KTM 400 EXC-F",
-    "from": 2009,
-    "to": 2011
-  },
-  {
-    "models": "KTM 400 EXC-F Factory Edition",
-    "from": 2011,
-    "to": 2011
+    "to": ""
   },
   {
     "models": "KTM 400 XCF-W",
@@ -50,63 +40,73 @@
     "to": 2010
   },
   {
-    "models": "KTM 450 EXC-F",
-    "from": 2008,
-    "to": 2016
-  },
-  {
-    "models": "KTM 450 EXC-F Factory Edition",
-    "from": 2011,
-    "to": 2015
-  },
-  {
-    "models": "KTM 450 EXC-F Six Days",
-    "from": 2008,
-    "to": 2016
-  },
-  {
     "models": "KTM 450 Rally Factory Replica",
     "from": 2015,
     "to": 2017
   },
   {
-    "models": "KTM 450 SMR",
+    "models": "KTM EXC 400F",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 400F Factory Edition",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 450F Factory Edition",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 450F Six Days",
+    "from": 2008,
+    "to": 2016
+  },
+  {
+    "models": "KTM SMR 450",
     "from": 2013,
     "to": 2014
   },
   {
-    "models": "KTM 450 SX-F",
+    "models": "KTM SX 450F",
     "from": 2013,
     "to": 2015
   },
   {
-    "models": "KTM 450 SX-F Factory Edition",
+    "models": "KTM SX 450F Factory Edition",
     "from": 2013,
     "to": 2014
   },
   {
-    "models": "KTM 450 SX-F Factory Replica",
+    "models": "KTM SX 450F Factory Replica",
     "from": 2012,
-    "to": 2012
+    "to": ""
   },
   {
-    "models": "KTM 450 XC-F",
+    "models": "KTM XC 450F",
     "from": 2013,
     "to": 2015
   },
   {
-    "models": "KTM 450 XCF-W",
+    "models": "KTM XC 450FW",
     "from": 2009,
     "to": 2016
   },
   {
-    "models": "KTM 450 XCF-W Six Days",
+    "models": "KTM XC 450FW Six Days",
     "from": 2010,
     "to": 2011
   },
   {
-    "models": "KTM 450 XCR-W",
+    "models": "KTM XCR 450W",
     "from": 2008,
-    "to": 2008
+    "to": ""
   }
 ]
