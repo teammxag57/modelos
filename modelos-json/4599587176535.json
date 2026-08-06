@@ -1,88 +1,213 @@
 [
   {
-    "models": "Beta RR 2T 125",
+    "models": "Beta RR 125",
     "from": 2018,
-    "to": 2020
+    "to": 2024
   },
   {
-    "models": "Beta RR 2T 200",
+    "models": "Beta RR 125R",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 200",
     "from": 2019,
-    "to": 2020
+    "to": 2024
   },
   {
-    "models": "Beta RR 2T 250",
+    "models": "Beta RR 200R",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 250",
     "from": 2013,
-    "to": 2020
+    "to": 2024
   },
   {
-    "models": "Beta RR 2T 300",
-    "from": 2013,
-    "to": 2020
-  },
-  {
-    "models": "Beta RR 4T 250",
+    "models": "Beta RR 250F",
     "from": 2005,
     "to": 2007
   },
   {
-    "models": "Beta RR 4T 350",
+    "models": "Beta RR 250R",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 300",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 300R",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "BETA RR 350F",
     "from": 2011,
-    "to": 2020
+    "to": 2024
   },
   {
-    "models": "Beta RR 4T 390",
+    "models": "BETA RR 350FR",
     "from": 2015,
-    "to": 2020
+    "to": 2024
   },
   {
-    "models": "Beta RR 4T 400",
+    "models": "BETA RR 390F",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "BETA RR 390FR",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 400F",
     "from": 2005,
     "to": 2014
   },
   {
-    "models": "Beta RR 4T 430",
+    "models": "BETA RR 430F",
     "from": 2015,
-    "to": 2020
+    "to": 2024
   },
   {
-    "models": "Beta RR 4T 450",
+    "models": "BETA RR 430FR",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 450F",
     "from": 2005,
     "to": 2014
   },
   {
-    "models": "Beta RR 4T 480",
+    "models": "BETA RR 480F",
     "from": 2015,
-    "to": 2020
+    "to": 2024
   },
   {
-    "models": "Beta RR 4T 498",
+    "models": "BETA RR 480FR",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 498F",
     "from": 2012,
     "to": 2014
   },
   {
-    "models": "Beta RR 4T 520",
+    "models": "Beta RR 500F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Beta RR 520F",
     "from": 2010,
     "to": 2011
   },
   {
-    "models": "Beta RR 4T 525",
+    "models": "Beta RR 525F",
     "from": 2005,
     "to": 2009
   },
   {
-    "models": "Beta RR-S 4T 500",
+    "models": "Beta RR RACE 125",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR RACE 200",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR RACE 250",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR RACE 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "BETA RR RACE 350F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "BETA RR RACE 390F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "BETA RR RACE 430F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "BETA RR RACE 480F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-PRO 125",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-PRO 200",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-PRO 250",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-PRO 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "BETA RR X-PRO 350F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "BETA RR X-PRO 390F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "BETA RR X-PRO 430F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "BETA RR X-PRO 480F",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR-S 500F",
     "from": 2017,
     "to": 2020
   },
   {
-    "models": "Beta X-Trainer 250",
+    "models": "Beta Xtrainer 250",
     "from": 2017,
-    "to": 2020
+    "to": 2025
   },
   {
-    "models": "Beta X-Trainer 300",
+    "models": "Beta XTrainer 300",
     "from": 2015,
-    "to": 2020
+    "to": 2025
   },
   {
     "models": "GasGas EC 125",
@@ -142,35 +267,40 @@
   {
     "models": "GasGas XC 200",
     "from": 2018,
-    "to": 2018
+    "to": ""
   },
   {
     "models": "GasGas XC 250",
     "from": 2018,
-    "to": 2018
+    "to": ""
   },
   {
     "models": "GasGas XC 300",
     "from": 2018,
-    "to": 2018
+    "to": ""
   },
   {
-    "models": "Honda CR 125R",
+    "models": "Honda CR 125",
     "from": 1992,
     "to": 2007
   },
   {
-    "models": "Honda CR 250R",
+    "models": "Honda CR 150F",
+    "from": 2003,
+    "to": 2017
+  },
+  {
+    "models": "Honda CR 250",
     "from": 1992,
     "to": 2007
   },
   {
-    "models": "Honda CR 500R",
+    "models": "Honda CR 500",
     "from": 1992,
     "to": 2001
   },
   {
-    "models": "Honda CR 80R",
+    "models": "Honda CR 80",
     "from": 1998,
     "to": 2002
   },
@@ -180,7 +310,7 @@
     "to": 2002
   },
   {
-    "models": "Honda CR 85R",
+    "models": "Honda CR 85",
     "from": 2003,
     "to": 2007
   },
@@ -188,11 +318,6 @@
     "models": "Honda CR 85RB",
     "from": 2003,
     "to": 2007
-  },
-  {
-    "models": "Honda CRF 150F",
-    "from": 2003,
-    "to": 2017
   },
   {
     "models": "Honda CRF 150R",
@@ -305,17 +430,17 @@
     "to": 1996
   },
   {
-    "models": "Rieju MR 200",
+    "models": "Rieju MR Racing 200",
     "from": 2020,
     "to": 2024
   },
   {
-    "models": "Rieju MR 250",
+    "models": "Rieju MR Racing 250",
     "from": 2020,
     "to": 2024
   },
   {
-    "models": "Rieju MR 300",
+    "models": "Rieju MR Racing 300",
     "from": 2020,
     "to": 2024
   },
@@ -335,47 +460,47 @@
     "to": 2006
   },
   {
-    "models": "TM Racing EN 125 2T",
+    "models": "TM Racing EN 125",
     "from": 2001,
     "to": 2020
   },
   {
-    "models": "TM Racing EN 144 2T",
+    "models": "TM Racing EN 144",
     "from": 2009,
     "to": 2020
   },
   {
-    "models": "TM Racing EN 250 2T",
+    "models": "TM Racing EN 250",
     "from": 2001,
     "to": 2020
   },
   {
-    "models": "TM Racing EN 250 F 4T",
+    "models": "TM Racing EN 250F",
     "from": 2002,
     "to": 2020
   },
   {
-    "models": "TM Racing EN 300 2T",
+    "models": "TM Racing EN 300",
     "from": 2001,
     "to": 2020
   },
   {
-    "models": "TM Racing EN 300 F 4T",
+    "models": "TM Racing EN 300F",
     "from": 2017,
     "to": 2020
   },
   {
-    "models": "TM Racing EN 400 F 4T",
+    "models": "TM Racing EN 400F",
     "from": 2001,
     "to": 2003
   },
   {
-    "models": "TM Racing EN 450 F 4T",
+    "models": "TM Racing EN 450F",
     "from": 2004,
     "to": 2020
   },
   {
-    "models": "TM Racing EN 530 F 4T",
+    "models": "TM Racing EN 530F",
     "from": 2002,
     "to": 2019
   },
@@ -385,63 +510,63 @@
     "to": 2003
   },
   {
-    "models": "TM Racing MX 100 2T",
+    "models": "TM Racing MX 100",
     "from": 2001,
     "to": 2011
   },
   {
-    "models": "TM Racing MX 125 2T",
+    "models": "TM Racing MX 125",
     "from": 2001,
     "to": 2020
   },
   {
-    "models": "TM Racing MX 144 2T",
+    "models": "TM Racing MX 144",
     "from": 2008,
     "to": 2020
   },
   {
-    "models": "TM Racing MX 250 2T",
+    "models": "TM Racing MX 250",
     "from": 2001,
     "to": 2020
   },
   {
-    "models": "TM Racing MX 250 F 4T",
+    "models": "TM Racing MX 250F",
     "from": 2002,
     "to": 2020
   },
   {
-    "models": "TM Racing MX 300 2T",
+    "models": "TM Racing MX 300",
     "from": 2001,
     "to": 2020
   },
   {
-    "models": "TM Racing MX 300 F 4T",
+    "models": "TM Racing MX 300F",
     "from": 2017,
     "to": 2020
   },
   {
-    "models": "TM Racing MX 400 F 4T",
+    "models": "TM Racing MX 400F",
     "from": 2001,
     "to": 2003
   },
   {
-    "models": "TM Racing MX 450 F 4T",
+    "models": "TM Racing MX 450F",
     "from": 2004,
     "to": 2020
   },
   {
-    "models": "TM Racing MX 530 F 4T",
+    "models": "TM Racing MX 530F",
     "from": 2002,
     "to": 2020
   },
   {
-    "models": "TM Racing MX 80 2T",
+    "models": "TM Racing MX 80",
     "from": 2011,
-    "to": 2011
+    "to": ""
   },
   {
-    "models": "TM Racing MX 85 2T",
+    "models": "TM Racing MX 85",
     "from": 2011,
-    "to": 2011
+    "to": ""
   }
 ]
