@@ -25,53 +25,53 @@
     "to": 2016
   },
   {
-    "models": "KTM 250 EXC",
+    "models": "KTM EXC 250",
     "from": 2004,
     "to": 2016
   },
   {
-    "models": "KTM 250 SX",
-    "from": 2003,
-    "to": 2016
-  },
-  {
-    "models": "KTM 250 SXS",
-    "from": 2004,
-    "to": 2004
-  },
-  {
-    "models": "KTM 250 XC",
-    "from": 2006,
-    "to": 2016
-  },
-  {
-    "models": "KTM 250 XC-W",
-    "from": 2006,
-    "to": 2016
-  },
-  {
-    "models": "KTM 300 EXC",
+    "models": "KTM EXC 300",
     "from": 2004,
     "to": 2016
   },
   {
-    "models": "KTM 300 MXC",
+    "models": "KTM Freeride 250R",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "KTM MXC 300",
     "from": 2004,
     "to": 2005
   },
   {
-    "models": "KTM 300 XC",
+    "models": "KTM SX 250 ",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "KTM SXS 250",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 250",
     "from": 2006,
     "to": 2016
   },
   {
-    "models": "KTM 300 XC-W",
+    "models": "KTM XC 300",
     "from": 2006,
     "to": 2016
   },
   {
-    "models": "KTM Freeride 250 R",
-    "from": 2014,
-    "to": 2017
+    "models": "KTM XC-W 250",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 300",
+    "from": 2006,
+    "to": 2016
   }
 ]
