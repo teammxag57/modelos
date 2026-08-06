@@ -1,112 +1,97 @@
 [
   {
-    "models": "Beta 250 RR",
+    "models": "Beta RR 250",
     "from": 2019,
-    "to": 2024
+    "to": 2022
   },
   {
-    "models": "Beta 250 RR RACE EDITION",
+    "models": "Beta RR 250R",
     "from": 2020,
-    "to": 2023
+    "to": 2022
   },
   {
-    "models": "Beta 250 RR X-PRO",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Beta 300 RR",
+    "models": "Beta RR 300",
     "from": 2019,
-    "to": 2024
+    "to": 2022
   },
   {
-    "models": "Beta 300 RR RACE EDITION",
+    "models": "Beta RR 300R",
     "from": 2020,
-    "to": 2023
+    "to": 2022
   },
   {
-    "models": "Beta 300 RR X-PRO",
-    "from": 2025,
-    "to": ""
+    "models": "Beta RX 300",
+    "from": 2021,
+    "to": 2021
   },
   {
-    "models": "Beta 300 RX",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Beta EVO FACTORY 300",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Beta XTRAINER",
+    "models": "Beta XTRAINER 300",
     "from": 2020,
-    "to": 2025
+    "to": 2021
   },
   {
     "models": "Husqvarna TC 250",
     "from": 2014,
-    "to": 2016
+    "to": 2014
   },
   {
     "models": "Husqvarna TE 250",
     "from": 2014,
-    "to": 2016
+    "to": 2014
   },
   {
     "models": "Husqvarna TE 300",
     "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "KTM 250 EXC",
-    "from": 2004,
-    "to": 2007
-  },
-  {
-    "models": "KTM 250 SX",
-    "from": 2004,
-    "to": 2016
-  },
-  {
-    "models": "KTM 250 SXS",
-    "from": 2006,
-    "to": 2007
-  },
-  {
-    "models": "KTM 250 XC",
-    "from": 2006,
     "to": 2014
   },
   {
-    "models": "KTM 250 XC-W",
-    "from": 2006,
-    "to": 2016
-  },
-  {
-    "models": "KTM 300 EXC",
+    "models": "KTM EXC 250",
     "from": 2004,
     "to": 2007
   },
   {
-    "models": "KTM 300 EXC-E",
-    "from": 2007,
-    "to": ""
+    "models": "KTM EXC 300",
+    "from": 2004,
+    "to": 2007
   },
   {
-    "models": "KTM 300 MXC",
+    "models": "KTM EXC 300E",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "KTM MXC 300",
     "from": 2004,
     "to": 2005
   },
   {
-    "models": "KTM 300 XC",
-    "from": 2006,
-    "to": 2016
+    "models": "KTM SX 250",
+    "from": 2004,
+    "to": 2013
   },
   {
-    "models": "KTM 300 XC-W",
+    "models": "KTM SXS 250",
     "from": 2006,
-    "to": 2016
+    "to": 2007
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2006,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2006,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2006,
+    "to": 2013
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2006,
+    "to": 2013
   }
 ]
