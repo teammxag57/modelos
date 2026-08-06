@@ -1,51 +1,56 @@
 [
   {
-    "models": "Gasgas MC 50",
-    "from": 2022,
-    "to": 2025
+    "models": "Husqvarna TC 85",
+    "from": 2014,
+    "to": 2018
   },
   {
-    "models": "Gasgas MC 65",
-    "from": 2022,
-    "to": 2025
-  },
-  {
-    "models": "Husqvarna TC 50",
+    "models": "Husqvarna TC 85",
     "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "Husqvarna TC 65",
-    "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "KTM 50 SX",
-    "from": 2015,
-    "to": 2025
-  },
-  {
-    "models": "KTM 50 SX MINI",
-    "from": 2015,
-    "to": 2025
-  },
-  {
-    "models": "KTM 65 SX",
-    "from": 2009,
-    "to": 2025
-  },
-  {
-    "models": "KTM 65 SX MINI",
-    "from": 2018,
     "to": ""
   },
   {
-    "models": "KTM 65 SXS",
+    "models": "Husqvarna TC 85 17/14",
+    "from": 2017,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 105",
+    "from": 2004,
+    "to": 2011
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2003,
+    "to": 2018
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2005,
+    "to": 2014
+  },
+  {
+    "models": "KTM SX 85 17/14",
+    "from": 2005,
+    "to": 2015
+  },
+  {
+    "models": "KTM SXS 85 17/14",
     "from": 2012,
     "to": 2013
   },
   {
-    "models": "KTM 65 XC",
+    "models": "KTM XC 105",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 85",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 85 17/14",
     "from": 2009,
     "to": ""
   }
