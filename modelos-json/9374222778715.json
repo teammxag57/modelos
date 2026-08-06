@@ -1,48 +1,63 @@
 [
   {
+    "models": "Beta EVO 300 Factory",
+    "from": 2022,
+    "to": ""
+  },
+  {
     "models": "Beta RR 250",
     "from": 2019,
-    "to": 2022
+    "to": 2024
   },
   {
     "models": "Beta RR 250R",
     "from": 2020,
-    "to": 2022
+    "to": 2023
   },
   {
     "models": "Beta RR 300",
     "from": 2019,
-    "to": 2022
+    "to": 2024
   },
   {
     "models": "Beta RR 300R",
     "from": 2020,
-    "to": 2022
+    "to": 2023
+  },
+  {
+    "models": "Beta RR X-PRO 250",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RR X-PRO 300",
+    "from": 2025,
+    "to": ""
   },
   {
     "models": "Beta RX 300",
     "from": 2021,
-    "to": 2021
+    "to": ""
   },
   {
     "models": "Beta XTRAINER 300",
     "from": 2020,
-    "to": 2021
+    "to": 2025
   },
   {
     "models": "Husqvarna TC 250",
     "from": 2014,
-    "to": 2014
+    "to": 2016
   },
   {
     "models": "Husqvarna TE 250",
     "from": 2014,
-    "to": 2014
+    "to": 2016
   },
   {
     "models": "Husqvarna TE 300",
     "from": 2014,
-    "to": 2014
+    "to": 2016
   },
   {
     "models": "KTM EXC 250",
@@ -57,7 +72,7 @@
   {
     "models": "KTM EXC 300E",
     "from": 2007,
-    "to": 2007
+    "to": ""
   },
   {
     "models": "KTM MXC 300",
@@ -67,7 +82,7 @@
   {
     "models": "KTM SX 250",
     "from": 2004,
-    "to": 2013
+    "to": 2016
   },
   {
     "models": "KTM SXS 250",
@@ -77,21 +92,21 @@
   {
     "models": "KTM XC 250",
     "from": 2006,
-    "to": 2013
+    "to": 2014
   },
   {
     "models": "KTM XC 250W",
     "from": 2006,
-    "to": 2013
+    "to": 2016
   },
   {
     "models": "KTM XC 300",
     "from": 2006,
-    "to": 2013
+    "to": 2016
   },
   {
     "models": "KTM XC 300W",
     "from": 2006,
-    "to": 2013
+    "to": 2016
   }
 ]
