@@ -2,80 +2,80 @@
   {
     "models": "Husaberg TE 125",
     "from": 2012,
-    "to": 2012
+    "to": ""
   },
   {
     "models": "Husqvarna TE 150",
     "from": 2018,
-    "to": 2018
+    "to": ""
   },
   {
     "models": "Husqvarna TX 125",
     "from": 2018,
-    "to": 2018
+    "to": ""
   },
   {
-    "models": "KTM 125 EXC",
-    "from": 2011,
-    "to": 2012
-  },
-  {
-    "models": "KTM 125 EXC Factory Edition",
-    "from": 2011,
-    "to": 2011
-  },
-  {
-    "models": "KTM 125 EXC Six Days",
-    "from": 2011,
-    "to": 2012
-  },
-  {
-    "models": "KTM 125 SX",
-    "from": 2016,
-    "to": 2016
-  },
-  {
-    "models": "KTM 125 XC-W",
-    "from": 2017,
-    "to": 2018
-  },
-  {
-    "models": "KTM 150 SX",
-    "from": 2009,
-    "to": 2017
-  },
-  {
-    "models": "KTM 150 XC",
-    "from": 2010,
-    "to": 2014
-  },
-  {
-    "models": "KTM 150 XC-W",
-    "from": 2017,
-    "to": 2018
-  },
-  {
-    "models": "KTM 200 EGS",
+    "models": "KTM EGS 200",
     "from": 1998,
     "to": 1999
   },
   {
-    "models": "KTM 200 EXC",
+    "models": "KTM EXC 125",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM EXC 125 Factory Edition",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 125 Six Days",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM EXC 200",
     "from": 1997,
     "to": 2016
   },
   {
-    "models": "KTM 200 SX",
+    "models": "KTM SX 125",
+    "from": 2016,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2009,
+    "to": 2017
+  },
+  {
+    "models": "KTM SX 200",
     "from": 2003,
     "to": 2004
   },
   {
-    "models": "KTM 200 XC",
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC 150",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "KTM XC 200",
     "from": 2006,
     "to": 2009
   },
   {
-    "models": "KTM 200 XC-W",
+    "models": "KTM XC-W 150",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC-W 200",
     "from": 2006,
     "to": 2016
   }
