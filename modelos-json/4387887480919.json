@@ -15,53 +15,53 @@
     "to": 2016
   },
   {
-    "models": "KTM 125 EGS",
+    "models": "KTM EGS 125",
     "from": 1998,
     "to": 1999
   },
   {
-    "models": "KTM 125 EXC",
+    "models": "KTM EXC 125",
     "from": 1998,
     "to": 2017
   },
   {
-    "models": "KTM 125 EXC Factory Edition",
+    "models": "KTM EXC 125 Factory Edition",
     "from": 2015,
-    "to": 2015
+    "to": ""
   },
   {
-    "models": "KTM 125 EXC Six Days",
+    "models": "KTM EXC 125 Six Days",
     "from": 2007,
     "to": 2016
   },
   {
-    "models": "KTM 125 SX",
+    "models": "KTM EXC 200",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 125",
     "from": 1998,
     "to": 2015
   },
   {
-    "models": "KTM 125 SXS",
+    "models": "KTM SX 144",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "KTM 144 SX",
+    "models": "KTM SXS 125",
     "from": 2007,
     "to": 2008
   },
   {
-    "models": "KTM 200 EXC",
+    "models": "KTM XC 200",
     "from": 2008,
-    "to": 2008
+    "to": ""
   },
   {
-    "models": "KTM 200 XC",
+    "models": "KTM XC-W 200",
     "from": 2008,
-    "to": 2008
-  },
-  {
-    "models": "KTM 200 XC-W",
-    "from": 2008,
-    "to": 2008
+    "to": ""
   }
 ]
