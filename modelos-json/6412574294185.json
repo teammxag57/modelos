@@ -20,29 +20,14 @@
     "to": 2009
   },
   {
-    "models": "KTM EXC 250F",
-    "from": 2001,
-    "to": 2003
-  },
-  {
     "models": "KTM 250 EXC RACING SIX DAYS",
     "from": 2003,
     "to": 2003
   },
   {
-    "models": "KTM EXC 250F",
-    "from": 2013,
-    "to": 2016
-  },
-  {
     "models": "KTM 250 EXC-F SIX DAYS",
     "from": 2013,
     "to": 2016
-  },
-  {
-    "models": "KTM SX 250F",
-    "from": 2013,
-    "to": 2015
   },
   {
     "models": "KTM 250 XC-F",
@@ -55,19 +40,9 @@
     "to": 2016
   },
   {
-    "models": "KTM EXC 350F",
-    "from": 2013,
-    "to": 2016
-  },
-  {
     "models": "KTM 350 EXC-F SIX DAYS",
     "from": 2013,
     "to": 2016
-  },
-  {
-    "models": "KTM SX 350F",
-    "from": 2013,
-    "to": 2015
   },
   {
     "models": "KTM 350 XC-F",
@@ -100,16 +75,6 @@
     "to": 2001
   },
   {
-    "models": "KTM EXC 450F",
-    "from": 2013,
-    "to": 2016
-  },
-  {
-    "models": "KTM EXC 450F",
-    "from": 2003,
-    "to": 2003
-  },
-  {
     "models": "KTM 450 EXC SIX DAYS",
     "from": 2013,
     "to": 2016
@@ -118,11 +83,6 @@
     "models": "KTM 450 SX RACING",
     "from": 2003,
     "to": 2003
-  },
-  {
-    "models": "KTM SX 450F",
-    "from": 2013,
-    "to": 2015
   },
   {
     "models": "KTM 450 XC- F",
@@ -135,9 +95,49 @@
     "to": 2016
   },
   {
+    "models": "KTM EXC 250F",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2003,
+    "to": 2003
+  },
+  {
     "models": "KTM FREERIDE 350F",
     "from": 2013,
     "to": 2017
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2013,
+    "to": 2015
   },
   {
     "models": "Suzuki RM 250Z",
