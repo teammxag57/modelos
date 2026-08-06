@@ -1,37 +1,547 @@
 [
   {
-    "models": "Yamaha WR 400F",
-    "from": 1998,
-    "to": 2000
+    "models": "Aprilia ETX 125",
+    "from": 1999,
+    "to": 2008
   },
   {
-    "models": "Yamaha WR 426F",
-    "from": 2001,
+    "models": "Aprilia Moto 650",
+    "from": 1996,
+    "to": 2001
+  },
+  {
+    "models": "Aprilia MX 125 SM",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "Aprilia Pegaso 125 RX",
+    "from": 1990,
+    "to": 1995
+  },
+  {
+    "models": "Aprilia Pegaso 600",
+    "from": 1990,
+    "to": 1991
+  },
+  {
+    "models": "Aprilia Pegaso 650",
+    "from": 1992,
     "to": 2002
   },
   {
-    "models": "Yamaha WR 450F",
-    "from": 2003,
-    "to": 2015
+    "models": "Aprilia Tuareg 125 Rally",
+    "from": 1990,
+    "to": 1991
   },
   {
-    "models": "Yamaha YFZ 450",
-    "from": 2004,
-    "to": 2013
+    "models": "Aprilia Tuareg 350 Wind",
+    "from": 1989,
+    "to": 1989
   },
   {
-    "models": "Yamaha YZ 400F",
-    "from": 1998,
+    "models": "Aprilia Tuareg 600 Wind",
+    "from": 1989,
+    "to": 1989
+  },
+  {
+    "models": "Cagiva K7 125",
+    "from": 1991,
+    "to": 1991
+  },
+  {
+    "models": "Cagiva W12 350",
+    "from": 1991,
+    "to": 1991
+  },
+  {
+    "models": "Cagiva WMX 125",
+    "from": 1989,
+    "to": 1989
+  },
+  {
+    "models": "Cagiva WMX 250",
+    "from": 1989,
+    "to": 1989
+  },
+  {
+    "models": "Husaberg EF 600 E (Quad)",
+    "from": 1999,
     "to": 1999
   },
   {
-    "models": "Yamaha YZ 426F",
-    "from": 2000,
+    "models": "Kawasaki AR 125",
+    "from": 1982,
+    "to": 1994
+  },
+  {
+    "models": "Kawasaki BJ 250 Estrella",
+    "from": 1992,
     "to": 2002
   },
   {
-    "models": "Yamaha YZ 450F",
+    "models": "Kawasaki GPZ 305",
+    "from": 1983,
+    "to": 1996
+  },
+  {
+    "models": "Kawasaki GPZ 400",
+    "from": 1984,
+    "to": 1987
+  },
+  {
+    "models": "Kawasaki GPZ 500 S",
+    "from": 1988,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki GPZ 500 S ",
+    "from": 1994,
+    "to": 2009
+  },
+  {
+    "models": "Kawasaki GT 550",
+    "from": 1984,
+    "to": 2001
+  },
+  {
+    "models": "Kawasaki KDX 200",
+    "from": 1985,
+    "to": 1992
+  },
+  {
+    "models": "Kawasaki KE 125",
+    "from": 1986,
+    "to": 1988
+  },
+  {
+    "models": "Kawasaki KH 100",
+    "from": 1983,
+    "to": 1992
+  },
+  {
+    "models": "Kawasaki KH 125",
+    "from": 1982,
+    "to": 1998
+  },
+  {
+    "models": "Kawasaki KL 650 Tengai",
+    "from": 1989,
+    "to": 1992
+  },
+  {
+    "models": "Kawasaki KLE 500",
+    "from": 1991,
+    "to": 2007
+  },
+  {
+    "models": "Kawasaki KLF 250 A Bayou",
     "from": 2003,
+    "to": 2011
+  },
+  {
+    "models": "Kawasaki KLF 300 Bayou",
+    "from": 1988,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki KLR 250",
+    "from": 1985,
+    "to": 2005
+  },
+  {
+    "models": "Kawasaki KLR 570",
+    "from": 1988,
+    "to": 1988
+  },
+  {
+    "models": "Kawasaki KLR 600",
+    "from": 1984,
+    "to": 1988
+  },
+  {
+    "models": "Kawasaki KLR 650",
+    "from": 1987,
+    "to": 2007
+  },
+  {
+    "models": "Kawasaki KMX 125",
+    "from": 1986,
+    "to": 2003
+  },
+  {
+    "models": "Kawasaki KMX 200",
+    "from": 1988,
+    "to": 1992
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 1982,
+    "to": 1988
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 1983,
+    "to": 1988
+  },
+  {
+    "models": "Kawasaki KX 500",
+    "from": 1983,
+    "to": 1988
+  },
+  {
+    "models": "Kawasaki KXT 250 Tecate",
+    "from": 1985,
+    "to": 1987
+  },
+  {
+    "models": "Kawasaki KZ/Z 400",
+    "from": 1983,
+    "to": 1984
+  },
+  {
+    "models": "Kawasaki Z 200",
+    "from": 1983,
+    "to": 1983
+  },
+  {
+    "models": "Kawasaki Z 550",
+    "from": 1983,
+    "to": 1984
+  },
+  {
+    "models": "Kawasaki ZR 550",
+    "from": 1982,
+    "to": 1983
+  },
+  {
+    "models": "Kawasaki ZXR 250",
+    "from": 1991,
+    "to": 1995
+  },
+  {
+    "models": "Kawasaki ZZ-R 250",
+    "from": 1990,
+    "to": 1991
+  },
+  {
+    "models": "KTM DXC 125 ",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM DXC 250 ",
+    "from": 1990,
+    "to": 1993
+  },
+  {
+    "models": "KTM DXC 300 ",
+    "from": 1990,
+    "to": 1993
+  },
+  {
+    "models": "KTM DXC 500 ",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM DXC 550 ",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM EGS 350 ",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM EGS 400 ",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM EGS 620 ",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM Enduro 125 ",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM Enduro 250 ",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM Enduro 300 ",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM Enduro 350 ",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM Enduro 600 ",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 1990,
+    "to": 1993
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1990,
+    "to": 1993
+  },
+  {
+    "models": "KTM EXC 350",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM EXC 400",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM EXC 550",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM EXC 600",
+    "from": 1990,
+    "to": 1990
+  },
+  {
+    "models": "KTM EXC 620",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM GS 125 ",
+    "from": 1992,
+    "to": 1992
+  },
+  {
+    "models": "KTM GS 250",
+    "from": 1990,
+    "to": 1990
+  },
+  {
+    "models": "KTM GS 300",
+    "from": 1990,
+    "to": 1990
+  },
+  {
+    "models": "KTM GS 600",
+    "from": 1990,
+    "to": 1990
+  },
+  {
+    "models": "KTM LC4 350 ",
+    "from": 1993,
+    "to": 1994
+  },
+  {
+    "models": "KTM LC4 600 ",
+    "from": 1993,
+    "to": 1994
+  },
+  {
+    "models": "KTM MX 125 ",
+    "from": 1989,
+    "to": 1993
+  },
+  {
+    "models": "KTM MX 250 ",
+    "from": 1989,
+    "to": 1993
+  },
+  {
+    "models": "KTM MX 350 ",
+    "from": 1989,
+    "to": 1993
+  },
+  {
+    "models": "KTM MX 500 ",
+    "from": 1989,
+    "to": 1993
+  },
+  {
+    "models": "KTM MX 600",
+    "from": 1991,
+    "to": 1991
+  },
+  {
+    "models": "KTM MXC 125 ",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM MXC 250 ",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM MXC 300 ",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM MXC 500 ",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM MXC 550 ",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM Rally 350 ",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM Rally 400 ",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM Rally 620 ",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM SX 500F",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM SX 550F",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "KTM SX 620F",
+    "from": 1994,
+    "to": 1995
+  },
+  {
+    "models": "Laverda RV 250 /300",
+    "from": 1990,
+    "to": 1993
+  },
+  {
+    "models": "Mz Baghira 660",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "Mz VRS 125",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "Mz VRS 150",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "Suzuki GN 125",
+    "from": 1994,
+    "to": 2001
+  },
+  {
+    "models": "Suzuki GS 125",
+    "from": 1982,
+    "to": 1982
+  },
+  {
+    "models": "Suzuki GS 450 S",
+    "from": 1986,
+    "to": 1986
+  },
+  {
+    "models": "Suzuki GSX 400",
+    "from": 1981,
+    "to": 1983
+  },
+  {
+    "models": "Suzuki GSX 400 FE",
+    "from": 1981,
+    "to": 1983
+  },
+  {
+    "models": "Suzuki GSX-R 50",
+    "from": 1987,
+    "to": 1987
+  },
+  {
+    "models": "Suzuki LT-A 500",
+    "from": 2003,
+    "to": 2009
+  },
+  {
+    "models": "Suzuki TU 125",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "Suzuki X3E 125",
+    "from": 1981,
+    "to": 1981
+  },
+  {
+    "models": "TM Racing  80 Junior",
+    "from": 1993,
+    "to": 1993
+  },
+  {
+    "models": "TM Racing TM 80",
+    "from": 1990,
+    "to": 1992
+  },
+  {
+    "models": "Yamaha TDR 125",
+    "from": 1990,
+    "to": 1992
+  },
+  {
+    "models": "Yamaha YFM 300 Grizzly",
+    "from": 2012,
     "to": 2013
   }
 ]
