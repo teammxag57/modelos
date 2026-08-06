@@ -42,7 +42,7 @@
   {
     "models": "Kawasaki KX 500",
     "from": 2004,
-    "to": 2004
+    "to": ""
   },
   {
     "models": "Kawasaki KX 65",
@@ -57,7 +57,7 @@
   {
     "models": "Suzuki RM 100",
     "from": 2003,
-    "to": 2003
+    "to": ""
   },
   {
     "models": "Suzuki RM 125",
@@ -68,6 +68,16 @@
     "models": "Suzuki RM 250",
     "from": 2001,
     "to": 2008
+  },
+  {
+    "models": "Suzuki RM 250Z",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki RM 450Z",
+    "from": 2005,
+    "to": 2024
   },
   {
     "models": "Suzuki RM 65",
@@ -85,27 +95,17 @@
     "to": 2019
   },
   {
-    "models": "Suzuki RM-Z 250",
-    "from": 2004,
-    "to": 2024
-  },
-  {
-    "models": "Suzuki RM-Z 450",
-    "from": 2005,
-    "to": 2024
-  },
-  {
-    "models": "Yamaha WR 250 F",
+    "models": "Yamaha WR 250F",
     "from": 2001,
     "to": 2016
   },
   {
-    "models": "Yamaha WR 426 F",
+    "models": "Yamaha WR 426F",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "Yamaha WR 450 F",
+    "models": "Yamaha WR 450F",
     "from": 2003,
     "to": 2015
   },
@@ -120,17 +120,17 @@
     "to": 2007
   },
   {
-    "models": "Yamaha YZ 250 F",
+    "models": "Yamaha YZ 250F",
     "from": 2001,
     "to": 2007
   },
   {
-    "models": "Yamaha YZ 426 F",
+    "models": "Yamaha YZ 426F",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "Yamaha YZ 450 F",
+    "models": "Yamaha YZ 450F",
     "from": 2003,
     "to": 2007
   },
@@ -142,7 +142,7 @@
   {
     "models": "Yamaha YZ 80",
     "from": 2001,
-    "to": 2001
+    "to": ""
   },
   {
     "models": "Yamaha YZ 85",
