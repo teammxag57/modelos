@@ -1,8 +1,23 @@
 [
   {
-    "models": "KTM 250 EXC Racing",
-    "from": 2003,
-    "to": 2006
+    "models": "Beta RR 250F",
+    "from": 2005,
+    "to": 2009
+  },
+  {
+    "models": "Beta RR 400F",
+    "from": 2005,
+    "to": 2009
+  },
+  {
+    "models": "Beta RR 450F",
+    "from": 2005,
+    "to": 2009
+  },
+  {
+    "models": "Beta RR 525F",
+    "from": 2005,
+    "to": 2009
   },
   {
     "models": "KTM 400 EXC",
@@ -15,28 +30,143 @@
     "to": 2005
   },
   {
-    "models": "KTM 400 SX",
+    "models": "KTM 400 SX / MXC / EXC",
     "from": 2004,
     "to": 2005
   },
   {
-    "models": "KTM 450 EXC",
+    "models": "KTM 400 XC-W",
     "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 SMR",
+    "from": 2005,
     "to": 2007
   },
   {
-    "models": "KTM 450 SX",
-    "from": 2003,
-    "to": 2006
+    "models": "KTM 450 XC",
+    "from": 2008,
+    "to": ""
   },
   {
-    "models": "KTM 520 SX",
+    "models": "KTM 450 XC / XC-W",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 XC ATV",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 520 SX / MXC / EXC",
     "from": 1999,
     "to": 2002
   },
   {
-    "models": "KTM 525 SX",
+    "models": "KTM 525 SMR",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "KTM 525 SX / MXC / EXC",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM 525 SX / MXC / EXC / XC / XC-W",
     "from": 2003,
     "to": 2007
+  },
+  {
+    "models": "KTM 525 XC ATV",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 540 SXS",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "KTM 560 SMR",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM 625 SXC",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 660 Rally E Factory Replica",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM 660 SMC",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM 660 Supermoto",
+    "from": 2002,
+    "to": 2003
+  },
+  {
+    "models": "KTM 690 Duke",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 690 Duke R",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM 690 Enduro",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 690 Enduro R",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 690 SMC",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 690 Supermoto R",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "Polaris 450 Outlaw MXR / S",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Polaris 525 Outlaw / IRS",
+    "from": 2007,
+    "to": 2011
   }
 ]
