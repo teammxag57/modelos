@@ -17,207 +17,22 @@
   {
     "models": "Husaberg FS 450",
     "from": 2006,
-    "to": 2006
+    "to": ""
   },
   {
     "models": "Husaberg FS 650",
     "from": 2006,
-    "to": 2006
-  },
-  {
-    "models": "KTM 125 EXC",
-    "from": 2006,
-    "to": 2010
-  },
-  {
-    "models": "KTM 125 EXC Six Days",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "KTM 125 SX",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "KTM 125 SXS",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "KTM 144 SX",
-    "from": 2007,
-    "to": 2008
-  },
-  {
-    "models": "KTM 200 EXC",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM 200 XC",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM 200 XC-W",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM 250 EXC",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM 250 EXC Six Days",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "KTM 250 EXC-F",
-    "from": 2006,
-    "to": 2010
-  },
-  {
-    "models": "KTM 250 EXC-F Six Days",
-    "from": 2007,
-    "to": 2008
-  },
-  {
-    "models": "KTM 250 SX",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "KTM 250 SX-F",
-    "from": 2005,
-    "to": 2008
-  },
-  {
-    "models": "KTM 250 SXS",
-    "from": 2006,
-    "to": 2007
-  },
-  {
-    "models": "KTM 250 SXS-F",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "KTM 250 XC",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM 250 XC-F",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "KTM 250 XCF-W",
-    "from": 2006,
-    "to": 2011
-  },
-  {
-    "models": "KTM 250 XC-W",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM 300 EXC",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM 300 EXC Six Days",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "KTM 300 XC",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM 300 XC-W",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM 400 EXC-F",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM 400 EXC-F Factory Racing",
-    "from": 2007,
-    "to": 2007
+    "to": ""
   },
   {
     "models": "KTM 400 EXC-G Racing",
     "from": 2006,
-    "to": 2006
+    "to": ""
   },
   {
     "models": "KTM 400 XCF-W",
     "from": 2007,
     "to": 2009
-  },
-  {
-    "models": "KTM 450 EXC-F",
-    "from": 2006,
-    "to": 2010
-  },
-  {
-    "models": "KTM 450 EXC-F Factory Racing",
-    "from": 2007,
-    "to": 2007
-  },
-  {
-    "models": "KTM 450 EXC-F Six Days",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "KTM 450 EXC-G",
-    "from": 2006,
-    "to": 2006
-  },
-  {
-    "models": "KTM 450 SX-F",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "KTM 450 SX-F",
-    "from": 2010,
-    "to": 2010
-  },
-  {
-    "models": "KTM 450 SXS",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "KTM 450 XC-F",
-    "from": 2007,
-    "to": 2009
-  },
-  {
-    "models": "KTM 450 XCF-W",
-    "from": 2007,
-    "to": 2011
-  },
-  {
-    "models": "KTM 450 XC-G",
-    "from": 2006,
-    "to": 2006
-  },
-  {
-    "models": "KTM 450 XCR-W",
-    "from": 2008,
-    "to": 2008
   },
   {
     "models": "KTM 505 SX-F",
@@ -230,26 +45,6 @@
     "to": 2009
   },
   {
-    "models": "KTM 525 EXC-F",
-    "from": 2006,
-    "to": 2007
-  },
-  {
-    "models": "KTM 525 EXC-F Factory Racing",
-    "from": 2007,
-    "to": 2007
-  },
-  {
-    "models": "KTM 525 EXC-F Six Days",
-    "from": 2006,
-    "to": 2007
-  },
-  {
-    "models": "KTM 525 SX-F",
-    "from": 2006,
-    "to": 2006
-  },
-  {
     "models": "KTM 525 XC-F",
     "from": 2006,
     "to": 2007
@@ -257,41 +52,241 @@
   {
     "models": "KTM 525 XCF-W",
     "from": 2007,
-    "to": 2007
+    "to": ""
   },
   {
     "models": "KTM 525 XC-G",
     "from": 2006,
-    "to": 2006
-  },
-  {
-    "models": "KTM 530 EXC Champion Edition",
-    "from": 2010,
-    "to": 2010
-  },
-  {
-    "models": "KTM 530 EXC-F",
-    "from": 2008,
-    "to": 2009
-  },
-  {
-    "models": "KTM 530 EXC-F Six Days",
-    "from": 2008,
-    "to": 2008
+    "to": ""
   },
   {
     "models": "KTM 530 XCF-W",
     "from": 2009,
-    "to": 2009
+    "to": ""
   },
   {
     "models": "KTM 530 XCR-W",
     "from": 2008,
-    "to": 2008
+    "to": ""
   },
   {
     "models": "KTM 540 SXS",
     "from": 2006,
-    "to": 2006
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2006,
+    "to": 2010
+  },
+  {
+    "models": "KTM EXC 125 Six Days",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 250 Six Days",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2006,
+    "to": 2010
+  },
+  {
+    "models": "KTM EXC 250F Six Days",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 300 Six Days",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 400F",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 400F Factory Racing",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2006,
+    "to": 2010
+  },
+  {
+    "models": "KTM EXC 450F Factory Racing",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 450F Six Days",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM EXC 525F",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 525F Factory Racing",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 525F Six Days",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 530F",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM EXC 530F Champion Edition",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 530F Six Days",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-G 450",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 144",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 250 ",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2006,
+    "to": 2010
+  },
+  {
+    "models": "KTM SX 525F",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM SXS 125",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM SXS 250",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM SXS 250F",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM SXS 450",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM XC 200",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 250F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 250FW",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 450F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 450FW",
+    "from": 2007,
+    "to": 2011
+  },
+  {
+    "models": "KTM XC-G 450",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM XCR 450W",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-W 200",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-W 250",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-W 300",
+    "from": 2006,
+    "to": 2009
   }
 ]
