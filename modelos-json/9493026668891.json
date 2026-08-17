@@ -47,11 +47,6 @@
   {
     "models": "Suzuki RMX 450",
     "from": 2010,
-    "to": 2010
-  },
-  {
-    "models": "Suzuki RMX 450",
-    "from": 2017,
     "to": 2019
   },
   {
@@ -60,14 +55,14 @@
     "to": 2024
   },
   {
-    "models": "Yamaha WR 250FX",
-    "from": 2008,
-    "to": 2011
-  },
-  {
     "models": "Yamaha WR 250R",
     "from": 2008,
     "to": 2020
+  },
+  {
+    "models": "Yamaha WR 250X",
+    "from": 2008,
+    "to": 2011
   },
   {
     "models": "Yamaha WR 400F",
