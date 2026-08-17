@@ -82,7 +82,7 @@
   {
     "models": "Husaberg FS 550",
     "from": 2007,
-    "to": 2007
+    "to": ""
   },
   {
     "models": "Husaberg FS 570",
@@ -115,27 +115,22 @@
     "to": 2014
   },
   {
-    "models": "Husqvarna FC 250",
+    "models": "Husqvarna FC 250F",
     "from": 2014,
     "to": 2015
   },
   {
-    "models": "Husqvarna FC 350",
+    "models": "Husqvarna FC 350F",
     "from": 2014,
     "to": 2015
   },
   {
-    "models": "Husqvarna FC 450",
+    "models": "Husqvarna FC 450F",
     "from": 2014,
     "to": 2015
   },
   {
-    "models": "Husqvarna FE 250",
-    "from": 2014,
-    "to": 2023
-  },
-  {
-    "models": "Husqvarna FE 350",
+    "models": "Husqvarna FE 250F",
     "from": 2014,
     "to": 2023
   },
@@ -145,17 +140,22 @@
     "to": 2022
   },
   {
+    "models": "Husqvarna FE 350F",
+    "from": 2014,
+    "to": 2023
+  },
+  {
     "models": "Husqvarna FE 350S",
     "from": 2015,
     "to": 2023
   },
   {
-    "models": "Husqvarna FE 450",
+    "models": "Husqvarna FE 450F",
     "from": 2014,
     "to": 2023
   },
   {
-    "models": "Husqvarna FE 501",
+    "models": "Husqvarna FE 501F",
     "from": 2014,
     "to": 2023
   },
@@ -202,7 +202,7 @@
   {
     "models": "Husqvarna TE 300 Jarvis Edition",
     "from": 2020,
-    "to": 2020
+    "to": ""
   },
   {
     "models": "Husqvarna TE 300 RockStar Edition",
@@ -213,41 +213,6 @@
     "models": "Husqvarna TX 125",
     "from": 2017,
     "to": 2019
-  },
-  {
-    "models": "KTM 105 SX",
-    "from": 2004,
-    "to": 2011
-  },
-  {
-    "models": "KTM 105 XC",
-    "from": 2008,
-    "to": 2009
-  },
-  {
-    "models": "KTM 125 EGS",
-    "from": 1994,
-    "to": 1999
-  },
-  {
-    "models": "KTM 125 EXC",
-    "from": 1994,
-    "to": 2017
-  },
-  {
-    "models": "KTM 125 EXC Factory Edition",
-    "from": 2011,
-    "to": 2015
-  },
-  {
-    "models": "KTM 125 EXC Six Days",
-    "from": 1996,
-    "to": 2016
-  },
-  {
-    "models": "KTM 125 EXE",
-    "from": 2000,
-    "to": 2001
   },
   {
     "models": "KTM 125 LC2",
@@ -265,284 +230,9 @@
     "to": 2001
   },
   {
-    "models": "KTM 125 SX",
-    "from": 1994,
-    "to": 2012
-  },
-  {
-    "models": "KTM 125 SXS",
-    "from": 2001,
-    "to": 2008
-  },
-  {
-    "models": "KTM 125 XC-W",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM 144 SX",
-    "from": 2007,
-    "to": 2008
-  },
-  {
-    "models": "KTM 150 EXC",
-    "from": 2020,
-    "to": 2023
-  },
-  {
-    "models": "KTM 150 SX",
-    "from": 2009,
-    "to": 2012
-  },
-  {
-    "models": "KTM 150 XC",
-    "from": 2010,
-    "to": 2012
-  },
-  {
-    "models": "KTM 150 XC-W",
-    "from": 2017,
-    "to": 2023
-  },
-  {
-    "models": "KTM 200 EGS",
-    "from": 1998,
-    "to": 1999
-  },
-  {
-    "models": "KTM 200 EXC",
-    "from": 1997,
-    "to": 2016
-  },
-  {
     "models": "KTM 200 MXC",
     "from": 1998,
     "to": 2003
-  },
-  {
-    "models": "KTM 200 SX",
-    "from": 2003,
-    "to": 2004
-  },
-  {
-    "models": "KTM 200 XC",
-    "from": 2006,
-    "to": 2009
-  },
-  {
-    "models": "KTM 200 XC-W",
-    "from": 2006,
-    "to": 2016
-  },
-  {
-    "models": "KTM 250 EGS",
-    "from": 1994,
-    "to": 1999
-  },
-  {
-    "models": "KTM 250 EXC",
-    "from": 1994,
-    "to": 2023
-  },
-  {
-    "models": "KTM 250 EXC Factory Edition",
-    "from": 2011,
-    "to": 2015
-  },
-  {
-    "models": "KTM 250 EXC Factory Racing",
-    "from": 2005,
-    "to": 2005
-  },
-  {
-    "models": "KTM 250 EXC Six Days",
-    "from": 2001,
-    "to": 2023
-  },
-  {
-    "models": "KTM 250 EXC-F",
-    "from": 2001,
-    "to": 2023
-  },
-  {
-    "models": "KTM 250 EXC-F Factory Edition",
-    "from": 2011,
-    "to": 2015
-  },
-  {
-    "models": "KTM 250 EXC-F Six Days",
-    "from": 2002,
-    "to": 2023
-  },
-  {
-    "models": "KTM 250 EXC-G Racing",
-    "from": 2003,
-    "to": 2004
-  },
-  {
-    "models": "KTM 250 MXC",
-    "from": 1998,
-    "to": 2001
-  },
-  {
-    "models": "KTM 250 SX",
-    "from": 1994,
-    "to": 2012
-  },
-  {
-    "models": "KTM 250 SX-F",
-    "from": 2005,
-    "to": 2012
-  },
-  {
-    "models": "KTM 250 SX-F Musquin Replica",
-    "from": 2010,
-    "to": 2011
-  },
-  {
-    "models": "KTM 250 SX-F Roczen Replica",
-    "from": 2012,
-    "to": 2012
-  },
-  {
-    "models": "KTM 250 SXS",
-    "from": 2001,
-    "to": 2007
-  },
-  {
-    "models": "KTM 250 SXS-F",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "KTM 250 XC",
-    "from": 2006,
-    "to": 2012
-  },
-  {
-    "models": "KTM 250 XC-F",
-    "from": 2007,
-    "to": 2012
-  },
-  {
-    "models": "KTM 250 XCF-W",
-    "from": 2006,
-    "to": 2016
-  },
-  {
-    "models": "KTM 250 XCF-W Six Days",
-    "from": 2011,
-    "to": 2011
-  },
-  {
-    "models": "KTM 250 XC-W",
-    "from": 2006,
-    "to": 2023
-  },
-  {
-    "models": "KTM 300 EGS",
-    "from": 1995,
-    "to": 1999
-  },
-  {
-    "models": "KTM 300 EXC",
-    "from": 1994,
-    "to": 2023
-  },
-  {
-    "models": "KTM 300 EXC Erzberg Edition",
-    "from": 2020,
-    "to": 2023
-  },
-  {
-    "models": "KTM 300 EXC Factory Edition",
-    "from": 2011,
-    "to": 2015
-  },
-  {
-    "models": "KTM 300 EXC Six Days",
-    "from": 1996,
-    "to": 2023
-  },
-  {
-    "models": "KTM 300 MXC",
-    "from": 1994,
-    "to": 2005
-  },
-  {
-    "models": "KTM 300 XC",
-    "from": 2006,
-    "to": 2012
-  },
-  {
-    "models": "KTM 300 XC-W",
-    "from": 2006,
-    "to": 2023
-  },
-  {
-    "models": "KTM 300 XC-W Erzberg Edition",
-    "from": 2020,
-    "to": 2023
-  },
-  {
-    "models": "KTM 300 XC-W Six Days",
-    "from": 2014,
-    "to": 2020
-  },
-  {
-    "models": "KTM 350 EXC-F",
-    "from": 1994,
-    "to": 2023
-  },
-  {
-    "models": "KTM 350 EXC-F Factory Edition",
-    "from": 2015,
-    "to": 2022
-  },
-  {
-    "models": "KTM 350 EXC-F Six Days",
-    "from": 2012,
-    "to": 2023
-  },
-  {
-    "models": "KTM 350 EXC-F Wess",
-    "from": 2021,
-    "to": 2021
-  },
-  {
-    "models": "KTM 350 SX-F",
-    "from": 2011,
-    "to": 2012
-  },
-  {
-    "models": "KTM 350 SX-F Cairoli Replica",
-    "from": 2011,
-    "to": 2012
-  },
-  {
-    "models": "KTM 350 XC-F",
-    "from": 2011,
-    "to": 2012
-  },
-  {
-    "models": "KTM 350 XC-F Factory Edition",
-    "from": 2022,
-    "to": 2022
-  },
-  {
-    "models": "KTM 350 XC-F Kailub Russell",
-    "from": 2021,
-    "to": 2021
-  },
-  {
-    "models": "KTM 350 XCF-W",
-    "from": 2012,
-    "to": 2022
-  },
-  {
-    "models": "KTM 350 XCF-W Six Days",
-    "from": 2014,
-    "to": 2016
   },
   {
     "models": "KTM 360 EGS",
@@ -557,12 +247,12 @@
   {
     "models": "KTM 360 EXC Six Days",
     "from": 1996,
-    "to": 1996
+    "to": ""
   },
   {
     "models": "KTM 360 MXC",
     "from": 1997,
-    "to": 1997
+    "to": ""
   },
   {
     "models": "KTM 360 SX",
@@ -573,11 +263,6 @@
     "models": "KTM 380 EGS",
     "from": 1998,
     "to": 1999
-  },
-  {
-    "models": "KTM 380 EXC",
-    "from": 1998,
-    "to": 2002
   },
   {
     "models": "KTM 380 MXC",
@@ -592,27 +277,7 @@
   {
     "models": "KTM 400 Duke",
     "from": 1994,
-    "to": 1994
-  },
-  {
-    "models": "KTM 400 EXC-F",
-    "from": 1994,
-    "to": 2011
-  },
-  {
-    "models": "KTM 400 EXC-F Factory Edition",
-    "from": 2011,
-    "to": 2011
-  },
-  {
-    "models": "KTM 400 EXC-F Factory Racing",
-    "from": 2005,
-    "to": 2007
-  },
-  {
-    "models": "KTM 400 EXC-F Six Days",
-    "from": 2001,
-    "to": 2003
+    "to": ""
   },
   {
     "models": "KTM 400 EXC-G Racing",
@@ -627,7 +292,7 @@
   {
     "models": "KTM 400 LC4 R",
     "from": 1999,
-    "to": 1999
+    "to": ""
   },
   {
     "models": "KTM 400 LC4-E",
@@ -662,7 +327,7 @@
   {
     "models": "KTM 400 TXC",
     "from": 1998,
-    "to": 1998
+    "to": ""
   },
   {
     "models": "KTM 400 XCF-W",
@@ -670,124 +335,9 @@
     "to": 2010
   },
   {
-    "models": "KTM 440 EXC",
-    "from": 1994,
-    "to": 1995
-  },
-  {
-    "models": "KTM 440 MXC",
-    "from": 1994,
-    "to": 1994
-  },
-  {
-    "models": "KTM 440 SX",
-    "from": 1994,
-    "to": 1994
-  },
-  {
-    "models": "KTM 450 EXC-F",
-    "from": 2003,
-    "to": 2023
-  },
-  {
-    "models": "KTM 450 EXC-F Factory Edition",
-    "from": 2005,
-    "to": 2015
-  },
-  {
-    "models": "KTM 450 EXC-F Factory Racing",
-    "from": 2007,
-    "to": 2007
-  },
-  {
-    "models": "KTM 450 EXC-F Six Days",
-    "from": 2004,
-    "to": 2023
-  },
-  {
-    "models": "KTM 450 EXC-G",
-    "from": 2003,
-    "to": 2006
-  },
-  {
-    "models": "KTM 450 MXC-G Racing",
-    "from": 2003,
-    "to": 2005
-  },
-  {
     "models": "KTM 450 Rally Factory Replica",
     "from": 2005,
-    "to": 2005
-  },
-  {
-    "models": "KTM 450 SMR",
-    "from": 2004,
-    "to": 2012
-  },
-  {
-    "models": "KTM 450 SMS",
-    "from": 2004,
-    "to": 2004
-  },
-  {
-    "models": "KTM 450 SX-F",
-    "from": 2003,
-    "to": 2012
-  },
-  {
-    "models": "KTM 450 SX-F Nagle Replica",
-    "from": 2010,
-    "to": 2010
-  },
-  {
-    "models": "KTM 450 SXS",
-    "from": 2003,
-    "to": 2008
-  },
-  {
-    "models": "KTM 450 XC",
-    "from": 2004,
-    "to": 2007
-  },
-  {
-    "models": "KTM 450 XC-F",
-    "from": 2004,
-    "to": 2009
-  },
-  {
-    "models": "KTM 450 XCF-W",
-    "from": 2007,
-    "to": 2023
-  },
-  {
-    "models": "KTM 450 XCF-W Six Days",
-    "from": 2010,
-    "to": 2011
-  },
-  {
-    "models": "KTM 450 XC-G",
-    "from": 2006,
-    "to": 2006
-  },
-  {
-    "models": "KTM 450 XCR-W",
-    "from": 2008,
-    "to": 2008
-  },
-  {
-    "models": "KTM 500 EXC-F",
-    "from": 2012,
-    "to": 2023
-  },
-  {
-    "models": "KTM 500 EXC-F Six Days",
-    "from": 2012,
-    "to": 2023
-  },
-  {
-    "models": "KTM 500 XCF-W",
-    "from": 2012,
-    "to": 2022
+    "to": ""
   },
   {
     "models": "KTM 505 SX-F",
@@ -800,34 +350,9 @@
     "to": 2009
   },
   {
-    "models": "KTM 520 EXC-F",
-    "from": 2000,
-    "to": 2002
-  },
-  {
     "models": "KTM 520 MXC",
     "from": 2001,
     "to": 2002
-  },
-  {
-    "models": "KTM 520 SX-F",
-    "from": 2000,
-    "to": 2002
-  },
-  {
-    "models": "KTM 525 EXC-F",
-    "from": 2003,
-    "to": 2007
-  },
-  {
-    "models": "KTM 525 EXC-F Factory Racing",
-    "from": 2007,
-    "to": 2007
-  },
-  {
-    "models": "KTM 525 EXC-F Six Days",
-    "from": 2003,
-    "to": 2007
   },
   {
     "models": "KTM 525 MXC",
@@ -845,11 +370,6 @@
     "to": 2005
   },
   {
-    "models": "KTM 525 SX-F",
-    "from": 2003,
-    "to": 2006
-  },
-  {
     "models": "KTM 525 XC-F",
     "from": 2006,
     "to": 2007
@@ -857,32 +377,12 @@
   {
     "models": "KTM 525 XCF-W",
     "from": 2007,
-    "to": 2007
+    "to": ""
   },
   {
     "models": "KTM 525 XC-G",
     "from": 2006,
-    "to": 2006
-  },
-  {
-    "models": "KTM 530 EXC Champion Edition",
-    "from": 2010,
-    "to": 2010
-  },
-  {
-    "models": "KTM 530 EXC Factory Edition",
-    "from": 2011,
-    "to": 2011
-  },
-  {
-    "models": "KTM 530 EXC-F",
-    "from": 2008,
-    "to": 2011
-  },
-  {
-    "models": "KTM 530 EXC-F Six Days",
-    "from": 2008,
-    "to": 2011
+    "to": ""
   },
   {
     "models": "KTM 530 XCF-W",
@@ -897,7 +397,7 @@
   {
     "models": "KTM 530 XCR-W",
     "from": 2008,
-    "to": 2008
+    "to": ""
   },
   {
     "models": "KTM 540 SXC",
@@ -912,7 +412,7 @@
   {
     "models": "KTM 550 MXC",
     "from": 1994,
-    "to": 1996
+    "to": ""
   },
   {
     "models": "KTM 560 SMR",
@@ -922,7 +422,7 @@
   {
     "models": "KTM 620 Competition",
     "from": 1997,
-    "to": 1997
+    "to": ""
   },
   {
     "models": "KTM 620 EGS",
@@ -932,12 +432,12 @@
   {
     "models": "KTM 620 EGS-E",
     "from": 1997,
-    "to": 1997
+    "to": ""
   },
   {
     "models": "KTM 620 Enduro",
     "from": 1997,
-    "to": 1997
+    "to": ""
   },
   {
     "models": "KTM 620 EXC",
@@ -952,17 +452,17 @@
   {
     "models": "KTM 620 LC4 Rally",
     "from": 1997,
-    "to": 1997
+    "to": ""
   },
   {
     "models": "KTM 620 LC4 Supermoto",
     "from": 1999,
-    "to": 1999
+    "to": ""
   },
   {
     "models": "KTM 620 LSE",
     "from": 1997,
-    "to": 1997
+    "to": ""
   },
   {
     "models": "KTM 620 RXC-E",
@@ -977,7 +477,7 @@
   {
     "models": "KTM 620 Six Days",
     "from": 1996,
-    "to": 1996
+    "to": ""
   },
   {
     "models": "KTM 620 Super Competition",
@@ -987,7 +487,7 @@
   {
     "models": "KTM 620 Supermoto Competition",
     "from": 1998,
-    "to": 1998
+    "to": ""
   },
   {
     "models": "KTM 620 SX",
@@ -997,17 +497,17 @@
   {
     "models": "KTM 620 SXC",
     "from": 1997,
-    "to": 1997
+    "to": ""
   },
   {
     "models": "KTM 620 TXC",
     "from": 1998,
-    "to": 1998
+    "to": ""
   },
   {
     "models": "KTM 625 SC",
     "from": 2002,
-    "to": 2002
+    "to": ""
   },
   {
     "models": "KTM 625 SMC",
@@ -1022,7 +522,7 @@
   {
     "models": "KTM 640 Adventure",
     "from": 2005,
-    "to": 2007
+    "to": ""
   },
   {
     "models": "KTM 640 Adventure R",
@@ -1032,7 +532,7 @@
   {
     "models": "KTM 640 LC4 Adventure",
     "from": 2003,
-    "to": 2006
+    "to": ""
   },
   {
     "models": "KTM 640 LC4 Enduro",
@@ -1052,12 +552,12 @@
   {
     "models": "KTM 660 LC4 Supermoto Factory Replica",
     "from": 2003,
-    "to": 2003
+    "to": ""
   },
   {
     "models": "KTM 660 Rally",
     "from": 2002,
-    "to": 2002
+    "to": ""
   },
   {
     "models": "KTM 660 Rally Factory Replica",
@@ -1067,7 +567,7 @@
   {
     "models": "KTM 660 SM Factory Replica",
     "from": 2002,
-    "to": 2002
+    "to": ""
   },
   {
     "models": "KTM 660 SMC",
@@ -1075,39 +575,254 @@
     "to": 2006
   },
   {
-    "models": "KTM 85 SX",
-    "from": 2003,
-    "to": 2024
+    "models": "KTM EGS 125",
+    "from": 1994,
+    "to": 1999
   },
   {
-    "models": "KTM 85 SXS",
+    "models": "KTM EGS 200",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "KTM EGS 250",
+    "from": 1994,
+    "to": 1999
+  },
+  {
+    "models": "KTM EGS 300",
+    "from": 1995,
+    "to": 1999
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 1994,
+    "to": 2017
+  },
+  {
+    "models": "KTM EXC 125 Factory Edition",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 125 Six Days",
+    "from": 1996,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 1997,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 1994,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 250 Factory Edition",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 250 Factory Racing",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 250 Six Days",
+    "from": 2001,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2001,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 250F Factory Edition",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 250F Six Days",
+    "from": 2002,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1994,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 300 Erzberg Edition",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 300 Factory Edition",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 300 Six Days",
+    "from": 1996,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 1994,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 350F Factory Edition",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 350F Six Days",
     "from": 2012,
-    "to": 2015
+    "to": 2023
   },
   {
-    "models": "KTM 85 XC",
+    "models": "KTM EXC 350F Wess",
+    "from": 2021,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 400F",
+    "from": 1994,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 400F Factory Edition",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 400F Factory Racing",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 400F Six Days",
+    "from": 2001,
+    "to": 2003
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2003,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 450F Factory Edition",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 450F Factory Racing",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 450F Six Days",
+    "from": 2004,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2012,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 500F Six Days",
+    "from": 2012,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 520F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 525F",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 525F Factory Racing",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 525F Six Days",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 530F",
     "from": 2008,
-    "to": 2009
+    "to": 2011
   },
   {
-    "models": "KTM Freeride 250 F",
+    "models": "KTM EXC 530F Champion Edition",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 530F Factory Edition",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 530F Six Days",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC-G 250 Racing",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM EXC-G 450",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXE 125",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM Freeride 250F",
     "from": 2018,
     "to": 2020
   },
   {
-    "models": "KTM Freeride 250 R",
+    "models": "KTM Freeride 250R",
     "from": 2014,
     "to": 2017
   },
   {
-    "models": "KTM Freeride 350",
+    "models": "KTM Freeride 350F",
     "from": 2012,
     "to": 2017
   },
   {
     "models": "KTM Freeride E 660W",
     "from": 2025,
-    "to": 2025
+    "to": ""
   },
   {
     "models": "KTM Freeride E-SM",
@@ -1125,8 +840,278 @@
     "to": 2023
   },
   {
+    "models": "KTM MXC 250",
+    "from": 1998,
+    "to": 2001
+  },
+  {
+    "models": "KTM MXC 300",
+    "from": 1994,
+    "to": 2005
+  },
+  {
+    "models": "KTM MXC-G 450 Racing",
+    "from": 2003,
+    "to": 2005
+  },
+  {
     "models": "KTM RC4 250 R",
     "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM SMR 450",
+    "from": 2004,
+    "to": 2012
+  },
+  {
+    "models": "KTM SMS 450",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 105",
+    "from": 2004,
+    "to": 2011
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 1994,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 144",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM SX 250 ",
+    "from": 1994,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2005,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 250F Musquin Replica",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM SX 250F Roczen Replica",
+    "from": 2012,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 350F Cairoli Replica",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2003,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 450F Nagle Replica",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 520F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 525F",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "KTM SXS 125",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "KTM SXS 250",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "KTM SXS 250F",
+    "from": 2006,
+    "to": 2008
+  },
+  {
+    "models": "KTM SXS 450",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "KTM SXS 85",
+    "from": 2012,
+    "to": 2015
+  },
+  {
+    "models": "KTM XC 105",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 150",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "KTM XC 200",
+    "from": 2006,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2006,
+    "to": 2012
+  },
+  {
+    "models": "KTM XC 250F",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM XC 250FW",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 250FW Six Days",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2006,
+    "to": 2012
+  },
+  {
+    "models": "KTM XC 300W Erzberg Edition",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC 300W Six Days",
+    "from": 2014,
+    "to": 2020
+  },
+  {
+    "models": "KTM XC 350F",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "KTM XC 350F Factory Edition",
+    "from": 2022,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 350F Kailub Russell",
+    "from": 2021,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 350FW",
+    "from": 2012,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC 350FW Six Days",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC 450",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 450F",
+    "from": 2004,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 450FW",
+    "from": 2007,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC 450FW Six Days",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM XC 85",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC-F 500W",
+    "from": 2012,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC-G 450",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM XCR 450W",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-W 150",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC-W 200",
+    "from": 2006,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 250",
+    "from": 2006,
+    "to": 2023
+  },
+  {
+    "models": "KTM XC-W 300",
+    "from": 2006,
     "to": 2023
   }
 ]
