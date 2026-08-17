@@ -1,257 +1,192 @@
 [
   {
-    "models": "Beta 250 RR Enduro 4T1st Filter",
+    "models": "Beta RR 250F",
     "from": 2005,
     "to": 2009
   },
   {
-    "models": "Beta 400 RR Enduro 4T1st Filter",
+    "models": "Beta RR 400F",
     "from": 2005,
     "to": 2009
   },
   {
-    "models": "Beta 450 RR Enduro 4T1st Filter",
+    "models": "Beta RR 450F",
     "from": 2005,
     "to": 2009
   },
   {
-    "models": "Beta 525 RR Enduro 4T1st Filter",
+    "models": "Beta RR 525F",
     "from": 2005,
     "to": 2009
   },
   {
-    "models": "Gasgas 700 ES2nd Filter",
+    "models": "Gasgas ES 700",
     "from": 2022,
     "to": 2024
   },
   {
-    "models": "Gasgas 700 SM2nd Filter",
+    "models": "Gasgas SM 700",
     "from": 2022,
     "to": 2024
   },
   {
-    "models": "Husaberg FC450",
+    "models": "Husaberg FC 450",
     "from": 2004,
     "to": 2006
   },
   {
-    "models": "Husaberg FC550",
+    "models": "Husaberg FC 550",
     "from": 2004,
     "to": 2006
   },
   {
-    "models": "Husaberg FE450",
+    "models": "Husaberg FE 450",
     "from": 2004,
     "to": 2008
   },
   {
-    "models": "Husaberg FE550",
+    "models": "Husaberg FE 550",
     "from": 2004,
     "to": 2008
   },
   {
-    "models": "Husaberg FE650",
+    "models": "Husaberg FE 650",
     "from": 2004,
     "to": 2008
   },
   {
-    "models": "Husaberg FS450",
+    "models": "Husaberg FS 450",
     "from": 2004,
     "to": 2008
   },
   {
-    "models": "Husaberg FS550",
+    "models": "Husaberg FS 550",
     "from": 2004,
     "to": 2008
   },
   {
-    "models": "Husaberg FS650",
+    "models": "Husaberg FS 650",
     "from": 2004,
     "to": 2008
   },
   {
-    "models": "Husqvarna 125 Svartplien",
+    "models": "Husqvarna 125 Svartpilen",
     "from": 2021,
-    "to": ""
+    "to": 2025
   },
   {
-    "models": "Husqvarna 125 Svartplien",
-    "from": 2022,
-    "to": ""
+    "models": "Husqvarna 125 Vitpilen",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna 125 Vitpilen B.D",
+    "from": 2024,
+    "to": 2025
   },
   {
     "models": "Husqvarna 200 Svartpilen",
     "from": 2020,
-    "to": 2021
-  },
-  {
-    "models": "Husqvarna 200 Svartpilen",
-    "from": 2022,
-    "to": ""
+    "to": 2023
   },
   {
     "models": "Husqvarna 250 Svartpilen",
     "from": 2020,
-    "to": 2021
+    "to": 2025
   },
   {
-    "models": "Husqvarna 250 Svartpilen",
-    "from": 2022,
-    "to": ""
+    "models": "Husqvarna 250 Svartpilen B.D.",
+    "from": 2024,
+    "to": 2025
   },
   {
     "models": "Husqvarna 401 Svartpilen",
     "from": 2018,
-    "to": 2019
+    "to": 2025
   },
   {
-    "models": "Husqvarna 401 Svartpilen",
-    "from": 2020,
-    "to": ""
+    "models": "Husqvarna 401 Svartpilen B.D.",
+    "from": 2024,
+    "to": 2025
   },
   {
-    "models": "Husqvarna 401 Svartpilen",
-    "from": 2021,
-    "to": ""
+    "models": "Husqvarna 401 Svartpilen CKD",
+    "from": 2024,
+    "to": 2025
   },
   {
-    "models": "Husqvarna 401 Svartpilen",
-    "from": 2022,
-    "to": ""
+    "models": "Husqvarna 401 Svartpilen IKD",
+    "from": 2024,
+    "to": 2025
   },
   {
     "models": "Husqvarna 401 Vitpilen",
     "from": 2018,
-    "to": 2019
+    "to": 2025
   },
   {
-    "models": "Husqvarna 401 Vitpilen",
-    "from": 2020,
-    "to": ""
+    "models": "Husqvarna 401 Vitpilen B.D",
+    "from": 2024,
+    "to": 2025
   },
   {
-    "models": "Husqvarna 401 Vitpilen",
-    "from": 2021,
-    "to": ""
+    "models": "Husqvarna 401 Vitpilen CKD",
+    "from": 2024,
+    "to": 2025
   },
   {
-    "models": "Husqvarna 401 Vitpilen",
-    "from": 2022,
-    "to": ""
+    "models": "Husqvarna 401 Vitpilen IKD",
+    "from": 2024,
+    "to": 2025
   },
   {
-    "models": "Husqvarna 701 Enduro2nd Filter",
+    "models": "Husqvarna 701 Enduro",
     "from": 2016,
-    "to": 2019
+    "to": 2024
   },
   {
-    "models": "Husqvarna 701 Enduro2nd Filter",
-    "from": 2020,
-    "to": 2022
-  },
-  {
-    "models": "Husqvarna 701 Supermoto2nd Filter",
+    "models": "Husqvarna 701 Supermoto",
     "from": 2016,
-    "to": 2019
+    "to": 2024
   },
   {
-    "models": "Husqvarna 701 Supermoto2nd Filter",
-    "from": 2020,
-    "to": 2022
-  },
-  {
-    "models": "Husqvarna 701 Svartpilen2nd Filter",
+    "models": "Husqvarna 701 Svartpilen",
     "from": 2019,
     "to": 2020
   },
   {
-    "models": "Husqvarna 701 Vitpilen2nd Filte",
-    "from": 2020,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna 701 Vitpilen2nd Filter",
+    "models": "Husqvarna 701 Vitpilen",
     "from": 2018,
-    "to": 2019
+    "to": 2020
   },
   {
     "models": "KTM 125 Duke",
     "from": 2011,
-    "to": 2016
+    "to": 2026
   },
   {
-    "models": "KTM 125 Duke",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM 125 Duke",
-    "from": 2020,
-    "to": ""
-  },
-  {
-    "models": "KTM 125 Duke",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "KTM 125 Duke",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "KTM 125 Duke",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "KTM 125 Duke",
-    "from": 2024,
-    "to": ""
+    "models": "KTM 125 Enduro",
+    "from": 2025,
+    "to": 2026
   },
   {
     "models": "KTM 125 RC",
     "from": 2014,
-    "to": 2019
-  },
-  {
-    "models": "KTM 125 RC",
-    "from": 2020,
-    "to": ""
-  },
-  {
-    "models": "KTM 125 RC",
-    "from": 2021,
     "to": 2024
+  },
+  {
+    "models": "KTM 125 SMC R",
+    "from": 2025,
+    "to": 2026
   },
   {
     "models": "KTM 200 Duke",
     "from": 2012,
-    "to": 2019
-  },
-  {
-    "models": "KTM 200 Duke",
-    "from": 2020,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "KTM 200 RC",
     "from": 2014,
-    "to": 2018
-  },
-  {
-    "models": "KTM 200 RC",
-    "from": 2019,
-    "to": ""
-  },
-  {
-    "models": "KTM 200 RC",
-    "from": 2020,
-    "to": ""
-  },
-  {
-    "models": "KTM 200 RC",
-    "from": 2022,
     "to": 2024
   },
   {
@@ -262,37 +197,7 @@
   {
     "models": "KTM 250 Duke",
     "from": 2015,
-    "to": 2016
-  },
-  {
-    "models": "KTM 250 Duke",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM 250 Duke",
-    "from": 2020,
-    "to": 2021
-  },
-  {
-    "models": "KTM 250 Duke",
-    "from": 2022,
-    "to": 2023
-  },
-  {
-    "models": "KTM 250 Duke",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "KTM 250 EXC Racing1st Filte",
-    "from": 2003,
-    "to": ""
-  },
-  {
-    "models": "KTM 250 EXC Racing1st Filter",
-    "from": 2004,
-    "to": 2006
+    "to": 2026
   },
   {
     "models": "KTM 250 RC",
@@ -302,52 +207,27 @@
   {
     "models": "KTM 390 Adventure",
     "from": 2020,
-    "to": ""
+    "to": 2024
   },
   {
-    "models": "KTM 390 Adventure",
-    "from": 2021,
-    "to": ""
+    "models": "KTM 390 Adventure R",
+    "from": 2025,
+    "to": 2026
   },
   {
-    "models": "KTM 390 Adventure",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "KTM 390 Adventure",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "KTM 390 Adventure",
-    "from": 2024,
-    "to": ""
+    "models": "KTM 390 Adventure X",
+    "from": 2025,
+    "to": 2026
   },
   {
     "models": "KTM 390 Duke",
     "from": 2013,
-    "to": 2016
+    "to": 2026
   },
   {
-    "models": "KTM 390 Duke",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM 390 Duke",
-    "from": 2020,
-    "to": ""
-  },
-  {
-    "models": "KTM 390 Duke",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "KTM 390 Duke",
-    "from": 2024,
-    "to": ""
+    "models": "KTM 390 Enduro R",
+    "from": 2025,
+    "to": 2026
   },
   {
     "models": "KTM 390 R2R",
@@ -357,31 +237,6 @@
   {
     "models": "KTM 390 RC",
     "from": 2014,
-    "to": 2017
-  },
-  {
-    "models": "KTM 390 RC",
-    "from": 2017,
-    "to": 2018
-  },
-  {
-    "models": "KTM 390 RC",
-    "from": 2019,
-    "to": ""
-  },
-  {
-    "models": "KTM 390 RC",
-    "from": 2020,
-    "to": ""
-  },
-  {
-    "models": "KTM 390 RC",
-    "from": 2021,
-    "to": ""
-  },
-  {
-    "models": "KTM 390 RC",
-    "from": 2022,
     "to": 2024
   },
   {
@@ -395,198 +250,228 @@
     "to": ""
   },
   {
-    "models": "KTM 400 EXC Racing (1 Hole Air Filter)1st Filter",
-    "from": 2004,
-    "to": 2005
+    "models": "KTM 390 SMC R",
+    "from": 2025,
+    "to": 2026
   },
   {
-    "models": "KTM 400 EXC Racing (3 Hole Air Filter)1st Filter",
-    "from": 2004,
-    "to": 2005
+    "models": "KTM 400 EGS",
+    "from": "",
+    "to": ""
   },
   {
-    "models": "KTM 400 EXC1st Filter",
+    "models": "KTM 400 EXC",
     "from": 2006,
     "to": 2007
   },
   {
-    "models": "KTM 400 SX / MXC / EXC (1 Hole Air Filter)1st Filter",
+    "models": "KTM 400 EXC Racing",
     "from": 2004,
     "to": 2005
   },
   {
-    "models": "KTM 400 SX / MXC / EXC (3 Hole Air Filter)1st Filter",
+    "models": "KTM 400 EXE",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "KTM 400 SX / MXC / EXC",
     "from": 2004,
     "to": 2005
   },
   {
-    "models": "KTM 400 XC-W1st Filte",
+    "models": "KTM 400 XC-W",
     "from": 2007,
     "to": ""
   },
   {
-    "models": "KTM 450 EXC1st Filte",
-    "from": 2007,
-    "to": ""
-  },
-  {
-    "models": "KTM 450 SMR1st Filter",
+    "models": "KTM 450 SMR",
     "from": 2005,
     "to": 2007
   },
   {
-    "models": "KTM 450 SX / EXC / MXC1st Filter",
-    "from": 2003,
-    "to": 2006
+    "models": "KTM 450 XC",
+    "from": 2008,
+    "to": ""
   },
   {
-    "models": "KTM 450 XC / XC-W1st Filte",
+    "models": "KTM 450 XC / XC-W",
     "from": 2007,
     "to": ""
   },
   {
-    "models": "KTM 450 XC ATV1st Filter",
+    "models": "KTM 450 XC ATV",
     "from": 2008,
     "to": 2011
   },
   {
-    "models": "KTM 450 XC1st Filte",
-    "from": 2008,
-    "to": ""
-  },
-  {
-    "models": "KTM 520 SX / MXC / EXC (1 Hole Air Filter)1st Filter",
-    "from": 2001,
-    "to": 2002
-  },
-  {
-    "models": "KTM 520 SX / MXC / EXC (3 Hole Air Filter)1st Filter",
-    "from": 2001,
-    "to": 2002
-  },
-  {
-    "models": "KTM 520 SX / MXC / EXC1st Filte",
+    "models": "KTM 520 SX / MXC / EXC",
     "from": 1999,
-    "to": ""
+    "to": 2002
   },
   {
-    "models": "KTM 520 SX / MXC / EXC1st Filte",
-    "from": 2000,
-    "to": ""
-  },
-  {
-    "models": "KTM 525 SMR1st Filter",
+    "models": "KTM 525 SMR",
     "from": 2004,
     "to": 2006
   },
   {
-    "models": "KTM 525 SX / MXC / EXC (1 Hole Air Filter)1st Filte",
-    "from": 2003,
-    "to": ""
-  },
-  {
-    "models": "KTM 525 SX / MXC / EXC / XC / XC-W (3 Hole Air Filter)1st Filter",
+    "models": "KTM 525 SX / EXC",
     "from": 2003,
     "to": 2007
   },
   {
-    "models": "KTM 525 XC ATV1st Filter",
+    "models": "KTM 525 SX / MXC / EXC",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM 525 XC ATV",
     "from": 2008,
     "to": 2011
   },
   {
-    "models": "KTM 560 SMR1st Filte",
+    "models": "KTM 540 SXS",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "KTM 560 SMR",
     "from": 2007,
     "to": ""
   },
   {
-    "models": "KTM 625 SMC1st Filter",
+    "models": "KTM 620 Duke",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "KTM 620 EGS",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "KTM 620 EXE",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "KTM 620 EXE Super Competition",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "KTM 620 LSK",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "KTM 625 SMC",
     "from": 2004,
     "to": 2005
   },
   {
-    "models": "KTM 625 SXC1st Filte",
-    "from": 2005,
-    "to": ""
-  },
-  {
-    "models": "KTM 625 SXC1st Filter",
+    "models": "KTM 625 SXC",
     "from": 2003,
     "to": 2004
   },
   {
-    "models": "KTM 640 Duke1st Filter",
+    "models": "KTM 640 Duke",
     "from": 1999,
     "to": 2006
   },
   {
-    "models": "KTM 660 Rally E Factory ReplicaGearbox Filter",
+    "models": "KTM 640 LC4",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "KTM 660 Rally E Factory Replica",
     "from": 2006,
     "to": 2007
   },
   {
-    "models": "KTM 660 SMC1st Filter",
-    "from": 2004,
-    "to": 2005
-  },
-  {
-    "models": "KTM 660 Supermoto1st Filter",
+    "models": "KTM 660 Supermoto",
     "from": 2002,
     "to": 2003
   },
   {
-    "models": "KTM 690 Duke R1st Filter",
-    "from": 2010,
-    "to": 2011
-  },
-  {
-    "models": "KTM 690 Duke R2nd Filter",
-    "from": 2012,
-    "to": 2017
-  },
-  {
-    "models": "KTM 690 Duke1st Filter",
+    "models": "KTM 690 Duke",
     "from": 2008,
     "to": 2011
   },
   {
-    "models": "KTM 690 Duke2nd Filter",
+    "models": "KTM 690 Duke",
     "from": 2012,
     "to": 2019
   },
   {
-    "models": "KTM 690 Enduro R1st Filter",
-    "from": 2009,
+    "models": "KTM 690 Duke R",
+    "from": 2010,
     "to": 2011
   },
   {
-    "models": "KTM 690 Enduro R2nd Filter",
+    "models": "KTM 690 Duke R",
     "from": 2012,
-    "to": 2024
+    "to": 2017
   },
   {
-    "models": "KTM 690 Enduro1st Filter",
+    "models": "KTM 690 Enduro",
     "from": 2008,
     "to": 2011
   },
   {
-    "models": "KTM 690 Rally Factory Replica2nd Filter",
+    "models": "KTM 690 Enduro R",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM 690 Enduro R",
+    "from": 2012,
+    "to": 2024
+  },
+  {
+    "models": "KTM 690 Rally Factory Replica",
     "from": 2009,
     "to": 2010
   },
   {
-    "models": "KTM 690 SMC R2nd Filter",
-    "from": 2012,
-    "to": 2024
-  },
-  {
-    "models": "KTM 690 SMC1st Filter",
+    "models": "KTM 690 SMC",
     "from": 2008,
     "to": 2011
   },
   {
-    "models": "KTM 690 Supermoto R1st Filter",
+    "models": "KTM 690 SMC R",
+    "from": 2012,
+    "to": 2024
+  },
+  {
+    "models": "KTM 690 Supermoto R",
     "from": 2008,
     "to": 2009
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "Polaris 450 Outlaw MXR / S",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Polaris 525 Outlaw / IRS",
+    "from": 2007,
+    "to": 2011
   }
 ]
