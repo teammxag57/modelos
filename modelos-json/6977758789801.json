@@ -205,6 +205,56 @@
     "to": 2019
   },
   {
+    "models": "Husqvarna TE 630",
+    "from": 2010,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna TE Centennial 510",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "Husqvarna TE Pro 300",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna TE Rally 610",
+    "from": 1996,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna WR 125",
+    "from": 1996,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR 250",
+    "from": 1996,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR 300",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WR 360",
+    "from": 1998,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna WRE 125",
+    "from": 1996,
+    "to": 2013
+  },
+  {
     "models": "Kawasaki KLX R 450",
     "from": 2007,
     "to": 2024
@@ -230,9 +280,69 @@
     "to": 2026
   },
   {
+    "models": "Kawasaki KX 450F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
     "models": "Kawasaki KX 450FX",
     "from": 2021,
     "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 450FX",
+    "from": 2024,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 1999,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 1999,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 1999,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2011,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 380",
+    "from": 1999,
+    "to": 1999
+  },
+  {
+    "models": "KTM EXC Racing 400",
+    "from": 2000,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC Racing 520",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC Racing 525",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM EXC Racing 530",
+    "from": 2008,
+    "to": 2011
   },
   {
     "models": "Sherco SE 250",
@@ -280,82 +390,82 @@
     "to": 2018
   },
   {
-    "models": "Tm EN Enduro 125",
+    "models": "TM Racing EN 125",
     "from": 2005,
     "to": 2022
   },
   {
-    "models": "Tm EN Enduro 250",
+    "models": "TM Racing EN 250",
     "from": 2005,
     "to": 2022
   },
   {
-    "models": "Tm EN Enduro 300",
+    "models": "TM Racing EN 250F",
+    "from": 2005,
+    "to": 2022
+  },
+  {
+    "models": "TM Racing EN 300",
     "from": 2005,
     "to": 2005
   },
   {
-    "models": "Tm EN F Enduro 250",
+    "models": "TM Racing EN 450F",
     "from": 2005,
     "to": 2022
   },
   {
-    "models": "Tm EN F Enduro 450",
-    "from": 2005,
-    "to": 2022
-  },
-  {
-    "models": "Tm EN F Enduro 530",
+    "models": "TM Racing EN 530F",
     "from": 2005,
     "to": 2005
   },
   {
-    "models": "Tm FT 300",
+    "models": "TM Racing FT 300",
     "from": 2017,
     "to": 2019
   },
   {
-    "models": "Tm FT Fi 450",
+    "models": "TM Racing FT Fi 450",
     "from": 2017,
     "to": 2019
   },
   {
-    "models": "Tm FT Fi 530",
+    "models": "TM Racing FT Fi 530",
     "from": 2017,
     "to": 2019
   },
   {
-    "models": "Tm MX 125",
+    "models": "TM Racing MX 125",
     "from": 2005,
     "to": 2025
   },
   {
-    "models": "Tm MX 144",
+    "models": "TM Racing MX 144",
     "from": 2008,
     "to": 2025
   },
   {
-    "models": "Tm MX 250",
+    "models": "TM Racing MX 250",
     "from": 2005,
     "to": 2025
   },
   {
-    "models": "Tm MX 300",
+    "models": "TM Racing MX 250F",
     "from": 2005,
     "to": 2025
   },
   {
-    "models": "Tm MX F 250",
+    "models": "TM Racing MX 300",
     "from": 2005,
     "to": 2025
   },
   {
-    "models": "Tm MX F 450",
+    "models": "TM Racing MX 450F",
     "from": 2005,
     "to": 2025
   },
   {
-    "models": "Tm MX F 530",
+    "models": "TM Racing MX 530F",
     "from": 2005,
     "to": 2025
   },
