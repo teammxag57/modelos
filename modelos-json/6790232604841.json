@@ -180,8 +180,28 @@
     "to": 2023
   },
   {
-    "models": "Tm MX 85",
+    "models": "TM Racing MX 85",
     "from": 2013,
     "to": 2025
+  },
+  {
+    "models": "TM Racing SM 85",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "ZX Moto MX 250",
+    "from": 2026,
+    "to": 2026
+  },
+  {
+    "models": "ZX Moto MX 450",
+    "from": 2026,
+    "to": 2026
+  },
+  {
+    "models": "ZX Moto Rally 450",
+    "from": 2026,
+    "to": 2026
   }
 ]
