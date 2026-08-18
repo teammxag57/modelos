@@ -550,31 +550,6 @@
     "to": 2007
   },
   {
-    "models": "KTM XCF-W 350",
-    "from": 2013,
-    "to": 2017
-  },
-  {
-    "models": "KTM XCF-W 450",
-    "from": 2007,
-    "to": 2015
-  },
-  {
-    "models": "KTM XCF-W 500",
-    "from": 2012,
-    "to": 2017
-  },
-  {
-    "models": "KTM XCF-W 525",
-    "from": 2007,
-    "to": 2007
-  },
-  {
-    "models": "KTM XCF-W 530",
-    "from": 2009,
-    "to": 2011
-  },
-  {
     "models": "KTM XC-W 150",
     "from": 2017,
     "to": 2023
@@ -600,6 +575,31 @@
     "to": 2010
   },
   {
+    "models": "KTM XCF-W 350",
+    "from": 2013,
+    "to": 2017
+  },
+  {
+    "models": "KTM XCF-W 450",
+    "from": 2007,
+    "to": 2015
+  },
+  {
+    "models": "KTM XCF-W 500",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "KTM XCF-W 525",
+    "from": 2007,
+    "to": 2007
+  },
+  {
+    "models": "KTM XCF-W 530",
+    "from": 2009,
+    "to": 2011
+  },
+  {
     "models": "Rieju MRX Marathon 250",
     "from": 2010,
     "to": 2012
@@ -615,6 +615,11 @@
     "to": 2019
   },
   {
+    "models": "Sherco SE 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
     "models": "Sherco SE 250",
     "from": 2014,
     "to": 2014
@@ -625,16 +630,6 @@
     "to": 2019
   },
   {
-    "models": "Sherco SE i/iR 250",
-    "from": 2012,
-    "to": 2013
-  },
-  {
-    "models": "Sherco SE i/iR 300",
-    "from": 2012,
-    "to": 2013
-  },
-  {
     "models": "Sherco SE i-F 250",
     "from": 2013,
     "to": 2013
@@ -642,6 +637,16 @@
   {
     "models": "Sherco SE i-F 300",
     "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "Sherco SE i/iR 250",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "Sherco SE i/iR 300",
+    "from": 2012,
     "to": 2013
   },
   {
@@ -667,11 +672,6 @@
   {
     "models": "Sherco SEF 450",
     "from": 2014,
-    "to": 2019
-  },
-  {
-    "models": "Sherco SE 125",
-    "from": 2017,
     "to": 2019
   },
   {
