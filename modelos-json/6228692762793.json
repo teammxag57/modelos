@@ -1,0 +1,82 @@
+[
+  {
+    "models": "BMW G 450X",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna SM 450RR",
+    "from": 2008,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna SM 530RR",
+    "from": 2009,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna SMR 511",
+    "from": 2011,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 449",
+    "from": 2011,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TE 449",
+    "from": 2011,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TE 511",
+    "from": 2011,
+    "to": 2026
+  },
+  {
+    "models": "KTM 450 RALLY Replica",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "KTM 450 SX ATV",
+    "from": 2009,
+    "to": 2026
+  },
+  {
+    "models": "KTM 505 SX ATV",
+    "from": 2009,
+    "to": 2026
+  },
+  {
+    "models": "KTM SMR 450F",
+    "from": 2008,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM SX 505F",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "MV Agusta Brutale 675 Trepistone",
+    "from": 2012,
+    "to": 2026
+  },
+  {
+    "models": "MV Agusta Brutale S 750",
+    "from": 2002,
+    "to": 2006
+  },
+  {
+    "models": "MV Agusta F3",
+    "from": 2011,
+    "to": 2026
+  }
+]
