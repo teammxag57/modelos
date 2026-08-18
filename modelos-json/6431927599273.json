@@ -1,56 +1,56 @@
 [
   {
-    "models": "Gas Gas MC 125",
+    "models": "Gasgas MC 125",
     "from": 2001,
     "to": 2002
   },
   {
-    "models": "Gas Gas EC 2T 200",
+    "models": "Gasgas EC 200",
     "from": 2000,
     "to": 2002
   },
   {
-    "models": "Gas Gas MC 250",
+    "models": "Gasgas MC 250",
     "from": 2002,
     "to": 2002
   },
   {
-    "models": "Gas Gas FSE EC 400",
+    "models": "Gasgas FSE EC 400",
     "from": 2002,
     "to": 2009
   },
   {
-    "models": "Gas Gas FSE EC 450",
+    "models": "Gasgas FSE EC 450",
     "from": 2003,
     "to": 2012
   },
   {
-    "models": "Gas Gas FSR EC 450",
+    "models": "Gasgas FSR EC 450",
     "from": 2008,
     "to": 2009
   },
   {
-    "models": "Honda CR R 125",
+    "models": "Honda CR 125",
     "from": 2000,
     "to": 2001
   },
   {
-    "models": "Honda CR R 125",
+    "models": "Honda CR 125",
     "from": 2004,
     "to": 2007
   },
   {
-    "models": "Honda CR R 250",
+    "models": "Honda CR 250",
     "from": 1990,
     "to": 1991
   },
   {
-    "models": "Honda CR R 250",
+    "models": "Honda CR 250",
     "from": 1996,
     "to": 2001
   },
   {
-    "models": "Honda CR R 250",
+    "models": "Honda CR 250",
     "from": 2004,
     "to": 2004
   },
@@ -70,7 +70,7 @@
     "to": 2004
   },
   {
-    "models": "Honda CRF R 450",
+    "models": "Honda CRF 450R",
     "from": 2002,
     "to": 2016
   },
@@ -110,97 +110,92 @@
     "to": 2008
   },
   {
-    "models": "Kawasaki KLX R 450",
+    "models": "Kawasaki KLX 450",
     "from": 2007,
     "to": 2013
   },
   {
-    "models": "KTM SXF 4T 250",
+    "models": "KTM SX 250F",
     "from": 2006,
-    "to": 2016
-  },
-  {
-    "models": "KTM SXF 4T 250",
-    "from": 2017,
     "to": 2019
   },
   {
-    "models": "Suzuki RMZ 4T 250",
+    "models": "Suzuki RM 250Z",
     "from": 2004,
     "to": 2006
   },
   {
-    "models": "Suzuki RMZ 4T 450",
+    "models": "Suzuki RM 450Z",
     "from": 2005,
     "to": 2007
   },
   {
-    "models": "TM EN Enduro 2T 125",
+    "models": "TM Racing EN 125",
     "from": 2001,
     "to": 2007
   },
   {
-    "models": "TM MX Cross 2T 125",
+    "models": "TM Racing MX 125",
     "from": 2001,
     "to": 2007
   },
   {
-    "models": "TM EN Enduro 2T 300",
+    "models": "TM Racing EN 300",
     "from": 2005,
     "to": 2005
   },
   {
-    "models": "TM MX Cross 2T 300",
+    "models": "TM Racing MX 300",
     "from": 2003,
     "to": 2003
   },
   {
-    "models": "TM EN F Enduro 4T 400",
+    "models": "TM Racing EN 400F",
     "from": 2003,
     "to": 2019
   },
   {
-    "models": "TM MX F Cross 4T 400",
+    "models": "TM Racing MX 400F",
     "from": 2003,
     "to": 2019
   },
   {
-    "models": "TM SMR F 4T 450",
+    "models": "TM Racing SMR 450F",
     "from": 2007,
     "to": 2019
   },
   {
-    "models": "TM SMX F 4T 450",
+    "models": "TM Racing SMX 450F",
     "from": 2007,
     "to": 2019
   },
   {
-    "models": "TM EN F Enduro 4T 530",
+    "models": "TM Racing EN 530F",
     "from": 2003,
     "to": 2019
   },
   {
-    "models": "TM MX F Cross 4T 530",
+    "models": "TM Racing MX 530F",
     "from": 2003,
     "to": 2019
   },
   {
-    "models": "TM SMM F 4T 530",
+    "models": "TM Racing SMM 530F",
     "from": 2003,
     "to": 2005
   },
   {
-    "models": "TM SMR F 4T 530",
+    "models": "TM Racing SMR 530F",
     "from": 2004,
     "to": 2019
   },
   {
-    "models": "TM SMX F 4T 530",
+    "models": "TM Racing SMX 530F",
     "from": 2003,
     "to": 2005
   },
   {
-    "models": "TM SMX F 4T 660",
+    "models": "TM Racing SMX 660F",
     "from": 2004,
     "to": 2019
   },
@@ -210,7 +205,7 @@
     "to": 1997
   },
   {
-    "models": "Yamaha WR R 2T 250",
+    "models": "Yamaha WR 250R",
     "from": 1991,
     "to": 1996
   }
