@@ -1,0 +1,47 @@
+[
+  {
+    "models": "Kawasaki KX 500",
+    "from": 1983,
+    "to": 1984
+  },
+  {
+    "models": "Kawasaki KX 60",
+    "from": 1998,
+    "to": 2001
+  },
+  {
+    "models": "Kawasaki KX 80",
+    "from": 1981,
+    "to": 1991
+  },
+  {
+    "models": "TM Racing MX 100",
+    "from": 2012,
+    "to": 2026
+  },
+  {
+    "models": "TM Racing MX 125",
+    "from": 2012,
+    "to": 2026
+  },
+  {
+    "models": "TM Racing MX 144",
+    "from": 2012,
+    "to": 2026
+  },
+  {
+    "models": "TM Racing MX 85",
+    "from": 2012,
+    "to": 2026
+  },
+  {
+    "models": "TM Racing SMR 125",
+    "from": 2012,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 80",
+    "from": 1984,
+    "to": 1992
+  }
+]
