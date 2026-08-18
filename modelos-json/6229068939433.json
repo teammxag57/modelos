@@ -1,62 +1,112 @@
 [
   {
-    "models": "Beta EVO 80",
-    "from": 2009,
+    "models": "Husqvarna SM 50",
+    "from": 2002,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna WSM 50",
+    "from": 2003,
     "to": 2026
   },
   {
-    "models": "Beta R10",
-    "from": 2010,
-    "to": 2012
-  },
-  {
-    "models": "Derbi GPR 125",
-    "from": 2004,
-    "to": 2009
-  },
-  {
-    "models": "Derbi GPR 50",
-    "from": 2010,
+    "models": "Husqvarna WXE 50",
+    "from": 2003,
     "to": 2026
-  },
-  {
-    "models": "Derbi Sonar 50 2T",
-    "from": 2009,
-    "to": 2026
-  },
-  {
-    "models": "Kawasaki KDX 200",
-    "from": 1995,
-    "to": 2004
-  },
-  {
-    "models": "Kawasaki KDX 220",
-    "from": 1997,
-    "to": 2000
-  },
-  {
-    "models": "Kawasaki KDX 220",
-    "from": 2001,
-    "to": 2005
   },
   {
     "models": "Kawasaki KDX 250",
-    "from": 1982,
-    "to": 1985
+    "from": 1991,
+    "to": 1995
   },
   {
-    "models": "Kawasaki KL 250",
-    "from": 1983,
-    "to": 1985
-  },
-  {
-    "models": "Kawasaki KMX 125",
-    "from": 1986,
-    "to": 2002
-  },
-  {
-    "models": "Kawasaki KMX 200",
-    "from": 1988,
+    "models": "Kawasaki KR 250",
+    "from": 1989,
     "to": 1990
+  },
+  {
+    "models": "Malaguti Drakon 50",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Malaguti XSM 50",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Malaguti XTM 50",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Rieju RS3",
+    "from": 2011,
+    "to": 2026
+  },
+  {
+    "models": "Rieju RS3 NKD",
+    "from": 2013,
+    "to": 2026
+  },
+  {
+    "models": "Rieju SMX",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "Rieju SMX Pro 50",
+    "from": 2004,
+    "to": 2026
+  },
+  {
+    "models": "Rieju Tango 50",
+    "from": 2007,
+    "to": 2026
+  },
+  {
+    "models": "Royal Enfield Bullet Electra X Lean Burn",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Sherco Enduro 50",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "Sherco HRD50",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "Sherco Supermotard 50",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha DT125R",
+    "from": 1988,
+    "to": 2004
+  },
+  {
+    "models": "Yamaha RD125LC",
+    "from": 1985,
+    "to": 1986
+  },
+  {
+    "models": "Yamaha RDZ125",
+    "from": 1987,
+    "to": 1989
+  },
+  {
+    "models": "Yamaha TDR125",
+    "from": 1993,
+    "to": 1997
+  },
+  {
+    "models": "Yamaha TZR125",
+    "from": 1987,
+    "to": 1993
   }
 ]
