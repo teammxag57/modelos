@@ -1,5 +1,25 @@
 [
   {
+    "models": "Ducati DESMO 250 MX",
+    "from": 2026,
+    "to": 2027
+  },
+  {
+    "models": "Ducati DESMO 450 EDS",
+    "from": 2026,
+    "to": 2027
+  },
+  {
+    "models": "Ducati DESMO 450 EDX",
+    "from": 2027,
+    "to": ""
+  },
+  {
+    "models": "Ducati DESMO 450 MX",
+    "from": 2027,
+    "to": ""
+  },
+  {
     "models": "Gasgas MC 125",
     "from": 2001,
     "to": 2002
@@ -7,11 +27,6 @@
   {
     "models": "Gasgas EC 200",
     "from": 2000,
-    "to": 2002
-  },
-  {
-    "models": "Gasgas MC 250",
-    "from": 2002,
     "to": 2002
   },
   {
@@ -28,6 +43,11 @@
     "models": "Gasgas FSR EC 450",
     "from": 2008,
     "to": 2009
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2002,
+    "to": 2002
   },
   {
     "models": "Honda CR 125",
@@ -75,14 +95,14 @@
     "to": 2016
   },
   {
-    "models": "Husaberg FE 390",
-    "from": 2009,
-    "to": 2012
-  },
-  {
     "models": "Husaberg FC 450",
     "from": 2004,
     "to": 2007
+  },
+  {
+    "models": "Husaberg FE 390",
+    "from": 2009,
+    "to": 2012
   },
   {
     "models": "Husaberg FE E 450",
@@ -105,14 +125,14 @@
     "to": 2008
   },
   {
-    "models": "Kawasaki KX 250",
-    "from": 2005,
-    "to": 2008
-  },
-  {
     "models": "Kawasaki KLX 450",
     "from": 2007,
     "to": 2013
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 2005,
+    "to": 2008
   },
   {
     "models": "KTM SX 250F",
@@ -135,42 +155,22 @@
     "to": 2007
   },
   {
-    "models": "TM Racing MX 125",
-    "from": 2001,
-    "to": 2007
-  },
-  {
-    "models": "TM Racing EN 300",
-    "from": 2005,
-    "to": 2005
-  },
-  {
-    "models": "TM Racing MX 300",
-    "from": 2003,
-    "to": 2003
-  },
-  {
     "models": "TM Racing EN 400F",
     "from": 2003,
     "to": 2019
   },
   {
-    "models": "TM Racing MX 400F",
+    "models": "TM Racing EN 530F",
     "from": 2003,
     "to": 2019
   },
   {
-    "models": "TM Racing SMR 450F",
-    "from": 2007,
-    "to": 2019
+    "models": "TM Racing MX 125",
+    "from": 2001,
+    "to": 2007
   },
   {
-    "models": "TM Racing SMX 450F",
-    "from": 2007,
-    "to": 2019
-  },
-  {
-    "models": "TM Racing EN 530F",
+    "models": "TM Racing MX 400F",
     "from": 2003,
     "to": 2019
   },
@@ -185,8 +185,18 @@
     "to": 2005
   },
   {
+    "models": "TM Racing SMR 450F",
+    "from": 2007,
+    "to": 2019
+  },
+  {
     "models": "TM Racing SMR 530F",
     "from": 2004,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing SMX 450F",
+    "from": 2007,
     "to": 2019
   },
   {
@@ -200,6 +210,16 @@
     "to": 2019
   },
   {
+    "models": "TM Racing EN 300",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "TM Racing MX 300",
+    "from": 2003,
+    "to": 2003
+  },
+  {
     "models": "Yamaha WR 200",
     "from": 1991,
     "to": 1997
@@ -208,25 +228,5 @@
     "models": "Yamaha WR 250R",
     "from": 1991,
     "to": 1996
-  },
-  {
-    "models": "Ducati DESMO 250 MX",
-    "from": 2026,
-    "to": 2027
-  },
-  {
-    "models": "Ducati DESMO 450 EDS",
-    "from": 2026,
-    "to": 2027
-  },
-  {
-    "models": "Ducati DESMO 450 EDX",
-    "from": 2027,
-    "to": ""
-  },
-  {
-    "models": "Ducati DESMO 450 MX",
-    "from": 2027,
-    "to": ""
   }
 ]
