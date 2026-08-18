@@ -1,0 +1,52 @@
+[
+  {
+    "models": "Husqvarna CR 50",
+    "from": 2011,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna CR 65",
+    "from": 2011,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna SM 50",
+    "from": 2011,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 1997,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1997,
+    "to": 2002
+  },
+  {
+    "models": "KTM MXC 300",
+    "from": 1997,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 1997,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 50",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 50 Pro-Junior",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "KTM SX 65",
+    "from": 2003,
+    "to": 2007
+  }
+]
