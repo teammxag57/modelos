@@ -208,5 +208,25 @@
     "models": "Yamaha WR 250R",
     "from": 1991,
     "to": 1996
+  },
+  {
+    "models": "Ducati DESMO 250 MX",
+    "from": 2026,
+    "to": 2027
+  },
+  {
+    "models": "Ducati DESMO 450 EDS",
+    "from": 2026,
+    "to": 2027
+  },
+  {
+    "models": "Ducati DESMO 450 EDX",
+    "from": 2027,
+    "to": ""
+  },
+  {
+    "models": "Ducati DESMO 450 MX",
+    "from": 2027,
+    "to": ""
   }
 ]
