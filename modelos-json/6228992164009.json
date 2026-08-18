@@ -1,0 +1,62 @@
+[
+  {
+    "models": "Beta EVO 80",
+    "from": 2009,
+    "to": 2026
+  },
+  {
+    "models": "Beta R10",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Derbi GPR 125",
+    "from": 2004,
+    "to": 2009
+  },
+  {
+    "models": "Derbi GPR 50",
+    "from": 2010,
+    "to": 2026
+  },
+  {
+    "models": "Derbi Sonar 50 2T",
+    "from": 2009,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KD X200",
+    "from": 1995,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki KDX 220",
+    "from": 1997,
+    "to": 2000
+  },
+  {
+    "models": "Kawasaki KDX 220",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "Kawasaki KDX 250",
+    "from": 1982,
+    "to": 1985
+  },
+  {
+    "models": "Kawasaki KL 250",
+    "from": 1983,
+    "to": 1985
+  },
+  {
+    "models": "Kawasaki KMX 125",
+    "from": 1986,
+    "to": 2002
+  },
+  {
+    "models": "Kawasaki KMX 200",
+    "from": 1988,
+    "to": 1990
+  }
+]
