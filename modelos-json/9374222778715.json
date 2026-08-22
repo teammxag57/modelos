@@ -27,12 +27,12 @@
   {
     "models": "Beta RR X-PRO 250",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RR X-PRO 300",
     "from": 2025,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Beta RX 300",
@@ -42,7 +42,7 @@
   {
     "models": "Beta XTRAINER 300",
     "from": 2020,
-    "to": 2025
+    "to": 2026
   },
   {
     "models": "Husqvarna TC 250",
