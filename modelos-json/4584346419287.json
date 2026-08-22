@@ -1,93 +1,73 @@
 [
   {
-    "models": "BETA RR 125",
+    "models": "Beta RR 125",
     "from": 2019,
     "to": 2024
   },
   {
-    "models": "BETA RR 125R",
+    "models": "Beta RR 125R",
     "from": 2020,
     "to": 2023
   },
   {
-    "models": "BETA RR 200",
+    "models": "Beta RR 200",
     "from": 2019,
     "to": 2024
   },
   {
-    "models": "BETA RR 200R",
+    "models": "Beta RR 200R",
     "from": 2022,
     "to": 2023
   },
   {
-    "models": "BETA RR X-PRO 125",
+    "models": "Beta RR X-PRO 125",
     "from": 2025,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "BETA RR X-PRO 200",
+    "models": "Beta RR X-PRO 200",
     "from": 2025,
-    "to": 2025
+    "to": 2026
   },
   {
-    "models": "GASGAS MC 125",
+    "models": "Gasgas MC 125",
     "from": 2021,
     "to": 2023
   },
   {
-    "models": "GASGAS MC 250",
+    "models": "Gasgas MC 250",
     "from": 2022,
     "to": 2023
   },
   {
-    "models": "HUSQVARNA TC 125",
+    "models": "Husqvarna TC 125",
     "from": 2016,
     "to": 2022
   },
   {
-    "models": "HUSQVARNA TC 250",
+    "models": "Husqvarna TC 250",
     "from": 2017,
     "to": 2022
   },
   {
-    "models": "HUSQVARNA TE 150",
+    "models": "Husqvarna TE 150",
     "from": 2017,
     "to": 2019
   },
   {
-    "models": "HUSQVARNA TE 250",
+    "models": "Husqvarna TE 250",
     "from": 2017,
     "to": 2018
   },
   {
-    "models": "HUSQVARNA TE 300",
+    "models": "Husqvarna TE 300",
     "from": 2017,
     "to": 2018
   },
   {
-    "models": "HUSQVARNA TX 300",
+    "models": "Husqvarna TX 300",
     "from": 2017,
     "to": 2019
-  },
-  {
-    "models": "KTM 125 XC-W",
-    "from": 2017,
-    "to": 2018
-  },
-  {
-    "models": "KTM 150 XC-W",
-    "from": 2017,
-    "to": 2019
-  },
-  {
-    "models": "KTM 250 XC-W",
-    "from": 2017,
-    "to": 2018
-  },
-  {
-    "models": "KTM 300 XC-W",
-    "from": 2017,
-    "to": 2018
   },
   {
     "models": "KTM SX 125",
@@ -110,13 +90,33 @@
     "to": 2022
   },
   {
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "KTM XC 150W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
     "models": "KTM XC 250",
     "from": 2017,
     "to": 2019
   },
   {
+    "models": "KTM XC 250W",
+    "from": 2017,
+    "to": 2018
+  },
+  {
     "models": "KTM XC 300",
     "from": 2017,
     "to": 2019
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2017,
+    "to": 2018
   }
 ]
