@@ -12,6 +12,16 @@
   {
     "models": "Yamaha YZ 125",
     "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 125 SME",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 125X",
+    "from": 2020,
     "to": 2026
   }
 ]
