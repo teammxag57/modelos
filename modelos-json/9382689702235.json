@@ -1,48 +1,48 @@
 [
   {
     "models": "Gasgas MC 50",
-    "from": 2022,
-    "to": 2025
+    "from": 2021,
+    "to": 2027
   },
   {
     "models": "Gasgas MC 65",
-    "from": 2022,
-    "to": 2025
+    "from": 2021,
+    "to": 2027
   },
   {
     "models": "Husqvarna TC 50",
     "from": 2017,
-    "to": 2024
+    "to": 2027
+  },
+  {
+    "models": "Husqvarna TC 50 MINI",
+    "from": 2018,
+    "to": 2023
   },
   {
     "models": "Husqvarna TC 65",
     "from": 2017,
-    "to": 2024
+    "to": 2027
+  },
+  {
+    "models": "KTM 50 SX MINI",
+    "from": 2015,
+    "to": 2023
   },
   {
     "models": "KTM SX 50",
     "from": 2015,
-    "to": 2025
-  },
-  {
-    "models": "KTM SX 50 MINI",
-    "from": 2015,
-    "to": 2025
+    "to": 2027
   },
   {
     "models": "KTM SX 65",
     "from": 2009,
-    "to": 2025
-  },
-  {
-    "models": "KTM SX 65 MINI",
-    "from": 2018,
-    "to": ""
+    "to": 2027
   },
   {
     "models": "KTM SXS 65",
     "from": 2012,
-    "to": 2013
+    "to": 2014
   },
   {
     "models": "KTM XC 65",
