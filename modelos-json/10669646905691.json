@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Beta RR 250",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 250R",
+    "from": 2018,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR X-PRO 250",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Beta RX 250",
+    "from": 2026,
+    "to": ""
+  }
+]
