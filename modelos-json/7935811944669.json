@@ -1,22 +1,7 @@
 [
   {
-    "models": "Fantic XE 125",
-    "from": 2021,
-    "to": 2022
-  },
-  {
-    "models": "Fantic XX 125",
-    "from": 2021,
-    "to": 2022
-  },
-  {
-    "models": "Yamaha WR 125",
-    "from": 1999,
-    "to": 2003
-  },
-  {
-    "models": "Yamaha YZ 125",
-    "from": 1999,
-    "to": 2021
+    "models": "Suzuki RM 450Z",
+    "from": 2013,
+    "to": 2017
   }
 ]
