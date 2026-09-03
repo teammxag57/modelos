@@ -1,0 +1,197 @@
+[
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TX 300 (17-19,23-26)",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 250 Six Days",
+    "from": 2017,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 300 Six Days",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 300",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 300W Six Days",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna TE 300 i Jarvis Edition",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 300 ERZBERGRODEO",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM XC 300W ERZBERGRODEO",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EC 250",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EX 300",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TE 300 i Rockstar Edition",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "Gasgas EX 250",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 250 Heritage Edition",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 250 Heritage Edition",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 300 Heritage Edition",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TX 300 Heritage Edition",
+    "from": 2023,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TE 300 Pro",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 300 Hardenduro",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 300W Hardenduro",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EC 300 GP",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TC 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TC 300 Heritage Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 250 Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 300 Champion Edition",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 300W Champion Edition",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "KTM XC 300W Factory Edition",
+    "from": 2025,
+    "to": ""
+  }
+]
