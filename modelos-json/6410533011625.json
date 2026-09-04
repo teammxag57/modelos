@@ -50,19 +50,9 @@
     "to": 2011
   },
   {
-    "models": "KTM EXC 250F",
-    "from": 2010,
-    "to": 2011
-  },
-  {
     "models": "KTM EXC 300",
     "from": 2010,
     "to": 2011
-  },
-  {
-    "models": "KTM EXC 450F",
-    "from": 2011,
-    "to": 2016
   },
   {
     "models": "KTM EXC 450F",
@@ -101,11 +91,6 @@
   },
   {
     "models": "KTM SX 150",
-    "from": 2010,
-    "to": ""
-  },
-  {
-    "models": "KTM SX 250F",
     "from": 2010,
     "to": ""
   },
