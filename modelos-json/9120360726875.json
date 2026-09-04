@@ -1,15 +1,5 @@
 [
   {
-    "models": "Husqvarna TC 125",
-    "from": 2019,
-    "to": 2022
-  },
-  {
-    "models": "Husqvarna TC 250",
-    "from": 2019,
-    "to": 2022
-  },
-  {
     "models": "Husqvarna FC 250F",
     "from": 2019,
     "to": 2022
@@ -25,21 +15,6 @@
     "to": 2022
   },
   {
-    "models": "Husqvarna TE 150",
-    "from": 2020,
-    "to": 2023
-  },
-  {
-    "models": "Husqvarna TE 250",
-    "from": 2020,
-    "to": 2023
-  },
-  {
-    "models": "Husqvarna TE 300",
-    "from": 2020,
-    "to": 2023
-  },
-  {
     "models": "Husqvarna FE 250F",
     "from": 2020,
     "to": 2023
@@ -51,6 +26,31 @@
   },
   {
     "models": "Husqvarna FE 450F",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 300",
     "from": 2020,
     "to": 2023
   },
