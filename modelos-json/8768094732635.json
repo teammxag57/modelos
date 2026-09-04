@@ -1,8 +1,8 @@
 [
   {
     "models": "Fantic XX 250F",
-    "from": null,
-    "to": 2025
+    "from": 2025,
+    "to": ""
   },
   {
     "models": "Fantic XX 450F",
