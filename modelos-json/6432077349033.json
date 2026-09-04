@@ -5,14 +5,14 @@
     "to": 2015
   },
   {
-    "models": "KTM EXC 2T 125",
-    "from": 1998,
-    "to": 2016
-  },
-  {
     "models": "KTM E-XC Freeride (eléctrica)",
     "from": 2018,
     "to": 2020
+  },
+  {
+    "models": "KTM EXC 2T 125",
+    "from": 1998,
+    "to": 2016
   },
   {
     "models": "KTM EXC R 4T 530",
