@@ -1010,11 +1010,6 @@
     "to": 2026
   },
   {
-    "models": "KTM 450 XCF-W",
-    "from": 2023,
-    "to": 2026
-  },
-  {
     "models": "KTM 450 XC-W",
     "from": 2007,
     "to": 2016
@@ -1023,6 +1018,11 @@
     "models": "KTM 450 XC-W Six Days",
     "from": 2010,
     "to": 2011
+  },
+  {
+    "models": "KTM 450 XCF-W",
+    "from": 2023,
+    "to": 2026
   },
   {
     "models": "KTM 500",
@@ -1040,14 +1040,14 @@
     "to": 2016
   },
   {
-    "models": "KTM 500 XCF-W",
-    "from": 2020,
-    "to": 2022
-  },
-  {
     "models": "KTM 500 XC-W",
     "from": 2012,
     "to": 2016
+  },
+  {
+    "models": "KTM 500 XCF-W",
+    "from": 2020,
+    "to": 2022
   },
   {
     "models": "KTM 500 XW-F",
@@ -1540,11 +1540,6 @@
     "to": 2017
   },
   {
-    "models": "Sherco 250 SEF Six Days",
-    "from": 2015,
-    "to": 2018
-  },
-  {
     "models": "Sherco 250 SE-R (sachs fork)",
     "from": 2014,
     "to": 2017
@@ -1553,6 +1548,11 @@
     "models": "Sherco 250 SE-R (wp fork)",
     "from": 2014,
     "to": 2017
+  },
+  {
+    "models": "Sherco 250 SEF Six Days",
+    "from": 2015,
+    "to": 2018
   },
   {
     "models": "Sherco 300 SC Factory",
