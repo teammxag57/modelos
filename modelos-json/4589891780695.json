@@ -15,11 +15,6 @@
     "to": 2004
   },
   {
-    "models": "KTM SX 60",
-    "from": 1998,
-    "to": 2000
-  },
-  {
     "models": "KTM 620 / 625 LC-4 Duke",
     "from": 1997,
     "to": 2006
@@ -45,14 +40,19 @@
     "to": 1998
   },
   {
+    "models": "KTM 640 LC-4 Duke",
+    "from": 1999,
+    "to": 2010
+  },
+  {
     "models": "KTM 640 LC4",
     "from": 1998,
     "to": 2006
   },
   {
-    "models": "KTM 640 LC-4 Duke",
-    "from": 1999,
-    "to": 2010
+    "models": "KTM SX 60",
+    "from": 1998,
+    "to": 2000
   },
   {
     "models": "KTM SX 65",
