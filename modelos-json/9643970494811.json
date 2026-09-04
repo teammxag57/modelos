@@ -1,72 +1,52 @@
 [
   {
-    "models": "Gasgas EC 125",
-    "from": 2010,
+    "models": "GasGas EC 125",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "GasGas EC 200",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "GasGas EC 250",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "GasGas EC 300",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "GasGas XC 200",
+    "from": 2018,
     "to": ""
   },
   {
-    "models": "Honda CR 125",
-    "from": 1999,
-    "to": 2007
-  },
-  {
-    "models": "Honda CR 250",
-    "from": 1987,
-    "to": 1988
-  },
-  {
-    "models": "Honda CR 80",
-    "from": 1980,
-    "to": 1985
-  },
-  {
-    "models": "Husqvarna CR 125",
-    "from": 1998,
-    "to": 2006
-  },
-  {
-    "models": "Husqvarna CR 125",
-    "from": 2009,
-    "to": 2010
-  },
-  {
-    "models": "Husqvarna CR 125",
-    "from": 2012,
+    "models": "GasGas XC 250",
+    "from": 2018,
     "to": ""
   },
   {
-    "models": "Husqvarna WR 125",
-    "from": 1998,
-    "to": 2006
-  },
-  {
-    "models": "Husqvarna WR 125",
-    "from": 2009,
-    "to": 2012
-  },
-  {
-    "models": "Kawasaki KX 125",
-    "from": 1994,
-    "to": 2002
-  },
-  {
-    "models": "Kawasaki KX 60",
-    "from": 1983,
-    "to": 2001
-  },
-  {
-    "models": "KTM EXC 250",
-    "from": 1990,
-    "to": 1995
-  },
-  {
-    "models": "KTM SX 105",
-    "from": 2007,
+    "models": "GasGas XC 300",
+    "from": 2018,
     "to": ""
   },
   {
-    "models": "KTM SX 85",
-    "from": 2007,
-    "to": ""
+    "models": "Rieju MR Racing 200",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Racing 250",
+    "from": 2020,
+    "to": 2024
+  },
+  {
+    "models": "Rieju MR Racing 300",
+    "from": 2020,
+    "to": 2024
   }
 ]
