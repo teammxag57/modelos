@@ -1,10 +1,5 @@
 [
   {
-    "models": "Yamaha YZ 250F",
-    "from": 2007,
-    "to": 2013
-  },
-  {
     "models": "Yamaha WR 250F",
     "from": 2007,
     "to": 2013
@@ -13,5 +8,10 @@
     "models": "Yamaha WR 450F",
     "from": 2007,
     "to": 2011
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2007,
+    "to": 2013
   }
 ]
