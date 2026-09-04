@@ -565,11 +565,6 @@
     "to": 2026
   },
   {
-    "models": "Husqvarna TC 85",
-    "from": 2021,
-    "to": 2026
-  },
-  {
     "models": "Husqvarna TE 125",
     "from": 2012,
     "to": 2026
@@ -1290,11 +1285,6 @@
     "to": 2027
   },
   {
-    "models": "KTM SX 85",
-    "from": 2021,
-    "to": 2027
-  },
-  {
     "models": "KTM XC 125",
     "from": 2021,
     "to": 2027
@@ -1375,27 +1365,12 @@
     "to": 2026
   },
   {
-    "models": "STARK Varg EX",
-    "from": 2025,
-    "to": 2026
-  },
-  {
     "models": "STARK Varg MX",
     "from": 2023,
     "to": 2025
   },
   {
     "models": "STARK Varg MX",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "STARK Varg MX",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "STARK Varg SM",
     "from": 2025,
     "to": 2026
   },
