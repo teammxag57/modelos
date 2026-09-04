@@ -1,17 +1,112 @@
 [
   {
-    "models": "KTM SX 50",
+    "models": "Husqvarna FC 250F",
     "from": 2014,
-    "to": 2023
+    "to": 2015
   },
   {
-    "models": "KTM SX 65",
-    "from": 2002,
-    "to": 2023
+    "models": "Husqvarna FC 350F",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna FC 450F",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna FE 250F",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FE 350F",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna FE 501F",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2015
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2016
   },
   {
     "models": "KTM EXC 125",
     "from": 1999,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2006,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2011,
+    "to": 2015
+  },
+  {
+    "models": "KTM EXC 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 400F",
+    "from": 1998,
+    "to": 2012
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2003,
     "to": 2016
   },
   {
@@ -35,17 +130,7 @@
     "to": 2016
   },
   {
-    "models": "KTM EXC 200",
-    "from": 1998,
-    "to": 2016
-  },
-  {
     "models": "KTM SX 250",
-    "from": 1998,
-    "to": 2016
-  },
-  {
-    "models": "KTM EXC 250",
     "from": 1998,
     "to": 2016
   },
@@ -55,17 +140,7 @@
     "to": 2015
   },
   {
-    "models": "KTM EXC 250F",
-    "from": 2006,
-    "to": 2015
-  },
-  {
     "models": "KTM SX 300",
-    "from": 1998,
-    "to": 2016
-  },
-  {
-    "models": "KTM EXC 300",
     "from": 1998,
     "to": 2016
   },
@@ -75,17 +150,7 @@
     "to": 2015
   },
   {
-    "models": "KTM EXC 350F",
-    "from": 2011,
-    "to": 2015
-  },
-  {
     "models": "KTM SX 380",
-    "from": 1998,
-    "to": 2002
-  },
-  {
-    "models": "KTM EXC 380",
     "from": 1998,
     "to": 2002
   },
@@ -95,24 +160,14 @@
     "to": 2012
   },
   {
-    "models": "KTM EXC 400F",
-    "from": 1998,
-    "to": 2012
-  },
-  {
     "models": "KTM SX 450F",
     "from": 2003,
     "to": 2016
   },
   {
-    "models": "KTM EXC 450F",
-    "from": 2003,
-    "to": 2016
-  },
-  {
-    "models": "KTM EXC 500F",
-    "from": 2003,
-    "to": 2016
+    "models": "KTM SX 50",
+    "from": 2014,
+    "to": 2023
   },
   {
     "models": "KTM SX 505F",
@@ -130,63 +185,8 @@
     "to": 2006
   },
   {
-    "models": "Husqvarna TC 125",
-    "from": 2014,
-    "to": 2015
-  },
-  {
-    "models": "Husqvarna TE 125",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "Husqvarna FC 250F",
-    "from": 2014,
-    "to": 2015
-  },
-  {
-    "models": "Husqvarna FE 250F",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "Husqvarna TC 250",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "Husqvarna TE 250",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "Husqvarna TE 300",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "Husqvarna FC 350F",
-    "from": 2014,
-    "to": 2015
-  },
-  {
-    "models": "Husqvarna FE 350F",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "Husqvarna FC 450F",
-    "from": 2014,
-    "to": 2015
-  },
-  {
-    "models": "Husqvarna FE 450F",
-    "from": 2014,
-    "to": 2016
-  },
-  {
-    "models": "Husqvarna FE 501F",
-    "from": 2014,
-    "to": 2016
+    "models": "KTM SX 65",
+    "from": 2002,
+    "to": 2023
   }
 ]
