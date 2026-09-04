@@ -25,17 +25,7 @@
     "to": 2009
   },
   {
-    "models": "KTM EXC 250F",
-    "from": 2008,
-    "to": 2009
-  },
-  {
     "models": "KTM EXC 300",
-    "from": 2008,
-    "to": 2010
-  },
-  {
-    "models": "KTM EXC 450F",
     "from": 2008,
     "to": 2010
   },
@@ -73,11 +63,6 @@
     "models": "KTM SX 150",
     "from": 2009,
     "to": ""
-  },
-  {
-    "models": "KTM SX 250F",
-    "from": 2007,
-    "to": 2009
   },
   {
     "models": "KTM SX 250F",
