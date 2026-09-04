@@ -102,22 +102,12 @@
   {
     "models": "Husqvarna TE 250",
     "from": 2024,
-    "to": 2024
-  },
-  {
-    "models": "Husqvarna TE 250",
-    "from": 2025,
     "to": 2026
   },
   {
     "models": "Husqvarna TE 250 Heritage",
     "from": 2025,
     "to": 2025
-  },
-  {
-    "models": "Husqvarna TE 300",
-    "from": 2024,
-    "to": 2024
   },
   {
     "models": "Husqvarna TE 300",
@@ -142,17 +132,7 @@
   {
     "models": "Husqvarna TX 300",
     "from": 2023,
-    "to": 2024
-  },
-  {
-    "models": "Husqvarna TX 300",
-    "from": 2023,
     "to": 2026
-  },
-  {
-    "models": "Husqvarna TX 300 Heritage",
-    "from": 2023,
-    "to": 2023
   },
   {
     "models": "Husqvarna TX 300 Heritage",
@@ -163,11 +143,6 @@
     "models": "Husqvarna TX 300 Heritage",
     "from": 2025,
     "to": 2025
-  },
-  {
-    "models": "Husqvarna TX 300 Heritage BT",
-    "from": 2023,
-    "to": 2023
   },
   {
     "models": "Husqvarna TX 300 Heritage BT",
