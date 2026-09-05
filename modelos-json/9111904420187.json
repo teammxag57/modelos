@@ -1,15 +1,5 @@
 [
   {
-    "models": "Husqvarna FE 390",
-    "from": 2011,
-    "to": 2011
-  },
-  {
-    "models": "Husqvarna FE 450",
-    "from": 2009,
-    "to": 2011
-  },
-  {
     "models": "Husqvarna FE 570",
     "from": 2009,
     "to": 2011
@@ -17,61 +7,181 @@
   {
     "models": "Husqvarna TE 250",
     "from": 2011,
-    "to": 2011
+    "to": ""
   },
   {
     "models": "Husqvarna TE 300",
     "from": 2011,
-    "to": 2011
+    "to": ""
   },
   {
-    "models": "KTM 125 EXC",
+    "models": "KTM 125 EXC CHAMPION EDITION",
     "from": 2010,
-    "to": 2011
+    "to": ""
   },
   {
-    "models": "KTM 200 EXC",
-    "from": 2009,
-    "to": 2011
+    "models": "KTM 125 EXC FACTORY EDIT.",
+    "from": 2011,
+    "to": ""
   },
   {
-    "models": "KTM 250 EXC",
-    "from": 2009,
+    "models": "KTM 125 EXC SIX-DAYS",
+    "from": 2008,
     "to": 2011
   },
   {
     "models": "KTM 250 EXC E-STARTER",
     "from": 2010,
-    "to": 2010
+    "to": ""
   },
   {
-    "models": "KTM 250 EXC-F",
+    "models": "KTM 250 EXC FACTORY EDIT.",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC SIX DAYS TPI",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 250 EXC-F CHAMPION EDIT.",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC-F FACTORY EDIT.",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC-F SIX DAYS",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 300 EXC FACTORY EDIT.",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM 300 EXC SIX-DAYS",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM 300 EXC-E",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM 300 EXC-E SIX-DAYS",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM 400 EXC FACTORY EDIT.",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 EXC CHAMPION EDIT.",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 EXC FACTORY EDIT.",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 EXC SIX DAYS",
     "from": 2009,
     "to": 2011
   },
   {
-    "models": "KTM 300 EXC",
-    "from": 2009,
-    "to": 2011
+    "models": "KTM 450 EXC-R SIX-DAYS",
+    "from": 2008,
+    "to": ""
   },
   {
-    "models": "KTM 400 EXC",
+    "models": "KTM 450 SXS-F",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM 530 EXC CHAMPION EDIT.",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "KTM 530 EXC FACTORY EDIT.",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM 530 EXC SIX DAYS",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM 530 EXC SIX.DAYS",
     "from": 2010,
     "to": 2011
   },
   {
-    "models": "KTM 450 EXC",
+    "models": "KTM 530 EXC-R SIX-DAYS",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 300",
     "from": 2009,
     "to": 2011
   },
   {
-    "models": "KTM 505 XC-F",
+    "models": "KTM EXC 400F",
     "from": 2009,
-    "to": 2009
+    "to": 2011
   },
   {
-    "models": "KTM 530 EXC",
-    "from": 2010,
+    "models": "KTM EXC 450F",
+    "from": 2008,
     "to": 2011
+  },
+  {
+    "models": "KTM EXC 530F",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 530R",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-F 505",
+    "from": 2009,
+    "to": ""
   }
 ]
