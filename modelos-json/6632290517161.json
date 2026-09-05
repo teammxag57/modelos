@@ -1,21 +1,31 @@
 [
   {
-    "models": "KTM SX 125",
-    "from": 1999,
-    "to": 2000
-  },
-  {
     "models": "KTM EXC 125",
     "from": 1997,
     "to": 2000
   },
   {
-    "models": "KTM SX 250",
+    "models": "KTM EXC 250",
     "from": 2017,
     "to": 2020
   },
   {
     "models": "KTM EXC 250",
+    "from": 2002,
+    "to": 2020
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2003,
+    "to": 2020
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 1999,
+    "to": 2000
+  },
+  {
+    "models": "KTM SX 250",
     "from": 2017,
     "to": 2020
   },
@@ -25,18 +35,8 @@
     "to": 2020
   },
   {
-    "models": "KTM EXC 250",
-    "from": 2002,
-    "to": 2020
-  },
-  {
     "models": "KTM SX 450F",
     "from": 2013,
-    "to": 2020
-  },
-  {
-    "models": "KTM EXC 450F",
-    "from": 2003,
     "to": 2020
   }
 ]
