@@ -1,112 +1,62 @@
 [
   {
-    "models": "KTM 125 SX ",
-    "from": 2019,
+    "models": "KTM 250 SX-F ADAMO EDITION",
+    "from": 2025,
     "to": ""
   },
   {
-    "models": "KTM 125 XC-W ",
-    "from": 2019,
-    "to": ""
-  },
-  {
-    "models": "KTM 150 EXC TPI ",
+    "models": "KTM 250 SX-F PRADO",
     "from": 2020,
     "to": ""
   },
   {
-    "models": "KTM 150 SX ",
-    "from": 2019,
-    "to": 2020
+    "models": "KTM 250 SX-F TROY LEE DESIGNS",
+    "from": 2021,
+    "to": ""
   },
   {
-    "models": "KTM 250 EXC SIX DAYS TPI ",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM 250 EXC TPI ",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM 250 EXC-F ",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM 250 EXC-F SIX DAYS ",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM 250 SX ",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM 250 SX-F ",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM 300 EXC SIX DAYS TPI",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM 300 EXC TPI",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM 350 EXC-F ",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM 350 EXC-F SIX DAYS ",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM 350 SX-F ",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM 450 EXC-F ",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM 450 EXC-F SIX DAYS ",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM 450 SX-F ",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM 500 EXC-F",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM 500 EXC-F SIX DAYS",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM 85 SX 17/14 ",
-    "from": 2019,
-    "to": 2020
-  },
-  {
-    "models": "KTM 85 SX 19/16 ",
+    "models": "KTM 450 SX-F CAIROLI",
     "from": 2020,
     "to": ""
+  },
+  {
+    "models": "KTM 450 SX-F HERLINGS REPLICA",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2016,
+    "to": 2027
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2016,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 2016,
+    "to": 2027
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2016,
+    "to": 2027
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2027
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2016,
+    "to": 2027
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2016,
+    "to": 2027
   }
 ]
