@@ -10,11 +10,6 @@
     "to": 2024
   },
   {
-    "models": "KTM SX 85",
-    "from": 2015,
-    "to": 2024
-  },
-  {
     "models": "KTM Freeride 250F",
     "from": 2018,
     "to": 2020
@@ -43,5 +38,10 @@
     "models": "KTM Freeride E-XC",
     "from": 2015,
     "to": 2023
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2015,
+    "to": 2024
   }
 ]
