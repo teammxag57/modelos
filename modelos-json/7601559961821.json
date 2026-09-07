@@ -587,7 +587,7 @@
   {
     "models": "KTM EXC 400F Factory Racing",
     "from": 2005,
-    "to": 2007
+    "to": ""
   },
   {
     "models": "KTM EXC 400F Six Days",
@@ -602,7 +602,7 @@
   {
     "models": "KTM EXC 450F Factory Edition",
     "from": 2005,
-    "to": 2011
+    "to": ""
   },
   {
     "models": "KTM EXC 450F Factory Racing",
@@ -710,7 +710,7 @@
     "to": 2004
   },
   {
-    "models": "KTM SX 250",
+    "models": "KTM SX 250 ",
     "from": 2000,
     "to": 2013
   },
@@ -842,7 +842,7 @@
   {
     "models": "KTM XC 450",
     "from": 2004,
-    "to": 2007
+    "to": ""
   },
   {
     "models": "KTM XC 450F",
