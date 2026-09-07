@@ -10,41 +10,6 @@
     "to": 2024
   },
   {
-    "models": "Husqvarna FE 450F",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "Husqvarna FE 450S",
-    "from": 2007,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna FE 550",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "Husqvarna FE 650",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "Husqvarna FS 450",
-    "from": 2006,
-    "to": 2008
-  },
-  {
-    "models": "Husqvarna FS 550",
-    "from": 2007,
-    "to": ""
-  },
-  {
-    "models": "Husqvarna FS 650",
-    "from": 2006,
-    "to": 2008
-  },
-  {
     "models": "Husqvarna TC 125",
     "from": 2014,
     "to": 2022
@@ -63,6 +28,176 @@
     "models": "Husqvarna TC 85 17/14",
     "from": 2014,
     "to": 2024
+  },
+  {
+    "models": "KTM 125 EXC SIX-DAYS",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "KTM 125 SX TYLA RATTRAY",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC SIX DAYS TPI",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM 250 SX-F FACT.REPL.MUSQ. ED",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 SXS",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "KTM 250 SXS-F",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 300 EXC SIX-DAYS",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 EXC RACING SIX-DAYS",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 SX ATV",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "KTM 450 SX STEVE RAMON",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 SXS",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM 450 SXS RACING",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM 450 SXS-F",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM 505 SX ATV",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "KTM 505 SX-F PRESERIES",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "KTM 525 EXC RACING SIX.DAYS",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM 525 SX SUPERMOTO",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM 525 XC ATV",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM 540 SXS",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM 540 SXS RACING",
+    "from": 2001,
+    "to": 2005
+  },
+  {
+    "models": "KTM 660 SMS",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM 660 SUPERMOTO FACTORY REPL.",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM 950 ADVENTURE BLACK",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM 950 ADVENTURE BLACK LOW",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM 950 ADVENTURE ORANGE",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM 950 ADVENTURE ORANGE LOW",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "KTM 950 ADVENTURE S",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM 950 ADVENTURE S BLUE HIGH",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM 950 ADVENTURE S ORANGE",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM 950 ADVENTURE SILVER",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM 950 ADVENTURE SILVER LOW",
+    "from": 2004,
+    "to": ""
+  },
+  {
+    "models": "KTM 990 ADVENTURE BLACK ABS",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM 990 ADVENTURE ORANGE ABS",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM 990 ADVENTURE S",
+    "from": 2006,
+    "to": ""
   },
   {
     "models": "KTM EXC 125",
@@ -130,7 +265,7 @@
     "to": 2010
   },
   {
-    "models": "KTM SX 380F",
+    "models": "KTM SX 380",
     "from": 2001,
     "to": 2002
   },
@@ -143,11 +278,6 @@
     "models": "KTM SX 450F",
     "from": 2003,
     "to": 2012
-  },
-  {
-    "models": "KTM SX 505F",
-    "from": 2008,
-    "to": ""
   },
   {
     "models": "KTM SX 520F",
