@@ -1,13 +1,8 @@
 [
   {
-    "models": "Yamaha YZ 125",
-    "from": 2001,
-    "to": 2021
-  },
-  {
-    "models": "Suzuki RM 250",
-    "from": 1996,
-    "to": 2002
+    "models": "Fantic XE 125",
+    "from": 2021,
+    "to": ""
   },
   {
     "models": "Fantic XX 125",
@@ -15,8 +10,13 @@
     "to": ""
   },
   {
-    "models": "Fantic XE 125",
-    "from": 2021,
-    "to": ""
+    "models": "Suzuki RM 250",
+    "from": 1996,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2001,
+    "to": 2021
   }
 ]
