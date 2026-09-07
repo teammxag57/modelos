@@ -17,7 +17,7 @@
   {
     "models": "Gasgas EC 300",
     "from": 2021,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "Gasgas EC 300 GP",
@@ -27,7 +27,7 @@
   {
     "models": "Gasgas EC 350F",
     "from": 2021,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "Gasgas EC 450F",
@@ -47,7 +47,7 @@
   {
     "models": "Gasgas MC 125",
     "from": 2024,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "Gasgas MC 150",
@@ -62,7 +62,7 @@
   {
     "models": "Gasgas MC 250F",
     "from": 2021,
-    "to": 2025
+    "to": 2027
   },
   {
     "models": "Gasgas MC 250F BT",
@@ -87,7 +87,7 @@
   {
     "models": "Gasgas MC 450F",
     "from": 2021,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "Gasgas MC 450F BT",
@@ -115,18 +115,13 @@
     "to": 2024
   },
   {
-    "models": "Husqvarna 701 ENDURO",
-    "from": 2023,
+    "models": "Husqvarna 701 Enduro",
+    "from": 2017,
     "to": 2026
   },
   {
-    "models": "Husqvarna 701 ENDURO 2",
-    "from": 2026,
-    "to": ""
-  },
-  {
     "models": "Husqvarna 701 SUPERMOTO",
-    "from": 2023,
+    "from": 2017,
     "to": 2026
   },
   {
@@ -135,9 +130,34 @@
     "to": ""
   },
   {
-    "models": "Husqvarna FC 250F",
+    "models": "Husqvarna 701 SVARTPILEN",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna 701 SVARTPILEN STYLE",
+    "from": 2019,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna 901 NORDEN",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna 901 NORDEN EXPEDITION",
     "from": 2023,
     "to": 2026
+  },
+  {
+    "models": "Husqvarna FC 250 HERITAGE",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FC 250F",
+    "from": 2016,
+    "to": 2027
   },
   {
     "models": "Husqvarna FC 350 HERITAGE",
@@ -146,8 +166,8 @@
   },
   {
     "models": "Husqvarna FC 350F",
-    "from": 2023,
-    "to": 2025
+    "from": 2016,
+    "to": 2027
   },
   {
     "models": "Husqvarna FC 450 HERITAGE",
@@ -156,8 +176,8 @@
   },
   {
     "models": "Husqvarna FC 450F",
-    "from": 2023,
-    "to": 2026
+    "from": 2016,
+    "to": 2027
   },
   {
     "models": "Husqvarna FE 250 CKD",
@@ -171,13 +191,13 @@
   },
   {
     "models": "Husqvarna FE 250F",
-    "from": 2023,
-    "to": 2026
+    "from": 2017,
+    "to": 2027
   },
   {
     "models": "Husqvarna FE 350 HERITAGE",
-    "from": 2025,
-    "to": ""
+    "from": 2023,
+    "to": 2025
   },
   {
     "models": "Husqvarna FE 350 PRO",
@@ -185,9 +205,14 @@
     "to": 2026
   },
   {
+    "models": "Husqvarna FE 350 ROCKSTAR EDITION",
+    "from": 2021,
+    "to": 2022
+  },
+  {
     "models": "Husqvarna FE 350F",
-    "from": 2024,
-    "to": 2026
+    "from": 2017,
+    "to": 2027
   },
   {
     "models": "Husqvarna FE 450 HERITAGE",
@@ -196,8 +221,8 @@
   },
   {
     "models": "Husqvarna FE 450F",
-    "from": 2023,
-    "to": 2026
+    "from": 2017,
+    "to": 2027
   },
   {
     "models": "Husqvarna FE 501 HERITAGE",
@@ -206,17 +231,17 @@
   },
   {
     "models": "Husqvarna FE 501F",
-    "from": 2023,
-    "to": 2026
+    "from": 2017,
+    "to": 2027
   },
   {
     "models": "Husqvarna FR 450 Rally",
-    "from": 2020,
+    "from": 2019,
     "to": 2024
   },
   {
     "models": "Husqvarna FS 450F",
-    "from": 2023,
+    "from": 2016,
     "to": 2026
   },
   {
@@ -250,16 +275,6 @@
     "to": 2024
   },
   {
-    "models": "Husqvarna NORDEN 901",
-    "from": 2023,
-    "to": 2026
-  },
-  {
-    "models": "Husqvarna NORDEN 901 EXPEDITION",
-    "from": 2023,
-    "to": 2026
-  },
-  {
     "models": "Husqvarna TC 125",
     "from": 2023,
     "to": 2027
@@ -282,11 +297,11 @@
   {
     "models": "Husqvarna TE 125",
     "from": 2025,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "Husqvarna TE 150",
-    "from": 2023,
+    "from": 2020,
     "to": 2025
   },
   {
@@ -296,8 +311,8 @@
   },
   {
     "models": "Husqvarna TE 250",
-    "from": 2022,
-    "to": 2026
+    "from": 2018,
+    "to": 2027
   },
   {
     "models": "Husqvarna TE 250 HERITAGE",
@@ -306,8 +321,8 @@
   },
   {
     "models": "Husqvarna TE 300",
-    "from": 2023,
-    "to": 2026
+    "from": 2018,
+    "to": 2027
   },
   {
     "models": "Husqvarna TE 300 HERITAGE",
@@ -320,9 +335,24 @@
     "to": ""
   },
   {
+    "models": "Husqvarna TE 300i JARVIS EDITION",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 300i ROCKSTAR EDITION",
+    "from": 2021,
+    "to": 2022
+  },
+  {
     "models": "Husqvarna TX 300",
     "from": 2023,
     "to": 2024
+  },
+  {
+    "models": "Husqvarna VITPILEN 701",
+    "from": 2018,
+    "to": 2020
   },
   {
     "models": "KTM 1290 SUPER ADVENTURE R",
@@ -432,7 +462,7 @@
   {
     "models": "KTM 250 EXC-F 6DAYS",
     "from": 2026,
-    "to": ""
+    "to": 2027
   },
   {
     "models": "KTM 250 EXC-F CHAMPION EDITION",
@@ -462,7 +492,7 @@
   {
     "models": "KTM 300 EXC 6DAYS",
     "from": 2026,
-    "to": ""
+    "to": 2027
   },
   {
     "models": "KTM 300 EXC CHAMPION EDITION",
@@ -477,7 +507,7 @@
   {
     "models": "KTM 300 EXC HARDENDURO",
     "from": 2024,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "KTM 300 EXC SIX DAYS",
@@ -497,7 +527,7 @@
   {
     "models": "KTM 350 EXC-F 6DAYS",
     "from": 2026,
-    "to": ""
+    "to": 2027
   },
   {
     "models": "KTM 350 EXC-F CHAMPION EDITION",
@@ -527,7 +557,7 @@
   {
     "models": "KTM 450 EXC-F 6DAYS",
     "from": 2026,
-    "to": ""
+    "to": 2027
   },
   {
     "models": "KTM 450 EXC-F CHAMPION EDITION",
@@ -562,7 +592,7 @@
   {
     "models": "KTM 500 EXC-F 6DAYS",
     "from": 2026,
-    "to": ""
+    "to": 2027
   },
   {
     "models": "KTM 500 EXC-F CHAMPION EDITION",
@@ -610,7 +640,7 @@
     "to": ""
   },
   {
-    "models": "KTM 690 ENDURO R",
+    "models": "KTM 690 Enduro",
     "from": 2021,
     "to": 2026
   },
@@ -645,7 +675,7 @@
     "to": 2023
   },
   {
-    "models": "KTM 790 DUKE",
+    "models": "KTM 790 DUKE ",
     "from": 2022,
     "to": 2023
   },
@@ -657,7 +687,7 @@
   {
     "models": "KTM 790 DUKE L",
     "from": 2018,
-    "to": 2023
+    "to": 2027
   },
   {
     "models": "KTM 790 Duke orange",
@@ -730,6 +760,11 @@
     "to": ""
   },
   {
+    "models": "KTM 990 RC R TRACK",
+    "from": 2026,
+    "to": ""
+  },
+  {
     "models": "KTM BRABUS 1300 R",
     "from": 2022,
     "to": 2023
@@ -752,27 +787,27 @@
   {
     "models": "KTM EXC 250F",
     "from": 2017,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "KTM EXC 300",
     "from": 2018,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "KTM EXC 350F",
     "from": 2017,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "KTM EXC 450F",
     "from": 2017,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "KTM EXC 500F",
     "from": 2017,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "KTM Freeride 250F",
@@ -832,11 +867,11 @@
   {
     "models": "KTM XC 125W",
     "from": 2025,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "KTM XC 250W",
     "from": 2026,
-    "to": ""
+    "to": 2027
   }
 ]
