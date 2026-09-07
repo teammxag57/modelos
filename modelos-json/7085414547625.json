@@ -1,13 +1,13 @@
 [
   {
-    "models": "Suzuki RM 250",
-    "from": 1996,
-    "to": 2002
-  },
-  {
     "models": "Yamaha YZ 125",
     "from": 2001,
     "to": 2021
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 1996,
+    "to": 2002
   },
   {
     "models": "Fantic XX 125",
