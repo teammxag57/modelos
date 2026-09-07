@@ -42,37 +42,7 @@
   {
     "models": "Kawasaki KL650",
     "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KL650",
-    "from": 2023,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KL650",
-    "from": 2024,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KL650",
-    "from": 2025,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KL650",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KL650",
-    "from": 2022,
-    "to": ""
-  },
-  {
-    "models": "Kawasaki KL650",
-    "from": 2023,
-    "to": ""
+    "to": 2025
   },
   {
     "models": "Kawasaki KL650",
@@ -88,11 +58,6 @@
     "models": "Kawasaki KL650",
     "from": 1995,
     "to": 2003
-  },
-  {
-    "models": "Kawasaki KL650",
-    "from": 2017,
-    "to": 2018
   },
   {
     "models": "Kawasaki KL650 Adventure",
