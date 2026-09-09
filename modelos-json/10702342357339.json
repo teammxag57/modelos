@@ -1,0 +1,107 @@
+[
+  {
+    "models": "Gasgas EC 250",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EX 250",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 150 HERITAGE",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 250 HERITAGE",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2018,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 300 HERITAGE",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 300i JARVIS EDITION",
+    "from": 2020,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 300i ROCKSTAR EDITION",
+    "from": 2021,
+    "to": 2022
+  },
+  {
+    "models": "KTM 250 EXC RACING SIX DAYS",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "KTM 250 EXC SIX DAYS",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM 250 EXC SIX-DAYS",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM 300 EXC ERZBERGRODEO",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "KTM 300 EXC SIX DAYS",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "KTM 300 EXC SIX DAYS TPI",
+    "from": 2018,
+    "to": 2022
+  },
+  {
+    "models": "KTM 300 EXC TPI ERZBERGRODEO",
+    "from": 2020,
+    "to": 2022
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 2018,
+    "to": 2023
+  }
+]
