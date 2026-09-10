@@ -1,0 +1,117 @@
+[
+  {
+    "models": "Gasgas EC 125",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 125",
+    "from": 2021,
+    "to": 2027
+  },
+  {
+    "models": "Gasgas MC 150",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2027
+  },
+  {
+    "models": "Husqvarna TC 150",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2012,
+    "to": 2027
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 150 HERITAGE",
+    "from": 2023,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM 125 EXC CHAMPION EDITION",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "KTM 125 EXC FACTORY EDIT.",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "KTM 125 EXC FACTORY EDITION",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "KTM 125 EXC SIX-DAYS",
+    "from": 2001,
+    "to": 2016
+  },
+  {
+    "models": "KTM 125 SUPERMOTO 100",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "KTM 125 SX TYLA RATTRAY",
+    "from": 2005,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 1998,
+    "to": 2004
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 1998,
+    "to": 2027
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2011,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 200",
+    "from": 2003,
+    "to": ""
+  },
+  {
+    "models": "KTM SXS 125",
+    "from": 2001,
+    "to": 2008
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2027
+  }
+]
