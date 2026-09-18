@@ -2,12 +2,12 @@
   {
     "models": "Gasgas EC 250",
     "from": 2024,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "Gasgas EC 300",
     "from": 2024,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "Gasgas MC 250",
@@ -22,7 +22,7 @@
   {
     "models": "Husqvarna TC 250",
     "from": 2023,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "Husqvarna TE 250",
@@ -53,5 +53,10 @@
     "models": "KTM SX 300",
     "from": 2023,
     "to": 2024
+  },
+  {
+    "models": "Husqvarna TC 300",
+    "from": 2025,
+    "to": 2027
   }
 ]
