@@ -68,5 +68,20 @@
     "models": "KTM XCF-W 450",
     "from": 2023,
     "to": ""
+  },
+  {
+    "models": "KTM XCF-W 500",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 501F",
+    "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna 701 Enduro",
+    "from": 2016,
+    "to": 2026
   }
 ]
