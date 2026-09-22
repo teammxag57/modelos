@@ -7,7 +7,7 @@
   {
     "models": "Gasgas MC 125",
     "from": 2021,
-    "to": 2025
+    "to": 2027
   },
   {
     "models": "Gasgas MC 150",
@@ -17,7 +17,7 @@
   {
     "models": "Husqvarna TC 125",
     "from": 2014,
-    "to": 2025
+    "to": 2027
   },
   {
     "models": "Husqvarna TC 150",
@@ -32,12 +32,12 @@
   {
     "models": "Husqvarna TE 125",
     "from": 2025,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "Husqvarna TE 150",
     "from": 2017,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "Husqvarna TX 125",
@@ -62,7 +62,7 @@
   {
     "models": "KTM SX 125",
     "from": 1998,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "KTM SX 144",
@@ -82,7 +82,7 @@
   {
     "models": "KTM XC 125",
     "from": 2021,
-    "to": 2025
+    "to": 2027
   },
   {
     "models": "KTM XC 125W",
@@ -102,7 +102,7 @@
   {
     "models": "KTM XC 150W",
     "from": 2017,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "Suzuki RM 125",
