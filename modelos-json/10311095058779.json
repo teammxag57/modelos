@@ -1,20 +1,5 @@
 [
   {
-    "models": "Yamaha WR 450F",
-    "from": 2024,
-    "to": 2027
-  },
-  {
-    "models": "Yamaha YZ 450F",
-    "from": 2023,
-    "to": 2027
-  },
-  {
-    "models": "Yamaha YZ 450FX",
-    "from": 2024,
-    "to": 2027
-  },
-  {
     "models": "Fantic XE 450F",
     "from": 2026,
     "to": ""
@@ -25,8 +10,23 @@
     "to": 2026
   },
   {
+    "models": "Yamaha WR 450F",
+    "from": 2024,
+    "to": 2027
+  },
+  {
     "models": "Yamaha YZ 250F",
     "from": 2027,
     "to": ""
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2023,
+    "to": 2027
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2024,
+    "to": 2027
   }
 ]
