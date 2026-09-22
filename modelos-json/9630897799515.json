@@ -2,6 +2,16 @@
   {
     "models": "Kawasaki KX 450F",
     "from": 2016,
-    "to": 2023
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 450FX",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 450SR",
+    "from": 2022,
+    "to": 2026
   }
 ]
