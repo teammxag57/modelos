@@ -1,13 +1,53 @@
 [
   {
+    "models": "Gasgas EX 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EX 350F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
     "models": "Gasgas EX 450F",
     "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EX 450F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC 125",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC 350F",
+    "from": 2022,
     "to": 2023
   },
   {
     "models": "Gasgas MC 450F",
     "from": 2021,
     "to": 2023
+  },
+  {
+    "models": "Husqvarna FC 250F",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FC 350F",
+    "from": 2016,
+    "to": 2022
   },
   {
     "models": "Husqvarna FC 450F",
@@ -22,6 +62,11 @@
   {
     "models": "Husqvarna FS 450F",
     "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FX 350F",
+    "from": 2017,
     "to": 2022
   },
   {
@@ -117,51 +162,6 @@
   {
     "models": "KTM XC-F 500W",
     "from": 2017,
-    "to": 2023
-  },
-  {
-    "models": "Husqvarna FC 250F",
-    "from": 2016,
-    "to": 2022
-  },
-  {
-    "models": "Husqvarna FC 350F",
-    "from": 2016,
-    "to": 2022
-  },
-  {
-    "models": "Husqvarna FX 350F",
-    "from": 2017,
-    "to": 2022
-  },
-  {
-    "models": "Gasgas MC 125",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Gasgas MC 250F",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Gasgas MC 350F",
-    "from": 2022,
-    "to": 2023
-  },
-  {
-    "models": "Gasgas EX 250F",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Gasgas EX 350F",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Gasgas EX 450F",
-    "from": 2021,
     "to": 2023
   }
 ]
