@@ -32,6 +32,16 @@
   {
     "models": "Kawasaki KX 85",
     "from": 2001,
-    "to": 2021
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 112",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Kawasaki KX 80",
+    "from": 1991,
+    "to": 2000
   }
 ]
