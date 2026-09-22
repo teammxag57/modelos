@@ -1,11 +1,46 @@
 [
   {
+    "models": "Gasgas EC 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
     "models": "Gasgas EC 300",
     "from": 2021,
     "to": 2023
   },
   {
     "models": "Gasgas EC 350F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EX 250",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EX 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EX 250F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EX 300",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EX 350F",
+    "from": 2021,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas EX 450F",
     "from": 2021,
     "to": 2023
   },
@@ -100,6 +135,11 @@
     "to": 2024
   },
   {
+    "models": "Husqvarna TE 150",
+    "from": 2017,
+    "to": 2023
+  },
+  {
     "models": "Husqvarna TE 250",
     "from": 2017,
     "to": 2023
@@ -107,6 +147,11 @@
   {
     "models": "Husqvarna TE 300",
     "from": 2017,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2020,
     "to": 2023
   },
   {
@@ -163,50 +208,5 @@
     "models": "KTM SX 85",
     "from": 2018,
     "to": 2024
-  },
-  {
-    "models": "KTM EXC 150",
-    "from": 2020,
-    "to": 2023
-  },
-  {
-    "models": "Husqvarna TE 150",
-    "from": 2017,
-    "to": 2023
-  },
-  {
-    "models": "Gasgas EC 250F",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Gasgas EX 250F",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Gasgas EX 250",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Gasgas EX 300",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Gasgas EX 250F",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Gasgas EX 350F",
-    "from": 2021,
-    "to": 2023
-  },
-  {
-    "models": "Gasgas EX 450F",
-    "from": 2021,
-    "to": 2023
   }
 ]
