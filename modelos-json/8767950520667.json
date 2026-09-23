@@ -108,5 +108,10 @@
     "models": "Beta RX 450F",
     "from": 2024,
     "to": 2027
+  },
+  {
+    "models": "Beta RX 250F",
+    "from": 2027,
+    "to": ""
   }
 ]
