@@ -1,5 +1,10 @@
 [
   {
+    "models": "Sherco SC 125",
+    "from": 2019,
+    "to": ""
+  },
+  {
     "models": "Sherco SE 125",
     "from": 2018,
     "to": 2026
@@ -13,10 +18,5 @@
     "models": "Sherco SEF 300",
     "from": 2017,
     "to": 2020
-  },
-  {
-    "models": "Sherco SC 125",
-    "from": 2019,
-    "to": ""
   }
 ]
