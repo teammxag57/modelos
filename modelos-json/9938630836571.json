@@ -1,22 +1,77 @@
 [
   {
-    "models": "Sherco SC 125",
+    "models": "Sherco 125 SC CROSS COUNTRY",
     "from": 2019,
-    "to": ""
+    "to": 2019
   },
   {
-    "models": "Sherco SE 125",
+    "models": "Sherco SE 125 FACTORY",
     "from": 2018,
+    "to": 2018
+  },
+  {
+    "models": "Sherco SE 125 FACTORY",
+    "from": 2020,
     "to": 2026
   },
   {
-    "models": "Sherco SEF 250",
+    "models": "Sherco SE 125 RACING",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "Sherco SE 125 SIX DAYS",
+    "from": 2018,
+    "to": 2018
+  },
+  {
+    "models": "Sherco 250",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Sherco SEF 250 SEF FACTORY",
     "from": 2017,
     "to": 2020
   },
   {
-    "models": "Sherco SEF 300",
+    "models": "Sherco 250 SEF RACING",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "Sherco 250 SEF RACING",
     "from": 2017,
     "to": 2020
+  },
+  {
+    "models": "Sherco 250 SEF SIX DAYS",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Sherco 300",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "Sherco 300 SEF FACTORY",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Sherco 300 SEF RACING",
+    "from": 2010,
+    "to": 2012
+  },
+  {
+    "models": "Sherco 300 SEF RACING",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Sherco 300 SEF SIX DAYS",
+    "from": 2017,
+    "to": 2018
   }
 ]
