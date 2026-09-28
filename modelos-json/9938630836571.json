@@ -1,35 +1,5 @@
 [
   {
-    "models": "Sherco 250 I-F",
-    "from": 2013,
-    "to": 2013
-  },
-  {
-    "models": "Sherco 250 I-R",
-    "from": 2013,
-    "to": 2013
-  },
-  {
-    "models": "Sherco 250 SE F R",
-    "from": 2014,
-    "to": 2020
-  },
-  {
-    "models": "Sherco 300 I-F",
-    "from": 2013,
-    "to": 2013
-  },
-  {
-    "models": "Sherco 300 I-R",
-    "from": 2013,
-    "to": 2013
-  },
-  {
-    "models": "Sherco SEF 300",
-    "from": 2017,
-    "to": 2020
-  },
-  {
     "models": "Sherco SE 125",
     "from": 2018,
     "to": 2026
@@ -38,5 +8,15 @@
     "models": "Sherco SEF 250",
     "from": 2017,
     "to": 2020
+  },
+  {
+    "models": "Sherco SEF 300",
+    "from": 2017,
+    "to": 2020
+  },
+  {
+    "models": "Sherco SC 125",
+    "from": 2019,
+    "to": ""
   }
 ]
