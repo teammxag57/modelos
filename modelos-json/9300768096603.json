@@ -1,6 +1,11 @@
 [
   {
-    "models": "Chain Roller - Lower Gas-Gas EC125",
+    "models": "Chain Roller - Lower",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Gasgas EC 125",
     "from": 2001,
     "to": 2011
   },
@@ -280,8 +285,8 @@
     "to": 1986
   },
   {
-    "models": "Chain Roller - Upper Gas-Gas EC125",
-    "from": 2013,
+    "models": "Chain Roller - Upper",
+    "from": "",
     "to": ""
   },
   {
