@@ -205,6 +205,21 @@
     "to": 2002
   },
   {
+    "models": "Rieju MR Pro 250",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR Pro 300",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR Pro 300i",
+    "from": 2026,
+    "to": ""
+  },
+  {
     "models": "Rieju MR Racing 200",
     "from": 2020,
     "to": 2024
@@ -212,11 +227,16 @@
   {
     "models": "Rieju MR Racing 250",
     "from": 2020,
-    "to": 2026
+    "to": 2025
   },
   {
     "models": "Rieju MR Racing 300",
     "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Rieju MR Racing 300i",
+    "from": 2026,
     "to": 2026
   },
   {
