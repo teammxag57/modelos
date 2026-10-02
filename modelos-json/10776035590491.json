@@ -1,0 +1,217 @@
+[
+  {
+    "models": "Aprilia 125 GPR 4T",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "Aprilia 125 Mulhacen 4T",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "Aprilia 125 RS 4T",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Aprilia 125 RS 4T E5",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Aprilia 125 RS E5+ ABS",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Aprilia 125 RS GP Replica 4T E5 ABS",
+    "from": 2019,
+    "to": 2025
+  },
+  {
+    "models": "Aprilia 125 RS Replica 4T",
+    "from": 2017,
+    "to": 2018
+  },
+  {
+    "models": "Aprilia 125 RS4",
+    "from": 2011,
+    "to": 2017
+  },
+  {
+    "models": "Aprilia 125 RX 4T",
+    "from": 2018,
+    "to": 2026
+  },
+  {
+    "models": "Aprilia 125 Senda R DRD Racing 4T",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "Aprilia 125 Senda R SM Racing 4T",
+    "from": 2009,
+    "to": 2013
+  },
+  {
+    "models": "Aprilia 125 SX 4T",
+    "from": 2018,
+    "to": 2026
+  },
+  {
+    "models": "Aprilia 125 Terra 4T",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "Aprilia 125 Terra Adventure 4T",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "Aprilia 125 Tuono 4T",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Aprilia 125 Tuono E5+",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Aprilia 450 RXV Enduro",
+    "from": 2006,
+    "to": 2015
+  },
+  {
+    "models": "Aprilia 450 SXV Street Legal",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "Aprilia 450 SXV Super Moto",
+    "from": 2006,
+    "to": 2015
+  },
+  {
+    "models": "Aprilia 550 RXV Enduro",
+    "from": 2006,
+    "to": 2014
+  },
+  {
+    "models": "Aprilia 550 SXV Street Legal",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "Aprilia 550 SXV Super Moto",
+    "from": 2006,
+    "to": 2014
+  },
+  {
+    "models": "Aprilia Derbi Motorcy",
+    "from": "",
+    "to": ""
+  },
+  {
+    "models": "Husqvarna SM 450 R",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna SM 450 RR",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna SM 510 R",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna SM 530 RR",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna SM 630 IE",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna SM S630",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna SMR 630",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TC450",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TC510",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TCX 510",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Husqvarna TE 310",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TE 450",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TE 510",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Husqvarna TE 630",
+    "from": 2011,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 630 IE",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TXC 250",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Husqvarna TXC 450",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "Husqvarna TXC 510",
+    "from": 2008,
+    "to": 2009
+  }
+]
