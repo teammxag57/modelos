@@ -15,14 +15,14 @@
     "to": 2027
   },
   {
-    "models": "Yamaha YZ 450F",
-    "from": 2010,
-    "to": 2027
-  },
-  {
     "models": "Yamaha YZ 250FX",
     "from": 2015,
     "to": 2026
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2010,
+    "to": 2027
   },
   {
     "models": "Yamaha YZ 450FX",
