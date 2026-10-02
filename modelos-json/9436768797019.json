@@ -1,5 +1,20 @@
 [
   {
+    "models": "Ducati Desmo 450 EDS",
+    "from": 2027,
+    "to": ""
+  },
+  {
+    "models": "Ducati Desmo 450 EDX",
+    "from": 2026,
+    "to": 2027
+  },
+  {
+    "models": "Ducati Desmo 450 MX",
+    "from": 2025,
+    "to": 2027
+  },
+  {
     "models": "Gasgas EC 250F",
     "from": 2021,
     "to": 2023
@@ -175,14 +190,14 @@
     "to": 2026
   },
   {
-    "models": "KTM 450 XCF-W",
-    "from": 2023,
-    "to": 2026
-  },
-  {
     "models": "KTM 450 XC-W",
     "from": 2010,
     "to": 2011
+  },
+  {
+    "models": "KTM 450 XCF-W",
+    "from": 2023,
+    "to": 2026
   },
   {
     "models": "KTM 500 XCF-W",
@@ -288,20 +303,5 @@
     "models": "KTM XC-F 250",
     "from": 2013,
     "to": 2026
-  },
-  {
-    "models": "DUCATI DESMO 450 MX",
-    "from": 2025,
-    "to": 2027
-  },
-  {
-    "models": "DUCATI DESMO 450 EDS",
-    "from": 2027,
-    "to": ""
-  },
-  {
-    "models": "DUCATI DESMO 450 EDX",
-    "from": 2026,
-    "to": 2027
   }
 ]
