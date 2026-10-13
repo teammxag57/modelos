@@ -5,11 +5,6 @@
     "to": 2011
   },
   {
-    "models": "KTM EXC 450",
-    "from": 2009,
-    "to": 2016
-  },
-  {
     "models": "KTM EXC 450 Factory Edition",
     "from": 2015,
     "to": ""
@@ -20,9 +15,14 @@
     "to": 2016
   },
   {
-    "models": "KTM EXC 500",
-    "from": 2012,
+    "models": "KTM EXC 450F",
+    "from": 2009,
     "to": 2016
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2008,
+    "to": ""
   },
   {
     "models": "KTM EXC 500 Six Days",
@@ -30,14 +30,14 @@
     "to": 2016
   },
   {
+    "models": "KTM EXC 500F",
+    "from": 2012,
+    "to": 2016
+  },
+  {
     "models": "KTM EXC 530",
     "from": 2009,
     "to": 2011
-  },
-  {
-    "models": "KTM EXC-R 450",
-    "from": 2008,
-    "to": ""
   },
   {
     "models": "KTM EXC-R 530",
