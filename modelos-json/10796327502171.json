@@ -1,0 +1,87 @@
+[
+  {
+    "models": "KTM EXC 400",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 450",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 450 Factory Edition",
+    "from": 2015,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC 450 Six Days",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 500",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 500 Six Days",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 530",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC-R 450",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-R 530",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM XCR-W 450",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM XCR-W 530",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-W 400",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "KTM XC-W 450",
+    "from": 2009,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 450 Six Days",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM XC-W 500",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-W 530",
+    "from": 2009,
+    "to": ""
+  },
+  {
+    "models": "KTM XC-W 530 Six Days",
+    "from": 2010,
+    "to": 2011
+  }
+]
