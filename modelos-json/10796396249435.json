@@ -1,0 +1,22 @@
+[
+  {
+    "models": "Suzuki DR 350",
+    "from": 1990,
+    "to": 1999
+  },
+  {
+    "models": "Suzuki DR-Z 400",
+    "from": 2000,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki LT-Z 400",
+    "from": 2003,
+    "to": 2018
+  },
+  {
+    "models": "Suzuki RM 450Z",
+    "from": 2005,
+    "to": 2006
+  }
+]
