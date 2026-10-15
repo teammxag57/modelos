@@ -325,6 +325,11 @@
     "to": ""
   },
   {
+    "models": "KTM 450 EXC-R SIX-DAYS",
+    "from": 2008,
+    "to": ""
+  },
+  {
     "models": "KTM 450 SX ATV",
     "from": 2009,
     "to": 2010
@@ -537,7 +542,7 @@
   {
     "models": "KTM SX 125",
     "from": 2003,
-    "to": 2025
+    "to": 2027
   },
   {
     "models": "KTM SX 150",
@@ -552,27 +557,27 @@
   {
     "models": "KTM SX 250",
     "from": 2003,
-    "to": 2025
+    "to": 2027
   },
   {
     "models": "KTM SX 250F",
     "from": 2006,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "KTM SX 300",
     "from": 2023,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "KTM SX 350F",
     "from": 2011,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "KTM SX 450F",
     "from": 2003,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "KTM SX 505F",
@@ -608,10 +613,5 @@
     "models": "Sherco SEF 250",
     "from": 2019,
     "to": 2020
-  },
-  {
-    "models": "#N/D",
-    "from": 2008,
-    "to": ""
   }
 ]
