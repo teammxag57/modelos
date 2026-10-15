@@ -2,26 +2,26 @@
   {
     "models": "BMW G450 X",
     "from": 2008,
-    "to": 2007
+    "to": 2010
   },
   {
     "models": "Husqvarna TC 449",
     "from": 2011,
-    "to": 2009
+    "to": 2013
   },
   {
     "models": "Husqvarna TE 449",
     "from": 2011,
-    "to": 2012
+    "to": 2013
   },
   {
     "models": "Husqvarna TE 511",
     "from": 2011,
-    "to": 2009
+    "to": 2012
   },
   {
     "models": "Husqvarna TXC 511",
     "from": 2011,
-    "to": 2009
+    "to": 2012
   }
 ]
