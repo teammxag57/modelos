@@ -1,0 +1,457 @@
+[
+  {
+    "models": "Gasgas EC 125",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 250",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 250F",
+    "from": 2021,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 300",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EC 350F",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas EC 450F",
+    "from": 2024,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas EC 500F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 125",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 150",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Gasgas MC 250F",
+    "from": 2021,
+    "to": 2024
+  },
+  {
+    "models": "Gasgas MC 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 350F",
+    "from": 2022,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 450F",
+    "from": 2021,
+    "to": 2026
+  },
+  {
+    "models": "Honda CRF 250X",
+    "from": 2004,
+    "to": 2018
+  },
+  {
+    "models": "Husaberg FE 4T 250",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE 4T 350",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg FE 570",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg TE 2T 125",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 2T 250",
+    "from": 2011,
+    "to": 2014
+  },
+  {
+    "models": "Husaberg TE 2T 300",
+    "from": 2014,
+    "to": 2014
+  },
+  {
+    "models": "Husqvarna FC 250F",
+    "from": 2014,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FC 350F",
+    "from": 2014,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna FC 450F",
+    "from": 2014,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FE 250F",
+    "from": 2014,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FE 350F",
+    "from": 2014,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FE 390",
+    "from": 2011,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2014,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FE 501F",
+    "from": 2014,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FE 570",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Husqvarna FR 450 Rally",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FS 450F",
+    "from": 2016,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna FS 570",
+    "from": 2010,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna FX 350F",
+    "from": 2019,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FX 450F",
+    "from": 2010,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna NORDEN 901",
+    "from": 2022,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2014,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 150",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TC 250",
+    "from": 2014,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TC 300",
+    "from": 2025,
+    "to": ""
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2020,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 250",
+    "from": 2014,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TE 300",
+    "from": 2014,
+    "to": 2026
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC 125",
+    "from": 2003,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "KTM EXC 200",
+    "from": 1998,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2003,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 300",
+    "from": 1995,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2012,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 380",
+    "from": 1999,
+    "to": 2001
+  },
+  {
+    "models": "KTM EXC 400F",
+    "from": 2004,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2012,
+    "to": 2026
+  },
+  {
+    "models": "KTM EXC 520F",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 525F",
+    "from": 2003,
+    "to": 2007
+  },
+  {
+    "models": "KTM EXC 530F",
+    "from": 2009,
+    "to": 2010
+  },
+  {
+    "models": "KTM EXC 530R",
+    "from": 2008,
+    "to": ""
+  },
+  {
+    "models": "KTM EXC-R 530",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM Freeride 350",
+    "from": 2012,
+    "to": 2017
+  },
+  {
+    "models": "KTM FREERIDE E-SM",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "KTM FREERIDE E-SX",
+    "from": 2015,
+    "to": 2016
+  },
+  {
+    "models": "KTM FREERIDE E-XC",
+    "from": 2015,
+    "to": 2023
+  },
+  {
+    "models": "KTM GS / EGS 2T 300",
+    "from": 1992,
+    "to": 1999
+  },
+  {
+    "models": "KTM LC4 EGS 4T 400",
+    "from": 1993,
+    "to": 2001
+  },
+  {
+    "models": "KTM LC4 EXC 4T 620",
+    "from": 1994,
+    "to": 1994
+  },
+  {
+    "models": "KTM LC4 EXC Racing 4T 400",
+    "from": 2000,
+    "to": 2008
+  },
+  {
+    "models": "KTM MX 2T 125",
+    "from": 1990,
+    "to": 1995
+  },
+  {
+    "models": "KTM SMR 4T 560",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM SMR 525F",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "KTM SMR 560F",
+    "from": 2006,
+    "to": 2007
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 144",
+    "from": 2007,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2011,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 250",
+    "from": 1995,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 2023,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2011,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 400 Racing",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2003,
+    "to": 2026
+  },
+  {
+    "models": "KTM SX 505F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM SX 520",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 525",
+    "from": 2006,
+    "to": ""
+  },
+  {
+    "models": "KTM SX 525F",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2026
+  },
+  {
+    "models": "KTM XC 450F",
+    "from": 2007,
+    "to": ""
+  },
+  {
+    "models": "Sherco SEF 250",
+    "from": 2019,
+    "to": 2020
+  }
+]
