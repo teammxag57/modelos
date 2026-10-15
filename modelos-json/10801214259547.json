@@ -1,0 +1,487 @@
+[
+  {
+    "models": "Beta RR 250",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 250R",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 300",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 350F",
+    "from": 2011,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 390F",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Beta RR 400F",
+    "from": 2005,
+    "to": 2016
+  },
+  {
+    "models": "Beta RR 450F",
+    "from": 2005,
+    "to": 2009
+  },
+  {
+    "models": "Beta RR 525",
+    "from": 2005,
+    "to": 2011
+  },
+  {
+    "models": "BMW G450 X",
+    "from": 2008,
+    "to": 2010
+  },
+  {
+    "models": "Gasgas 250 TRIALS",
+    "from": 1999,
+    "to": 2001
+  },
+  {
+    "models": "Gasgas 370 contact JTR",
+    "from": 1996,
+    "to": 2001
+  },
+  {
+    "models": "Gasgas TXT 200",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "Gasgas TXT 250",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "Honda CR 125",
+    "from": 1985,
+    "to": 2002
+  },
+  {
+    "models": "Honda CR 250",
+    "from": 1992,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 500R",
+    "from": 1992,
+    "to": 1999
+  },
+  {
+    "models": "Honda CRF 250R",
+    "from": 2004,
+    "to": 2009
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 2002,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF 450RL",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF 450RWE",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF 450RX",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Honda CRF 450X",
+    "from": 2005,
+    "to": 2024
+  },
+  {
+    "models": "Husaberg FC 600",
+    "from": 1990,
+    "to": 1999
+  },
+  {
+    "models": "Husaberg FE 650",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FS 650",
+    "from": 2003,
+    "to": 2008
+  },
+  {
+    "models": "Husqvarna WR 125",
+    "from": 1990,
+    "to": 2013
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 1982,
+    "to": 1093
+  },
+  {
+    "models": "Kawasaki KX 125",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 1982,
+    "to": 2004
+  },
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2011,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2006,
+    "to": 2024
+  },
+  {
+    "models": "Kawasaki KX 500",
+    "from": 1987,
+    "to": 2005
+  },
+  {
+    "models": "KTM 125 Enduro",
+    "from": 1986,
+    "to": 1990
+  },
+  {
+    "models": "KTM 450 Rally Factory Replica",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "KTM 690 Enduro R",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2006,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM EXC 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2016,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2003,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2007,
+    "to": 2012
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC 450F Six Days",
+    "from": 2010,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2014,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2017,
+    "to": 2024
+  },
+  {
+    "models": "KTM EXC 530",
+    "from": 2008,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 530 Six Days",
+    "from": 2010,
+    "to": 2011
+  },
+  {
+    "models": "KTM LC4 620",
+    "from": 1995,
+    "to": 1998
+  },
+  {
+    "models": "KTM LC4 640 ENDURO Adventure R",
+    "from": 1999,
+    "to": 2007
+  },
+  {
+    "models": "KTM MXC 300",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "KTM MXC 450",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "KTM MXC 550",
+    "from": 1993,
+    "to": 1996
+  },
+  {
+    "models": "KTM SMR 450",
+    "from": 2008,
+    "to": 2014
+  },
+  {
+    "models": "KTM SX 300",
+    "from": 1993,
+    "to": 1995
+  },
+  {
+    "models": "KTM SX 360",
+    "from": 1996,
+    "to": 1997
+  },
+  {
+    "models": "KTM SX 380",
+    "from": 1998,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 400",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 440",
+    "from": 1994,
+    "to": 1994
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "KTM SX 505F",
+    "from": 2007,
+    "to": 2009
+  },
+  {
+    "models": "KTM SX 520",
+    "from": 1999,
+    "to": 2002
+  },
+  {
+    "models": "KTM SX 525",
+    "from": 2003,
+    "to": 2006
+  },
+  {
+    "models": "KTM WXC 350F",
+    "from": 2012,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC 250",
+    "from": 2006,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC 250W",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "KTM XC 300W",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC-F 350",
+    "from": 2013,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC-F 350W",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-F 350W Six Days",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM XC-F 450",
+    "from": 2008,
+    "to": 2024
+  },
+  {
+    "models": "KTM XC-F 450W",
+    "from": 2012,
+    "to": 2016
+  },
+  {
+    "models": "Sherco SEF 300",
+    "from": 2010,
+    "to": 2017
+  },
+  {
+    "models": "Sherco SEF 4.5 Enduro",
+    "from": 2016,
+    "to": 2017
+  },
+  {
+    "models": "Sherco SEF 450",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Sherco SEF 5.1 Enduro",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Suzuki DR 650",
+    "from": 1990,
+    "to": 1995
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 1980,
+    "to": 2012
+  },
+  {
+    "models": "Suzuki RM 125",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "Suzuki RM 250",
+    "from": 1997,
+    "to": 2011
+  },
+  {
+    "models": "Suzuki RM 250Z",
+    "from": 2004,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki RM 450Z",
+    "from": 2008,
+    "to": 2024
+  },
+  {
+    "models": "Suzuki RMX 250",
+    "from": 1989,
+    "to": 2001
+  },
+  {
+    "models": "Suzuki RMX 450",
+    "from": 2010,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha TT 600",
+    "from": 2004,
+    "to": 2005
+  },
+  {
+    "models": "Yamaha WR 250F",
+    "from": 2001,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha WR 250X",
+    "from": 2008,
+    "to": 2015
+  },
+  {
+    "models": "Yamaha WR 400F",
+    "from": 1998,
+    "to": 2001
+  },
+  {
+    "models": "Yamaha WR 426F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha WR 450F",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha WR 500",
+    "from": 1992,
+    "to": 1994
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1980,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 250FX",
+    "from": 2015,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 250X",
+    "from": 2016,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 400F",
+    "from": 1998,
+    "to": 1999
+  },
+  {
+    "models": "Yamaha YZ 426F",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2003,
+    "to": 2024
+  },
+  {
+    "models": "Yamaha YZ 450FX",
+    "from": 2016,
+    "to": 2024
+  }
+]
