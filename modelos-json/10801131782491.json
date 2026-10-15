@@ -1,0 +1,232 @@
+[
+  {
+    "models": "Ducati DESMO 250 MX",
+    "from": 2026,
+    "to": 2027
+  },
+  {
+    "models": "Ducati DESMO 450 EDS",
+    "from": 2026,
+    "to": 2027
+  },
+  {
+    "models": "Ducati DESMO 450 EDX",
+    "from": 2027,
+    "to": ""
+  },
+  {
+    "models": "Ducati DESMO 450 MX",
+    "from": 2027,
+    "to": ""
+  },
+  {
+    "models": "Gasgas MC 125",
+    "from": 2001,
+    "to": 2002
+  },
+  {
+    "models": "Gasgas EC 200",
+    "from": 2000,
+    "to": 2002
+  },
+  {
+    "models": "Gasgas FSE EC 400",
+    "from": 2002,
+    "to": 2009
+  },
+  {
+    "models": "Gasgas FSE EC 450",
+    "from": 2003,
+    "to": 2012
+  },
+  {
+    "models": "Gasgas FSR EC 450",
+    "from": 2008,
+    "to": 2009
+  },
+  {
+    "models": "Gasgas MC 250",
+    "from": 2002,
+    "to": 2002
+  },
+  {
+    "models": "Honda CR 125",
+    "from": 2000,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR 125",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Honda CR 250",
+    "from": 1990,
+    "to": 1991
+  },
+  {
+    "models": "Honda CR 250",
+    "from": 1996,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR 250",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "Honda CR R SM 250",
+    "from": 1990,
+    "to": 1991
+  },
+  {
+    "models": "Honda CR R SM 250",
+    "from": 1996,
+    "to": 2001
+  },
+  {
+    "models": "Honda CR R SM 250",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "Honda CRF 450R",
+    "from": 2002,
+    "to": 2016
+  },
+  {
+    "models": "Husaberg FC 450",
+    "from": 2004,
+    "to": 2007
+  },
+  {
+    "models": "Husaberg FE 390",
+    "from": 2009,
+    "to": 2012
+  },
+  {
+    "models": "Husaberg FE E 450",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Husaberg FE E 501",
+    "from": 2003,
+    "to": 2004
+  },
+  {
+    "models": "Husaberg FE E 550",
+    "from": 2004,
+    "to": 2008
+  },
+  {
+    "models": "Husqvarna WRE 125",
+    "from": 1999,
+    "to": 2008
+  },
+  {
+    "models": "Kawasaki KLX 450",
+    "from": 2007,
+    "to": 2013
+  },
+  {
+    "models": "Kawasaki KX 250",
+    "from": 2005,
+    "to": 2008
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2006,
+    "to": 2019
+  },
+  {
+    "models": "Suzuki RM 250Z",
+    "from": 2004,
+    "to": 2006
+  },
+  {
+    "models": "Suzuki RM 450Z",
+    "from": 2005,
+    "to": 2007
+  },
+  {
+    "models": "TM Racing EN 125",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "TM Racing EN 400F",
+    "from": 2003,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing EN 530F",
+    "from": 2003,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing MX 125",
+    "from": 2001,
+    "to": 2007
+  },
+  {
+    "models": "TM Racing MX 400F",
+    "from": 2003,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing MX 530F",
+    "from": 2003,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing SMM 530F",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "TM Racing SMR 450F",
+    "from": 2007,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing SMR 530F",
+    "from": 2004,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing SMX 450F",
+    "from": 2007,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing SMX 530F",
+    "from": 2003,
+    "to": 2005
+  },
+  {
+    "models": "TM Racing SMX 660F",
+    "from": 2004,
+    "to": 2019
+  },
+  {
+    "models": "TM Racing EN 300",
+    "from": 2005,
+    "to": 2005
+  },
+  {
+    "models": "TM Racing MX 300",
+    "from": 2003,
+    "to": 2003
+  },
+  {
+    "models": "Yamaha WR 200",
+    "from": 1991,
+    "to": 1997
+  },
+  {
+    "models": "Yamaha WR 250R",
+    "from": 1991,
+    "to": 1996
+  }
+]
