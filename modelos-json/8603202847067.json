@@ -1,17 +1,22 @@
 [
   {
-    "models": "GasGas MC 50",
+    "models": "Gasgas MC 50",
     "from": 2024,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "Husqvarna TC 50",
-    "from": 2024,
-    "to": 2026
+    "from": 2025,
+    "to": 2027
   },
   {
     "models": "KTM SX 50",
     "from": 2024,
+    "to": 2027
+  },
+  {
+    "models": "KTM SX 50 Factory Edition",
+    "from": 2025,
     "to": 2026
   }
 ]
