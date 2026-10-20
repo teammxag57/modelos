@@ -1,0 +1,22 @@
+[
+  {
+    "models": "YAMAHA WR 250F",
+    "from": 2015,
+    "to": 2019
+  },
+  {
+    "models": "YAMAHA WR 450F",
+    "from": 2015,
+    "to": 2018
+  },
+  {
+    "models": "YAMAHA YZ 250F",
+    "from": 2014,
+    "to": 2018
+  },
+  {
+    "models": "YAMAHA YZ 450F",
+    "from": 2014,
+    "to": 2017
+  }
+]
