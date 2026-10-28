@@ -12,7 +12,7 @@
   {
     "models": "Gasgas EX 250 F",
     "from": 2024,
-    "to": 0
+    "to": ""
   },
   {
     "models": "Gasgas EX 350 F",
@@ -27,7 +27,7 @@
   {
     "models": "Gasgas MC 250 F FACTORY EDITION",
     "from": 2026,
-    "to": 0
+    "to": ""
   },
   {
     "models": "Gasgas MC 350 F",
@@ -52,7 +52,7 @@
   {
     "models": "Husqvarna FC 250F FACTORY EDITION",
     "from": 2026,
-    "to": 0
+    "to": ""
   },
   {
     "models": "Husqvarna FC 350F",
@@ -102,7 +102,7 @@
   {
     "models": "KTM EXC 350F FACTORY EDITION",
     "from": 2023,
-    "to": 0
+    "to": ""
   },
   {
     "models": "KTM EXC 350F SIX DAYS",
@@ -112,7 +112,7 @@
   {
     "models": "KTM EXC 350F WESS",
     "from": 2023,
-    "to": 0
+    "to": ""
   },
   {
     "models": "KTM SX 250F",
@@ -122,7 +122,7 @@
   {
     "models": "KTM SX 250F ADAMO EDITION",
     "from": 2025,
-    "to": 0
+    "to": ""
   },
   {
     "models": "KTM SX 250F FACTORY EDITION",
