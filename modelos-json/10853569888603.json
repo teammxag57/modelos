@@ -1120,7 +1120,7 @@
     "to": 2004
   },
   {
-    "models": "KTM SX 250",
+    "models": "KTM SX 250 ",
     "from": 2000,
     "to": 2025
   },
@@ -1408,10 +1408,5 @@
     "models": "KTM XW-F 500",
     "from": 2024,
     "to": ""
-  },
-  {
-    "models": "#N/D",
-    "from": "#VALOR!",
-    "to": "#VALOR!"
   }
 ]
