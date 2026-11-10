@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Yamaha YZ 125",
+    "from": 2002,
+    "to": 2027
+  },
+  {
+    "models": "Yamaha YZ 144",
+    "from": 2002,
+    "to": 2027
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 2002,
+    "to": 2027
+  },
+  {
+    "models": "Yamaha YZ 250F",
+    "from": 2002,
+    "to": 2027
+  },
+  {
+    "models": "Yamaha YZ 426F",
+    "from": 2002,
+    "to": ""
+  },
+  {
+    "models": "Yamaha YZ 450F",
+    "from": 2003,
+    "to": 2027
+  }
+]
