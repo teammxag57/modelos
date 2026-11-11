@@ -1,0 +1,122 @@
+[
+  {
+    "models": "Gasgas EC 125",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 125",
+    "from": 2021,
+    "to": 2027
+  },
+  {
+    "models": "Gasgas MC 150",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Gasgas MC 85",
+    "from": 2021,
+    "to": 2027
+  },
+  {
+    "models": "Gasgas MC 85 17/14",
+    "from": 2022,
+    "to": 2027
+  },
+  {
+    "models": "Husqvarna TC 125",
+    "from": 2016,
+    "to": 2027
+  },
+  {
+    "models": "Husqvarna TC 150",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 85",
+    "from": 2014,
+    "to": 2027
+  },
+  {
+    "models": "Husqvarna TC 85 17/14",
+    "from": 2014,
+    "to": 2027
+  },
+  {
+    "models": "Husqvarna TE 125",
+    "from": 2025,
+    "to": 2027
+  },
+  {
+    "models": "Husqvarna TE 150",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TE 150 HERITAGE",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TX 125",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM EXC 150",
+    "from": 2020,
+    "to": 2025
+  },
+  {
+    "models": "KTM FREERIDE 250 R",
+    "from": 2014,
+    "to": 2017
+  },
+  {
+    "models": "KTM SX 105",
+    "from": 2004,
+    "to": 2004
+  },
+  {
+    "models": "KTM SX 105",
+    "from": 2006,
+    "to": 2006
+  },
+  {
+    "models": "KTM SX 125",
+    "from": 2016,
+    "to": 2027
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2016,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 150",
+    "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "KTM SX 85",
+    "from": 2003,
+    "to": 2027
+  },
+  {
+    "models": "KTM SX 85 17/14",
+    "from": 2005,
+    "to": 2027
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2017,
+    "to": 2019
+  },
+  {
+    "models": "KTM XC 125W",
+    "from": 2025,
+    "to": 2027
+  }
+]
