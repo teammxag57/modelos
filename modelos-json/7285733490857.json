@@ -15,8 +15,18 @@
     "to": 2023
   },
   {
+    "models": "Gasgas MC 250F BT",
+    "from": 2023,
+    "to": 2023
+  },
+  {
     "models": "Gasgas MC 350F",
     "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Gasgas MC 350F BT",
+    "from": 2023,
     "to": 2023
   },
   {
@@ -25,137 +35,252 @@
     "to": 2023
   },
   {
-    "models": "Husqvarna FC 250",
-    "from": 2015,
-    "to": 2022
-  },
-  {
-    "models": "Husqvarna FC 250 HQV",
-    "from": 2014,
-    "to": 2014
-  },
-  {
-    "models": "Husqvarna FC 350",
-    "from": 2015,
-    "to": 2022
-  },
-  {
-    "models": "Husqvarna FC 350 HQV",
-    "from": 2014,
-    "to": 2014
-  },
-  {
-    "models": "Husqvarna FC 450",
-    "from": 2015,
-    "to": 2022
-  },
-  {
-    "models": "Husqvarna FC 450 HQV",
-    "from": 2014,
-    "to": 2014
-  },
-  {
-    "models": "Husqvarna FE 250",
-    "from": 2013,
+    "models": "Gasgas MC 450F BT",
+    "from": 2023,
     "to": 2023
   },
   {
-    "models": "Husqvarna FE 350",
-    "from": 2013,
-    "to": 2023
-  },
-  {
-    "models": "Husqvarna FE 350 HQV",
-    "from": 2014,
-    "to": 2014
-  },
-  {
-    "models": "Husqvarna FE 450",
-    "from": 2013,
-    "to": 2023
-  },
-  {
-    "models": "Husqvarna FE 450 HQV",
-    "from": 2014,
-    "to": 2014
-  },
-  {
-    "models": "Husqvarna FE 501",
-    "from": 2013,
-    "to": 2023
-  },
-  {
-    "models": "Husqvarna FE 501 HQV",
-    "from": 2014,
-    "to": 2014
-  },
-  {
-    "models": "Husqvarna FR 450 Rally",
-    "from": 2017,
-    "to": 2024
-  },
-  {
-    "models": "Husqvarna FS 450",
-    "from": 2015,
-    "to": 2021
-  },
-  {
-    "models": "Husqvarna FX 350",
-    "from": 2019,
-    "to": 2022
-  },
-  {
-    "models": "Husqvarna FX 450",
+    "models": "Gasgas MC 450F TROY LEE DESIGNS",
     "from": 2022,
     "to": 2022
   },
   {
-    "models": "KTM 250 EXC-F",
-    "from": 2012,
-    "to": 2023
+    "models": "Gasgas RX 450F REPLICA",
+    "from": 2023,
+    "to": 2024
   },
   {
-    "models": "KTM 250 SX-F",
-    "from": 2011,
+    "models": "Husqvarna 701 Enduro",
+    "from": 2016,
     "to": 2021
   },
   {
-    "models": "KTM 350 EXC-F",
+    "models": "Husqvarna 701 SUPERMOTO",
+    "from": 2016,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna 701 SVARTPILEN",
+    "from": 2019,
+    "to": 2020
+  },
+  {
+    "models": "Husqvarna 701 SVARTPILEN STYLE",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna FC 250F",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FC 350F",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FC 450F",
+    "from": 2014,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FE 250 CKD",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 250 HERITAGE",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 250F",
+    "from": 2013,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 350 HERITAGE",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 350 ROCKSTAR EDITION",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FE 350F",
+    "from": 2013,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 450 HERITAGE",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2013,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 501 HERITAGE",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 501F",
+    "from": 2013,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FR 450 Rally",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna FR 450 Rally",
+    "from": 2019,
+    "to": 2024
+  },
+  {
+    "models": "Husqvarna FS 450F",
+    "from": 2015,
+    "to": 2021
+  },
+  {
+    "models": "Husqvarna FX 350F",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna FX 350F",
+    "from": 2022,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna FX 450F",
+    "from": 2022,
+    "to": 2022
+  },
+  {
+    "models": "Husqvarna VITPILEN 701",
+    "from": 2018,
+    "to": 2020
+  },
+  {
+    "models": "KTM 250 EXC-F FACTORY EDITION",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "KTM 250 EXC-F SIX DAYS",
     "from": 2012,
     "to": 2023
   },
   {
-    "models": "KTM 350 SX-F",
+    "models": "KTM 250 SX-F MUSQUIN REPLICA 11",
     "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 250 SX-F PRADO",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "KTM 250 SX-F ROCZEN REPLICA 12",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "KTM 250 SX-F TROY LEE DESIGNS",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "KTM 350 EXC-F FACTORY EDITION",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "KTM 350 EXC-F FACTORY EDITION",
+    "from": 2022,
     "to": 2022
   },
   {
-    "models": "KTM 450 EXC",
+    "models": "KTM 350 EXC-F SIX DAYS",
+    "from": 2012,
+    "to": 2023
+  },
+  {
+    "models": "KTM 350 EXC-F SIX DAYS CKD",
+    "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "KTM 350 EXC-F WESS",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "KTM 350 SX-F CAIROLI REPLICA 11",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 350 SX-F CAIROLI REPLICA 12",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "KTM 450 EXC FACTORY EDITION",
+    "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "KTM 450 EXC SIX DAYS",
     "from": 2012,
     "to": 2016
   },
   {
-    "models": "KTM 450 EXC-F",
+    "models": "KTM 450 EXC-F SIX DAYS",
     "from": 2017,
     "to": 2023
   },
   {
-    "models": "KTM 450 SMR",
-    "from": 2013,
-    "to": 2021
-  },
-  {
-    "models": "KTM 450 SX-F",
-    "from": 2013,
+    "models": "KTM 450 RALLY FACTORY REPLICA",
+    "from": 2015,
     "to": 2022
   },
   {
-    "models": "KTM 500 EXC",
+    "models": "KTM 450 RALLY REPLICA",
+    "from": 2023,
+    "to": 2024
+  },
+  {
+    "models": "KTM 450 SX-F CAIROLI",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "KTM 450 SX-F FACTORY EDITION",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "KTM 450 SX-F HERLINGS REPLICA",
+    "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "KTM 500 EXC SIX DAYS",
     "from": 2012,
     "to": 2016
   },
   {
-    "models": "KTM 500 EXC-F",
+    "models": "KTM 500 EXC-F SIX DAYS",
     "from": 2017,
     "to": 2023
   },
@@ -165,13 +290,158 @@
     "to": 2012
   },
   {
-    "models": "KTM Freeride",
+    "models": "KTM 690 Duke",
+    "from": 2018,
+    "to": 2019
+  },
+  {
+    "models": "KTM 690 DUKE BLACK",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "KTM 690 DUKE BLACK ABS",
+    "from": 2013,
+    "to": 2015
+  },
+  {
+    "models": "KTM 690 DUKE ORANGE",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "KTM 690 DUKE ORANGE ABS",
+    "from": 2016,
+    "to": 2016
+  },
+  {
+    "models": "KTM 690 DUKE R",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "KTM 690 DUKE R",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "KTM 690 DUKE R ABS",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 690 DUKE WHITE",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "KTM 690 DUKE WHITE",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "KTM 690 DUKE WHITE ABS",
+    "from": 2013,
+    "to": 2016
+  },
+  {
+    "models": "KTM 690 DUKE WHITE CUP",
+    "from": 2012,
+    "to": 2012
+  },
+  {
+    "models": "KTM 690 Enduro",
+    "from": 2011,
+    "to": 2021
+  },
+  {
+    "models": "KTM 690 SMC",
+    "from": 2011,
+    "to": 2011
+  },
+  {
+    "models": "KTM 690 SMC R",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM 690 SMC R",
+    "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "KTM 690 SMC R",
+    "from": 2019,
+    "to": 2021
+  },
+  {
+    "models": "KTM 690 SMC R ABS",
+    "from": 2014,
+    "to": 2016
+  },
+  {
+    "models": "KTM EXC 250F",
+    "from": 2012,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2012,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2012,
+    "to": 2023
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2012,
+    "to": 2023
+  },
+  {
+    "models": "KTM FREERIDE 250F",
     "from": 2018,
     "to": 2020
   },
   {
-    "models": "KTM FREERIDE 350",
+    "models": "KTM Freeride 350F",
     "from": 2012,
     "to": 2017
+  },
+  {
+    "models": "KTM RC4 R",
+    "from": 2020,
+    "to": 2020
+  },
+  {
+    "models": "KTM RC4 R",
+    "from": 2022,
+    "to": 2023
+  },
+  {
+    "models": "KTM SMR 450F",
+    "from": 2013,
+    "to": 2014
+  },
+  {
+    "models": "KTM SMR 450F",
+    "from": 2021,
+    "to": 2021
+  },
+  {
+    "models": "KTM SX 250F",
+    "from": 2011,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 350F",
+    "from": 2011,
+    "to": 2022
+  },
+  {
+    "models": "KTM SX 450F",
+    "from": 2013,
+    "to": 2022
   }
 ]
