@@ -1,8 +1,28 @@
 [
   {
-    "models": "KTM 250 EXC-F",
-    "from": 2008,
+    "models": "Husqvarna FE 250F",
+    "from": 2013,
     "to": 2013
+  },
+  {
+    "models": "Husqvarna FE 350F",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna FE 450F",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "Husqvarna FE 501F",
+    "from": 2013,
+    "to": 2013
+  },
+  {
+    "models": "KTM 250 EXC-F CHAMPION EDIT.",
+    "from": 2010,
+    "to": 2010
   },
   {
     "models": "KTM 250 EXC-F FACTORY EDIT.",
@@ -11,12 +31,7 @@
   },
   {
     "models": "KTM 250 EXC-F SIX DAYS",
-    "from": 2009,
-    "to": 2013
-  },
-  {
-    "models": "KTM 350 EXC-F",
-    "from": 2012,
+    "from": 2008,
     "to": 2013
   },
   {
@@ -25,19 +40,14 @@
     "to": 2013
   },
   {
-    "models": "KTM 400 EXC",
-    "from": 2009,
-    "to": 2011
-  },
-  {
     "models": "KTM 400 EXC FACTORY EDIT.",
     "from": 2011,
     "to": 2011
   },
   {
-    "models": "KTM 450 EXC",
-    "from": 2009,
-    "to": 2013
+    "models": "KTM 450 EXC CHAMPION EDIT.",
+    "from": 2010,
+    "to": 2010
   },
   {
     "models": "KTM 450 EXC FACTORY EDIT.",
@@ -50,19 +60,9 @@
     "to": 2013
   },
   {
-    "models": "KTM 450 EXC-R",
+    "models": "KTM 450 EXC-R SIX-DAYS 08",
     "from": 2008,
     "to": 2008
-  },
-  {
-    "models": "KTM 450 EXC-R SIX DAYS",
-    "from": 2008,
-    "to": 2008
-  },
-  {
-    "models": "KTM 500 EXC",
-    "from": 2012,
-    "to": 2013
   },
   {
     "models": "KTM 500 EXC SIX DAYS",
@@ -70,9 +70,9 @@
     "to": 2013
   },
   {
-    "models": "KTM 530 EXC",
-    "from": 2009,
-    "to": 2011
+    "models": "KTM 530 EXC CHAMPION EDIT.",
+    "from": 2010,
+    "to": 2010
   },
   {
     "models": "KTM 530 EXC FACTORY EDIT.",
@@ -90,17 +90,47 @@
     "to": 2011
   },
   {
-    "models": "KTM 530 EXC-R",
-    "from": 2008,
-    "to": 2008
-  },
-  {
     "models": "KTM 530 EXC-R SIX-DAYS",
     "from": 2008,
     "to": 2008
   },
   {
-    "models": "KTM FREERIDE 350",
+    "models": "KTM EXC 250F",
+    "from": 2008,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 350F",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 400F",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 450F",
+    "from": 2008,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 500F",
+    "from": 2012,
+    "to": 2013
+  },
+  {
+    "models": "KTM EXC 530F",
+    "from": 2009,
+    "to": 2011
+  },
+  {
+    "models": "KTM EXC 530R",
+    "from": 2008,
+    "to": 2008
+  },
+  {
+    "models": "KTM Freeride 350F",
     "from": 2012,
     "to": 2013
   }
