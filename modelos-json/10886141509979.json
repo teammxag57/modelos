@@ -1,0 +1,32 @@
+[
+  {
+    "models": "Yamaha TTR 125",
+    "from": 2000,
+    "to": 2004
+  },
+  {
+    "models": "Yamaha WR 250",
+    "from": 1991,
+    "to": 1996
+  },
+  {
+    "models": "Yamaha WR 500",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "Yamaha WR 500Z",
+    "from": 1992,
+    "to": 1993
+  },
+  {
+    "models": "Yamaha YZ 125",
+    "from": 1990,
+    "to": 1995
+  },
+  {
+    "models": "Yamaha YZ 250",
+    "from": 1990,
+    "to": 1995
+  }
+]
