@@ -17,7 +17,7 @@
   {
     "models": "Gasgas EC 300 GP",
     "from": 2025,
-    "to": ""
+    "to": 2025
   },
   {
     "models": "Gasgas EC 350F",
@@ -42,7 +42,7 @@
   {
     "models": "Gasgas MC 300",
     "from": 2025,
-    "to": ""
+    "to": 2025
   },
   {
     "models": "Gasgas MC 450F",
@@ -52,17 +52,17 @@
   {
     "models": "Gasgas MC 450F BT",
     "from": 2023,
-    "to": ""
+    "to": 2023
   },
   {
     "models": "Gasgas MC 450F PRADO EDITION",
     "from": 2025,
-    "to": ""
+    "to": 2025
   },
   {
     "models": "Gasgas MC 450F TROY LEE DESIGNS",
     "from": 2022,
-    "to": ""
+    "to": 2022
   },
   {
     "models": "Gasgas RX 450F REPLICA",
@@ -72,7 +72,7 @@
   {
     "models": "Husqvarna FC 450 HERITAGE",
     "from": 2023,
-    "to": ""
+    "to": 2023
   },
   {
     "models": "Husqvarna FC 450F",
@@ -87,6 +87,11 @@
   {
     "models": "Husqvarna FE 250 HERITAGE",
     "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 250 HERITAGE",
+    "from": 2025,
     "to": 2025
   },
   {
@@ -97,12 +102,17 @@
   {
     "models": "Husqvarna FE 350 HERITAGE",
     "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 350 HERITAGE",
+    "from": 2025,
     "to": 2025
   },
   {
     "models": "Husqvarna FE 350 PRO",
     "from": 2024,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "Husqvarna FE 350 ROCKSTAR EDITION",
@@ -117,6 +127,11 @@
   {
     "models": "Husqvarna FE 450 HERITAGE",
     "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 450 HERITAGE",
+    "from": 2025,
     "to": 2025
   },
   {
@@ -127,6 +142,11 @@
   {
     "models": "Husqvarna FE 501 HERITAGE",
     "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna FE 501 HERITAGE",
+    "from": 2025,
     "to": 2025
   },
   {
@@ -137,12 +157,17 @@
   {
     "models": "Husqvarna FR 450 Rally",
     "from": 2017,
+    "to": 2017
+  },
+  {
+    "models": "Husqvarna FR 450 Rally",
+    "from": 2019,
     "to": 2025
   },
   {
     "models": "Husqvarna FX 450 BT",
     "from": 2023,
-    "to": ""
+    "to": 2023
   },
   {
     "models": "Husqvarna FX 450F",
@@ -152,11 +177,16 @@
   {
     "models": "Husqvarna TC 250",
     "from": 2014,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "Husqvarna TC 300",
     "from": 2025,
+    "to": 2025
+  },
+  {
+    "models": "Husqvarna TC 300",
+    "from": 2027,
     "to": 2027
   },
   {
@@ -167,6 +197,11 @@
   {
     "models": "Husqvarna TE 250 HERITAGE",
     "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 250 HERITAGE",
+    "from": 2025,
     "to": 2025
   },
   {
@@ -177,17 +212,22 @@
   {
     "models": "Husqvarna TE 300 HERITAGE",
     "from": 2023,
+    "to": 2023
+  },
+  {
+    "models": "Husqvarna TE 300 HERITAGE",
+    "from": 2025,
     "to": 2025
   },
   {
     "models": "Husqvarna TE 300 IKD",
     "from": 2026,
-    "to": ""
+    "to": 2026
   },
   {
     "models": "Husqvarna TE 300i JARVIS EDITION",
     "from": 2020,
-    "to": ""
+    "to": 2020
   },
   {
     "models": "Husqvarna TE 300i ROCKSTAR EDITION",
@@ -197,17 +237,22 @@
   {
     "models": "Husqvarna TX 300",
     "from": 2019,
+    "to": 2019
+  },
+  {
+    "models": "Husqvarna TX 300",
+    "from": 2023,
     "to": 2024
   },
   {
     "models": "KTM 250 EXC CHAMPION EDITION",
     "from": 2025,
-    "to": ""
+    "to": 2025
   },
   {
     "models": "KTM 250 EXC FACTORY EDITION",
     "from": 2015,
-    "to": ""
+    "to": 2015
   },
   {
     "models": "KTM 250 EXC RACING SIX DAYS",
@@ -237,12 +282,12 @@
   {
     "models": "KTM 250 EXC-F CHAMPION EDITION",
     "from": 2025,
-    "to": ""
+    "to": 2025
   },
   {
     "models": "KTM 250 EXC-F FACTORY EDITION",
     "from": 2015,
-    "to": ""
+    "to": 2015
   },
   {
     "models": "KTM 250 EXC-F SIX DAYS",
@@ -262,17 +307,17 @@
   {
     "models": "KTM 300 EXC ERZBERGRODEO",
     "from": 2023,
-    "to": ""
+    "to": 2023
   },
   {
     "models": "KTM 300 EXC FACTORY EDITION",
     "from": 2015,
-    "to": ""
+    "to": 2015
   },
   {
     "models": "KTM 300 EXC HARDENDURO",
     "from": 2024,
-    "to": 2026
+    "to": 2027
   },
   {
     "models": "KTM 300 EXC SIX DAYS",
@@ -302,11 +347,16 @@
   {
     "models": "KTM 350 EXC-F CHAMPION EDITION",
     "from": 2025,
-    "to": ""
+    "to": 2025
   },
   {
     "models": "KTM 350 EXC-F FACTORY EDITION",
     "from": 2015,
+    "to": 2015
+  },
+  {
+    "models": "KTM 350 EXC-F FACTORY EDITION",
+    "from": 2022,
     "to": 2022
   },
   {
@@ -317,17 +367,17 @@
   {
     "models": "KTM 350 EXC-F SIX DAYS CKD",
     "from": 2023,
-    "to": ""
+    "to": 2023
   },
   {
     "models": "KTM 350 EXC-F WESS",
     "from": 2021,
-    "to": ""
+    "to": 2021
   },
   {
     "models": "KTM 450 EXC FACTORY EDITION",
     "from": 2015,
-    "to": ""
+    "to": 2015
   },
   {
     "models": "KTM 450 EXC SIX DAYS",
@@ -342,7 +392,7 @@
   {
     "models": "KTM 450 EXC-F CHAMPION EDITION",
     "from": 2025,
-    "to": ""
+    "to": 2025
   },
   {
     "models": "KTM 450 EXC-F SIX DAYS",
@@ -362,22 +412,27 @@
   {
     "models": "KTM 450 RALLY REPLICA `Sanders Edition`",
     "from": 2026,
-    "to": ""
+    "to": 2026
+  },
+  {
+    "models": "KTM 450 RALLY REPLICA Benavides Edition",
+    "from": 2027,
+    "to": 2027
   },
   {
     "models": "KTM 450 SX-F CAIROLI",
     "from": 2020,
-    "to": ""
+    "to": 2020
   },
   {
     "models": "KTM 450 SX-F FACTORY EDITION",
     "from": 2013,
-    "to": ""
+    "to": 2013
   },
   {
     "models": "KTM 450 SX-F HERLINGS REPLICA",
     "from": 2019,
-    "to": ""
+    "to": 2019
   },
   {
     "models": "KTM 500 EXC SIX DAYS",
@@ -392,7 +447,7 @@
   {
     "models": "KTM 500 EXC-F CHAMPION EDITION",
     "from": 2025,
-    "to": ""
+    "to": 2025
   },
   {
     "models": "KTM 500 EXC-F SIX DAYS",
@@ -402,6 +457,11 @@
   {
     "models": "KTM EXC 250",
     "from": 2013,
+    "to": 2017
+  },
+  {
+    "models": "KTM EXC 250",
+    "from": 2023,
     "to": 2025
   },
   {
