@@ -1,26 +1,11 @@
 [
   {
-    "models": "Aprilia MXV 450",
-    "from": 2008,
-    "to": 2011
-  },
-  {
     "models": "Honda CR 125",
     "from": 2002,
     "to": 2008
   },
   {
     "models": "Honda CR 250",
-    "from": 2002,
-    "to": 2008
-  },
-  {
-    "models": "Honda CRE 125",
-    "from": 2002,
-    "to": 2008
-  },
-  {
-    "models": "Honda CRE 250",
     "from": 2002,
     "to": 2008
   },
@@ -140,9 +125,9 @@
     "to": 2016
   },
   {
-    "models": "Kove E-MX Electric",
-    "from": 2024,
-    "to": 2024
+    "models": "Kove 450 Rally",
+    "from": 2023,
+    "to": 2026
   },
   {
     "models": "Kove Enduro 250 Enduro",
@@ -156,11 +141,6 @@
   },
   {
     "models": "Kove MX 450F",
-    "from": 2023,
-    "to": 2026
-  },
-  {
-    "models": "Kove 450 Rally",
     "from": 2023,
     "to": 2026
   },
@@ -265,44 +245,19 @@
     "to": 2016
   },
   {
-    "models": "Surron Storm Bee Electric",
-    "from": 2022,
-    "to": 2024
-  },
-  {
-    "models": "TM Racing MX 100 2T/Junior 17/14\"",
+    "models": "TM Racing MX 100",
     "from": 2013,
     "to": 2026
   },
   {
-    "models": "TM Racing MX 100 2T/Junior/19/16\"",
-    "from": 2013,
-    "to": 2026
-  },
-  {
-    "models": "TM Racing MX 112 2T/Junior 17/14\"",
+    "models": "TM Racing MX 112",
     "from": 2021,
     "to": 2026
   },
   {
-    "models": "TM Racing MX 112 2T/Junior/19/16\"",
-    "from": 2021,
-    "to": 2026
-  },
-  {
-    "models": "TM Racing MX 80 2T/Junior 17/14\"",
+    "models": "TM Racing MX 80",
     "from": 2013,
     "to": 2020
-  },
-  {
-    "models": "TM Racing MX 80 2T/Junior/19/16\"",
-    "from": 2013,
-    "to": 2020
-  },
-  {
-    "models": "TM Racing MX 85 2T/Junior 17/14\"",
-    "from": 2013,
-    "to": 2026
   },
   {
     "models": "TM Racing MX 85",
@@ -310,17 +265,17 @@
     "to": 2026
   },
   {
-    "models": "TM Racing SMX 100 2T/Junior 12\"",
+    "models": "TM Racing SMX 100",
     "from": 2018,
     "to": 2026
   },
   {
-    "models": "TM Racing SMX 112 2T/Junior 12\"",
+    "models": "TM Racing SMX 112",
     "from": 2018,
     "to": 2026
   },
   {
-    "models": "TM Racing SMX 85 2T/Junior 12\"",
+    "models": "TM Racing SMX 85",
     "from": 2018,
     "to": 2026
   }
