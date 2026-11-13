@@ -1,23 +1,8 @@
 [
   {
-    "models": "Aprilia MXV 450",
-    "from": 2008,
-    "to": 2011
-  },
-  {
-    "models": "Aprilia RXV 450",
-    "from": 2006,
-    "to": 2014
-  },
-  {
     "models": "Aprilia RXV 450 Rally",
     "from": 2007,
     "to": 2009
-  },
-  {
-    "models": "Aprilia RXV 550",
-    "from": 2006,
-    "to": 2014
   },
   {
     "models": "Beta ALP 4.0 350",
@@ -102,7 +87,7 @@
   {
     "models": "Beta RR 430FR",
     "from": 2015,
-    "to": 2024
+    "to": 2026
   },
   {
     "models": "Beta RR 450 Cross Country",
@@ -136,11 +121,6 @@
   },
   {
     "models": "Beta RR Race 200",
-    "from": 2025,
-    "to": 2026
-  },
-  {
-    "models": "Beta RR Race 430",
     "from": 2025,
     "to": 2026
   },
@@ -260,13 +240,28 @@
     "to": 2026
   },
   {
+    "models": "Cannondale C 440 R",
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "Cannondale E 440 A",
+    "from": 2002,
+    "to": 2004
+  },
+  {
+    "models": "Cannondale X 440 S",
+    "from": 2002,
+    "to": 2002
+  },
+  {
     "models": "Electric - Em/Electric Motion Escape",
     "from": 2024,
     "to": 2026
   },
   {
     "models": "Gasgas EC 125",
-    "from": 2000,
+    "from": 2010,
     "to": 2015
   },
   {
@@ -275,13 +270,8 @@
     "to": 2015
   },
   {
-    "models": "Gasgas EC 200",
-    "from": 2000,
-    "to": 2019
-  },
-  {
     "models": "Gasgas EC 250",
-    "from": 2000,
+    "from": 2010,
     "to": 2018
   },
   {
@@ -295,11 +285,6 @@
     "to": 2015
   },
   {
-    "models": "Gasgas EC 300",
-    "from": 2000,
-    "to": 2009
-  },
-  {
     "models": "Gasgas EC 300 /Racing /E",
     "from": 2012,
     "to": 2015
@@ -310,19 +295,14 @@
     "to": 2015
   },
   {
-    "models": "Gasgas EC 300 F Racing",
-    "from": 2014,
-    "to": 2015
-  },
-  {
     "models": "Gasgas EC 300 Racing /Six Days",
     "from": 2019,
     "to": 2019
   },
   {
-    "models": "Gasgas EC 400F",
-    "from": 2000,
-    "to": 2009
+    "models": "Gasgas EC 300F",
+    "from": 2014,
+    "to": 2015
   },
   {
     "models": "Gasgas EC 450 F Racing",
@@ -330,43 +310,8 @@
     "to": 2015
   },
   {
-    "models": "Gasgas EC 450F",
-    "from": 2000,
-    "to": 2009
-  },
-  {
-    "models": "Gasgas EC Raid 450",
-    "from": 2015,
-    "to": 2015
-  },
-  {
-    "models": "Gasgas ENDURO GP 250",
-    "from": 2018,
-    "to": 2019
-  },
-  {
-    "models": "Gasgas ENDURO GP 300",
-    "from": 2018,
-    "to": 2019
-  },
-  {
-    "models": "Gasgas FSE 450F",
-    "from": 2004,
-    "to": 2009
-  },
-  {
-    "models": "Gasgas MC 125",
-    "from": 2002,
-    "to": 2005
-  },
-  {
-    "models": "Gasgas MC 250",
-    "from": 2002,
-    "to": 2008
-  },
-  {
     "models": "Honda CR 125",
-    "from": 1996,
+    "from": 2002,
     "to": 2008
   },
   {
@@ -376,21 +321,6 @@
   },
   {
     "models": "Honda CR 500",
-    "from": 1996,
-    "to": 2001
-  },
-  {
-    "models": "Honda CRE 125",
-    "from": 1996,
-    "to": 2008
-  },
-  {
-    "models": "Honda CRE 250",
-    "from": 1996,
-    "to": 2008
-  },
-  {
-    "models": "Honda CRE 500",
     "from": 1996,
     "to": 2001
   },
@@ -535,11 +465,6 @@
     "to": 2011
   },
   {
-    "models": "Honda XLR 125",
-    "from": 1998,
-    "to": 2001
-  },
-  {
     "models": "Honda XLV 650 Transalp",
     "from": 2000,
     "to": 2007
@@ -620,7 +545,7 @@
     "to": 2004
   },
   {
-    "models": "Kawasaki KLX 450R",
+    "models": "Kawasaki KLX 450",
     "from": 2007,
     "to": 2021
   },
@@ -680,9 +605,9 @@
     "to": 2004
   },
   {
-    "models": "Kove E-MX Electric",
-    "from": 2024,
-    "to": 2024
+    "models": "Kove 450 Rally ",
+    "from": 2023,
+    "to": 2026
   },
   {
     "models": "Kove Enduro RE 450",
@@ -690,12 +615,7 @@
     "to": 2026
   },
   {
-    "models": "Kove MX 450",
-    "from": 2023,
-    "to": 2026
-  },
-  {
-    "models": "Kove 450 Rally",
+    "models": "Kove MX 450F",
     "from": 2023,
     "to": 2026
   },
@@ -795,7 +715,7 @@
     "to": 2016
   },
   {
-    "models": "Rieju MR 300",
+    "models": "Rieju MR 300 Ranger",
     "from": 2025,
     "to": 2025
   },
@@ -840,11 +760,6 @@
     "to": 2011
   },
   {
-    "models": "Suzuki DR 350",
-    "from": 1999,
-    "to": 1999
-  },
-  {
     "models": "Suzuki DR 650",
     "from": 1996,
     "to": 2026
@@ -880,44 +795,9 @@
     "to": 2026
   },
   {
-    "models": "Suzuki RM 125",
-    "from": 1996,
-    "to": 2012
-  },
-  {
-    "models": "Suzuki RM 250",
-    "from": 1996,
-    "to": 2008
-  },
-  {
-    "models": "Suzuki RM 250Z",
-    "from": 2004,
-    "to": 2026
-  },
-  {
-    "models": "Suzuki RM 450Z",
-    "from": 2005,
-    "to": 2026
-  },
-  {
-    "models": "Suzuki RMX 250",
-    "from": 1996,
-    "to": 1998
-  },
-  {
-    "models": "Suzuki RMX 450 Z",
+    "models": "Suzuki RMX 450",
     "from": 2010,
     "to": 2019
-  },
-  {
-    "models": "Yamaha WR 125",
-    "from": 1998,
-    "to": 1998
-  },
-  {
-    "models": "Yamaha WR 250",
-    "from": 1998,
-    "to": 2002
   },
   {
     "models": "Yamaha WR 250F",
@@ -943,16 +823,6 @@
     "models": "Yamaha WR 450F",
     "from": 2003,
     "to": 2015
-  },
-  {
-    "models": "Yamaha YZ 125",
-    "from": 1998,
-    "to": 2007
-  },
-  {
-    "models": "Yamaha YZ 250",
-    "from": 1998,
-    "to": 2007
   },
   {
     "models": "Yamaha YZ 250F",
