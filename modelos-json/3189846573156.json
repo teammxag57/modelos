@@ -1,23 +1,8 @@
 [
   {
-    "models": "Aprilia RXV 450",
-    "from": 2006,
-    "to": 2014
-  },
-  {
     "models": "Aprilia RXV 450 Rally",
     "from": 2007,
     "to": 2009
-  },
-  {
-    "models": "Aprilia RXV 550",
-    "from": 2006,
-    "to": 2014
-  },
-  {
-    "models": "Aprilia SXV 450",
-    "from": 2006,
-    "to": 2010
   },
   {
     "models": "Aprilia SXV 450 Van Den Bosch Edition",
@@ -25,24 +10,9 @@
     "to": 2007
   },
   {
-    "models": "Aprilia SXV 550",
-    "from": 2006,
-    "to": 2010
-  },
-  {
     "models": "Aprilia SXV 550 Van Den Bosch Edition",
     "from": 2006,
     "to": 2007
-  },
-  {
-    "models": "Beta ALP 125",
-    "from": 2008,
-    "to": 2012
-  },
-  {
-    "models": "Beta RE 125",
-    "from": 2011,
-    "to": 2016
   },
   {
     "models": "Beta RR 125",
@@ -275,11 +245,6 @@
     "to": 2026
   },
   {
-    "models": "Bimota BBX 300",
-    "from": 2012,
-    "to": 2012
-  },
-  {
     "models": "Electric - Em/Electric Motion Escape",
     "from": 2024,
     "to": 2026
@@ -342,7 +307,7 @@
   {
     "models": "Gasgas EC 200",
     "from": 2010,
-    "to": 2019
+    "to": 2015
   },
   {
     "models": "Gasgas EC 200 Ranger",
@@ -395,21 +360,6 @@
     "to": 2015
   },
   {
-    "models": "Gasgas EC Raid 450",
-    "from": 2015,
-    "to": 2015
-  },
-  {
-    "models": "Gasgas ENDURO GP 250",
-    "from": 2018,
-    "to": 2019
-  },
-  {
-    "models": "Gasgas ENDURO GP 300",
-    "from": 2018,
-    "to": 2019
-  },
-  {
     "models": "Kawasaki KLX 450R",
     "from": 2007,
     "to": 2021
@@ -445,7 +395,7 @@
     "to": 2026
   },
   {
-    "models": "Rieju MR 300",
+    "models": "Rieju MR 300 Ranger",
     "from": 2025,
     "to": 2025
   },
@@ -490,202 +440,162 @@
     "to": 2011
   },
   {
-    "models": "Suzuki RM 250Z",
-    "from": 2004,
-    "to": 2026
-  },
-  {
-    "models": "Suzuki RM 450Z",
-    "from": 2005,
-    "to": 2026
-  },
-  {
-    "models": "Suzuki RMX 450 Z",
+    "models": "Suzuki RMX 450",
     "from": 2010,
     "to": 2019
   },
   {
-    "models": "TM CC 250 Fi ES 2T/Cross Country",
+    "models": "TM Racing CC 250 Fi ES 2T/Cross Country",
     "from": 2019,
     "to": 2020
   },
   {
-    "models": "TM CC 250 Fi ES 4T/Cross Country",
+    "models": "TM Racing CC 250 Fi ES 4T/Cross Country",
     "from": 2019,
     "to": 2020
   },
   {
-    "models": "TM CC 300 Fi ES 2T/Cross Country",
+    "models": "TM Racing CC 300 Fi ES 2T/Cross Country",
     "from": 2019,
     "to": 2020
   },
   {
-    "models": "TM DKR 450 Fi ES",
+    "models": "TM Racing DKR 450 Fi ES",
     "from": 2015,
     "to": 2015
   },
   {
-    "models": "TM EN 125 2T - All Versions",
+    "models": "TM Racing EN 125",
     "from": 2005,
     "to": 2026
   },
   {
-    "models": "TM EN 125 2T/Cross Country 21/18\"",
-    "from": 2019,
-    "to": 2021
-  },
-  {
-    "models": "TM EN 144 2T - All Versions",
+    "models": "TM Racing EN 144",
     "from": 2008,
     "to": 2026
   },
   {
-    "models": "TM EN 144 2T/Cross Country 21/18\"",
-    "from": 2019,
-    "to": 2021
-  },
-  {
-    "models": "TM EN 250 2T - All Versions",
-    "from": 2005,
-    "to": 2020
-  },
-  {
-    "models": "TM EN 250 2T/ES/Fi",
-    "from": 2021,
-    "to": 2026
-  },
-  {
-    "models": "TM EN 250 Fi (4T) - Inc ES",
+    "models": "TM Racing EN 250",
     "from": 2005,
     "to": 2026
   },
   {
-    "models": "TM EN 300 2T/ES",
+    "models": "TM Racing EN 250F",
+    "from": 2005,
+    "to": 2026
+  },
+  {
+    "models": "TM Racing EN 300",
     "from": 2007,
-    "to": 2020
-  },
-  {
-    "models": "TM EN 300 2T/ES/Fi",
-    "from": 2021,
     "to": 2026
   },
   {
-    "models": "TM EN 300 Fi (4T) - Inc ES",
+    "models": "TM Racing EN 300F",
     "from": 2010,
     "to": 2026
   },
   {
-    "models": "TM EN 450 Fi (4T)",
+    "models": "TM Racing EN 450F",
     "from": 2005,
     "to": 2025
   },
   {
-    "models": "TM EN 530 Fi (4T)",
+    "models": "TM Racing EN 530F",
     "from": 2005,
     "to": 2024
   },
   {
-    "models": "TM FT 300 2T/ES - Flat Track",
+    "models": "TM Racing FT 300",
     "from": 2019,
     "to": 2025
   },
   {
-    "models": "TM FT 450 Fi KS/ES - Flat Track",
+    "models": "TM Racing FT 450F",
     "from": 2016,
     "to": 2025
   },
   {
-    "models": "TM FT 530 Fi KS/ES",
+    "models": "TM Racing FT 530F",
     "from": 2019,
     "to": 2022
   },
   {
-    "models": "TM MX 125 2T - All Versions",
+    "models": "TM Racing MX 125",
     "from": 2005,
     "to": 2026
   },
   {
-    "models": "TM MX 144 2T - All Versions",
+    "models": "TM Racing MX 144",
     "from": 2008,
     "to": 2026
   },
   {
-    "models": "TM MX 250 2T/Inc ES",
+    "models": "TM Racing MX 250",
     "from": 2005,
     "to": 2026
   },
   {
-    "models": "TM MX 250 Fi (4T) - Inc ES",
+    "models": "TM Racing MX 250F",
     "from": 2005,
     "to": 2026
   },
   {
-    "models": "TM MX 300 2T/ES",
+    "models": "TM Racing MX 300",
     "from": 2008,
-    "to": 2020
-  },
-  {
-    "models": "TM MX 300 2T/ES/Fi",
-    "from": 2021,
     "to": 2026
   },
   {
-    "models": "TM MX 300 Fi (4T) - Inc ES",
+    "models": "TM Racing MX 300F",
     "from": 2005,
     "to": 2026
   },
   {
-    "models": "TM MX 450 Fi (4T) - Inc ES",
+    "models": "TM Racing MX 450F",
     "from": 2005,
     "to": 2026
   },
   {
-    "models": "TM MX 530 Fi/ES (4T)",
+    "models": "TM Racing MX 530F",
     "from": 2005,
     "to": 2025
   },
   {
-    "models": "Tm SMK 250FI",
+    "models": "TM Racing SMK 250F",
     "from": 2023,
     "to": 2026
   },
   {
-    "models": "Tm SMK 450FI",
+    "models": "TM Racing SMK 450F",
     "from": 2022,
     "to": 2026
   },
   {
-    "models": "Tm SMR 125 Fi/2T - Spoke Wheels",
+    "models": "TM Racing SMR 125",
     "from": 2019,
     "to": 2026
   },
   {
-    "models": "Tm SMR 250 2T/Spoke Wheels",
+    "models": "TM Racing SMR 250",
     "from": 2019,
     "to": 2020
   },
   {
-    "models": "TM SMR 300 2T",
+    "models": "TM Racing SMR 300",
     "from": 2014,
-    "to": 2014
+    "to": 2026
   },
   {
-    "models": "Tm SMR 300 2T/Spoke Wheels",
+    "models": "TM Racing SMR 450F",
     "from": 2019,
     "to": 2026
   },
   {
-    "models": "Tm SMR 450 /Spoke Wheels/100mm Caliper Ctr",
-    "from": 2019,
-    "to": 2026
-  },
-  {
-    "models": "Tm SMR 530 /Spoke Wheels/100mm Caliper Ctr",
+    "models": "TM Racing SMR 530F",
     "from": 2019,
     "to": 2024
   },
   {
-    "models": "Tm SMX 300 2T/ES/Fi",
+    "models": "TM Racing SMX 300",
     "from": 2019,
     "to": 2026
   },
@@ -711,7 +621,7 @@
   },
   {
     "models": "Yamaha YZ 125",
-    "from": 2003,
+    "from": 2022,
     "to": 2026
   },
   {
@@ -726,7 +636,7 @@
   },
   {
     "models": "Yamaha YZ 250",
-    "from": 2003,
+    "from": 2022,
     "to": 2026
   },
   {
