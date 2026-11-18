@@ -1,0 +1,27 @@
+[
+  {
+    "models": "Kawasaki KX 250F",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 250FX",
+    "from": 2025,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 450F",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 450FX",
+    "from": 2024,
+    "to": 2026
+  },
+  {
+    "models": "Kawasaki KX 450SR",
+    "from": 2025,
+    "to": 2026
+  }
+]
